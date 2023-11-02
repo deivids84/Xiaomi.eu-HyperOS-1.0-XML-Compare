@@ -46,12 +46,8 @@
     <string name="add_timing">Timed</string>
     <string name="add_to_block_by_number">"Added %s
 to blocklist"</string>
-    <string name="add_to_block_by_number_failed">"Couldn't add %s to blocklist.
-Try again."</string>
     <string name="add_to_block_by_tag">"Messages containing \"%s\"
 added to blocklist"</string>
-    <string name="add_to_block_by_tag_failed">"Couldn't add messages containing \"%s\" to block list.
-Try again."</string>
     <string name="add_to_browser_favorite_failed">"Couldn't add"</string>
     <string name="add_to_browser_favorite_success">Added successfully</string>
     <string name="add_video">Add video</string>
@@ -67,7 +63,6 @@ Try again."</string>
     <string name="allow_network_hint">Turn on \"Update info automatically\" or check your network connection</string>
     <string name="already_updated">Up to date</string>
     <string name="am">AM</string>
-    <string name="androidx_startup">androidx.startup</string>
     <string name="app_label">Messaging</string>
     <string name="app_name">Devices</string>
     <string name="application_list_title">Mini apps</string>
@@ -202,7 +197,6 @@ Try again."</string>
     <string name="click_to_update">Tap to check for updates</string>
     <string name="click_to_view">Tap to view</string>
     <string name="close">Close</string>
-    <string name="cloud_space_not_enough">Cloud storage is full. Upgrade your membership to sync latest items.</string>
     <string name="cloud_state_disabled">Turn on sync with the cloud to sync messages</string>
     <string name="cm_privacy_dialog_allow">Agree</string>
     <string name="cm_privacy_dialog_cancel">Cancel</string>
@@ -233,7 +227,6 @@ Try again."</string>
     <string name="confirm_send_mms">One of your recipients includes an email address. This message will be sent as an MMS, which may result in extra charges from you carrier.</string>
     <string name="contact_card_unknown_contact">Unknown contact</string>
     <string name="contact_not_exists">"This person isn't in your contacts."</string>
-    <string name="content_preview_ratio">1:1</string>
     <string name="context_menu_add_calendar">Add to Calendar</string>
     <string name="context_menu_add_contact">Add to contacts</string>
     <string name="context_menu_add_to_browser_favorite">Add to Browser bookmarks</string>
@@ -257,8 +250,6 @@ Try again."</string>
     <string name="converting_to_text_message">Converting to text message…</string>
     <string name="converting_vcard_failed">"Couldn't convert contact"</string>
     <string name="copy">Copy</string>
-    <string name="copy_message">Copy</string>
-    <string name="copy_message_success">Copied successfully</string>
     <string name="copy_message_text">Copy</string>
     <string name="copy_message_text_success">Copied successfully</string>
     <string name="copy_to_sdcard">Save attachment</string>
@@ -296,8 +287,8 @@ Try again."</string>
     <string name="dialog_choice_all_correct_as_normal">All messages from %s</string>
     <string name="dialog_complain_tips">Allow Messaging to connect to the network to be able to report items.</string>
     <string name="dialog_message_correct_as_ad">All messages from %s (except verification codes) will be moved to promotional messages.</string>
-    <string name="dialog_message_fake_cell_detect_error">Correct the info about this message? To do this, we need to upload the phone number (%1$s), the contents of the message, and the info about nearby location to our servers.</string>
-    <string name="dialog_message_mx">Mi Message allows you to send messages to other Xiaomi users without incurring charges. An outgoing SMS message is required to activate Mi Message. Your carrier will charge you for this message. You must agree to our \"%1$s\" and \"%2$s\" before using Mi Message.</string>
+    <string name="dialog_message_fake_cell_detect_error">Correct the info about this message? To do this, MIUI needs to upload the phone number (%1$s), the contents of the message, and the info about nearby location to its servers.</string>
+    <string name="dialog_message_mx">Mi Message allows you to send messages to other MIUI users without incurring charges. An outgoing SMS message is required to activate Mi Message. Your carrier will charge you for this message. You must agree to our \"%1$s\" and \"%2$s\" before using Mi Message.</string>
     <string name="dialog_quit">Exit</string>
     <string name="dialog_revoke">Withdraw</string>
     <string name="dialog_sim_locked_confirm">OK</string>
@@ -358,7 +349,6 @@ Try again."</string>
     <string name="expire_on">Expires: %s</string>
     <string name="exporting_progress_private_message">Exporting…</string>
     <string name="fail_to_add_attachment">"Couldn't add attachment"</string>
-    <string name="fail_to_add_image">"Couldn't access copied items"</string>
     <string name="fail_to_view_attachment">"Attachment isn't available"</string>
     <string name="failed_to_add_media">"You can't add this %1$s to your message."</string>
     <string name="failed_to_resize_image">Picture not resized.</string>
@@ -428,7 +418,7 @@ Try again."</string>
     <string name="forward_prefix">"Fwd: "</string>
     <string name="found_old_messages">Upload messages from %1$s to %2$s?</string>
     <string name="found_old_messages_title">Upload messages from your other SIM cards?</string>
-    <string name="found_wild_messages_guide_cloud_desc">To sync messages from Xiaomi Cloud, sign in to your Xiaomi Account and turn on SMS sync.</string>
+    <string name="found_wild_messages_guide_cloud_desc">To sync messages from Xiaomi Cloud, sign in to your Mi Account and turn on SMS sync.</string>
     <string name="found_wild_messages_guide_settings_desc">Sync messages from Xiaomi Cloud in the Messaging settings.</string>
     <string name="found_wild_messages_guide_sync_not_started">Sync not started yet</string>
     <string name="found_wild_messages_title">Sync messages from Xiaomi Cloud</string>
@@ -465,7 +455,6 @@ Try again."</string>
     <string name="heavenly_stems_yi">乙</string>
     <string name="heduohao_sub_sim_card">Sub</string>
     <string name="hidden_sender_address">Hidden sender address</string>
-    <string name="hide_bottom_view_on_scroll_behavior">miuix.android.miracle.behavior.HideBottomViewOnScrollBehavior</string>
     <string name="hold_to_talk">Hold to talk</string>
     <string name="home_tab_ad">Promotional</string>
     <string name="home_tab_common">Regular</string>
@@ -569,10 +558,6 @@ Check your SIM card."</string>
     <string name="miuix_appcompat_select_item">Select items</string>
     <string name="miuix_indexer_collect">Collections</string>
     <string name="miuix_indexer_selected">Selected %s</string>
-    <string name="miuix_item_view_role_description">Tab</string>
-    <string name="miuix_navigator_content_switch_description">Show sidebar</string>
-    <string name="miuix_navigator_multiple_choice">Select</string>
-    <string name="miuix_navigator_navigator_switch_description">Hide sidebar</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Pull down to refresh</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Refreshed successfully</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Refreshing…</string>
@@ -665,8 +650,8 @@ This message might be unsolicited."</string>
     <string name="mx_btn_enable_now">Activate</string>
     <string name="mx_count_dspt">"You've sent %1$d SMS and %2$d MMS for free"</string>
     <string name="mx_current_status">Settings</string>
-    <string name="mx_dspt">"Send SMS and MMS messages to other Xiaomi devices without incurring charges when you're connected to Wi-Fi."</string>
-    <string name="mx_dspt_listview">Send messages to other Xiaomi devices without incurring charges</string>
+    <string name="mx_dspt">"Send SMS and MMS messages to other MIUI devices without incurring charges when you're connected to Wi-Fi."</string>
+    <string name="mx_dspt_listview">Send messages to other MIUI devices without incurring charges</string>
     <string name="mx_dspt_provision_ex2">Privacy Policy</string>
     <string name="mx_enable">Mi Message</string>
     <string name="mx_filter_message_from_stranger">Block Mi Messages from unknown numbers</string>
@@ -675,7 +660,7 @@ This message might be unsolicited."</string>
     <string name="mx_filter_message_from_stranger_summary">Only allow Mi Messages from your contacts</string>
     <string name="mx_main_purpose">"Mi Message lets you send messages to other Mi Message users over the internet without incurring charges.
 An outgoing SMS message is required to activate Mi Message. Your carrier will charge you for this message."</string>
-    <string name="mx_main_purpose_short">Mi Message allows Xiaomi users to send and receive free SMS and MMS messages.</string>
+    <string name="mx_main_purpose_short">Mi Message allows MIUI users to send and receive free SMS and MMS messages.</string>
     <string name="mx_message">Mi Message</string>
     <string name="mx_msg">Mi Message</string>
     <string name="mx_offline">Offline</string>
@@ -762,7 +747,6 @@ An outgoing SMS message is required to activate Mi Message. Your carrier will ch
     <string name="pref_collapse_sp_messages_summary">Automatically group SMS notifications together</string>
     <string name="pref_delivery_ringtone">Delivery sound</string>
     <string name="pref_edit_smsc_address">Short Message service center (SMSC)</string>
-    <string name="pref_feedback_title">Feedback</string>
     <string name="pref_forward_title">Forward</string>
     <string name="pref_hide_verification_code_summary">Automatically hide one-time passwords in message notifications on secured Lock screen</string>
     <string name="pref_messages_to_save">Set number of messages to save</string>
@@ -1061,8 +1045,8 @@ Check out recommended chatbots!"</string>
     <string name="recipients_contain_sub_sim_number">"Looks like there's a secondary SIM number among the recipients. Send this message using secondary SIM."</string>
     <string name="recipients_over_size">Too many recipients.</string>
     <string name="recommend_bar_cancel">Ignore</string>
-    <string name="recommend_bar_message_mx">Mi Message allows you to send messages to other Xiaomi users without incurring charges.</string>
-    <string name="recommend_bar_message_mx_rcs">Mi Message allows you to send messages to other Xiaomi users and China Mobile users on the Chinese mainland without incurring charges.</string>
+    <string name="recommend_bar_message_mx">Mi Message allows you to send messages to other MIUI users without incurring charges.</string>
+    <string name="recommend_bar_message_mx_rcs">Mi Message allows you to send messages to other MIUI users and China Mobile users on the Chinese mainland without incurring charges.</string>
     <string name="recommend_bar_message_rcs">China Mobile Messaging allows you to send messages to other China Mobile users on the Chinese mainland without incurring charges.</string>
     <string name="recommend_bar_message_smart_message">Copy one-time passwords, track packages, use smart menus, and more</string>
     <string name="recommend_bar_ok">Turn on</string>
@@ -1138,8 +1122,7 @@ Check out recommended chatbots!"</string>
     <string name="search_menu_title">Search</string>
     <string name="search_setting_description">Text in your messages</string>
     <string name="search_show_more_results">Show more</string>
-    <string name="search_sms">Search messages</string>
-    <string name="second_mms_introduction">Switch to Second space to be able to view private messages</string>
+    <string name="second_mms_introduction">Go to Second space</string>
     <string name="second_mms_switch">Switch</string>
     <string name="secs">secs</string>
     <string name="security_alert_desc"><font color="#7f000000">"The sender isn't in your contacts.
@@ -1310,6 +1293,9 @@ If you don't agree to grant such permissions or share and upload your personal i
     <string name="system_permission_prem_rcs_read_contact">For displaying the delivery status of messages to contacts in 5G group messages</string>
     <string name="system_permission_requested">Ask</string>
     <string name="system_permission_user_privacy">Before you continue, read and agree to the following terms and conditions.</string>
+    <string name="tab_finance">Finance</string>
+    <string name="tab_message">Messages</string>
+    <string name="tab_promotions">Promotions</string>
     <string name="text_in_popup_saved_to_clipboard">Copied to clipboard</string>
     <string name="text_message">Text message</string>
     <string name="the_anniversary_of_lifting_martial_law">Anniversary of Lifting Martial Law</string>
@@ -1370,7 +1356,6 @@ If you don't agree to grant such permissions or share and upload your personal i
     <string name="title_show_photo_word">Assign contact photos</string>
     <string name="title_show_sms_template">Smart Messaging</string>
     <string name="title_timed_message_dialog">Set timed message</string>
-    <string name="title_timed_remind_message_dialog">Set reminder time</string>
     <string name="title_use_gsm_alphabet">Use GSM alphabet</string>
     <string name="to_address_label">"To: "</string>
     <string name="to_send_wrapper">Will send at %s</string>

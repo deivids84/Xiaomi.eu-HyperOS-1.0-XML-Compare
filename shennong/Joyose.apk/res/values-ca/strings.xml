@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_settings">Configuració</string>
+    <string name="app_name">Proveïdor de passos</string>
+    <string name="end_title">Fi del joc</string>
+    <string name="hello_world">Hola món!</string>
+    <string name="not_resurge_title">Ressorgint</string>
+    <string name="resurged_content">Vinga!</string>
+    <string name="resurged_title">Ressorgit</string>
+</resources>

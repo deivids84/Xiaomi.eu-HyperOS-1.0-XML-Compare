@@ -1,127 +1,45 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <array name="ai_scene_drawables">
-        <item>@drawable/ic_new_ai_scene_off_mm</item>
-        <item>@drawable/ic_ai_scene_doc_mm</item>
-        <item>@drawable/ic_ai_scene_flower_mm</item>
-        <item>@drawable/ic_ai_scene_food_mm</item>
-        <item>@drawable/ic_ai_scene_ppt_mm</item>
-        <item>@drawable/ic_ai_scene_sky_mm</item>
+        <item>@drawable/ic_new_ai_scene_off</item>
+        <item>@drawable/ic_ai_scene_doc</item>
+        <item>@drawable/ic_ai_scene_flower</item>
+        <item>@drawable/ic_ai_scene_food</item>
+        <item>@drawable/ic_ai_scene_ppt</item>
+        <item>@drawable/ic_ai_scene_sky</item>
         <item>@drawable/ic_ai_scene_sunrise_sunset</item>
-        <item>@drawable/ic_ai_scene_cat_mm</item>
-        <item>@drawable/ic_ai_scene_dog_mm</item>
-        <item>@drawable/ic_ai_scene_green_plants_mm</item>
-        <item>@drawable/ic_ai_scene_night_mm</item>
-        <item>@drawable/ic_ai_scene_snow_mm</item>
-        <item>@drawable/ic_ai_scene_sea_mm</item>
-        <item>@drawable/ic_ai_scene_autumn_mm</item>
-        <item>@drawable/ic_ai_scene_candlelight_mm</item>
-        <item>@drawable/ic_ai_scene_car_mm</item>
-        <item>@drawable/ic_ai_scene_grass_mm</item>
-        <item>@drawable/ic_ai_scene_maple_leaves_mm</item>
-        <item>@drawable/ic_ai_scene_succulent_mm</item>
-        <item>@drawable/ic_ai_scene_building_mm</item>
-        <item>@drawable/ic_ai_scene_city_mm</item>
-        <item>@drawable/ic_ai_scene_cloud_mm</item>
-        <item>@drawable/ic_ai_scene_overcast_mm</item>
-        <item>@drawable/ic_ai_scene_human_mm</item>
-        <item>@drawable/ic_ai_scene_human_mm</item>
-        <item>@drawable/ic_ai_scene_human_mm</item>
-        <item>@drawable/ic_ai_scene_jewelry_mm</item>
-        <item>@drawable/ic_ai_scene_buddha_mm</item>
+        <item>@drawable/ic_ai_scene_cat</item>
+        <item>@drawable/ic_ai_scene_dog</item>
+        <item>@drawable/ic_ai_scene_green_plants</item>
+        <item>@drawable/ic_ai_scene_night</item>
+        <item>@drawable/ic_ai_scene_snow</item>
+        <item>@drawable/ic_ai_scene_sea</item>
+        <item>@drawable/ic_ai_scene_autumn</item>
+        <item>@drawable/ic_ai_scene_candlelight</item>
+        <item>@drawable/ic_ai_scene_car</item>
+        <item>@drawable/ic_ai_scene_grass</item>
+        <item>@drawable/ic_ai_scene_maple_leaves</item>
+        <item>@drawable/ic_ai_scene_succulent</item>
+        <item>@drawable/ic_ai_scene_building</item>
+        <item>@drawable/ic_ai_scene_city</item>
+        <item>@drawable/ic_ai_scene_cloud</item>
+        <item>@drawable/ic_ai_scene_overcast</item>
+        <item>@drawable/ic_ai_scene_human</item>
+        <item>@drawable/ic_ai_scene_human</item>
+        <item>@drawable/ic_ai_scene_human</item>
+        <item>@drawable/ic_ai_scene_jewelry</item>
+        <item>@drawable/ic_ai_scene_buddha</item>
         <item>@drawable/ic_ai_scene_cow</item>
-        <item>@drawable/ic_ai_scene_food_mm</item>
-        <item>@drawable/ic_ai_scene_motorbike_mm</item>
-        <item>@drawable/ic_ai_scene_temple_mm</item>
-        <item>@drawable/ic_ai_scene_beach_mm</item>
-        <item>@drawable/ic_ai_scene_driving_mm</item>
-        <item>@drawable/ic_ai_scene_tower_mm</item>
-        <item>@drawable/ic_ai_scene_night_mm</item>
-        <item>@drawable/ic_ai_scene_human_mm</item>
-        <item>@drawable/ic_ai_scene_sculpture_mm</item>
-        <item>@drawable/ic_ai_scene_id_card_mm</item>
-    </array>
-    <array name="ai_scene_drawables_cv">
-        <item>@drawable/ic_new_ai_scene_off_cv</item>
-        <item>@drawable/ic_ai_scene_doc_cv</item>
-        <item>@drawable/ic_ai_scene_flower_cv</item>
-        <item>@drawable/ic_ai_scene_food_cv</item>
-        <item>@drawable/ic_ai_scene_ppt_cv</item>
-        <item>@drawable/ic_ai_scene_sky_cv</item>
-        <item>@drawable/ic_ai_scene_sunrise_sunset_cv</item>
-        <item>@drawable/ic_ai_scene_cat_cv</item>
-        <item>@drawable/ic_ai_scene_dog_cv</item>
-        <item>@drawable/ic_ai_scene_green_plants_cv</item>
-        <item>@drawable/ic_ai_scene_night_cv</item>
-        <item>@drawable/ic_ai_scene_snow_cv</item>
-        <item>@drawable/ic_ai_scene_sea_cv</item>
-        <item>@drawable/ic_ai_scene_autumn_cv</item>
-        <item>@drawable/ic_ai_scene_candlelight_cv</item>
-        <item>@drawable/ic_ai_scene_car_cv</item>
-        <item>@drawable/ic_ai_scene_grass_cv</item>
-        <item>@drawable/ic_ai_scene_maple_leaves_cv</item>
-        <item>@drawable/ic_ai_scene_succulent_cv</item>
-        <item>@drawable/ic_ai_scene_building_cv</item>
-        <item>@drawable/ic_ai_scene_city_cv</item>
-        <item>@drawable/ic_ai_scene_cloud_cv</item>
-        <item>@drawable/ic_ai_scene_overcast_cv</item>
-        <item>@drawable/ic_ai_scene_human_cv</item>
-        <item>@drawable/ic_ai_scene_human_cv</item>
-        <item>@drawable/ic_ai_scene_human_cv</item>
-        <item>@drawable/ic_ai_scene_jewelry_cv</item>
-        <item>@drawable/ic_ai_scene_buddha_cv</item>
-        <item>@drawable/ic_ai_scene_cow_cv</item>
-        <item>@drawable/ic_ai_scene_food_cv</item>
-        <item>@drawable/ic_ai_scene_motorbike_cv</item>
-        <item>@drawable/ic_ai_scene_temple_cv</item>
-        <item>@drawable/ic_ai_scene_beach_cv</item>
-        <item>@drawable/ic_ai_scene_driving_cv</item>
-        <item>@drawable/ic_ai_scene_tower_cv</item>
-        <item>@drawable/ic_ai_scene_night_cv</item>
-        <item>@drawable/ic_ai_scene_human_cv</item>
-        <item>@drawable/ic_ai_scene_sculpture_cv</item>
-        <item>@drawable/ic_ai_scene_id_card_cv</item>
-    </array>
-    <array name="ai_scene_drawables_cv_bg">
-        <item>@drawable/ic_new_ai_scene_off_cv_bg</item>
-        <item>@drawable/ic_ai_scene_doc_cv_bg</item>
-        <item>@drawable/ic_ai_scene_flower_cv_bg</item>
-        <item>@drawable/ic_ai_scene_food_cv_bg</item>
-        <item>@drawable/ic_ai_scene_ppt_cv_bg</item>
-        <item>@drawable/ic_ai_scene_sky_cv_bg</item>
-        <item>@drawable/ic_ai_scene_sunrise_sunset_cv_bg</item>
-        <item>@drawable/ic_ai_scene_cat_cv_bg</item>
-        <item>@drawable/ic_ai_scene_dog_cv_bg</item>
-        <item>@drawable/ic_ai_scene_green_plants_cv_bg</item>
-        <item>@drawable/ic_ai_scene_night_cv_bg</item>
-        <item>@drawable/ic_ai_scene_snow_cv_bg</item>
-        <item>@drawable/ic_ai_scene_sea_cv_bg</item>
-        <item>@drawable/ic_ai_scene_autumn_cv_bg</item>
-        <item>@drawable/ic_ai_scene_candlelight_cv_bg</item>
-        <item>@drawable/ic_ai_scene_car_cv_bg</item>
-        <item>@drawable/ic_ai_scene_grass_cv_bg</item>
-        <item>@drawable/ic_ai_scene_maple_leaves_cv_bg</item>
-        <item>@drawable/ic_ai_scene_succulent_cv_bg</item>
-        <item>@drawable/ic_ai_scene_building_cv_bg</item>
-        <item>@drawable/ic_ai_scene_city_cv_bg</item>
-        <item>@drawable/ic_ai_scene_cloud_cv_bg</item>
-        <item>@drawable/ic_ai_scene_overcast_cv_bg</item>
-        <item>@drawable/ic_ai_scene_human_cv_bg</item>
-        <item>@drawable/ic_ai_scene_human_cv_bg</item>
-        <item>@drawable/ic_ai_scene_human_cv_bg</item>
-        <item>@drawable/ic_ai_scene_jewelry_cv_bg</item>
-        <item>@drawable/ic_ai_scene_buddha_cv_bg</item>
-        <item>@drawable/ic_ai_scene_cow_cv_bg</item>
-        <item>@drawable/ic_ai_scene_food_cv_bg</item>
-        <item>@drawable/ic_ai_scene_motorbike_cv_bg</item>
-        <item>@drawable/ic_ai_scene_temple_cv_bg</item>
-        <item>@drawable/ic_ai_scene_beach_cv_bg</item>
-        <item>@drawable/ic_ai_scene_driving_cv_bg</item>
-        <item>@drawable/ic_ai_scene_tower_cv_bg</item>
-        <item>@drawable/ic_ai_scene_night_cv_bg</item>
-        <item>@drawable/ic_ai_scene_human_cv_bg</item>
-        <item>@drawable/ic_ai_scene_sculpture_cv_bg</item>
-        <item>@drawable/ic_ai_scene_id_card_cv_bg</item>
+        <item>@drawable/ic_ai_scene_food</item>
+        <item>@drawable/ic_ai_scene_motorbike</item>
+        <item>@drawable/ic_ai_scene_temple</item>
+        <item>@drawable/ic_ai_scene_beach</item>
+        <item>@drawable/ic_ai_scene_driving</item>
+        <item>@drawable/ic_ai_scene_tower</item>
+        <item>@drawable/ic_ai_scene_night</item>
+        <item>@drawable/ic_ai_scene_human</item>
+        <item>@drawable/ic_ai_scene_sculpture</item>
+        <item>@drawable/ic_ai_scene_id_card</item>
     </array>
     <string-array name="ai_scene_names">
         <item>none</item>
@@ -208,32 +126,47 @@
         <item>@string/ai_scene_mode_coconut_tree</item>
         <item>@string/ai_scene_mode_tutuk</item>
     </string-array>
-    <string-array name="alphabet_sub_table_with_starred">
-        <item>!</item>
-        <item>A</item>
-        <item>B</item>
-        <item>C</item>
-        <item>H</item>
-        <item>I</item>
-        <item>J</item>
-        <item>K</item>
-        <item>L</item>
-        <item>M</item>
-        <item>N</item>
-        <item>O</item>
-        <item>P</item>
-        <item>Q</item>
-        <item>R</item>
-        <item>S</item>
-        <item>T</item>
-        <item>U</item>
-        <item>V</item>
-        <item>W</item>
-        <item>X</item>
-        <item>Y</item>
-        <item>Z</item>
-        <item>\#</item>
-    </string-array>
+    <array name="ai_scene_shadow_drawables">
+        <item>@drawable/ic_new_ai_scene_off_shadow</item>
+        <item>@drawable/ic_ai_scene_doc_shadow</item>
+        <item>@drawable/ic_ai_scene_flower_shadow</item>
+        <item>@drawable/ic_ai_scene_food_shadow</item>
+        <item>@drawable/ic_ai_scene_ppt_shadow</item>
+        <item>@drawable/ic_ai_scene_sky_shadow</item>
+        <item>@drawable/ic_ai_scene_sunrise_sunset_shadow</item>
+        <item>@drawable/ic_ai_scene_cat_shadow</item>
+        <item>@drawable/ic_ai_scene_dog_shadow</item>
+        <item>@drawable/ic_ai_scene_green_plants_shadow</item>
+        <item>@drawable/ic_ai_scene_night_shadow</item>
+        <item>@drawable/ic_ai_scene_snow_shadow</item>
+        <item>@drawable/ic_ai_scene_sea_shadow</item>
+        <item>@drawable/ic_ai_scene_autumn_shadow</item>
+        <item>@drawable/ic_ai_scene_candlelight_shadow</item>
+        <item>@drawable/ic_ai_scene_car_shadow</item>
+        <item>@drawable/ic_ai_scene_grass_shadow</item>
+        <item>@drawable/ic_ai_scene_maple_leaves_shadow</item>
+        <item>@drawable/ic_ai_scene_succulent_shadow</item>
+        <item>@drawable/ic_ai_scene_building_shadow</item>
+        <item>@drawable/ic_ai_scene_city_shadow</item>
+        <item>@drawable/ic_ai_scene_cloud_shadow</item>
+        <item>@drawable/ic_ai_scene_overcast_shadow</item>
+        <item>@drawable/ic_ai_scene_human_shadow</item>
+        <item>@drawable/ic_ai_scene_human_shadow</item>
+        <item>@drawable/ic_ai_scene_human_shadow</item>
+        <item>@drawable/ic_ai_scene_jewelry_shadow</item>
+        <item>@drawable/ic_ai_scene_buddha_shadow</item>
+        <item>@drawable/ic_ai_scene_cow_shadow</item>
+        <item>@drawable/ic_ai_scene_food_shadow</item>
+        <item>@drawable/ic_ai_scene_motorbike_shadow</item>
+        <item>@drawable/ic_ai_scene_temple_shadow</item>
+        <item>@drawable/ic_ai_scene_beach_shadow</item>
+        <item>@drawable/ic_ai_scene_driving_shadow</item>
+        <item>@drawable/ic_ai_scene_tower_shadow</item>
+        <item>@drawable/ic_ai_scene_night_shadow</item>
+        <item>@drawable/ic_ai_scene_human_shadow</item>
+        <item>@drawable/ic_ai_scene_sculpture_shadow</item>
+        <item>@drawable/ic_ai_scene_id_card_shadow</item>
+    </array>
     <string-array name="alphabet_table">
         <item>A</item>
         <item>B</item>
@@ -381,21 +314,6 @@
         <item>@string/chinese_symbol_animals_dog</item>
         <item>@string/chinese_symbol_animals_pig</item>
     </string-array>
-    <string-array name="com.google.firebase.crashlytics.build_ids_arch">
-        <item>aarch64</item>
-        <item>aarch64</item>
-        <item>aarch64</item>
-    </string-array>
-    <string-array name="com.google.firebase.crashlytics.build_ids_build_id">
-        <item>ece72a2ebc3774a1be9fd21271258acd3bcdfaa7</item>
-        <item>0cdf5aae10136fd0026a20292730a6f674491df7</item>
-        <item>1d373aecb1c692c3929c9364174ec433c4732675</item>
-    </string-array>
-    <string-array name="com.google.firebase.crashlytics.build_ids_lib">
-        <item>libc++_shared.so</item>
-        <item>libcamera_mi_handgesture.so</item>
-        <item>libAIPOSE.so</item>
-    </string-array>
     <string-array name="detailed_am_pms">
         <item>@string/midnight</item>
         <item>@string/early_morning</item>
@@ -422,15 +340,6 @@
     <string-array name="eras">
         <item>@string/eras_bc</item>
         <item>@string/eras_ad</item>
-    </string-array>
-    <string-array name="exo_controls_playback_speeds">
-        <item>0.25x</item>
-        <item>0.5x</item>
-        <item>0.75x</item>
-        <item>Normal</item>
-        <item>1.25x</item>
-        <item>1.5x</item>
-        <item>2x</item>
     </string-array>
     <string-array name="heavenly_stems">
         <item>@string/heavenly_stems_jia</item>
@@ -516,17 +425,6 @@
         <item>@string/month_november_shortest</item>
         <item>@string/month_december_shortest</item>
     </string-array>
-    <string-array name="multi_floating_package_allow_list">
-        <item>com.miui.securitycenter</item>
-        <item>com.miui.weather2</item>
-        <item>com.android.calendar</item>
-        <item>com.android.contacts</item>
-        <item>com.android.mms</item>
-        <item>com.miui.notes</item>
-        <item>com.android.settings</item>
-        <item>com.miui.gallery</item>
-        <item>com.miui.cloudservice</item>
-    </string-array>
     <integer-array name="portrait_lighting_array_default">
         <item>1</item>
         <item>2</item>
@@ -558,6 +456,15 @@
         <item>@string/pref_camera_autoexposure_value_frameaverage</item>
         <item>@string/pref_camera_autoexposure_value_centerweighted</item>
         <item>@string/pref_camera_autoexposure_value_spotmetering</item>
+    </string-array>
+    <string-array name="pref_camera_contrast_entries">
+        <item>@string/pref_camera_multilevel_entry_lowest</item>
+        <item>@string/pref_camera_multilevel_entry_lower</item>
+        <item>@string/pref_camera_multilevel_entry_low</item>
+        <item>@string/pref_camera_multilevel_entry_normal</item>
+        <item>@string/pref_camera_multilevel_entry_high</item>
+        <item>@string/pref_camera_multilevel_entry_higher</item>
+        <item>@string/pref_camera_multilevel_entry_highest</item>
     </string-array>
     <string-array name="pref_camera_contrast_entryvalues">
         <item>0</item>
@@ -616,18 +523,58 @@
         <item>@string/pref_camera_jpegquality_value_normal</item>
         <item>@string/pref_camera_jpegquality_value_low</item>
     </string-array>
-    <string-array name="pref_camera_metering_weight">
-        <item>@string/face_ae_strategy_switch_f_p</item>
-        <item>@string/face_ae_strategy_switch_e_p</item>
+    <string-array name="pref_camera_long_press_shutter_feature_entries">
+        <item>@string/pref_camera_long_pressing_burst_shooting_entry_record</item>
+        <item>@string/pref_camera_long_pressing_burst_shooting_entry_burst</item>
+        <item>@string/pref_camera_long_pressing_burst_shooting_entry_focus</item>
     </string-array>
-    <string-array name="pref_camera_metering_weight_entry_values">
+    <string-array name="pref_camera_long_press_shutter_feature_entryvalues">
+        <item>@string/pref_camera_long_pressing_burst_shooting_entryvalue_record</item>
+        <item>@string/pref_camera_long_pressing_burst_shooting_entryvalue_burst</item>
+        <item>@string/pref_camera_long_pressing_burst_shooting_entryvalue_focus</item>
+    </string-array>
+    <string-array name="pref_camera_saturation_entries">
+        <item>@string/pref_camera_multilevel_entry_lowest</item>
+        <item>@string/pref_camera_multilevel_entry_lower</item>
+        <item>@string/pref_camera_multilevel_entry_low</item>
+        <item>@string/pref_camera_multilevel_entry_normal</item>
+        <item>@string/pref_camera_multilevel_entry_high</item>
+        <item>@string/pref_camera_multilevel_entry_higher</item>
+        <item>@string/pref_camera_multilevel_entry_highest</item>
+    </string-array>
+    <string-array name="pref_camera_saturation_entryvalues">
         <item>0</item>
         <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+    </string-array>
+    <string-array name="pref_camera_sharpness_entries">
+        <item>@string/pref_camera_multilevel_entry_low</item>
+        <item>@string/pref_camera_multilevel_entry_normal</item>
+        <item>@string/pref_camera_multilevel_entry_high</item>
     </string-array>
     <string-array name="pref_camera_sharpness_entryvalues">
         <item>0</item>
         <item>1</item>
         <item>2</item>
+    </string-array>
+    <string-array name="pref_camera_snap_entries">
+        <item>@string/pref_camera_snap_entry_take_picture</item>
+        <item>@string/pref_camera_snap_entry_take_movie</item>
+        <item>@string/pref_camera_snap_entry_off</item>
+    </string-array>
+    <string-array name="pref_camera_snap_entryvalues">
+        <item>@string/pref_camera_snap_value_take_picture</item>
+        <item>@string/pref_camera_snap_value_take_movie</item>
+        <item>@string/pref_camera_snap_value_off</item>
+    </string-array>
+    <string-array name="pref_camera_snap_labels">
+        <item>@string/pref_camera_snap_label_take_picture</item>
+        <item>@string/pref_camera_snap_label_take_movie</item>
+        <item>@string/pref_camera_snap_entry_off</item>
     </string-array>
     <string-array name="pref_camera_volumekey_function_entries">
         <item>@string/pref_camera_volumekey_function_entry_shutter</item>
@@ -641,6 +588,18 @@
         <item>@string/pref_camera_volumekey_function_entryvalue_zoom</item>
         <item>@string/pref_camera_volumekey_function_entryvalue_volume</item>
     </string-array>
+    <string-array name="pref_front_mirror_entries">
+        <item>@string/pref_front_mirror_entry_on</item>
+        <item>@string/pref_front_mirror_entry_off</item>
+    </string-array>
+    <string-array name="pref_front_mirror_entryvalues">
+        <item>@string/pref_front_mirror_entryvalue_on</item>
+        <item>@string/pref_front_mirror_entryvalue_off</item>
+    </string-array>
+    <string-array name="pref_front_mirror_labels">
+        <item>@string/pref_front_mirror_entry_on</item>
+        <item>@string/pref_front_mirror_entry_off</item>
+    </string-array>
     <string-array name="pref_video_encoder_entries">
         <item>@string/pref_video_encoder_entry_h264</item>
         <item>@string/pref_video_encoder_entry_h265</item>
@@ -648,6 +607,54 @@
     <string-array name="pref_video_encoder_entryvalues">
         <item>h264</item>
         <item>h265</item>
+    </string-array>
+    <string-array name="pref_video_focusmode_entries">
+        <item>@string/pref_video_focusmode_entry_auto</item>
+        <item>@string/pref_video_focusmode_entry_continuous</item>
+    </string-array>
+    <string-array name="pref_video_focusmode_entryvalues">
+        <item>@string/pref_video_focusmode_entryvalue_auto</item>
+        <item>@string/pref_video_focusmode_entryvalue_continuous</item>
+    </string-array>
+    <string-array name="pref_video_hfr_entries">
+        <item>720p, 120fps</item>
+        <item>1080p, 120fps</item>
+        <item>720p, 240fps</item>
+        <item>1080p, 240fps</item>
+    </string-array>
+    <string-array name="pref_video_hfr_entryvalues">
+        <item>1280x720:120</item>
+        <item>1920x1080:120</item>
+        <item>1280x720:240</item>
+        <item>1920x1080:240</item>
+    </string-array>
+    <string-array name="pref_video_new_slow_motion_entries">
+        <item>@string/pref_new_slow_motion_video_quality_entry_1080p</item>
+        <item>@string/pref_new_slow_motion_video_quality_entry_720p</item>
+    </string-array>
+    <string-array name="pref_video_new_slow_motion_entryvalues">
+        <item>6</item>
+        <item>5</item>
+    </string-array>
+    <string-array name="pref_video_quality_default_values">
+        <item>@string/pref_video_quality_default</item>
+        <item>@string/pref_mtk_video_quality_default</item>
+    </string-array>
+    <string-array name="pref_video_quality_entries">
+        <item>@string/pref_video_quality_entry_4kuhd</item>
+        <item>@string/pref_video_quality_entry_4kuhd_60fps</item>
+        <item>@string/pref_video_quality_entry_1080p</item>
+        <item>@string/pref_video_quality_entry_1080p_60fps</item>
+        <item>@string/pref_video_quality_entry_720p</item>
+        <item>@string/pref_video_quality_entry_720p_60fps</item>
+    </string-array>
+    <string-array name="pref_video_quality_entryvalues">
+        <item>@string/pref_video_quality_entry_value_4kuhd</item>
+        <item>@string/pref_video_quality_entry_value_4kuhd_60fps</item>
+        <item>6</item>
+        <item>@string/pref_video_quality_entry_value_1080p_60fps</item>
+        <item>5</item>
+        <item>@string/pref_video_quality_entry_value_720p_60fps</item>
     </string-array>
     <string-array name="pref_video_time_lapse_frame_interval_entries">
         <item>@string/pref_video_time_lapse_frame_interval_entry_2</item>
@@ -690,10 +697,6 @@
         <item>15000</item>
         <item>30000</item>
         <item>60000</item>
-    </string-array>
-    <string-array name="rcs_allow_list">
-        <item>certificate_com_xiaomi_wearable:1da20e2bdfa678ae888e81e5ca0ec4744ebbbbbd</item>
-        <item>certificate_com_android_camera:27196e386b875e76adf700e7ea84e4c6eee33dfa</item>
     </string-array>
     <string-array name="solar_terms">
         <item>@string/empty</item>

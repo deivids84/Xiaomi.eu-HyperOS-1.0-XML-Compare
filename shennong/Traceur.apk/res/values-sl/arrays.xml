@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string-array name="select_logpersist_summaries">
+    <item>Izklopljeno</item>
+    <item>Vsi medpomnilniki dnevnika</item>
+    <item>Vsi medpomnilniki dnevnika, razen za radio</item>
+    <item>samo medpomnilnik dnevnika jedra</item>
+  </string-array>
+  <string-array name="wifitrackerlib_wifi_status">
+    <item></item>
+    <item>Iskanje…</item>
+    <item>Vzpostavljanje povezave z omrežjem…</item>
+    <item>Preverjanje pristnosti…</item>
+    <item>Pridobivanje naslova IP…</item>
+    <item>Povezava je vzpostavljena</item>
+    <item>Začasno ustavljeno</item>
+    <item>Prekinjanje povezave z omrežjem…</item>
+    <item>Prekinjena povezava</item>
+    <item>Ni uspelo</item>
+    <item>Blokirano</item>
+    <item>Začasno izogibanje slabi povezavi</item>
+  </string-array>
+</resources>
