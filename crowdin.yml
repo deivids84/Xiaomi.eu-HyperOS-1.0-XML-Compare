@@ -1,0 +1,3 @@
+files:
+  - source: /shennong/**/values/
+    translation: /shennong/**/values-%two_letters_code%/%original_file_name%
