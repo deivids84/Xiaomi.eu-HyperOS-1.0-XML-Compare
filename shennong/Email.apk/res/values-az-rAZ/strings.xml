@@ -674,15 +674,16 @@ Bu problem, hesabın iki faktorlu kimlik doğrulaması ilə bağlı ola bilər. 
     <string name="midnight">Gecə</string>
     <string name="miuix_access_state_desc">Seçildi</string>
     <string name="miuix_alphabet_indexer_name">İndeks çubuğu</string>
-    <string name="miuix_appcompat_action_mode_deselect_all">Seçimi ləğv et</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">Heç birini seçmə</string>
     <string name="miuix_appcompat_action_mode_select_all">Hamısını seç</string>
     <string name="miuix_appcompat_action_mode_title_empty">Elementləri seç</string>
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">Daha çox</string>
     <string name="miuix_appcompat_cancel_description">İmtina</string>
     <string name="miuix_appcompat_confirm_description">Təsdiqlə</string>
     <string name="miuix_appcompat_delete_description">Sil</string>
-    <string name="miuix_appcompat_deselect_all">Seçimi ləğv et</string>
+    <string name="miuix_appcompat_deselect_all">Heç birini seçmə</string>
     <string name="miuix_appcompat_deselect_all_description">Heç birini seçmə</string>
+    <string name="miuix_appcompat_edit">Düzəliş et</string>
     <string name="miuix_appcompat_search_action_mode_cancel">İmtina</string>
     <string name="miuix_appcompat_search_input_description">Axtar</string>
     <string name="miuix_appcompat_select_all">Hamısını seç</string>
@@ -698,11 +699,6 @@ Bu problem, hesabın iki faktorlu kimlik doğrulaması ilə bağlı ola bilər. 
     <string name="miuix_sbl_tracking_progress_labe_up_none">"İndilik bu qədər"</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">Bir saniyə…</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Elementlər yüklənilə bilmədi"</string>
-    <string name="miuix_search_action_mode_cancel">İmtina</string>
-    <string name="miuix_search_history_clear">Axtarış tarixçəsini təmizlə</string>
-    <string name="miuix_search_history_default_title">Axtarış tarixçəsi</string>
-    <string name="miuix_search_recommendation_default_title">Bunlarla maraqlana bilərsiniz</string>
-    <string name="miuix_search_recommendation_item_del_des">Sil</string>
     <string name="monday">Bazar ertəsi</string>
     <string name="monday_short">B.e.</string>
     <string name="monday_shortest">B.e.</string>
@@ -1066,6 +1062,7 @@ Tam sinxronlaşdırılana qədər gözləyin və ya mesaja kompüterinizdə bax�
     <string name="sign_in_dialog_office365">Office365 Personal Edition</string>
     <string name="sign_in_dialog_outlook_enterprise">Office365 Exchange Enterprise Edition</string>
     <string name="sign_in_dialog_outlook_imap">IMAP (təqvimsiz)</string>
+    <string name="sign_in_dialog_title">Daxil olma üsulunu seçin</string>
     <string name="sign_in_no_useful_provider_error">"Protokol konfiqurasiyaları Microsoft-dan alına bilmir. Fərqli bir protokol istifadə edin və ya protokolu Microsoft-dan güncəlləyin."</string>
     <string name="signature">"
 
