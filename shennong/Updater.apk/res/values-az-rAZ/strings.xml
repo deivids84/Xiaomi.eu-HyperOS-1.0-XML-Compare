@@ -69,7 +69,7 @@ Datalar silinməyəcək.\"</string>
     <string name="no_mirror">Bütün serverlər hazırda oflayndır, daha sonra sınayın…</string>
     <string name="no_network">Şəbəkəyə müraciət yoxdur.</string>
     <string name="no_update">Güncəlsiniz!</string>
-    <string name="no_xioamieu">"Xiaomi.eu komandası tərəfindən hazırlanmış MIUI Rom istifadə edirsiniz!
+    <string name="no_xioamieu">"Xiaomi.eu komandası tərəfindən hazırlanmış HyperOS ROM-u istifadə etmirsiniz!
 Güncəlləmələr sizin üçün əlçatan deyil!"</string>
     <string name="notif_cancel">İmtina</string>
     <string name="notif_install">Quraşdır</string>
@@ -87,7 +87,7 @@ Güncəlləmələr sizin üçün əlçatan deyil!"</string>
     <string name="recovery_desc">Cihaz indi Geri qaytarma rejimində yenidən başladılacaq. Rejim sizə tanış gəlmirsə, gələcək əməliyyatlardan imtina edin. Davam edilsin?</string>
     <string name="recovery_mode">Güncəlləyici, Geri qaytarma rejimindədir, ROM-ları yalnız \"Güncəlləyici\"də yükləyə bilərsiniz!</string>
     <string name="server_error">Server cavab vermir, tətbiq düzgün işləməyə bilər!</string>
-    <string name="share_desc">MIUI versiyanız %1$s olaraq güncəlləndi. Son dəyişiklikləri yoxlayın: %2$s</string>
+    <string name="share_desc">HyperOS versiyanız %1$s versiyasına güncəlləndi. Son dəyişiklikləri yoxlayın: %2$s</string>
     <string name="share_title">Paylaş</string>
     <string name="stable">Stabil</string>
     <string name="twrp_update_warning">OTA-nı istifadə edə bilmək üçün cihazınızda TWRP-nin quraşdırılıb-quraşdırılmadığını seçməlisiniz:</string>
