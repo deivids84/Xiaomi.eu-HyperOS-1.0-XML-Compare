@@ -597,7 +597,7 @@
     <string name="privacy_policy_update">Güncəllənmiş Gizlilik Siyasəti</string>
     <string name="privacy_policy_update_message"><Data>\"&lt;a href=\"%1$s\"&gt;Gizlilik Siyasətinin&lt;/a&gt; yeni versiyası ilə razılaşmadığınız müddətcə Skaneri istifadə edə bilməyəcəksiniz. Güncəl Gizlilik Siyasəti ilə razılaşırsınız?\"</Data></string>
     <string name="privacy_policy_update_welcome">Skaner Gizlilik Siyasəti güncəlləndi:</string>
-    <string name="privacy_policy_withdrawal_error">"Razılı geri götürülə bilmədi. Bir və ya iki dəqiqə gözləyib yenidən sınayın."</string>
+    <string name="privacy_policy_withdrawal_error">"Razılıq geri götürülə bilmədi. Bir və ya iki dəqiqə gözləyib yenidən sınayın."</string>
     <string name="privacy_policy_withdrawal_message"><Data>\"Davam etsəniz, \"Skaner\"in Gizlilik Siyasətinə verdiyiniz razılığı geri götürəcəksiniz. Bu, Skaner xidmətlərini qəbul etməkdən imtina olaraq qəbul ediləcək. \"Skaner\"i istifadə etmək qərarına gəlsəniz, yenidən &lt;a href=\"%1$s\"&gt;Gizlilik Siyasəti&lt;/a&gt; ilə razılaşmalı olacaqsınız. Razılıq indi geri götürülsün?\"</Data></string>
     <string name="processing">Emal olunur…</string>
     <string name="prompt">Diqqət</string>
