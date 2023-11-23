@@ -52,6 +52,7 @@
     <string name="activity_title_uninstall_apps">Tətbiqlər</string>
     <string name="activity_title_video">Videoları sil</string>
     <string name="activity_title_white_list">İstisnalar</string>
+    <string name="ad_flag_text">Reklam</string>
     <string name="ad_install_success_dialog_lunch">Aç</string>
     <string name="ad_install_success_dialog_title">%1$s uğurla quraşdırıldı. İndi açılsın?</string>
     <string name="afternoon">Günortadan sonra</string>
@@ -507,6 +508,7 @@
     <string name="last_check_canceled">Əvvəlki skan ləğv edildi</string>
     <string name="load_only_under_wlan">Yalnız Wi-Fi ilə yüklə</string>
     <string name="location_not_found">"Fayl tapıla bilmədi"</string>
+    <string name="lock_device_toast">Bu cihaz kilidlənib. \"Təmizləyici\"ni istifadə etmək üçün kilidi açın.</string>
     <string name="login_immediately">Daxil ol</string>
     <string name="long_click_dialog_summary">İstisnalara əlavə etmək üçün uzun basın.</string>
     <string name="long_click_dialog_title">Xəbərdarlıq</string>
@@ -602,6 +604,9 @@
     <string name="msg_update_error_code_success">Hazırdır</string>
     <string name="msg_update_error_code_unknown_error">Serverlər məşğuldur. Bir və ya iki dəqiqə gözləyib yenidən sınayın.</string>
     <string name="name_debuglog_dir">BSP sazlama jurnalı</string>
+    <string name="native_body">Gövdə</string>
+    <string name="native_headline">Başlıq</string>
+    <string name="native_media_view">Media görünüşü</string>
     <string name="nb_clear_set">Keşi təmizlə, bildiriş panelində batareya və əngəlli siyahısı məlumatlarına bax</string>
     <string name="network_not_available">"Şəbəkəyə bağlana bilmir"</string>
     <string name="news_change">Dəyişdir</string>
@@ -737,12 +742,7 @@
     <string name="pref_title_open_optimizer_cloud_scan">Fayl adlarını yüklə</string>
     <string name="pref_title_open_optimizer_memory_scan">Tətbiq yaddaşını skan et</string>
     <string name="preference_copied">\"%1$s\" lövhəyə kopyalandı.</string>
-    <string name="privacy_app_desc">Hesab və parol</string>
-    <string name="privacy_app_desc_message">Hesab, parollar və mesajlar</string>
-    <string name="privacy_app_desc_search">Hesab, parollar və axtarış tarixçəsi</string>
-    <string name="privacy_app_desc_setting">Hesab, parollar və ayarlar</string>
     <string name="privacy_browser_desc">Axtarılmış elementlər</string>
-    <string name="privacy_cache_desc">Hesab, parol, tarixçə, ayarlar və daha çoxu</string>
     <string name="privacy_cache_empty">Şəxsi verilənlər yoxdur</string>
     <string name="privacy_cache_scaning">Yoxlanılır…</string>
     <string name="privacy_cache_title">Şəxsi məlumatlar</string>
@@ -799,6 +799,7 @@
     <string name="size_mega_byte">MB</string>
     <string name="size_peta_byte">PB</string>
     <string name="size_tera_byte">TB</string>
+    <string name="skip_ad">Ötür</string>
     <string name="sponsored">Sponsorlu</string>
     <string name="start_downloading_app">Endirmə başlayır: %1$s</string>
     <string name="start_install">İndi quraşdır</string>
@@ -925,6 +926,7 @@
     <string name="v7_preference_off">BAĞLI</string>
     <string name="v7_preference_on">AÇIQ</string>
     <string name="virus_scan">Virus üzrə skan</string>
+    <string name="watermark_label_prefix">"AdMob - "</string>
     <string name="wechat_chat_data_type_cache">WeChat keşi</string>
     <string name="wechat_chat_data_type_cache_desc">"İnternetə bağlandıqdan sonra bu faylları bərpa edə biləcəksiniz."</string>
     <string name="wechat_chat_data_type_chat">Söhbət tarixçəsi</string>
@@ -1000,6 +1002,9 @@
     <string name="wqfile_group_chat_pic">Mesajlaşma tətbiqlərindən şəkillər</string>
     <string name="wqfile_group_chat_video">Mesajlaşma tətbiqlərindən videolar</string>
     <string name="wqfile_group_chat_voice">Səsli mesajlar</string>
+    <string name="yandex_ads_internal_instream_call_to_action">Get ➔</string>
+    <string name="yandex_ads_internal_instream_sponsored_social">SOSİAL REKLAM</string>
+    <string name="yandex_ads_internal_instream_sponsored_yandex">REKLAM</string>
     <string name="yandex_ads_internal_tools_domain_text">domen</string>
     <string name="yandex_ads_internal_tools_price_text">qiymət</string>
     <string name="yandex_ads_internal_tools_rating_text">qiymətləndirmə</string>
