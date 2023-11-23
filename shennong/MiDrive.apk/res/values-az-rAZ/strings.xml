@@ -146,7 +146,7 @@ Daha çox anbar sahəsi əldə etmək üçün planınızı yüksəldin."</string
     <string name="document_file_size">Fayl həcmi: %s</string>
     <string name="document_preview_cancel_text">Yükləməni dayandır</string>
     <string name="document_preview_download_failed">"Yüklənə bilmədi. Yenidən sınayın."</string>
-    <string name="download_done">Uğurla endirildi</string>
+    <string name="download_done">Endirmə tamamlandı</string>
     <string name="download_done_info_for_sys_title">Uğurla endirildi. Baxmaq üçün toxunun.</string>
     <string name="download_fail">"Endirilə bilmədi"</string>
     <string name="download_list">Endirilənlər</string>
@@ -540,7 +540,7 @@ Hazırkı Xiaomi Hesabınızı, MIUI sistem hesabınız kimi istifadə etdiyiniz
     <string name="update_no_network">"Şəbəkəyə bağlana bilmədi. Şəbəkə ayarlarınızı yoxlayıb yenidən sınayın."</string>
     <string name="update_no_update">Hazırkı versiya güncəldir</string>
     <string name="update_progress_dialog_content">Endirilir…</string>
-    <string name="upload_done">Uğurla yükləndi</string>
+    <string name="upload_done">Yükləmə tamamlandı</string>
     <string name="upload_done_info_for_sys_title">Uğurla yükləndi. Baxmaq üçün toxunun.</string>
     <string name="upload_fail">"Yüklənə bilmədi"</string>
     <string name="upload_file_list_is_empty">Yüklənəcək elementləri seçin</string>
