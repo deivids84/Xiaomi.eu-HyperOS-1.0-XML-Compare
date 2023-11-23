@@ -104,4 +104,8 @@
         <item quantity="other">%d dəqiqə əvvəl</item>
         <item quantity="one">1 dəqiqə əvvəl</item>
     </plurals>
+    <plurals name="remember_number_habit">
+        <item quantity="one">%1$d vərdiş xatırlandı</item>
+        <item quantity="other">%1$d vərdiş xatırlandı</item>
+    </plurals>
 </resources>
