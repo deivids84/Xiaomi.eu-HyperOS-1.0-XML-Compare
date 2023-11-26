@@ -116,6 +116,7 @@
     <string name="download_status_paused">Fasilə ver</string>
     <string name="download_success">Endirmə tamamlandı</string>
     <string name="download_wait_connect">Bağlantı gözlənilir</string>
+    <string name="download_waiting">Gözləyir</string>
     <string name="downloaded_empty">Boşdur</string>
     <string name="downloading">Endirilir…</string>
     <string name="downloading_empty">Boşdur</string>
