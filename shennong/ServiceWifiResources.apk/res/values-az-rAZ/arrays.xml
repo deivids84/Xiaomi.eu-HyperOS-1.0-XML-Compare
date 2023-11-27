@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="config_oemPrivilegedWifiAdminPackages"/>
+    <array name=""/>
+    <array name=""/>
+    <string-array name="">
+        <item/>
+    </string-array>
+    <integer-array name="">
+        <item/>
+        <item/>
+        <item/>
+        <item/>
+    </integer-array>
+    <integer-array name="config_wifiConnectedScanType">
+        <item>2</item>
+    </integer-array>
+    <string-array name="">
+        <item/>
+    </string-array>
+    <string-array name="">
+        <item/>
+    </string-array>
+    <integer-array name="config_wifiDisconnectedScanIntervalScheduleSec">
+        <item>20</item>
+        <item>40</item>
+        <item>80</item>
+        <item>160</item>
+    </integer-array>
+    <integer-array name="config_wifiDisconnectedScanType">
+        <item>2</item>
+    </integer-array>
+    <array name=""/>
+    <array name=""/>
+    <array name=""/>
+    <array name=""/>
+    <array name=""/>
+    <array name=""/>
+    <array name=""/>
+    <array name=""/>
+    <integer-array name="config_wifiRssiLevelThresholds">
+        <item>-88</item>
+        <item>-77</item>
+        <item>-66</item>
+        <item>-55</item>
+    </integer-array>
+    <array name=""/>
+    <array name=""/>
+    <array name=""/>
+    <array name=""/>
+    <array name=""/>
+    <string-array name="">
+        <item>:::1839:::%1$s : "Verizon Wi-Fi"a bağlanarkən bir problem yarandı. </item>
+    </string-array>
+    <string-array name="">
+        <item>:::1839:::%1$s : "Verizon Wi-Fi"a bağlanarkən bir problem yarandı. </item>
+    </string-array>
+    <string-array name="">
+        <item/>
+    </string-array>
+    <string-array name="">
+        <item>:::1839:::%1$s : "Verizon Wi-Fi Access"ə Verizon əhatə dairəsi xaricindən bağlana bilməzsiniz. </item>
+    </string-array>
+    <string-array name="">
+        <item>:::1839:::%1$s : "Verizon Wi-Fi Access"ə abunə deyilsiniz.  </item>
+    </string-array>
+    <string-array name="">
+        <item>  </item>
+    </string-array>
+    <string-array name="">
+        <item> </item>
+    </string-array>
+    <string-array name="">
+        <item> Lütfən bizə zəng edin: 800-922-0204. </item>
+    </string-array>
+    <string-array name="">
+        <item>:::1839:::%1$s : Verizon Wi-Fi Access hesabınızla bağlı bir problem var. Lütfən bizə zəng edin: 800-922-0204. </item>
+    </string-array>
+    <string-array name="">
+        <item>:::1839:::%1$s : Verizon Wi-Fi Access olduğunuz yerdə əlçatan deyil. Daha sonra yenidən sınayın və ya fərqli bir yerdən sınayın. (Xəta = 32766)</item>
+    </string-array>
+    <string-array name="">
+        <item>:::1839:::%1$s : "Verizon Wi-Fi Access"ə bağlanarkən bir problem yarandı. Daha sonra yenidən sınayın və ya fərqli bir yerdən sınayın. </item>
+    </string-array>
+    <string-array name="">
+        <item>:::1839:::%1$s : "Verizon Wi-Fi"a bağlanarkən bir problem yarandı. </item>
+    </string-array>
+</resources>
