@@ -668,7 +668,7 @@ Faylları cihazınızdan Mi Drive-a daşımağa çalışın."</string>
     <string name="operation_show_privacy_policy">Gizlilik Siyasətini göstər</string>
     <string name="operation_show_sys">Gizli faylları göstər</string>
     <string name="operation_sync_cloud_data_error">Bir server xətası baş verdi. Bir və ya iki dəqiqə gözləyib yenidən sınayın.</string>
-    <string name="operation_unfavorite">Sevimlilərdən çıxart</string>
+    <string name="operation_unfavorite">Sevimlilərdən sil</string>
     <string name="operation_unknown_err">"Bu əməliyyat tamamlana bilmədi."</string>
     <string name="operation_upload_buy_space">Yüksəlt</string>
     <string name="operation_upload_delete">Sil</string>
@@ -751,7 +751,7 @@ Faylları cihazınızdan Mi Drive-a daşımağa çalışın."</string>
     <string name="private_folder_no_file_hints">Faylı və ya qovluğu şəxsi etmək üçün basılı tutun</string>
     <string name="private_folder_update">Şəxsi fayllar güncəllənir…</string>
     <string name="private_folder_update_msg">Fayl Meneceri, əlavə təhlükəsizlik tədbirini təqdim edir: artıq şəxsi faylları şifrələyə bilərsiniz!</string>
-    <string name="private_folder_update_msg_summary">Şifrənin açılması, şəxsi qovluqdakı faylların çıxarılmasını yavaşladacaq. Ayarlarda şifrələməni aça və ya bağlaya bilərsiniz.</string>
+    <string name="private_folder_update_msg_summary">Şifrənin açılması, şəxsi qovluqdakı faylların silinməsini yavaşladacaq. Ayarlarda şifrələməni aça və ya bağlaya bilərsiniz.</string>
     <string name="private_folder_update_tips">Yeni özəllik</string>
     <string name="promot_enctypt_password">Cihazın kilidini açmaq üçün istifadə olunan parolu daxil edin</string>
     <string name="pull_to_enter_private">Şəxsi qovluğu açmaq üçün aşağı çəkin</string>
@@ -944,8 +944,8 @@ Faylları cihazınızdan Mi Drive-a daşımağa çalışın."</string>
     <string name="tuesday_shortest">Ç.a.</string>
     <string name="type_not_support">"Bu fayl formatı dəstəklənmir. Bu faylı paketdən çıxarıb yenidən sınayın."</string>
     <string name="ui_main_toast_favorite_added">Sevimlilərə əlavə edildi</string>
-    <string name="ui_main_toast_favorite_removed">Sevimlilərdən çıxarıldı</string>
-    <string name="ui_main_toast_operation_failed">"%1$s sevimlilərdən çıxarıla bilmədi"</string>
+    <string name="ui_main_toast_favorite_removed">Sevimlilərdən silindi</string>
+    <string name="ui_main_toast_operation_failed">"%1$s sevimlilərdən silinə bilmədi"</string>
     <string name="unknown_error">Bilinməyən bir xəta baş verdi. Bir və iki dəqiqə gözləyib yenidən sınayın.</string>
     <string name="unlock_pattern_msg">Gizlilik qoruma parolu foto, mesaj və notlar üçün də işləyir.</string>
     <string name="unlock_pattern_title">Yeni parol</string>
