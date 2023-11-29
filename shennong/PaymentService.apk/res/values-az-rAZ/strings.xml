@@ -62,7 +62,7 @@
     <string name="mibi_applock_config">"Bölünmüş ekran istifadə edərkən Tətbiq kilidi ayarlana bilmir."</string>
     <string name="mibi_applock_dialog_cancel">İndi yox</string>
     <string name="mibi_applock_dialog_content">Sistem yüksəltməsinə görə, hazırkı naxış kilidinizin müddəti bitib. Lütfən yeni bir naxış kilidi ayarlayın.</string>
-    <string name="mibi_applock_dialog_ok">Quraşdır</string>
+    <string name="mibi_applock_dialog_ok">Qur</string>
     <string name="mibi_applock_dialog_title">Yeni bir naxış kilidi ayarla</string>
     <string name="mibi_balance_payment_title">Mi Coin</string>
     <string name="mibi_balance_title">Mövcud Mi Coin-lər</string>
