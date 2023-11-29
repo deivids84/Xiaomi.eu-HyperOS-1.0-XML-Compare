@@ -91,8 +91,8 @@
     <string name="bind_sns_description">%s ilə daxil olun</string>
     <string name="bind_weixin">WeChat hesabınızla bağlantı qurun</string>
     <string name="binded">Bağlantılıdır</string>
-    <string name="binded_description" formatted="false">"%s Xiaomi Hesabınıza qoşuludur.
-İndi %s istifadə edərək Xiaomi Hesabınıza daxil ola bilərsiniz."</string>
+    <string name="binded_description" formatted="false">"%s Xiaomi Hesabınıza bağlandı.
+Artıq %s istifadə edərək Xiaomi Hesabınıza daxil ola bilərsiniz."</string>
     <string name="bottomsheet_action_expand_halfway">Yarıya qədər genişləndir</string>
     <string name="button_agree">Razıyam</string>
     <string name="button_close">Bağla</string>
