@@ -783,7 +783,7 @@
     <string name="to_date">Bu gün</string>
     <string name="to_install_title">Bu QR kodu sizi silinən tətbiqə yönləndirir. Bu tətbiq indi endirilsin?</string>
     <string name="to_pay">Ödənişi tamamla</string>
-    <string name="toast_net_2g">"Şəbəkəyə qoşula bilmədi. Şəbəkəni dəyişdirib yenidən sınayın."</string>
+    <string name="toast_net_2g">"Şəbəkəyə bağlana bilmədi. Şəbəkəni dəyişdirib yenidən sınayın."</string>
     <string name="toast_net_timeout">Tələbin vaxt bitdi. Bir və ya iki dəqiqə gözləyib yenidən sınayın.</string>
     <string name="today">Bu gün</string>
     <string name="toinstall">Endir</string>
