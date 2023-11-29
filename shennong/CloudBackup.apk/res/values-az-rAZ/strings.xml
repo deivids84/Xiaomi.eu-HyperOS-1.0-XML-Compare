@@ -48,10 +48,10 @@
     <string name="backup_action_long_time_not_backup_title">Təzəlikcə heç bir nüsxələmə yoxdur</string>
     <string name="backup_action_no_space_with_wechat_off_content">Bu cihazdakı elementləri nüsxələmək üçün yetərli bulud anbar sahəsi yoxdur. Mövcud bulud anbar seçimlərinə baxmaq üçün toxunun.</string>
     <string name="backup_action_no_space_with_wechat_off_title">"Elementlər nüsxələnə bilmədi"</string>
-    <string name="backup_action_no_space_with_wechat_on_content">WeChat verilənlərini nüsxələmək üçün yetərli bulud anbar sahəsi yoxdur. Elementləri nüsxələmək üçün anbar planınızı yüksəldin.</string>
-    <string name="backup_action_no_space_with_wechat_on_title">"WeChat verilənləri nüsxələnə bilmədi"</string>
+    <string name="backup_action_no_space_with_wechat_on_content">WeChat datasını nüsxələmək üçün yetərli bulud anbar sahəsi yoxdur. Elementləri nüsxələmək üçün anbar planınızı yüksəldin.</string>
+    <string name="backup_action_no_space_with_wechat_on_title">"WeChat datası nüsxələnə bilmədi"</string>
     <string name="backup_action_retry_now">Yenidən sına</string>
-    <string name="backup_failed_reason_app_data_error">"WeChat verilənləri nüsxələnə bilmədi"</string>
+    <string name="backup_failed_reason_app_data_error">"WeChat datası nüsxələnə bilmədi"</string>
     <string name="backup_failed_reason_app_usage_denied">Elementləri nüsxələmək üçün tələb olunan icazələri verin</string>
     <string name="backup_failed_reason_cloud_space_not_enough">Bu nüsxəni saxlamaq üçün yetərli anbar sahəsi yoxdur. Planınızı yüksəldin və ya anbar sahənizdə boş yer açın.</string>
     <string name="backup_failed_reason_disk_space_not_enough">Yetərli anbar sahəsi yoxdur. Əvvəlcə anbarı sahəsində yer açın.</string>
@@ -69,7 +69,7 @@
     <string name="backup_success">Uğurla nüsxələndi</string>
     <string name="backup_successfully">Uğurla nüsxələndi</string>
     <string name="backup_to_cloud">Tətbiqi nüsxələ</string>
-    <string name="backup_warning_reason_app_usage_denied">"Verilənlər sinxronlaşdırıla bilmədi.
+    <string name="backup_warning_reason_app_usage_denied">"Data sinxronlaşdırıla bilmədi.
 İcazələr tələb olunur."</string>
     <string name="backup_warning_reason_cloud_space_not_enough">"Nüsxələnə bilmir"</string>
     <string name="backup_warning_reason_disk_space_not_enough">"Nüsxələnə bilmir.
@@ -82,7 +82,7 @@ Yenidən sınayın"</string>
     <string name="btn_continue">Davam et</string>
     <string name="btn_restore_abort">İmtina</string>
     <string name="btn_restore_cancel">İmtina</string>
-    <string name="btn_restore_cancel_app_app">"WeChat verilənlərini bərpa etmə"</string>
+    <string name="btn_restore_cancel_app_app">"WeChat datasını bərpa etmə"</string>
     <string name="btn_restore_continue">Yenə də bərpa et</string>
     <string name="btn_restore_resume">Davam et</string>
     <string name="btn_restore_retry">Yenidən sına</string>
@@ -109,7 +109,7 @@ Yenidən sınayın"</string>
     <string name="cloud_app_no_data">Nüsxə yoxdur</string>
     <string name="cloud_app_no_network">"Şəbəkəyə bağlana bilmir"</string>
     <string name="cloud_app_other_devices">Digər cihazlar</string>
-    <string name="cloud_app_restore_data">Şəxsi verilənləriniz və əvvəlcədən quraşdırılmış tətbiqlər cihazınızda avtomatik görünür</string>
+    <string name="cloud_app_restore_data">Şəxsi data və əvvəlcədən quraşdırılmış tətbiqlər cihazınızda avtomatik görünür</string>
     <string name="cloud_app_restore_error">"Bərpa edilə bilmədi"</string>
     <string name="cloud_app_restore_success">Tətbiq bərpa edildi</string>
     <string name="cloud_app_restore_wifi_prompt">Bulud nüsxəsindən bərpa et.</string>
@@ -137,7 +137,7 @@ Qeyd: Quraşdırdığınız tətbiqlərin dataları Xiaomi Cloud-da nüsxələnm
     <string name="cloud_back_up_task">Nüsxələnir…</string>
     <string name="cloud_backup">Cloud nüsxələri</string>
     <string name="cloud_backup_derail_size_summary">Ölçü: %s</string>
-    <string name="cloud_backup_detail_app_data">Bütün WeChat verilənləri</string>
+    <string name="cloud_backup_detail_app_data">Bütün WeChat datası</string>
     <string name="cloud_backup_detail_app_data_summary">Söhbət tarixçələri və fayllar daxildir</string>
     <string name="cloud_backup_detail_frequence">Nüsxələmə cədvəli</string>
     <string name="cloud_backup_detail_frequence_every_7_day">Hər %d gün</string>
@@ -168,7 +168,7 @@ Qeyd: Quraşdırdığınız tətbiqlərin dataları Xiaomi Cloud-da nüsxələnm
     <string name="cloud_restore_task">Bərpa edilir…</string>
     <string name="cloud_task_in_process">"%s dayandırılsın və bu nüsxə silinsin? Bu əməliyyatın geri dönüşü yoxdur."</string>
     <string name="confirm_restore">Bərpa et</string>
-    <string name="confirm_restore_app_data">"WeChat artıq bu cihazda quraşdırılıb. WeChat verilənləri bərpa edilə bilmir."</string>
+    <string name="confirm_restore_app_data">"WeChat artıq bu cihazda quraşdırılıb. WeChat datası bərpa edilə bilmir."</string>
     <string name="confirm_restore_summary">Əsas ekranınız yenidən başladıcaq. Nüsxələnmiş tətbiqlər avtomatik olaraq endiriləcək.</string>
     <string name="confirm_restore_title">Bərpa et</string>
     <string name="copy">Kopyala</string>
@@ -186,8 +186,8 @@ Qeyd: Quraşdırdığınız tətbiqlərin dataları Xiaomi Cloud-da nüsxələnm
     <string name="desktop_wait_network">Gözləyir…</string>
     <string name="desktop_waiting">Gözlənilir</string>
     <string name="device_delete_prompt">%s nüsxəsi silinsin?</string>
-    <string name="dialog_app_usage_consent_message">Bu özəlliyin WeChat nüsxələrinin həcmini təxmin edə bilməsi üçün tətbiq istifadə verilənlərinə müraciətinə ehtiyacı var.</string>
-    <string name="dialog_app_usage_consent_title">Tətbiq istifadəsi verilənlərinə müraciətə icazə verin</string>
+    <string name="dialog_app_usage_consent_message">Bu özəlliyin WeChat nüsxələrinin həcmini təxmin edə bilməsi üçün tətbiq istifadə datasına müraciətinə ehtiyacı var.</string>
+    <string name="dialog_app_usage_consent_title">Tətbiq istifadəsi datasına müraciətə icazə verin</string>
     <string name="dialog_app_usage_denied">Elementləri nüsxələyə bilmək üçün Ayarlarda Nüsxələmə üçün \"İstifadə müraciəti\" icazəsini verin.</string>
     <string name="dialog_backup_failed">"Nüsxələnə bilmədi"</string>
     <string name="dialog_btn_cancel_backup">İmtina</string>
@@ -206,8 +206,8 @@ Qeyd: Quraşdırdığınız tətbiqlərin dataları Xiaomi Cloud-da nüsxələnm
     <string name="dialog_cancel_backup_msg">Açarı dəyişdirəndə, davam edən nüsxələr sonlandırılacaq.</string>
     <string name="dialog_cancel_backup_title">Davam edən nüsxələmə ləğv edilsin?</string>
     <string name="dialog_cloud_space_not_enough">Bu nüsxələmə, %1$s ödənişsiz bulud anbar sahəsi tələb edir. Elementlərin nüsxələnməsi üçün anbar planınızı yüksəldin.</string>
-    <string name="dialog_content_cancel_backup">Nüsxəni ləğv etsəniz, artıq yüklənmiş verilənlər itəcək. Yenə də ləğv edilsin?</string>
-    <string name="dialog_content_cancel_restore">Bərpa prosesini dayandırsanız, artıq bərpa edilmiş verilənlər saxlanılacaq. Bərpa indi dayandırılsın?</string>
+    <string name="dialog_content_cancel_backup">Nüsxəni ləğv etsəniz, artıq yüklənmiş datalar itəcək. Yenə də ləğv edilsin?</string>
+    <string name="dialog_content_cancel_restore">Bərpa prosesini dayandırsanız, artıq bərpa edilmiş datalar saxlanılacaq. Bərpa indi dayandırılsın?</string>
     <string name="dialog_get_installed_apps_consent_message">Avtomatik nüsxələyə bilmək üçün Ayarlarda bu tətbiqin cihazınızdakı quraşdırılmış tətbiqlərin siyahısına müraciət etməsinə icazə verin və \"Həmişə icazə ver\"i seçin.</string>
     <string name="dialog_get_installed_apps_consent_title">Tələb olunan icazələr</string>
     <string name="dialog_msg_overwrite_backup">Yerli nüsxələmə, Xiaomi Cloud-dan fərqlidir. Əgər davam etsəniz, mövcud nüsxə əvvəlkinin üzərinə yazılacaq.</string>
@@ -229,7 +229,7 @@ Qeyd: Quraşdırdığınız tətbiqlərin dataları Xiaomi Cloud-da nüsxələnm
     <string name="dialog_title_require_wlan_china">Wi-Fi-a bağlan</string>
     <string name="dialog_wechat_data_close_agree">Açıq saxla</string>
     <string name="dialog_wechat_data_close_disagree">Bağla</string>
-    <string name="dialog_wechat_data_close_message">"Bu özəlliyi bağlasanız, növbəti bulud nüsxələməsində WeChat verilənləri nüsxələnməyəcək. Bu, verilənlərin itkisi ilə nəticələnə bilər. WeChat nüsxələmələri indi bağlanılsın?"</string>
+    <string name="dialog_wechat_data_close_message">"Bu özəlliyi söndürsəniz, növbəti bulud nüsxələməsində WeChat dataları nüsxələnməyəcək. Bu, data itkisi ilə nəticələnə bilər. WeChat nüsxələmələri indi bağlanılsın?"</string>
     <string name="dialog_wechat_data_close_title">WeChat nüsxələmələri</string>
     <string name="dir_date_format">HHmmss_ddMMyyyy</string>
     <string name="doing_calc_backup_data_size">Ölçü hesablanır…</string>
