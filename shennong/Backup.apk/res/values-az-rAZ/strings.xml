@@ -864,12 +864,12 @@ Wi-Fi-ı bağlamayın"</string>
 2. Tətbiq datasını seçsəniz, uyğun olan tətbiqlər də seçiləcək.
 3. Uyğunluq problemləri səbəbindən WeChat və QQ tətbiq datası köçürülməyə bilər. Tətbiq daxili köçürmə özəlliklərini yoxlaya bilərsiniz."</string>
     <string name="trans_detail_page_tip">Çoxlu element seçsəniz, köçürmə, bir o qədər uzun çəkəcək.</string>
-    <string name="trans_detail_qq_data">QQ verilənləri (söhbət tarixçəsi daxildir)</string>
+    <string name="trans_detail_qq_data">QQ datası (söhbət tarixçəsi daxildir)</string>
     <string name="trans_detail_sys_data_list_title">Sistem tətbiqləri</string>
     <string name="trans_detail_sys_data_page_title">Sistem tətbiqlərini seç</string>
-    <string name="trans_detail_wechat_data">WeChat verilənləri (söhbət tarixçəsi daxildir)</string>
+    <string name="trans_detail_wechat_data">WeChat datası (söhbət tarixçəsi daxildir)</string>
     <string name="trans_detail_wechat_qq_list_title">WeChat və QQ</string>
-    <string name="trans_detail_wechat_qq_page_title">WeChat, QQ və tətbiq verilənlərini seçin</string>
+    <string name="trans_detail_wechat_qq_page_title">WeChat, QQ və tətbiq datası seçin</string>
     <string name="trans_device_auto_reconnecting">Cihazın bağlantısı kəsildi. Bağlantı avtomatik olaraq yenidən qurulur…</string>
     <string name="trans_device_disconnected">Bağlantı yarımçıq kəsildi</string>
     <string name="trans_device_wait_for_reconnecting">Bağlantı yarımçıq kəsildi. Davam etmək üçün yenidən bağlantı qurun.</string>
@@ -887,14 +887,14 @@ Wi-Fi-ı bağlamayın"</string>
     <string name="trans_install_guide_step1_title">Addım 1</string>
     <string name="trans_install_guide_step2_content">Quraşdırma tamamlandıqdan sonra, aşağıdakı \"Başlat\"a toxunun.</string>
     <string name="trans_install_guide_step2_title">Addım 2</string>
-    <string name="trans_intro_desc_1">"Mi telefonunda, Wi-Fi-ya bağlanıb \"Alıcıyam\"a toxunun. iOS cihazınızı seçin, iCloud-a daxil olun və verilənləri daxilə köçürün."</string>
+    <string name="trans_intro_desc_1">"Mi telefonunda, Wi-Fi-ya bağlanıb \"Alıcıyam\"a toxunun. iOS cihazınızı seçin, iCloud-a daxil olun və datanı daxilə köçürün."</string>
     <string name="trans_intro_desc_10">Yeni cihazda \"QR kodu ilə bağlan\"a toxunun və bağlanmaq üçün QR kodu skan edin.</string>
     <string name="trans_intro_desc_3">Köçürməni ləğv edin, Mi Mover-dən çıxın və başdan başlayın. Yeni köçürmə zamanı dublikat faylların üzərinə yazılacaq.</string>
     <string name="trans_intro_desc_4">"Mi Mover fayl köçürmə üçün Wi-Fi istifadə edir. Buna görə köçürmə zamanı hər iki cihazda da Wi-Fi istifadə edərək internetə bağlana bilməzsiniz. Ancaq mobil internet istifadə edə bilərsiniz. Ancaq, bəzi yeni cihazlar (məsələn, Mi 6) köçürmə zamanı Wi-Fi istifadə edərək internetə bağlana bilir."</string>
     <string name="trans_intro_desc_4_market">"Mi Mover fayl köçürmə üçün Wi-Fi istifadə edir. Buna görə köçürmə zamanı hər iki cihazda da Wi-Fi istifadə edərək internetə bağlana bilməzsiniz. Ancaq mobil internet istifadə edə bilərsiniz."</string>
     <string name="trans_intro_desc_5">Köhnə cihazlarda anbar sahəsi köçürmə paketləri yaratmaq üçün istifadə olunur. Köçürməyə başlamazdan əvvəl köhnə telefonunuzda ən azı 500 MB - 1 GB qədər boş yer olduğuna əmin olun.</string>
     <string name="trans_intro_desc_6">Bunun baş verməsin bir neçə səbəbi ola bilər: sistem və tətbiq versiyaları arasında uyğunluq problemləri, şəbəkə problemləri, müəyyən bir cihaza xas uyğunluq problemləri və s.</string>
-    <string name="trans_intro_desc_7">Bəzi tətbiq profilləri (e-bankçılıq, maliyyə və s.) güvənlik səbəblərinə görə müəyyən bir cihazla əlaqələndirilir. Tətbiq verilənlərini təmizləməyə və ya tətbiqi yeni cihazda təkrar quraşdırmağa çalışın.</string>
+    <string name="trans_intro_desc_7">Bəzi tətbiq profilləri (e-bankçılıq, maliyyə və s.) güvənlik səbəblərinə görə müəyyən bir cihazla əlaqələndirilir. Tətbiq datasını təmizləməyə və ya tətbiqi yeni cihazda təkrar quraşdırmağa çalışın.</string>
     <string name="trans_intro_desc_8">"WeChat tətbiq datası və söhbət tarixçəsi Mi Mover istifadə edilərək tam köçürülməyə bilir. Uğurlu bir köçürmə şansınızı artırmaq üçün WeChat ayarlarına gedib hesabınızdan çıxış edin."</string>
     <string name="trans_intro_desc_9_method_1_dec">Əsas ekran &gt; Alətlər &gt; Əks-əlaqə bölməsinə gedin.</string>
     <string name="trans_intro_desc_9_method_1_title">1.\"Əks-əlaqə\" tətbiqini istifadə edərək fikirlərinizi paylaşın.</string>
@@ -903,7 +903,7 @@ Wi-Fi-ı bağlamayın"</string>
     <string name="trans_intro_desc_9_method_3_dec">"Mi Mover QQ Qrupu: 687338378"</string>
     <string name="trans_intro_desc_9_method_3_title">3. QQ-da problem bildirin</string>
     <string name="trans_intro_desc_account">Güvənlik səbəblərinə görə yeni cihazda hesablarınıza (məsələn, Xiaomi Hesabı, Exchange, Google və s.) yenidən daxil olmalısınız.</string>
-    <string name="trans_intro_desc_gms">"Uyğunluq problemlərinin səbəb olduğu yüksək uğursuz köçürmə ehtimalına görə Mi Mover, Google tətbiqləri tərəfindən yaradılan verilənlərin köçürülməsini dəstəkləmir."</string>
+    <string name="trans_intro_desc_gms">"Uyğunluq problemlərinin səbəb olduğu yüksək uğursuz köçürmə ehtimalına görə Mi Mover, Google tətbiqləri tərəfindən yaradılan dataların köçürülməsini dəstəkləmir."</string>
     <string name="trans_intro_desc_multiapp">"Mi Mover, fayllar arasındakı baş verə biləcək ziddiyətləri önləmək üçün İkili tətbiqlərin datalarını köçürmür."</string>
     <string name="trans_intro_desc_multiuser">"Mi Mover, İkinci sahədəki elementlərə müraciət edə bilmir. Elementləri Birinci sahəyə köçürün və bu sahədə Mi Mover-i başladın."</string>
     <string name="trans_intro_desc_new">"\"Alıcıyam\"a toxunun. Bir QR kod yaradılacaq."</string>
@@ -933,7 +933,7 @@ Wi-Fi-ı bağlamayın"</string>
     <string name="trans_my_device">Cihazım</string>
     <string name="trans_native_no_space">"Köhnə cihazda yetərli anbar sahəsi yoxdur (%s boşdur).
 Anbar sahəsini boşaldın və ya vacib elementləri köçürün."</string>
-    <string name="trans_old_phone_low_space_msg">"Mi Mover-in köçürülmüş verilənləri paketləməsi üçün anbar sahəsinə ehtiyacı var, amma görünüşə görə köhnə cihazınızda yetərli sahə yoxdur. \"Güvənlik\" bölməsindən yer açın və ya yalnız vacib elementləri köçürün."</string>
+    <string name="trans_old_phone_low_space_msg">"Mi Mover-in köçürülmüş dataları paketləməsi üçün anbar sahəsinə ehtiyacı var, amma deyəsən köhnə cihazınızda yetərli sahə yoxdur. \"Güvənlik\" bölməsindən yer açın və ya yalnız vacib elementləri köçürün."</string>
     <string name="trans_old_phone_low_space_title">Yetərli anbar sahəsi yoxdur</string>
     <string name="trans_one_key_migrate">Mi Mover</string>
     <string name="trans_open_camera_failed_message">Cihazınızı yenidən başladın və ya Mi Mover-in &lt;b&gt;Kameranı&lt;/b&gt; istifadə etmə icazəsi olub-olmadığını yoxlayın.</string>
