@@ -75,7 +75,7 @@
     <string name="adb_pairing_device_dialog_pairing_code_label">Wi‑Fi cütləşdirmə kodu</string>
     <string name="adb_pairing_device_dialog_title">Cihazla cütləşdir</string>
     <string name="adb_qrcode_pairing_device_failed_msg">Cihazı cütləşdirmək alınmadı. QR kodu yanlışdır, ya da cihaz eyni şəbəkəyə bağlanmayıb.</string>
-    <string name="adb_warning_message">USB sazlama yalnız inkişaf məqsədləri üçün nəzərdə tutulub. Kompüterinizlə cihazınız arasında məlumat kopyalamaq, cihazınızda tətbiqləri bildirişsiz quraşdırmaq və jurnal verilənlərini oxumaq üçün istifadə edin.</string>
+    <string name="adb_warning_message">USB sazlama yalnız inkişaf məqsədləri üçün nəzərdə tutulub. Kompüterinizlə cihazınız arasında məlumat kopyalamaq, cihazınızda tətbiqləri bildirişsiz quraşdırmaq və jurnal datasını oxumaq üçün istifadə edin.</string>
     <string name="adb_warning_title">USB sazlamaya icazə verilsin?</string>
     <string name="adb_wireless_connection_failed_message">%1$s cihazının düzgün şəbəkəyə bağlandığına əmin olun</string>
     <string name="adb_wireless_connection_failed_title">Bağlantı uğursuz oldu</string>
@@ -90,7 +90,7 @@
     <string name="adb_wireless_qrcode_summary">QR kodu skan edərək cihazı Wi‑Fi üzərindən cütləşdirin</string>
     <string name="adb_wireless_settings">Wi-Fi sazlama</string>
     <string name="adb_wireless_verifying_qrcode_text">Cihaz cütləşdirilir…</string>
-    <string name="adbwifi_warning_message">Wi‑Fi sazlama yalnız inkişaf məqsədləri üçün nəzərdə tutulub. Kompüterinizlə cihazınız arasında məlumat kopyalamaq, cihazınızda tətbiqləri bildirişsiz quraşdırmaq və jurnal verilənlərini oxumaq üçün istifadə edin.</string>
+    <string name="adbwifi_warning_message">Wi‑Fi sazlama yalnız inkişaf məqsədləri üçün nəzərdə tutulub. Kompüterinizlə cihazınız arasında məlumat kopyalamaq, cihazınızda tətbiqləri bildirişsiz quraşdırmaq və jurnal datasını oxumaq üçün istifadə edin.</string>
     <string name="adbwifi_warning_title">Wi-Fi sazlamasına icazə verilsin?</string>
     <string name="add_emergency_contact">Əlaqə əlavə et</string>
     <string name="add_guest_failed">Yeni bir qonaq yaradılmadı</string>
@@ -327,8 +327,8 @@ seçimi"</string>
     <string name="debug_networking_category">Şəbəkə qurma</string>
     <string name="debug_view_attributes">Baxış atributunun müayinəsini fəallaşdır</string>
     <string name="default_user_icon_description">İlkin istifadəçi nişanı</string>
-    <string name="delete_blob_confirmation_text">Bu paylaşılan verilənləri silmək istədiyinizə əminsiniz?</string>
-    <string name="delete_blob_text">Paylaşılan verilənləri sil</string>
+    <string name="delete_blob_confirmation_text">Bu paylaşılan datanı silmək istədiyinizə əminsiniz?</string>
+    <string name="delete_blob_text">Paylaşılan datanı sil</string>
     <string name="desktop_mode">Masaüstü rejimi</string>
     <string name="dev_logpersist_clear_warning_message">Davamlı jurnal qeydiyyatçısı ilə izləmə etmədiyinizdə, cihazınızda olan jurnal qeydiyyatçı datasını silməyimiz lazımdır.</string>
     <string name="dev_logpersist_clear_warning_title">Jurnal qeydiyyatçısının davamlı anbar sahəsi təmizlənsin?</string>
@@ -597,7 +597,7 @@ Kilid ekranınızdan bu məlumatları oxuyan istənilən şəxs, ekrandakı adla
     <string name="select_logd_size_dialog_title">Hər jurnal buferi üçün Jurnal qeydiyyatçısı ölçülərini seçin</string>
     <string name="select_logd_size_title">Jurnal qeydiyyatçısı bufer ölçüləri</string>
     <string name="select_logpersist_dialog_title">Cihazda davamlı olaraq saxlamaq üçün jurnal buferlərini seçin</string>
-    <string name="select_logpersist_title">Jurnal qeydiyyatçısı verilənlərini cihazda daimi saxla</string>
+    <string name="select_logpersist_title">Jurnal qeydiyyatçısı datasını cihazda daimi saxla</string>
     <string name="select_private_dns_configuration_dialog_title">Şəxsi DNS rejimini seçin</string>
     <string name="select_private_dns_configuration_title">Şəxsi DNS</string>
     <string name="select_usb_configuration_dialog_title">USB konfiqurasiyasını seçin</string>
@@ -611,12 +611,12 @@ Kilid ekranınızdan bu məlumatları oxuyan istənilən şəxs, ekrandakı adla
     <string name="settingslib_category_personal">Fərdi</string>
     <string name="settingslib_category_work">İş</string>
     <string name="settingslib_learn_more_text">Daha ətraflı</string>
-    <string name="shared_data_delete_failure_text">Paylaşılan verilənlər silinərkən bir xəta baş verdi.</string>
-    <string name="shared_data_no_accessors_dialog_text">Bu paylaşılan verilənlər üçün icarə yoxdur. Silmək istəyirsiniz?</string>
-    <string name="shared_data_no_blobs_text">Bu istifadəçi üçün paylaşılan verilənlər yoxdur.</string>
-    <string name="shared_data_query_failure_text">Paylaşılan verilənləri əldə edərkən bir xəta baş verdi. Yenidən sınayın.</string>
-    <string name="shared_data_summary">Paylaşılan verilənləri görün və dəyişdirin</string>
-    <string name="shared_data_title">Paylaşılan verilənlər</string>
+    <string name="shared_data_delete_failure_text">Paylaşılan data silinərkən bir xəta baş verdi.</string>
+    <string name="shared_data_no_accessors_dialog_text">Bu paylaşılan data üçün icarə yoxdur. Silmək istəyirsiniz?</string>
+    <string name="shared_data_no_blobs_text">Bu istifadəçi üçün paylaşılan data yoxdur.</string>
+    <string name="shared_data_query_failure_text">Paylaşılan datanı əldə edərkən bir xəta baş verdi. Yenidən sınayın.</string>
+    <string name="shared_data_summary">Paylaşılan datanı görün və dəyişdirin</string>
+    <string name="shared_data_title">Paylaşılan data</string>
     <string name="show_all_anrs">Arxaplan ANR-lərini göstər</string>
     <string name="show_all_anrs_summary">Arxaplan tətbiqləri üçün Tətbiq Cavab Vermir (ANR) mesajını göstər</string>
     <string name="show_hw_layers_updates">Avadanlıq qatı güncəlləmələrini göstər</string>
