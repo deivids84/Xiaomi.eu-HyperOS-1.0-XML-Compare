@@ -90,9 +90,9 @@
     <string name="account_settings_user_usage">Hesab ayarları</string>
     <string name="account_setup_address_label">E-poçt</string>
     <string name="account_setup_autodiscover_dlg_authfail_message">İstifadəçi adının, parolun və hesab ayarlarının doğru olduğunu təsdiqləyin.</string>
-    <string name="account_setup_autodiscover_dlg_authfail_title">"Hesab quraşdırıla bilmədi"</string>
+    <string name="account_setup_autodiscover_dlg_authfail_title">"Hesab qurula bilmədi"</string>
     <string name="account_setup_basics_email_label">E-poçt ünvanı</string>
-    <string name="account_setup_basics_manual_setup_action">Əllə quraşdır</string>
+    <string name="account_setup_basics_manual_setup_action">Əllə qur</string>
     <string name="account_setup_basics_mi_mail_login_help">E-poçt almaq üçün hesabınızı SMS vasitəsilə doğrulamağınız lazım gələ bilər</string>
     <string name="account_setup_basics_password_label">Parol</string>
     <string name="account_setup_basics_password_label_authcode">Parolu və ya doğrulama kodunu daxil edin</string>
@@ -120,7 +120,7 @@
     <string name="account_setup_failed_dlg_server_message">"Serverə bağlana bilmir."</string>
     <string name="account_setup_failed_dlg_server_message_fmt">"Serverə bağlana bilmir.
 (%s)"</string>
-    <string name="account_setup_failed_dlg_title">"Hesab quraşdırıla bilmədi"</string>
+    <string name="account_setup_failed_dlg_title">"Hesab qurula bilmədi"</string>
     <string name="account_setup_failed_dlg_todo2">Hesabı aşağıda göstərildiyi kimi ayarla</string>
     <string name="account_setup_failed_dlg_unknown_auth_message">Bilinməyən xəta.</string>
     <string name="account_setup_failed_ioerror">"Serverlə bağlantı qurula bilmədi."</string>
@@ -344,7 +344,7 @@ yol prefiksi"</string>
     <string name="date_message_received_today">Bu gün, %1$s</string>
     <string name="date_picker_lunar">Ənənəvi Çin Təqvimi</string>
     <string name="date_time_picker_dialog_title">Tarix və saatı ayarla</string>
-    <string name="debug_mode_preferencecategory">Jurnal çıxışını quraşdır</string>
+    <string name="debug_mode_preferencecategory">Jurnal çıxışını qur</string>
     <string name="debug_mode_settings">Sazlama rejimi ayarları</string>
     <string name="default_">İLKİN</string>
     <string name="default_opening_attchemnt_mode">Qoşmaları, ilkin tətbiqlər istifadə edərək aç</string>
@@ -601,7 +601,7 @@ Bu problem, hesabın iki faktorlu kimlik doğrulaması ilə bağlı ola bilər. 
     <string name="login_failed_tip">"Kömək üçün bizimlə WeChat üzərindən əlaqə saxlayın: "</string>
     <string name="login_failed_title">"Daxil ola bilmədi"</string>
     <string name="login_mail">Daxil ol</string>
-    <string name="login_manual">Əllə quraşdır</string>
+    <string name="login_manual">Əllə qur</string>
     <string name="login_qq_psw">Kodu əllə daxil et</string>
     <string name="login_tip">İlkin olaraq daxil olmaq üçün %s protokolu istifadə ediləcək. Fərqli bir protokol istifadə etmək istəyirsinizsə, daxil olma seçimlərində əllə seçin.</string>
     <string name="mail_header_network_not_available">"Şəbəkə bağlantınız yoxdur."</string>
@@ -1091,7 +1091,7 @@ Tam sinxronlaşdırılana qədər gözləyin və ya mesaja kompüterinizdə bax�
     <string name="system_account_create_failed">"Hesab yaradıla bilmədi. Yenidən sınayın."</string>
     <string name="system_security_open_error">\"Güvənlik\"i aça bilmək üçün Ayarlarda icazələri verin</string>
     <string name="system_setup_open_error">Ayarlarda Mail üçün sinxr.nı işə sal</string>
-    <string name="tap_to_configure">Quraşdırmaq üçün toxun.</string>
+    <string name="tap_to_configure">Qurmaq üçün toxunun.</string>
     <string name="tell_you_later">Sonra</string>
     <string name="the_anniversary_of_lifting_martial_law">Hərbi vəziyyət ləğvinin ildönümü</string>
     <string name="the_anti_aggression_day">Təcavüzlə Mübarizə Günü</string>
@@ -1207,8 +1207,8 @@ Tam sinxronlaşdırılana qədər gözləyin və ya mesaja kompüterinizdə bax�
     <string name="v7_preference_on">AÇIQ</string>
     <string name="verify_code">Doğrulama kodu</string>
     <string name="version_string">Versiya: %s</string>
-    <string name="wait_for_manual_sync_body">\"Bu hesab avtomatik sinxronlaşdırma üçün quraşdırılmayıb.
-E-poçtu bir dəfə sinxronlaşdırmaq üçün\"<b>İndi Sinxronlaşdır</b>a toxunun və ya bu hesabı, poçtu avtomatik sinxronlaşdıracaq şəkildə quraşdırmaq üçün <b>Sinxr. ayarlarını dəyişdir</b>ə toxunun.</string>
+    <string name="wait_for_manual_sync_body">\"Bu hesab avtomatik olaraq sinxronlaşdırmaq üçün qurulmayıb.
+E-poçtu bir dəfə sinxronlaşdırmaq üçün\"<b>İndi Sinxronlaşdır</b>a toxunun və ya bu hesabı, poçtu avtomatik sinxronlaşdıracaq şəkildə ayarlamaq üçün <b>Sinxr ayarlarını dəyişdir</b>ə toxunun.</string>
     <string name="wait_for_sync_title">Sinxronlaşdırma gözlənilir</string>
     <string name="web_view_load_error_tip">Brauzeriniz çökdü. Bu problemi həll etmək üçün Google Play-dən Webview-in son versiyasını endirin.</string>
     <string name="webview_logout">Təkrar daxil olmağı sınaya bilərsiniz</string>
