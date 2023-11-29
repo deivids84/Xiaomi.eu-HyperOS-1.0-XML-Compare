@@ -60,7 +60,7 @@
 Batareya qənaəti, vacib tətbiqləri seçici şəkildə idarə edəcək."</string>
     <string name="config_suggest_suffix_title">Batareya qənaəti (tövsiyə edilir)</string>
     <string name="confirm">Oldu</string>
-    <string name="connect_intranet_hint">İntranetə qoşulun</string>
+    <string name="connect_intranet_hint">İntranetə bağlan</string>
     <string name="copy">Kopyala</string>
     <string name="current_allow_sync_is">Bulud avto-güncəlləmə:</string>
     <string name="current_cloud_addr_is">Bulud nəzarət serverinin ünvanı:</string>
@@ -224,7 +224,7 @@ Batareya qənaəti, vacib tətbiqləri seçici şəkildə idarə edəcək."</str
     <string name="tuesday">Çərşənbə axşamı</string>
     <string name="tuesday_short">Ç.a.</string>
     <string name="tuesday_shortest">Ç.a.</string>
-    <string name="update_profile_failture_not_connect_wifi">"Güncəllənə bilmədi. Wi-Fi-a qoşulub yenidən sınayın."</string>
+    <string name="update_profile_failture_not_connect_wifi">"Güncəllənə bilmədi. Wi-Fi-a bağlanıb yenidən sınayın."</string>
     <string name="update_profile_sucess">Uğurla serverdən güncəlləndi</string>
     <string name="v7_preference_off">BAĞLI</string>
     <string name="v7_preference_on">AÇIQ</string>
