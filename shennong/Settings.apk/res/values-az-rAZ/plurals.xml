@@ -89,8 +89,8 @@
         <item quantity="one">%s tətbiq üçün məhdud bağlantı</item>
     </plurals>
     <plurals name="free_wifi_connected_count">
-        <item quantity="other">%1$d şəxs qoşuldu</item>
-        <item quantity="one">%1$d şəxs qoşuldu</item>
+        <item quantity="other">%1$d şəxs bağlantılıdır</item>
+        <item quantity="one">%1$d şəxs bağlantılıdır</item>
     </plurals>
     <plurals name="half_hour_ago">
         <item quantity="one">Yarım saat əvvəl</item>
