@@ -32,7 +32,7 @@
     <string name="activity_title_apk">Paketlər</string>
     <string name="activity_title_brightness_image">Zəif və həddindən artıq pozlanma</string>
     <string name="activity_title_cache">Keş</string>
-    <string name="activity_title_cache_data">Tətbiq verilənləri</string>
+    <string name="activity_title_cache_data">Tətbiq datası</string>
     <string name="activity_title_deep_apk">APK-ləri sil</string>
     <string name="activity_title_deep_clean">Dərin təmizlik</string>
     <string name="activity_title_garbage_cleanup">Təmizləyici</string>
@@ -128,7 +128,7 @@
     <string name="btn_text_done">Hazırdır</string>
     <string name="btn_text_quick_cleanup">Təmizlə</string>
     <string name="btn_text_quick_cleanup_apk">Seçilmiş APK-ləri sil %1$s</string>
-    <string name="btn_text_quick_cleanup_appdata">Seçilmiş verilənləri sil %1$s</string>
+    <string name="btn_text_quick_cleanup_appdata">Seçilmiş datanı sil %1$s</string>
     <string name="btn_text_quick_cleanup_large_file">Seçilmiş faylları sil %1$s</string>
     <string name="btn_text_quick_cleanup_video">Seçilmiş videoları sil %1$s</string>
     <string name="btn_text_quick_scan">Skan et</string>
@@ -161,11 +161,11 @@
     <string name="button_text_view_file">Fayl</string>
     <string name="buy_a_new_phone">Daha çox anbar sahəsi əldə et</string>
     <string name="buy_immediately">Al</string>
-    <string name="buy_traffic_pack">Daha çox verilənlər alın</string>
+    <string name="buy_traffic_pack">Daha çox internet alın</string>
     <string name="byteShort">B</string>
     <string name="cache_title_empty_folder">Boş qovluq (%d)</string>
     <string name="cache_title_empty_folder2">Boş qovluq</string>
-    <string name="cache_title_system_cache">Verilənlər keşi</string>
+    <string name="cache_title_system_cache">Data keşi</string>
     <string name="cached_garbage">Keş</string>
     <string name="cancel">İmtina</string>
     <string name="cd_back">geri</string>
@@ -238,7 +238,7 @@
     <string name="dc_header_used_space_text">Tutulan anbar sahəsi</string>
     <string name="dc_item_summary_wechat_chat">Daha çox yer açmaq üçün söhbət tarixçəsini təmizlə</string>
     <string name="dc_item_title_apk">Quraşdırma paketlərini sil</string>
-    <string name="dc_item_title_app_data">Tətbiq verilənlərini təmizlə</string>
+    <string name="dc_item_title_app_data">Tətbiq datasını təmizlə</string>
     <string name="dc_item_title_image">Fotoları sil</string>
     <string name="dc_item_title_large_file">Böyük faylları sil</string>
     <string name="dc_item_title_qq">QQ Təmizləyici</string>
@@ -259,9 +259,9 @@
     <string name="deepclean_apk_summary_empty">Hər şey qaydasında görünür, silinəcək APK yoxdur</string>
     <string name="deepclean_apk_version_error">Bilinmir</string>
     <string name="deepclean_app_summary_empty">Hər şey qaydasında görünür, silinəcək tətbiq yoxdur</string>
-    <string name="deepclean_cache_content">Tətbiqlər tərəfindən yaradılan verilənləri təmizlə</string>
-    <string name="deepclean_cache_header_left">Verilənlər faylları: %d</string>
-    <string name="deepclean_cache_summary_empty">Hər şey qaydasında görünür, təmizlənəcək verilənlər yoxdur</string>
+    <string name="deepclean_cache_content">Tətbiqlər tərəfindən yaradılan datanı təmizlə</string>
+    <string name="deepclean_cache_header_left">Data faylları: %d</string>
+    <string name="deepclean_cache_summary_empty">Hər şey qaydasında görünür, təmizlənəcək data yoxdur</string>
     <string name="deepclean_empty">Hər şey qaydasında görünür</string>
     <string name="deepclean_install_info_desc2">Yer açmaq üçün tətbiqləri silin</string>
     <string name="deepclean_large_summary_empty">Hər şey qaydasında görünür, silinəcək fayl yoxdur</string>
@@ -286,7 +286,7 @@
     <string name="deepclean_title_uninstall_apps">Az istfdə edilən tətbiqləri sil</string>
     <string name="deepclean_video_content">Baxılmış və ya lazımsız videoları sil</string>
     <string name="deepclean_video_summary_empty">Hər şey qaydasında görünür</string>
-    <string name="default_cache_type">Verilənlər Faylları</string>
+    <string name="default_cache_type">Data Faylları</string>
     <string name="delete_confirm">Sil</string>
     <string name="delete_confirm_msg">Bütün seçilmiş fayllar həmişəlik silinsin?</string>
     <string name="desc_image">şəkil</string>
@@ -743,7 +743,7 @@
     <string name="pref_title_open_optimizer_memory_scan">Tətbiq yaddaşını skan et</string>
     <string name="preference_copied">\"%1$s\" lövhəyə kopyalandı.</string>
     <string name="privacy_browser_desc">Axtarılmış elementlər</string>
-    <string name="privacy_cache_empty">Şəxsi verilənlər yoxdur</string>
+    <string name="privacy_cache_empty">Şəxsi data yoxdur</string>
     <string name="privacy_cache_scaning">Yoxlanılır…</string>
     <string name="privacy_cache_title">Şəxsi məlumatlar</string>
     <string name="privacy_clipboard_desc">Lövhə məzmunları</string>
@@ -869,7 +869,7 @@
     <string name="tips_of_cloud_service">Daha çox Xiaomi xidmətini istifadə etmək üçün Xiaomi Hesabınızla daxil olun</string>
     <string name="tips_of_connect">Güvənlik tətbiqinin bütün özəlliklərini istifadə etmək üçün internetə bağlanın</string>
     <string name="tips_of_garbage_cloud_scan">Bulud skanı ilə gizli qalıqları tapın</string>
-    <string name="tips_of_garbage_data_set">Cihazınızda daha çox tullantı tapmaq üçün Təmizləyici verilənlər bazasını güncəlləyin</string>
+    <string name="tips_of_garbage_data_set">Cihazınızda daha çox tullantı tapmaq üçün Təmizləyici data bazasını güncəlləyin</string>
     <string name="tips_of_network_speed_set">Şəbəkə sürətinə status çubuğunda bax</string>
     <string name="tips_of_operators_set">İnternet istifadə statistikalarını avto-nizamla</string>
     <string name="tips_of_package_set">İnternet planınızı ayarlayın və istifadə etdiyiniz trafik miqdarını idarə edin</string>
@@ -885,7 +885,7 @@
     <string name="title_of_auto_launch_manage">Avto-başlatma</string>
     <string name="title_of_cloud_service">Bulud xidmətləri</string>
     <string name="title_of_garbage_cloud_scan">Bulud skanı</string>
-    <string name="title_of_garbage_data_set">Təmizləyici verilənlər bazası güncəlləmələri</string>
+    <string name="title_of_garbage_data_set">Təmizləyici data bazası güncəlləmələri</string>
     <string name="title_of_network_speed_set">Status çubuğunda şəbəkə bağlantı sürətini göstər</string>
     <string name="title_of_operators_set">Operator ayarları</string>
     <string name="title_of_package_set">İnternet planı ayarları</string>
