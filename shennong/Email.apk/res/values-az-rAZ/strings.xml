@@ -233,7 +233,7 @@ yol prefiksi"</string>
     <string name="bContact_list_search_hint">Əngəllənən kontaktları axtar</string>
     <string name="b_contacts">Əngəlli siyahısı</string>
     <string name="b_contacts_remove">Əngəlli siyahısından sil</string>
-    <string name="b_contacts_remove_tips">Bu ünvan əngəlli siyahısından çıxarılsın?</string>
+    <string name="b_contacts_remove_tips">Bu ünvan əngəlli siyahısından silinsin?</string>
     <string name="back">Geri</string>
     <string name="bcc">Kopya</string>
     <string name="blank_feedback_toast">Əks-əlaqə yazmağınız lazımdır</string>
@@ -490,7 +490,7 @@ yol prefiksi"</string>
     <string name="folder_notification_setting_tip">Gələn qutunuzda bir neçə qovluq var. Xüsusi qovluqlarda yeni mesajlarla bağlı bildirişlər qurun.</string>
     <string name="folder_synchronization_mail_settings">Qovluq sinxr. ayarları</string>
     <string name="font_bold_add">Qalın</string>
-    <string name="font_bold_remove">Qalın növü çıxart</string>
+    <string name="font_bold_remove">Qalın növü sil</string>
     <string name="font_color">Hazırkı mətn rəngi: %s</string>
     <string name="font_color_black">Qara</string>
     <string name="font_color_blue">Mavi</string>
@@ -502,10 +502,10 @@ yol prefiksi"</string>
     <string name="font_color_red">Qırmızı</string>
     <string name="font_color_white">Ağ</string>
     <string name="font_italic_add">İtalik</string>
-    <string name="font_italic_remove">İtalik növü çıxart</string>
+    <string name="font_italic_remove">İtalik növü sil</string>
     <string name="font_size">Hazırkı mətn ölçüsü: %s</string>
     <string name="font_underline">Altdan xətt</string>
-    <string name="font_underline_remove">Altdan xətti çıxart</string>
+    <string name="font_underline_remove">Altdan xətti sil</string>
     <string name="forever">Həmişə</string>
     <string name="forget_app_password">Parolu unutdum</string>
     <string name="forward">Yönləndir</string>
@@ -1140,7 +1140,7 @@ Tam sinxronlaşdırılana qədər gözləyin və ya mesaja kompüterinizdə bax�
     <string name="title_activity_about">Haqqında</string>
     <string name="to">Kimə</string>
     <string name="to_heading">"A: "</string>
-    <string name="toast_bar_fail_synchronization">"Serverə qoşula bilmədi. Bir və ya iki dəqiqə gözləyib yenidən sınayın."</string>
+    <string name="toast_bar_fail_synchronization">"Serverə bağlana bilmədi. Bir və ya iki dəqiqə gözləyib yenidən sınayın."</string>
     <string name="toast_bar_insufficient_memory_space">"E-poçt alına bilmir. Yetərli anbar sahəsi yoxdur."</string>
     <string name="toast_bar_invalid_account">Hesab məlumatının müddəti bitdi. Yenidən daxil olmaq üçün toxunun.</string>
     <string name="toast_bar_no_connection_network">"İnternet bağlantınız yoxdur"</string>
