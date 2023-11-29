@@ -305,16 +305,16 @@ Başlamazdan əvvəl USB sürücüsündə yetərli anbar sahəsi olduğuna əmin
     <string name="icloud_how_to_backup_tip_steps">"1. iOS cihazınızda Ayarları açın və iCloud-u seçin.
 2. Kontaktlar və digər elementlər üçün düymələri dəyişdirin.
 3. Fotoları seçin və iCloud Foto Kitabxanası düyməsini dəyişdirin."</string>
-    <string name="icloud_how_to_backup_tip_summary">iOS-dan dataları daxilə köçürmək üçün, bir iCloud nüsxəsi yaratmalısınız.</string>
+    <string name="icloud_how_to_backup_tip_summary">Dataları iOS-dan daxilə köçürmək üçün, bir iCloud nüsxəsi yaratmalısınız.</string>
     <string name="icloud_how_to_backup_tip_title">Məsləhətlər:</string>
     <string name="icloud_login_title">iCloud hesabına daxil olun</string>
-    <string name="icloud_need_sync">"iOS-dan dataları daxilə köçürmək üçün,
+    <string name="icloud_need_sync">"Dataları iOS-dan daxilə köçürmək üçün,
 əvvəlcə bir iCloud nüsxəsi yaratmalısınız."</string>
-    <string name="icloud_need_wifi_message">"İndi Wi-Fi-a bağlanmamısınız. iCloud-dan dataları daxilə köçürmək üçün Wi-Fi-a bağlanın."</string>
+    <string name="icloud_need_wifi_message">"İndi Wi-Fi-a bağlanmamısınız. Dataları iCloud-dan daxilə köçürmək üçün Wi-Fi-a bağlanın."</string>
     <string name="icloud_need_wifi_title">Wi-Fi-a bağlan</string>
     <string name="icon_content_description">Dialoq nişanı</string>
     <string name="import_again">Yenidən daxilə köçür</string>
-    <string name="import_data_from_icloud">iCloud-dan dataları daxilə köçür</string>
+    <string name="import_data_from_icloud">Dataları iCloud-dan daxilə köçür</string>
     <string name="import_from_xiaomi_account_hint2">Mövcud bir nüsxəniz varsa, \"Növbəti\"yə toxunun.</string>
     <string name="import_from_xiaomi_account_hint_title">Kontaktlarınızı cihazlar arasında nüsxələmək üçün Mi Talk istifadə edin.</string>
     <string name="import_tip_summary">Uyğunluq problemlərinə görə, iOS cihazından dataların yalnız bir qismini köçürə bilərsiniz. Köçürməyə başlamazdan əvvəl iCloud nüsxələməsi etdiyinizə əmin olun.</string>
@@ -688,8 +688,8 @@ Başlamazdan əvvəl USB sürücüsündə yetərli anbar sahəsi olduğuna əmin
     <string name="saturday_shortest">Şәn</string>
     <string name="save_finish_with_failing_items">"Köçürmə kəsildi.
 Köçürülməyən datalar təkrar daxilə köçürülməlidir."</string>
-    <string name="saving_data">"Data iCloud-dan daxilə köçürülür…
-Wi-Fi-ı bağlamayın"</string>
+    <string name="saving_data">"Datalar iCloud-dan daxilə köçürülür…
+Wi-Fi-ı söndürməyin"</string>
     <string name="saving_data_no_time">Data bərpa edilir…</string>
     <string name="saving_data_space_low">"Yetərli anbar sahəsi yoxdur.\nƏn azı %s boşaldın."</string>
     <string name="sc_bad_request">Yararsız tələb</string>
