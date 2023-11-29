@@ -646,7 +646,7 @@
     <string name="passport_sending_vcode">Kod göndərilir…</string>
     <string name="passport_set">Ayarla</string>
     <string name="passport_set_password_no_phone_msg">Hesabınızı qorumaq üçün telefon nömrənizi əlavə edin.</string>
-    <string name="passport_setting">Quraşdırılır…</string>
+    <string name="passport_setting">Qurulur…</string>
     <string name="passport_skip_login">Ötür</string>
     <string name="passport_skip_query_account">Ötür</string>
     <string name="passport_skip_register">Qeydiyyatı ötür</string>
