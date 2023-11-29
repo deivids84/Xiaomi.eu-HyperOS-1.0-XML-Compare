@@ -246,10 +246,10 @@
     <string name="key_combination_power_menu">Güc + Menyu</string>
     <string name="key_combination_power_volume_down">Səs azaltma + Güc</string>
     <string name="key_none">Heç biri</string>
-    <string name="keyboard_connect_failed">"Klaviatura qoşula bilmədi. Yenidən qoşun."</string>
+    <string name="keyboard_connect_failed">"Klaviaturaya bağlana bilmədi. Yenidən qoşun."</string>
     <string name="keyboard_identity_reject_confirm">Anladım</string>
     <string name="keyboard_identity_reject_message">"Deyəsən, klaviaturanız bu cihazla uyğunlaşmır."</string>
-    <string name="keyboard_identity_transfer_error_message">"Klaviatura qoşula bilmədi. Yenidən sınayın."</string>
+    <string name="keyboard_identity_transfer_error_message">"Klaviaturaya bağlana bilmədi. Yenidən sınayın."</string>
     <string name="keyboard_upgrade_failed">"Klaviatura güncəllənə bilmədi"</string>
     <string name="keyboard_upgrade_start">Klaviatura güncəllənir…</string>
     <string name="keyboard_upgrade_success">Klaviatura uğurla güncəlləndi</string>
@@ -273,7 +273,7 @@
     <string name="launch_alipay_health_code">Alipay sağlamlıq kodu</string>
     <string name="launch_alipay_payment_code">Alipay ödəniş kodu</string>
     <string name="launch_alipay_scanner">Alipay skaneri</string>
-    <string name="launch_calculator">Hesablayıcı</string>
+    <string name="launch_calculator">Kalkulyator</string>
     <string name="launch_camera">Kameranı başlat</string>
     <string name="launch_control_center">İdarəetmə mərkəzi</string>
     <string name="launch_google_search">\"Google Köməkçisi\"ni başlat</string>
@@ -395,7 +395,7 @@
     <string name="popup_camera_front_failed">"Ön kamera açıla bilmədi. Yenidən sınayın."</string>
     <string name="popup_camera_front_when_use">Kamera tətbiqi ön kameranı yenidən açmalıdır. İndi açılsın?</string>
     <string name="popup_camera_popup_falied_times_calibrate">"Ön kamera bir neçə dəfə açıla bilmədi. Kameranı kalibrləməyə çalışın."</string>
-    <string name="popup_camera_remove_hid_device">Deyəsən, cihazınız oyun kontrollerinə qoşulub. Oyun kontrollerinə qoşulanda, ön kamera açılmaya bilər.</string>
+    <string name="popup_camera_remove_hid_device">Deyəsən, cihazınız oyun kontrollerinə bağlanıb. Oyun kontrollerinə bağlandıqda, ön kamera açılmaya bilər.</string>
     <string name="popup_camera_sure">Anladım</string>
     <string name="popup_camera_sure_wait">Anladım (%dsan)</string>
     <string name="popup_camera_takeback_falied_times_calibrate">"Ön kamera bir neçə dəfə bağlana bilmədi. Kameranı kalibrləməyə çalışın."</string>
@@ -519,7 +519,7 @@
     <string name="small_freeform_memory_toast_game_type">"İndi açıla bilmir. Bu oyun, işləmək üçün daha çox yaddaş tələb edir."</string>
     <string name="smartisan">Smartisan</string>
     <string name="smartisan_phone">Smartisan</string>
-    <string name="softap_notifif_summary">%d qoşuldu</string>
+    <string name="softap_notifif_summary">%d bağlantılıdır</string>
     <string name="softap_notifif_title">\"%s\" hotspot açıqdır</string>
     <string name="softap_stat_toast">Hotspot açıqdır</string>
     <string name="southwestmountain_preview">Dağlar</string>
