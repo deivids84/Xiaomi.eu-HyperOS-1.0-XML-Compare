@@ -91,12 +91,12 @@
     </string-array>
     <string-array name="settings_search_contacts">
         <item>Kontaktları Xiaomi Cloud ilə sinxronlaşdır</item>
-        <item>Sinxrn. aç/quraşdır</item>
+        <item>Sinxr aç/qur</item>
         <item>Kontaktlar;Zəng tarixçəsi;Cloud;Sinxronlaşdırma;Cloud xidmətləri;Xiaomi Cloud</item>
     </string-array>
     <string-array name="settings_search_dial">
         <item>Zəng tarixçəsini Xiaomi Cloud ilə sinxronlaşdır</item>
-        <item>Sinxrn. aç/quraşdır</item>
+        <item>Sinxr aç/qur</item>
         <item>Zəng tarixçəsi;Cloud;Sinxronlaşdırma;Cloud xidmətləri;Xiaomi Cloud</item>
     </string-array>
     <string-array name="settings_search_find_pad">
@@ -111,7 +111,7 @@
     </string-array>
     <string-array name="settings_search_gallery">
         <item>Qalereyanı Xiaomi Cloud ilə sinxronlaşdır</item>
-        <item>Sinxrn. aç/quraşdır</item>
+        <item>Sinxr aç/qur</item>
         <item>Qalereya;Fotolar;Cloud;Sinxronlaşdırma;Cloud xidmətləri;Xiaomi Cloud</item>
     </string-array>
     <string-array name="settings_search_notes">
@@ -136,7 +136,7 @@
     </string-array>
     <string-array name="settings_search_recorder">
         <item>Səsyazmaları Xiaomi Cloud ilə sinxronlaşdır</item>
-        <item>Sinxrn. aç/quraşdır</item>
+        <item>Sinxr aç/qur</item>
         <item>Səsyazan;Cloud;Sinxronlaşdırma;Cloud xidmətləri;Xiaomi Cloud</item>
     </string-array>
     <string-array name="settings_search_recycle_bin">
@@ -166,7 +166,7 @@
     </string-array>
     <string-array name="settings_search_sms">
         <item>Mesajları Xiaomi Cloud ilə sinxronlaşdır</item>
-        <item>Sinxrn. aç/quraşdır</item>
+        <item>Sinxr aç/qur</item>
         <item>Mesajlar;SMS;MMS;Cloud;Sinxronlaşdırma;Cloud xidmətləri;Xiaomi Cloud</item>
     </string-array>
     <string-array name="settings_search_subscribe_vip">
