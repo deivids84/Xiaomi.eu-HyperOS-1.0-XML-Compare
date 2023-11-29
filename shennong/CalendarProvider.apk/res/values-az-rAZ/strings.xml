@@ -13,7 +13,7 @@
     <string name="debug_tool_email_body">Bütün görüşlərim və şəxsi məlumatlarım olan Təqvim data bazam qoşmadadır. Diqqətlə idarə edin.</string>
     <string name="debug_tool_email_sender_picker">Faylınızı göndərmək üçün bir tətbiq seçin</string>
     <string name="debug_tool_email_subject">Təqvim sazlama aləti əlavə edildi</string>
-    <string name="debug_tool_message">"Təqviminizin data bazasını istənilən tətbiq tərəfindən oxuna bilən SD kart/USB anbara kopyalamaq və verilənlər bazasını e-poçtla göndərmək üzrəsiniz. Uğurla nüsxələdikdən sonra və ya göndərmək üzrə olduğunuz e-poçtu alınanda kopyanı silməyi unutmayın."</string>
+    <string name="debug_tool_message">"Təqviminizin data bazasını istənilən tətbiq tərəfindən oxuna bilən SD kart/USB anbara kopyalamaq və data bazasını e-poçtla göndərmək üzrəsiniz. Uğurla nüsxələdikdən sonra və ya göndərmək üzrə olduğunuz e-poçtu alınanda kopyanı silməyi unutmayın."</string>
     <string name="debug_tool_start_button">Başlat</string>
     <string name="holiday_data_no_network">"Şəbəkəyə bağlana bilmir. İnternet bağlantınızı yoxlayıb yenidən sınayın."</string>
     <string name="holiday_data_update_failed">"Güncəllənə bilmədi. İnternet bağlantınızı yoxlayıb yenidən sınayın."</string>
