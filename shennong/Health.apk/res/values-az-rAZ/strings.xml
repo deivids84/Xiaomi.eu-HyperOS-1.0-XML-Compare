@@ -1485,7 +1485,7 @@ tapıla bilmədi"</string>
     <string name="sync_status">Sinxr. statusu</string>
     <string name="sync_status_failure_retry">"Sinxr. bilmədi. Bir və ya iki dəqiqə gözləyib yenidən sınayın."</string>
     <string name="sync_status_in_progress">Sixnr…</string>
-    <string name="sync_status_network_failure">"Sinxr edilə bilmədi. Şəbəkəyə qoşulub yenidən sınayın."</string>
+    <string name="sync_status_network_failure">"Sinxr edilə bilmədi. Şəbəkəyə bağlanıb yenidən sınayın."</string>
     <string name="sync_status_never_done">Sinxr edilməyib</string>
     <string name="sync_status_oauth_error">"Məlumat sinxr edilə bilmədi. Əvvəlcə icazələri verin."</string>
     <string name="system_app_setting">Sistem tətbiqi ayarları</string>
