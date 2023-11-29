@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="allow_backup_button_label">Məlumatlarımı nüsxələ</string>
+    <string name="allow_backup_button_label">Datamı nüsxələ</string>
     <string name="allow_restore_button_label">Məlumatlarımı bərpa et</string>
     <string name="backup_confirm_text">"Bütün datanın bağlantılı bir masaüstü kompüterə tam nüsxələnməsi tələb olundu. Bunun baş verməsinə icazə vermək istəyirsiniz?
 
 Nüsxələməni siz tələb etməmisinizsə, bu əməliyyatın davam etdirilməsinə icazə verməyin."</string>
     <string name="backup_confirm_title">Tam nüsxələmə</string>
-    <string name="backup_enc_password_optional">Tam nüsxələmə verilənlərini şifrələmək istəyirsinizsə, aşağıda bir parol daxil edin:</string>
+    <string name="backup_enc_password_optional">Tam nüsxələmə datalarını şifrələmək istəyirsinizsə, aşağıda bir parol daxil edin:</string>
     <string name="backup_enc_password_text">Lütfən tam nüsxələmə datalarını şifrələmək üçün istifadə olunacaq parolu daxil edin. Boş buraxsanız, mövcud nüsxələmə parolunuz istifadə olunacaq:</string>
     <string name="current_password_text">Lütfən hazırkı nüsxə parolunuzu aşağıda daxil edin:</string>
     <string name="deny_backup_button_label">Nüsxələmə etmə</string>
