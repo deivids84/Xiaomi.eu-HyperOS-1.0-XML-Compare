@@ -59,8 +59,8 @@
     <string name="cta_v2_app_purpose">istiqamətlər, koordinatlar, atmosfer təzyiqi və mövcud yüksəklik göstərilir</string>
     <string name="date_picker_lunar">Ənənəvi Çin Təqvimi</string>
     <string name="date_time_picker_dialog_title">Tarix və saatı ayarla</string>
-    <string name="dialog_body_no_network">Wi-Fi şəbəkəsinə qoşul və ya mobil interneti aç.</string>
-    <string name="dialog_body_no_network_china">Wi-Fi şəbəkəsinə qoşul və ya mobil interneti aç.</string>
+    <string name="dialog_body_no_network">Wi-Fi-a bağlan və ya mobil interneti aç.</string>
+    <string name="dialog_body_no_network_china">Wi-Fi-a bağlan və ya mobil interneti aç.</string>
     <string name="dialog_calibrat_altitude">Kalibrlənir…</string>
     <string name="dialog_title_no_network">"Şəbəkəyə bağlana bilmədi"</string>
     <string name="direction_east">Şə</string>
@@ -164,7 +164,7 @@ kalibrlə;Təzyiq;Yüksəklik;Enlik;Uzunluq;Uzunluq yoxlanışı;Enlik yoxlanı�
     <string name="miuix_sbl_tracking_progress_labe_up_none">"İndilik bu qədər"</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">Bir saniyə…</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Eementlər yüklənə bilmədi"</string>
-    <string name="mobiledata_alert_dialog_message">Yüksəkliyi kalibrləmək üçün internetə qoşulsun?</string>
+    <string name="mobiledata_alert_dialog_message">Yüksəkliyi kalibrləmək üçün internetə bağlanılsın?</string>
     <string name="mobiledata_alert_dialog_title">İnternet istifadə xəbərdarlığı</string>
     <string name="monday">Bazar ertəsi</string>
     <string name="monday_short">B.e.</string>
