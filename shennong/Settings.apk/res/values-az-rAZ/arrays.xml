@@ -1131,7 +1131,7 @@ Qeyd: Yalnız Ubuntu 8.04 üçün!"</item>
         <item>Xidmət bağlanır…</item>
         <item>"Seans başladıla bilmir"</item>
         <item>Vaxt bitdi. Yenidən cəhd edilir…</item>
-        <item>Cihaz bağlantı qurdu</item>
+        <item>Cihaz bağlantılıdır</item>
     </string-array>
     <string-array name="whetstone_level_entries">
         <item>Bağlı</item>
@@ -1165,7 +1165,7 @@ Qeyd: Yalnız Ubuntu 8.04 üçün!"</item>
         <item>Mobil</item>
     </string-array>
     <string-array name="wifi_connect_type_entries">
-        <item>Avtomatik bağlantı qur</item>
+        <item>Avto-bağlantı qur</item>
         <item>Əllə bağlantı qur</item>
         <item>Həmişə soruş</item>
     </string-array>
