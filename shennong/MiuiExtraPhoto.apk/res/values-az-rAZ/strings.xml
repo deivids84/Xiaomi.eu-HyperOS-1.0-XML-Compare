@@ -55,9 +55,9 @@
     <string name="doc_photo_enhance_dehandwrite_desc">Əllə yazılmış notları tək toxunuşda silin</string>
     <string name="doc_photo_enhance_effect">Effektlər</string>
     <string name="doc_photo_enhance_handmode_remove">Əllə silin</string>
-    <string name="doc_photo_enhance_moer">Muanı çıxart</string>
-    <string name="doc_photo_enhance_moer_desc">Mua ekran naxışlarını çıxart</string>
-    <string name="doc_photo_enhance_moer_toast">Mua ekran naxışlarını çıxart</string>
+    <string name="doc_photo_enhance_moer">Muanı sil</string>
+    <string name="doc_photo_enhance_moer_desc">Mua ekran naxışlarını sil</string>
+    <string name="doc_photo_enhance_moer_toast">Mua ekran naxışlarını sil</string>
     <string name="doc_photo_enhance_none">Orijinal</string>
     <string name="doc_photo_enhance_undistortion">Əyriliyə qarşı</string>
     <string name="doc_photo_enhance_undistortion_desc">Şəklin əyriliyini düzəlt</string>
