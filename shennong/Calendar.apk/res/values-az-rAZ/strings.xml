@@ -399,7 +399,7 @@
     <string name="menstruation_record">Qeyd edilən periodlar</string>
     <string name="menstruation_select_date">Tarixi seçin</string>
     <string name="menstruation_setting">Menstruasiya ayarları</string>
-    <string name="menstrution_auth_description">Menstruasiya köməkçisi periodları qeyd etməyinizə, yaxınlaşan periodların təxmini tarixlərini müəyyən etməyinizə və xatırladıcılar almağınıza imkan verir. Bütün əlaqəli verilənlər cihazınızın yerli yaddaşında saxlanılır.</string>
+    <string name="menstrution_auth_description">Menstruasiya köməkçisi periodları qeyd etməyinizə, yaxınlaşan periodların təxmini tarixlərini müəyyən etməyinizə və xatırladıcılar almağınıza imkan verir. Bütün əlaqəli datalar cihazınızın yerli yaddaşında saxlanılır.</string>
     <string name="menu_general_preferences">Ümumi</string>
     <string name="menu_reminder_preferences">Xatırladıcılar</string>
     <string name="mesens_card_title_stop_today">Period bu gün bitir</string>
