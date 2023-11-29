@@ -202,7 +202,7 @@
     <string name="print_fail_network_error">"Çap edilə bilmədi. Şəbəkə ayarlarınızı yoxlayıb yenidən sınayın."</string>
     <string name="print_forget_printer">Printeri unut</string>
     <string name="print_help_label">Kömək</string>
-    <string name="print_help_tip">Printerin və telefonunuzun eyni Wi-Fi şəbəkəsinə qoşulu olduğuna və ya \"Wi-Fi Direct\"in açıq olduğuna əmin olun. %1$s.</string>
+    <string name="print_help_tip">Həm printerin, həm də telefonunuzun eyni Wi-Fi şəbəkəsinə bağlandığına və ya Wi-Fi Direct-in açıq olduğuna əmin olun. %1$s.</string>
     <string name="print_help_tip_reg">\"Kömək\" menyusuna bax</string>
     <string name="print_no_print_services">Fəal çap xidməti yoxdur</string>
     <string name="print_no_printers">Heç bir printer tapılmadı</string>
