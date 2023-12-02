@@ -353,7 +353,7 @@
     <string name="keywords_search_translation">Skaner;Tərcümə;Lüğət;İngiliscə;Xarici dil;Dil;Dillər;İngiliscədən Çincəyə;İtalyanca;Almanca;Yaponca;Koreyaca;İspanca;Fransızca;Baidu tərcümə;Youdao lüğəti;Baidu lüğəti;Google Tərcümə</string>
     <string name="kuaidi100_data">Kuaidi 100 tərəfindən təmin edilir</string>
     <string name="label_choose_picture">Şəkil seçin</string>
-    <string name="label_flash_light">Fənər işığı</string>
+    <string name="label_flash_light">Fləş işığı</string>
     <string name="label_flash_light_off">Fənər sönülüdür</string>
     <string name="label_flash_light_on">Fənər yanır</string>
     <string name="language_entry_english">İngiliscə</string>
