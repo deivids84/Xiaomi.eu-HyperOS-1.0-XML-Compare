@@ -15,6 +15,13 @@
         <item>Tarazlı</item>
         <item>İlkin</item>
     </string-array>
+    <string-array name="gb_gpu_custom_frame_rate_gear">
+        <item>Aşağı</item>
+        <item>Standard</item>
+        <item>Yüksək</item>
+        <item>Çox yüksək</item>
+        <item>İlkin</item>
+    </string-array>
     <string-array name="gb_gpu_custom_texture">
         <item>Yüksək sürət</item>
         <item>Tarazlı</item>
