@@ -32,7 +32,7 @@
     <string name="afternoon">Günortadan sonra</string>
     <string name="agree_description">Bütün özəlliklərini istifadə edə bilmək üçün bu tətbiqin internetə bağlanmasına icazə verin.</string>
     <string name="alert_message_clear_records">Seçilmiş səsyazmalar silinsin?</string>
-    <string name="alert_message_delete_record_title">Səsyazma silinsin?</string>
+    <string name="alert_message_delete_record_title">Yazını sil</string>
     <string name="allowed">İcazə verildi</string>
     <string name="am">GƏ</string>
     <string name="app_name">Səsyazan</string>
@@ -290,6 +290,9 @@
     <string name="password_toggle_content_description">Parolu göstər</string>
     <string name="path_soundrecorder_setting">Sistem tətbiqləri/Səsyazan</string>
     <string name="pause_status_focus_notification">Fasilə verildi</string>
+    <string name="permission_bluetooth">Bluetooth bağlantı statusuna müraciət</string>
+    <string name="permission_bluetooth_dialog_description">Yazıları oxudarkən cihazlar arasında keçid edə bilmək üçün bu cihazın yaxınlıqdakı cihazlara bağlanmasına icazə verin.</string>
+    <string name="permission_bluetooth_title">İcazə tələb olunur</string>
     <string name="permission_desc">İcazə detalları</string>
     <string name="permission_dialog_cancel">İmtina</string>
     <string name="permission_dialog_ok">Ayarlar</string>
@@ -308,7 +311,7 @@
     <string name="playback_delete_records">Səsyazmanı sil</string>
     <string name="playback_share_records">Səsyazmanı paylaş</string>
     <string name="pm">GS</string>
-    <string name="preference_clear_data">Verilənləri təmizlə</string>
+    <string name="preference_clear_data">Datanı təmizlə</string>
     <string name="preference_copied">\"%1$s\" lövhəyə kopyalandı.</string>
     <string name="preference_enable_earpiece_summary">Qulaqlıq dinamikini istifadə edərək səs oxut</string>
     <string name="preference_enable_earpiece_title">Qulaqlıq rejimi</string>
