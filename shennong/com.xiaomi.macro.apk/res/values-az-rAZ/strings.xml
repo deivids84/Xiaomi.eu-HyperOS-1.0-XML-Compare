@@ -58,8 +58,8 @@
     <string name="gb_game_macro_guide_tips">Başladıqdan sonra, onları bir kombinasiyada birləşdirmək üçün bir neçə əməliyyat icra edin.</string>
     <string name="gb_game_macro_guide_tips_two">Düymə təyin etmək üçün toxunun</string>
     <string name="gb_game_macro_play_count">Təkrar sayı</string>
-    <string name="gb_game_macro_preview">Önbaxış</string>
-    <string name="gb_game_macro_preview_macro">Önbaxış</string>
+    <string name="gb_game_macro_preview">Önizləmə</string>
+    <string name="gb_game_macro_preview_macro">Önizləmə</string>
     <string name="gb_game_macro_re_record">Başdan başlat</string>
     <string name="gb_game_macro_record_action">Yazmağa başlamaq üçün toxunun</string>
     <string name="gb_game_macro_save">Saxla</string>
