@@ -38,7 +38,7 @@
     <string name="ai_ppt_to_pdf_view_all">Hamısına bax</string>
     <string name="ai_recommend_pdf">PDF-ə çevrildi</string>
     <string name="album">Qalereya</string>
-    <string name="app_function">Fayllara önbaxış, faylları saxlamaq, endirmək və daha çoxu</string>
+    <string name="app_function">Faylları saxlamaq, önizləmək, endirmək və daha çoxu</string>
     <string name="app_is_running">Tətbiq işləyir…</string>
     <string name="app_name">Mi Drive</string>
     <string name="auto_save_to_file">\"PDF-ə çevrildi\" qovluğunda saxlanıldı</string>
@@ -322,7 +322,7 @@ Hazırkı Xiaomi Hesabınızı, MIUI sistem hesabınız kimi istifadə etdiyiniz
     <string name="more">Daha çox</string>
     <string name="morning">Səhər</string>
     <string name="move_file_success">Uğurla daşındı</string>
-    <string name="music_format_not_support">"Bu fayla önbaxış mümkün deyil"</string>
+    <string name="music_format_not_support">"Bu faylı önizləmək mümkün deyil"</string>
     <string name="music_picker_title">Musiqi seçin</string>
     <string name="music_play_attention_network_traffic">Səs və video axını üçün mobil internet istifadəsi əlavə xərclərə səbəb ola bilər</string>
     <string name="music_play_online">Axın</string>
@@ -402,7 +402,7 @@ Hazırkı Xiaomi Hesabınızı, MIUI sistem hesabınız kimi istifadə etdiyiniz
     <string name="pre_privacy_recall">Razılığın geri götürülməsi</string>
     <string name="pre_user_agreement">İstifadəçi Razılaşması</string>
     <string name="preference_copied">\"%1$s\" lövhəyə kopyalandı.</string>
-    <string name="preview">Önbaxış</string>
+    <string name="preview">Önizləmə</string>
     <string name="privacy_policy">Gizlilik Siyasəti</string>
     <string name="privacy_recall_alert_description">"Razılığı geri götürə bilmək üçün bütün elementləri Mi Drive-dan təmizləyin. Elementləri təmizləmək üçün bu addımları izləyin:&lt;br /&gt;1. Mi Drive başlanğıc səhifəsində, \"Hamısını seç\" düyməsinin görünməsi üçün bir elementi basılı tutun. Bir dəfəyə ən çox 200 faylı seçmək və silmək üçün bu düyməni istifadə edin.&lt;br /&gt;2. Bütün elementləri sildikdən sonra, bütün faylları Təzəlikcə silinmiş elementlərdən təmizləyin."</string>
     <string name="privacy_recall_alert_reminder_card_summary">"1. Elementləri silməzdən əvvəl onları nüsxələməyinizi məsləhət görürük. Bunu etmək üçün i.mi.com ünvanına gedin, Mi Drive-a klikləyin, elementlərinizi bir kompüterə endirin. &lt;br /&gt;2. Unutmayın ki, Təzəlikcə silinmiş elementlər bölməsindən silinmiş elementlər sonradan geri qaytarıla bilməz."</string>
