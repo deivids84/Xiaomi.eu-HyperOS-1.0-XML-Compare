@@ -313,7 +313,7 @@
     <string name="public_table_merge">Birləşdir</string>
     <string name="public_table_split">Böl</string>
     <string name="public_table_split_columns_exceed_maximum">Maksimum sütun sayı aşıldı</string>
-    <string name="public_thumbnail_title">Önbaxış</string>
+    <string name="public_thumbnail_title">Önizləmə</string>
     <string name="public_undo">Geri al</string>
     <string name="public_unsave">Ləğv et</string>
     <string name="public_warnedit_dialog_title_text">Məsləhətlər</string>
