@@ -972,7 +972,7 @@ Faylları cihazınızdan Mi Drive-a daşımağa çalışın."</string>
     <string name="web_sso_login_fail">Yenidən daxil olmağınız lazımdır</string>
     <string name="web_sso_login_message">Daxil olunur…</string>
     <string name="webview_reload">Yenidən sına</string>
-    <string name="wechat_msg">"Android 11 məhdudiyyətlərinə görə Fayl Meneceri, WeChat-da önbaxışlı sənədlərə müraciət edə və onları görüntüləyə bilməz. Sənədləri, burada görüntülənməsini təmin etmək üçün WeChat-da açıb anbarda saxlayın."</string>
+    <string name="wechat_msg">"Android 11 məhdudiyyətlərinə görə Fayl Meneceri, WeChat-da önizlənən sənədlərə müraciət edə və onları görüntüləyə bilməz. Burada görünməsini təmin etmək üçün sənədləri WeChat-da açın və saxlayın."</string>
     <string name="wechat_title">"WeChat sənədlərinə müraciət edilə bilmir"</string>
     <string name="wechat_video">Video yeri: %s</string>
     <string name="wednesday">Çərşənbə</string>
