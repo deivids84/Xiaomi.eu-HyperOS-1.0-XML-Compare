@@ -343,12 +343,12 @@
     <string name="music_headphone_settings">Qulaqlıq növünü seçin</string>
     <string name="music_headset_audio_visual">Vizual effektlər</string>
     <string name="music_headset_audio_visual_apply">Tətbiq et</string>
-    <string name="music_headset_audio_visual_mute">Səssiz önbaxış</string>
+    <string name="music_headset_audio_visual_mute">Səssiz önizləmə</string>
     <string name="music_headset_audio_visual_style">Vizual effektlər üslubu</string>
     <string name="music_headset_audio_visual_style_summary">Vizual effektlər üslubunu seçin</string>
     <string name="music_headset_audio_visual_summary">Kilidi ekranda göstərilən vizual effektlərlə səsi müşayiət edin</string>
     <string name="music_headset_audio_visual_toast">Uğurla tətbiq edildi</string>
-    <string name="music_headset_audio_visual_unmute">Səsli önbaxış</string>
+    <string name="music_headset_audio_visual_unmute">Səsli önizləmə</string>
     <string name="music_headset_button_settings">Düymələri təyin et</string>
     <string name="music_headset_calibrate">Düymələri təyin et</string>
     <string name="music_headset_calibrate_apply">İstifadə et</string>
