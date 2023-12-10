@@ -692,8 +692,8 @@ Mi Mesajı aktivləşdirmək üçün bir SMS mesajı göndərmək tələb olunur
     <string name="pref_title_voice_report">Mesajları səsli oxu</string>
     <string name="preference_copied">\"%1$s\" lövhəyə kopyalandı.</string>
     <string name="prepare_send">Göndərməyə hazırlanır…</string>
-    <string name="preview">Önbaxış</string>
-    <string name="preview_slideshow">Önbaxış</string>
+    <string name="preview">Önizləmə</string>
+    <string name="preview_slideshow">Önizləmə</string>
     <string name="priority_high">Yüksək</string>
     <string name="priority_label">"Prioritet: "</string>
     <string name="priority_low">Aşağı</string>
