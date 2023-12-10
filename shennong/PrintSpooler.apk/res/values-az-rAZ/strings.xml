@@ -93,7 +93,7 @@
     <string name="friday_short">Cüm</string>
     <string name="friday_shortest">Cüm</string>
     <string name="generating_print_job">Çap işi yaradılır</string>
-    <string name="install_for_print_preview">Önbaxış üçün PDF görüntüləyicini quraşdır</string>
+    <string name="install_for_print_preview">Önizləmə üçün PDF görüntüləyicini quraşdır</string>
     <string name="label_color">Rəng</string>
     <string name="label_copies">Kopya</string>
     <string name="label_copies_summary">Kopya:</string>
@@ -192,7 +192,7 @@
     <string name="preference_copied">\"%1$s\" lövhəyə kopyalandı.</string>
     <string name="print_add_printer">Printer əlavə et</string>
     <string name="print_button">Çap et</string>
-    <string name="print_cannot_load_page">"Önbaxış göstərilə bilmir"</string>
+    <string name="print_cannot_load_page">"Önizləmə göstərilə bilmir"</string>
     <string name="print_dialog">Çap dialoq qutusu</string>
     <string name="print_error">"Printer xətasına görə çap edilə bilmir"</string>
     <string name="print_error_default_message">"Təəssüf ki, işləmədi. Yenidən sınayın."</string>
@@ -208,8 +208,8 @@
     <string name="print_no_printers">Heç bir printer tapılmadı</string>
     <string name="print_options_collapsed">Çap seçimləri yığcamlaşdırıldı</string>
     <string name="print_options_expanded">Çap seçimləri genişləndirildi</string>
-    <string name="print_preparing_preview">Önbaxış hazırlanır…</string>
-    <string name="print_preview">Çapa önbaxış</string>
+    <string name="print_preparing_preview">Önizləmə hazırlanır…</string>
+    <string name="print_preview">Çap önizləməsi</string>
     <string name="print_search_box_hidden_utterance">Axtarış sahəsi gizlidir</string>
     <string name="print_search_box_shown_utterance">Axtarış sahəsi görünür</string>
     <string name="print_searching_for_printers">Printer axtarılır</string>
