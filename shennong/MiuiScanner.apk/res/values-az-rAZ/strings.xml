@@ -296,7 +296,7 @@
     <string name="food_module_title_food">Kalori</string>
     <string name="form_demo_dialog_negative">Cədvəli skan etmək üçün toxunun, daha sonra Excel faylı kimi xaricə köçürün.</string>
     <string name="form_excel_save_sucess">Excel faylı uğurla saxlanıldı</string>
-    <string name="form_preview_title">Excel cədvəlinə önbaxış</string>
+    <string name="form_preview_title">Excel cədvəli önizləməsi</string>
     <string name="form_recognition_crop_hint">Cədvəlin künclərinin seçilmiş sahənin daxilində olduğuna əmin olun</string>
     <string name="format_error">Yararsız parol</string>
     <string name="friday">Cümə</string>
@@ -559,8 +559,8 @@
     <string name="picture_play_audio">Oxut</string>
     <string name="picture_please">Daha sonra…</string>
     <string name="picture_please_select">Seçin</string>
-    <string name="picture_preview">Önbaxış</string>
-    <string name="picture_preview_num">Önbaxış (%1$d)</string>
+    <string name="picture_preview">Önizləmə</string>
+    <string name="picture_preview_num">Önizləmə (%1$d)</string>
     <string name="picture_prompt">Soruş</string>
     <string name="picture_prompt_content">Şəkilləri telefonunuzda saxlamaq istəyirsiniz?</string>
     <string name="picture_quit_audio">Çıx</string>
@@ -576,7 +576,7 @@
     <string name="picture_take_picture">Çəkiliş</string>
     <string name="picture_tape">Lent</string>
     <string name="picture_video_error">Video zədələnib</string>
-    <string name="picture_video_toast">Video önbaxış deyil</string>
+    <string name="picture_video_toast">Video önizləmə deyil</string>
     <string name="picture_warning">Media fayl yoxdur!</string>
     <string name="picture_webp_tag">webp</string>
     <string name="place_barcode_into_rectangle">Kodu çərçivənin daxilinə yerləşdirin</string>
