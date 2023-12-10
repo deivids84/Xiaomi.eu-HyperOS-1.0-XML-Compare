@@ -499,11 +499,11 @@ Bu kodu nəzarətçiyə göndərin."</string>
     <string name="galleryplus_chose_play_speed">%1$.1fX sürəti ilə oxudulur</string>
     <string name="galleryplus_chose_play_speed_2">%1$.2fX sürəti ilə oxudulur</string>
     <string name="galleryplus_chose_play_speed_failure">"Oxutma sürəti ayarlana bilmədi"</string>
-    <string name="galleryplus_click_to_higher_definition">HD önbaxışını açmaq üçün cüt toxunun</string>
+    <string name="galleryplus_click_to_higher_definition">HD önizləməsini açmaq üçün cüt toxunun</string>
     <string name="galleryplus_copyright_unsported_audio">"Müəllif hüququ məhdudiyyətlərinə görə səs trek videosu oxudula bilmir"</string>
     <string name="galleryplus_copyright_unsported_video">"Müəllif hüququ məhdudiyyətlərinə görə bu video oxudula bilmir"</string>
     <string name="galleryplus_cta_tips">İstifadəçi Təcrübə Proqramına yazılaraq və \"Mi Video\"nun internetə bağlanmasına icazə verərək xidmətlərimizi təkmilləşdirməkdə bizə kömək edə bilərsiniz. Razılaşırsınız?</string>
-    <string name="galleryplus_double_tap_to_higher_definition">HD önbaxışını açmaq üçün yenidən cüt toxunun</string>
+    <string name="galleryplus_double_tap_to_higher_definition">HD önizləməsini açmaq üçün yenidən cüt toxunun</string>
     <string name="galleryplus_fr_unsupport_restore_speed">Dəstəklənməyən kadr tezliyi. Normal sürətə qayıdıldı.</string>
     <string name="galleryplus_gallery_fold_tags">İşarələri gizlət</string>
     <string name="galleryplus_gallery_video_adjust_hint">Yalnız %d fps dəstəklənir</string>
@@ -526,7 +526,7 @@ Bu kodu nəzarətçiyə göndərin."</string>
     <string name="galleryplus_globalvideo_controller_go">Get</string>
     <string name="galleryplus_globalvideo_controller_hint">"\"Mi Video\"nun təkmilləşdirilmiş oxutma təcrübəsinə baxın"</string>
     <string name="galleryplus_globalvideo_controller_tip">Əlavə özəlliklərə baxın</string>
-    <string name="galleryplus_is_higher_definition">HD önbaxışı</string>
+    <string name="galleryplus_is_higher_definition">HD önizləməsi</string>
     <string name="galleryplus_network_connect_check">"Şəbəkəyə bağlana bilmədi"</string>
     <string name="galleryplus_network_connect_confirm">Wi-Fi-ya bağlanın və ya şəbəkə ayarlarında mobil interneti açın.</string>
     <string name="galleryplus_network_error">"Şəbəkəyə bağlana bilmədi"</string>
@@ -1369,7 +1369,7 @@ Bu icazəni yalnız axtardığınız videoları tapmaq üçün istifadə edəcə
     <string name="plus_player_share_screen_searching_device">Yaxınlıqdakı cihazlar axtarılır…</string>
     <string name="plus_player_share_screen_starting_service">Yayımlamaq üçün hazırlanır…</string>
     <string name="plus_player_share_screen_stop">Yayımı dayandır</string>
-    <string name="plus_player_share_screen_video_not_support">"Bu video formatı üçün önbaxışlar dəstəklənmir."</string>
+    <string name="plus_player_share_screen_video_not_support">"Bu video formatı üçün önizləmələr dəstəklənmir."</string>
     <string name="plus_player_speed">Sürət</string>
     <string name="plus_player_speed_toast">%s sürəti uğurla seçildi</string>
     <string name="plus_player_speed_toast_error">Oxutma sürəti indi qeyri-sabitdir. İlkin sürətə qayıdın.</string>
