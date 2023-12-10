@@ -122,7 +122,7 @@
     <string name="keywords_search_compass">Kompas;Kompası
 kalibrlə;Təzyiq;Yüksəklik;Enlik;Uzunluq;Uzunluq yoxlanışı;Enlik yoxlanışı;MIUI Kompası;Kompas tətbiqi;MIUI Kompas tətbiqi;Kompas haradadır;Kompası endir;Atmosfer təzyiqi;Yüksəklik yoxlanışı;Hündürlük nə qədərdir</string>
     <string name="latitude">ENLİK</string>
-    <string name="live_action">Canlı önbaxış</string>
+    <string name="live_action">Canlı önizləmə</string>
     <string name="location_east">Şə</string>
     <string name="location_enable">İcazə ver</string>
     <string name="location_enable_later">Daha sonra</string>
@@ -215,17 +215,17 @@ kalibrlə;Təzyiq;Yüksəklik;Enlik;Uzunluq;Uzunluq yoxlanışı;Enlik yoxlanı�
     <string name="new_cta_app_purpose_one">\"Kompas\" xoş gəlmisiniz! Bu tətbiqi başlıca istiqamətləri, enliyi, uzunluğu, hava təzyiqini və yüksəkliyi tapmaq üçün istifadə edə bilərsiniz. Bu tətbiq, öz xidmətlərini təqdim etmək üçün internetə bağlanmalıdır.</string>
     <string name="new_cta_app_purpose_two">\"Kompas\" xoş gəlmisiniz! Bu tətbiqi başlıca istiqamətləri, enliyi və uzunluğu tapmaq üçün istifadə edə bilərsiniz. Bu tətbiq, öz xidmətlərini təqdim etmək üçün internetə bağlanmalıdır.</string>
     <string name="new_cta_v2_app_purpose">İstiqamətləri, koordinatları, atmosfer təzyiqini və mövcud yüksəkliyi göstərir</string>
-    <string name="new_permission_camera_desc">Canlı önbaxışları göstərmək üçün</string>
+    <string name="new_permission_camera_desc">Canlı önizləmələri göstərmək üçün</string>
     <string name="new_permission_location_desc">Koordinatları göstərmək üçün</string>
     <string name="night">Axşam</string>
     <string name="noon">Günorta</string>
     <string name="not_allowed">İcazə verilmədi</string>
     <string name="not_set">Ayarlanmadı</string>
     <string name="open_camera">Kameranı istifadə et</string>
-    <string name="open_perm_msg">Kompasın yerləşmə məlumatlarına və kameraya müraciətinə ethiyacı var. Bu, kordinatların aşkarlanması və canlı önbaxışların təmin edilməsi üçün lazımdır. İcazə verilsin?</string>
+    <string name="open_perm_msg">\"Kompas\"ın yer məlumatlarına və kameraya müraciətinə ehtiyacı var. Bu, koordinatları aşkarlamaq və canlı önizləmələri təmin etmək üçün lazımdır. İcazə verilsin?</string>
     <string name="open_perm_msg_no_camera">Kompasın koordinantları aşkarlaya bilməsi üçün yerləşmə məlumatlarına müraciətinə ehtiyacı var. İcazə verilsin?</string>
     <string name="open_perm_title">Tələb olunan icazələr</string>
-    <string name="permission_camera_desc">Canlı önbaxışda azimutu görüntüləmək üçün</string>
+    <string name="permission_camera_desc">Canlı önizləmədə azimutu göstərmək üçün</string>
     <string name="permission_description">İcazə detalları</string>
     <string name="permission_location_desc">Koordinatları göstərmək üçün</string>
     <string name="pm">GS</string>
