@@ -222,9 +222,9 @@
     <string name="content_center">Məzmun Mərkəzi</string>
     <string name="content_description_for_shortcut_icon_checked">%1$s, yoxlanıldı</string>
     <string name="content_description_shortcut_icon_unchecked">%1$s, yoxlanılmadı</string>
-    <string name="content_description_workspace_thumbnail_item">Ekrana önbaxış, səhifə %1$s</string>
+    <string name="content_description_workspace_thumbnail_item">Ekrana önizləməsi, səhifə %1$s</string>
     <string name="copy">Kopyala</string>
-    <string name="current_preview">Önbaxış</string>
+    <string name="current_preview">Önizləmə</string>
     <string name="current_wallpaper">Mövcud</string>
     <string name="date_time_picker_dialog_title">Tarix və saatı ayarla</string>
     <string name="defalut_launcher_title">İlkin başladıcı</string>
@@ -557,7 +557,7 @@ Təkmilləşdirilmiş güvənlik."</string>
     <string name="new_default_folder_title_tools">Sistem tətbiqləri</string>
     <string name="new_feature_title">"Yeniliklər"</string>
     <string name="new_open_personal_assistant_settings_simplified">Tətbiq kassası</string>
-    <string name="new_privacy_thumbnail_blur_summary">Sonuncularda tətbiq önbaxışlarını bulanıqlaşdır</string>
+    <string name="new_privacy_thumbnail_blur_summary">Sonuncularda tətbiq önizləmələrini bulanıqlaşdır</string>
     <string name="new_recents_config_title">Digər</string>
     <string name="night">Axşam</string>
     <string name="no_space_toast">Yetərli sahə yoxdur</string>
@@ -599,8 +599,8 @@ Təkmilləşdirilmiş güvənlik."</string>
     <string name="popular_search">Məşhur</string>
     <string name="preference_copied">\"%1$s\" lövhəyə kopyalandı.</string>
     <string name="preferred_app_settings_not_selected">Seçilmədi</string>
-    <string name="privacy_thumbnail_blur_summary">Sonuncularda tətbiq önbaxışlarını bulanıqlaşdır</string>
-    <string name="privacy_thumbnail_blur_title">Tətbiq önbaxışlarını bulanıqlaşdır</string>
+    <string name="privacy_thumbnail_blur_summary">Sonuncularda tətbiq önizləmələrini bulanıqlaşdır</string>
+    <string name="privacy_thumbnail_blur_title">Tətbiq önizləmələrini bulanıqlaşdır</string>
     <string name="quick_app">Cəld tətbiqlər</string>
     <string name="quick_finder_feature_description">Quick Finder, tətbiqləri, tətbiq daxili məzmunu və elementləri onlayn olaraq daha tez tapmağınıza imkan verir. Bu özəlliyi Ayarlarda söndürə bilərsiniz.</string>
     <string name="quick_finder_tip_title">Ehtiyacınız olan hər şeyi daha tez tapın</string>
@@ -755,7 +755,7 @@ Təkmilləşdirilmiş güvənlik."</string>
     <string name="uninstall_xspace_dialog_title_format">İkili \"%s\" tətbiqi silinsin?</string>
     <string name="unnamed_folder_name">Qovluq</string>
     <string name="unstable_dialog_message">Bu cihaz Android 14 Developer Preview Proqramına yazılıb. Proqram, Android developerlərin və həvəskərların Android 14-ün buraxılışdan əvvəlki versiyalarını sınamağına imkan verir. Bu ön-buraxılış versiyası, cihazınızın normal işləməsinə təsir edə biləcək xətalar və qüsurlar ehtiva edə bilər.</string>
-    <string name="unstable_dialog_title">Android Tərtibatçı Önbaxış Proqramı</string>
+    <string name="unstable_dialog_title">Android Tərtibatçı Önizləmə Proqramı</string>
     <string name="upgrade_remove_small_window_in_recents">Tətbiqləri üzən pəncərələrdə açmaq üçün yan çubuğu istifadə edə bilərsiniz</string>
     <string name="v7_preference_off">BAĞLI</string>
     <string name="v7_preference_on">AÇIQ</string>
