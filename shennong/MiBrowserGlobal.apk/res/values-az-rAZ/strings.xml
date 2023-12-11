@@ -281,7 +281,7 @@ Sinxronlaşdırmanı dayandırmaq üçün söndürün."</string>
     <string name="branch_viewpage_title_local">Quraşdırıldı</string>
     <string name="browser">Mi Brauzer</string>
     <string name="browserFrameFileErrorLabel">Fayl xətası</string>
-    <string name="browserFrameFormResubmitMessage">"Baxmağa çalışdığınız səhifə, daha əvvəl göndərilmiş verilənlər ehtiva edir. Verilənləri təkrar göndərsəniz, əvvəlki əməliyyatlar (axtarışlar və ya satın almalar və s.) təkrarlanacaq."</string>
+    <string name="browserFrameFormResubmitMessage">"Baxmağa çalışdığınız səhifə, daha əvvəl göndərilmiş datanı ehtiva edir. Dataları təkrar göndərsəniz, əvvəlki əməliyyatlar (axtarışlar və ya satın almalar və s.) təkrarlanacaq."</string>
     <string name="browserFrameNetworkErrorLabel">Bağlantı xətası</string>
     <string name="browser_wallpaper">Divar kağızları</string>
     <string name="browser_wallpaper_activity">Promosyonlar</string>
@@ -292,11 +292,12 @@ Sinxronlaşdırmanı dayandırmaq üçün söndürün."</string>
     <string name="browser_wallpaper_landscape">Mənzərə</string>
     <string name="browser_wallpaper_more_btn">Daha çoxuna bax</string>
     <string name="browser_wallpaper_my">Divar kağızlarım</string>
-    <string name="browser_wallpaper_preview">Önbaxış</string>
+    <string name="browser_wallpaper_preview">Önizləmə</string>
     <string name="browser_wallpaper_sub">Bayram temalı və xüsusi divar kağızları üçün tövsiyələr alın</string>
     <string name="browser_wallpaper_subtitle">Mi Brauzerinizi gözəl divar kağızları ilə fərdiləşdirin.</string>
     <string name="browser_wallpaper_system_default">İlkin</string>
     <string name="browser_wallpaper_title">Divar kağızları</string>
+    <string name="browser_wallpaper_toast">Divar kağızlarını dəyişdirə bilmək üçün Tanıtımlar keçidini söndürün</string>
     <string name="btn_agree">Razıyam</string>
     <string name="btn_cancel">İmtina</string>
     <string name="camera_permission_name">Kameranı istifadə et</string>
@@ -461,10 +462,12 @@ Sinxronlaşdırmanı dayandırmaq üçün söndürün."</string>
     <string name="confirm_privacy_password">Kilid açma naxışınızı çəkin</string>
     <string name="confirm_unbundled_phone_dialog_message">Bu telefon nömrəsi %1$s tarixində %2$s Mi Hesabı ilə əlaqələndirilib. Davam etsəniz %3$s Mi Hesabı ilə əlaqələndirilməyəcək. Davam edirsiniz?</string>
     <string name="connection_lost">Bağlantı kəsildi</string>
+    <string name="content_center_title">Məzmun Mərkəzi</string>
     <string name="content_collection_done">Uğurla sevimlilərə əlavə edildi</string>
     <string name="content_recommend">Tövsiyə edilən</string>
     <string name="contextmenu_add_contact">Kontakt əlavə et</string>
     <string name="contextmenu_copy">Kopyala</string>
+    <string name="contextmenu_copy_image">Təsviri kopyala</string>
     <string name="contextmenu_copylink">URL-ni kopyala</string>
     <string name="contextmenu_dial_dot">Yığ…</string>
     <string name="contextmenu_download_image">Təsviri saxla</string>
@@ -489,11 +492,13 @@ Sinxronlaşdırmanı dayandırmaq üçün söndürün."</string>
     <string name="continue_reading">Oxumağa davam et</string>
     <string name="continue_watch_video">Baxmağa davam et</string>
     <string name="copy">Kopyala</string>
+    <string name="copy_image_failed">"Kopyalana bilmədi"</string>
+    <string name="copy_image_success">Uğurla kopyalandı</string>
     <string name="copy_success">Uğurla kopyalandı</string>
     <string name="copy_toast_msg">Keçid lövhəyə kopyalandı</string>
     <string name="copy_url">URL-ni kopyala</string>
     <string name="core_functions_of_browser">Təməl özəlliklər barmaqlarınızın ucunda</string>
-    <string name="could_not_load_data">"Verilənlər yüklənilə bilmədi, təzələyib yenidən sınayın"</string>
+    <string name="could_not_load_data">"Data yüklənə bilmədi, təzələyib yenidən sınayın"</string>
     <string name="crash_page_button">Yenidən sına</string>
     <string name="crash_page_description">Bu veb səhifə göstərilərkən nəsə səhv getdi.</string>
     <string name="crash_page_title">Xəta!</string>
@@ -507,12 +512,17 @@ Sinxronlaşdırmanı dayandırmaq üçün söndürün."</string>
 Baxdığınız səhifələr tarixçədə görünməyəcək."</string>
     <string name="custom_page_guide_content">Əlfəcinlər, ayarlar və alətlər buradadır!</string>
     <string name="dark_mode">Qaranlıq rejim</string>
-    <string name="data_error">Verilənlər xətası</string>
+    <string name="data_error">Data xətası</string>
     <string name="data_format_ymd">dd/MM/yyyy</string>
     <string name="data_traffic_prompt_title">Video indi oxudulmağa davam edilsin?</string>
     <string name="date_picker_lunar">Ənənəvi Çin Təqvimi</string>
     <string name="date_time_picker_dialog_title">Tarix və saatı ayarla</string>
     <string name="debug_crash">Çökmə sazlamasını fəallaşdır</string>
+    <string name="debug_user_firebase_config_list_title">Firebase Konfq. Siyahısı</string>
+    <string name="debug_user_firebase_config_reset">Sıfırla</string>
+    <string name="debug_user_firebase_config_reset_confirm_dialog">Firebase konfq.ları sıfırlanacaq</string>
+    <string name="debug_user_firebase_config_reset_loading_dialog">Emal olunur…</string>
+    <string name="debug_user_firebase_config_search_hint">Konfiqurasiya axtar</string>
     <string name="debug_youtube_file">YouTube faylının sazlanması</string>
     <string name="debug_youtube_in_release">Buraxılışda YouTube-un sazlanması</string>
     <string name="decompress">Arxivdən çıxart</string>
@@ -697,7 +707,7 @@ Bu kodu nəzarətçiyə göndərin."</string>
     <string name="empty_history_hint">Tarixçə boşdur</string>
     <string name="empty_snapshot_hint">Boş</string>
     <string name="enable_geolocation_confirm_message">Yerləşmə xidmətlərini bağlamağınız, aldığınız tövsiyələrə təsir edəcək.</string>
-    <string name="enable_miui_lite_plus">MiuiLite+ sazlamanı fəallaşdır</string>
+    <string name="enable_miui_lite_plus">Lite+ sazlamanı fəallaşdır</string>
     <string name="enable_notification_permission_in_settings">Bu özəlliyi istifadə edə bilmək üçün Ayarlarda bildirişlərə icazə verin.</string>
     <string name="encrypt_success">Uğurla gizlədildi</string>
     <string name="encrypting">Şifrələnir…</string>
@@ -930,7 +940,7 @@ Bu kodu nəzarətçiyə göndərin."</string>
     <string name="get_phone_bind_exceed_limit">"Bir telefon nömrəsi ilə 3 Mi Hesabına qədər əlaqələndirə bilərsiniz. Yeni hesablar əlavə edilə bilmir."</string>
     <string name="get_phone_verifycode_exceed_limit">Bu nömrəyə həddən artıq doğrulama kodu göndərilib. 24 saat gözləyib yenidən sınayın.</string>
     <string name="go_supermarket_button">Get</string>
-    <string name="go_supermarket_title">Daha çox tətbiq, daha yüksək sürət və daha az verilənlər istifadəsi üçün Tətbiq Mağazasında istifadə edin</string>
+    <string name="go_supermarket_title">App Store-da daha çox tətbiq, daha yüksək sürət və daha az internet istifadəsi</string>
     <string name="go_to_tab">Vərəqlər</string>
     <string name="gold_medals">Qızıl medallar</string>
     <string name="google_bookmarks">Google</string>
@@ -987,14 +997,13 @@ Bu kodu nəzarətçiyə göndərin."</string>
     <string name="ignore_add_game_center_dialog_this_week">"Bu həftə göstərmə"</string>
     <string name="ignore_add_pwa_dialog_today">"Bu gün göstərmə"</string>
     <string name="improve_mi_browser_pe">Mi Brauzeri təkmilləşdirməyimizə kömək edin</string>
-    <string name="in_secureaccess">Brauzer, Güvənli rejimə keçdi</string>
     <string name="incognito_message">"Artıq gizli gəzinə bilərsiniz, bu cihazı istifadə edən digər şəxslər fəaliyyətinizi görə bilməyəcək. Ancaq, endirmələr və əlfəcinlər saxlanılacaq."</string>
     <string name="incognito_off">Gizli rejim bağlıdır.</string>
     <string name="incognito_on">"Gizlisiniz!"</string>
     <string name="incognito_tips1">"Mi Brauzer aşağıdakı məlumatları saxlamayacaq:
 • Gəzinti tarixçəniz
-• Çərəzlər və sayt verilənləri
-• Formlarda daxil olan məlumatlar"</string>
+• Çərəzlər və sayt datası
+• Formlarda daxil edilən məlumatlar"</string>
     <string name="incognito_tips2">"Fəaliyyətiniz hələ də bunlara görünə bilər:
 • Ziyarət etdiyiniz saytlar
 • İşəgötürən və ya məktəb
@@ -1220,6 +1229,7 @@ Bu kodu nəzarətçiyə göndərin."</string>
     <string name="more_option">Daha çox seçim</string>
     <string name="more_privacy">Daha çox gizlilik seçimi</string>
     <string name="more_recommend">Daha çox tövsiyə</string>
+    <string name="more_videos">Daha çox video</string>
     <string name="morning">Səhər</string>
     <string name="most_visited_sites">Ən çox ziyarət edilənlər</string>
     <string name="most_visited_sites_switch">Başlanğıc səhifəsində ən çox ziyarət edilən saytları göstər</string>
@@ -1488,8 +1498,6 @@ Bu səhifə tərk edilsin?"</string>
     <string name="navigationbar_rightbutton_actiontext_go">Get</string>
     <string name="navigationbar_rightbutton_actiontext_search">Axtar</string>
     <string name="net_error">Şəbəkə xətası</string>
-    <string name="network_show_wifi_setting_tip_dialog_description">Yaxınlıqda Wi-Fi hotspot tapıldı. Bağlantı qurmağa çalışılsın?</string>
-    <string name="network_show_wifi_setting_tip_dialog_title">Wi-Fi şəbəkəsi mövcuddur</string>
     <string name="new_update_available">Bir güncəlləmə var</string>
     <string name="news_flow_more_recommend">Daha çox tövsiyə edilən elementlər</string>
     <string name="news_load_failed">Yenidən sınamaq üçün toxunun</string>
@@ -1777,10 +1785,10 @@ Bu səhifə tərk edilsin?"</string>
     <string name="pref_check_security_url_title_international">URL-ni al</string>
     <string name="pref_clear_adblock_statistics">Reklam əngəlləyici tarixçəsini təmizlə</string>
     <string name="pref_clear_adblock_statistics_dlg">Reklam əngəlləyici tarixçəsi indi təmizlənsin?</string>
-    <string name="pref_clear_all_data_dlg">Yuxarıda saxlanılmış verilənlərin hamısı silinsin?</string>
-    <string name="pref_clear_all_data_switch_title">Çıxarkən gəzinmə verilənlərini təmizlə</string>
+    <string name="pref_clear_all_data_dlg">Yuxarıda saxlanılmış datanın hamısı silinsin?</string>
+    <string name="pref_clear_all_data_switch_title">Çıxarkən gəzinmə datasını təmizlə</string>
     <string name="pref_clear_all_data_title">Hamısını təmizlə</string>
-    <string name="pref_clear_data_title">Verilənləri təmizlə</string>
+    <string name="pref_clear_data_title">Datanı təmizlə</string>
     <string name="pref_clear_history_when_exit">Çıxarkən tarixçəni təmizlə</string>
     <string name="pref_confirm_for_exit">Brauzerdən çıxmazdan əvvəl soruş</string>
     <string name="pref_content_auto_light_mode">Avto-parlaqlıq</string>
@@ -1828,9 +1836,9 @@ Bu səhifə tərk edilsin?"</string>
     <string name="pref_privacy_clear_cookies">Çərəzlər</string>
     <string name="pref_privacy_clear_cookies_dlg">Bütün çərəzlər indi silinsin?</string>
     <string name="pref_privacy_clear_cookies_summary">Cihazınızda saxlanılmış bütün çərəzləri təmizləyin. Çərəzlər, ziyarət etdiyiniz saytlar tərəfindən yaradılır və cihazınızda saxlanılır ki, daha əlverişli gəzinmə təcrübəsindən həzz ala biləsiniz.</string>
-    <string name="pref_privacy_clear_form_data">Form verilənləri</string>
-    <string name="pref_privacy_clear_form_data_dlg">Bütün form verilənləri indi təmizlənsin?</string>
-    <string name="pref_privacy_clear_form_data_summary">Formların doldurulması üçün istifadə olunan bütün verilənləri avtomatik təmizlə</string>
+    <string name="pref_privacy_clear_form_data">Form datası</string>
+    <string name="pref_privacy_clear_form_data_dlg">Bütün form datası indi təmizlənsin?</string>
+    <string name="pref_privacy_clear_form_data_summary">Formları avto-doldurmaq üçün istifadə olunan bütün datanı təmizlə</string>
     <string name="pref_privacy_clear_history">Tarixçə</string>
     <string name="pref_privacy_clear_history_by_group_dlg">Gəzinmə tarixçəsi təmizlənsin?</string>
     <string name="pref_privacy_clear_history_dlg">Bütün gəzinmə tarixçəsi qeydləri indi təmizlənsin?</string>
@@ -1844,7 +1852,7 @@ Bu səhifə tərk edilsin?"</string>
     <string name="pref_privacy_cookies_title">Çərəzlər</string>
     <string name="pref_privacy_enable_geolocation">Yerləşmə</string>
     <string name="pref_privacy_enable_geolocation_summary">Brauzerin yerləşmənizə müraciət tələbinə icazə verin</string>
-    <string name="pref_privacy_formdata_title">Form verilənləri</string>
+    <string name="pref_privacy_formdata_title">Form datası</string>
     <string name="pref_privacy_location_title">Yerləşməyə müraciət</string>
     <string name="pref_privacy_performance_id_instead_by_random_id">"Hazırkı Performans Kimliyinizi təsadüfi yaradılan yenisi ilə əvəz edəcəyik."</string>
     <string name="pref_privacy_performance_id_is">"Hazırkı Performans Kimliyi: "</string>
@@ -1856,8 +1864,8 @@ Bu səhifə tərk edilsin?"</string>
     <string name="pref_security_accept_cookies">Çərəzləri qəbul et</string>
     <string name="pref_security_accept_cookies_summary">"Bu veb səhifələri ziyarət etməsəniz belə tərcihlərinizi xatırlamaq üçün saytların çərəzləri saxlamasına, oxumasına və istifadə etməsinə icazə verin"</string>
     <string name="pref_security_do_not_track">İzləməyin</string>
-    <string name="pref_security_do_not_track_summary">"Gəzinmə verilənlərinizin yığılmasını və ya izlənilməsini istəmədiyiniz saytları məlumatlandırmaq üçün bunu seçin. Fərqli saytlar belə tələblərə fərqli reaksiya verə bilər.
-Bəzi saytlar, reklamlarını sizin üçün fərdiləşdirmək üçün əvvəlki gəzinmə tarixçənizi istifadə etmir, bəziləri isə fərqli məqsədlərlə (güvənliyi, məzmunu təmin etmək, əlaqəli reklamlar göstərmək və daha çoxu) gəzinmə tarixçənizi yığa və istifadə edə bilər."</string>
+    <string name="pref_security_do_not_track_summary">"Saytlara, gəzinmə datanızın yığılmasını və ya izlənilməsini istəmədiyinizi bildirmək üçün bunu seçin. Fərqli saytlar belə tələblərə fərqli reaksiya verə bilər.
+Bəzi saytlar, reklamlarını sizin üçün fərdiləşdirmək məqsədilə əvvəlki gəzinmə tarixçənizi istifadə etmir, bəziləri isə fərqli məqsədlərlə (güvənliyi, məzmunu təmin etmək, əlaqəli reklamlar göstərmək və daha çoxu) gəzinmə tarixçənizi yığa və istifadə edə bilər."</string>
     <string name="pref_security_passwords_title">Parollar</string>
     <string name="pref_security_remember_passwords">Parolları xatırla</string>
     <string name="pref_security_remember_passwords_summary">Veb saytlar üçün istifadəçi adı və parolları saxlayın və avtomatik doldurun. Saxlanılmış elementlər şifrələnir və yalnız bu cihazda yaddaşa yazılır.</string>
@@ -1929,19 +1937,19 @@ Bəzi saytlar, reklamlarını sizin üçün fərdiləşdirmək üçün əvvəlki
     <string name="privacy_agreement">İstifadəçi Razılaşması</string>
     <string name="privacy_authorize_cannot_revoke_dialog_msg">"Bu əməliyyat, Gizli rejimdə edilə bilməyən Performans Kimliyinizin yüklənməsini tələb edir. Gizli rejimi tərk eidb yenidən sınayın."</string>
     <string name="privacy_authorize_network_error">Razılığınızı geri götürə bilmək üçün cihazınız şəbəkəyə bağlanmalıdır. Şəbəkə ayarlarınızı yoxlayıb yenidən sınayın.</string>
-    <string name="privacy_authorize_revoke">Ləğv et</string>
-    <string name="privacy_authorize_revoke_dialog_msg">Səlahiyyəti ləğv etdikdən sonra, Mi Brauzer verilənlərin yığılmasını dayandıracaq və bütün əlaqəli verilənlər serverlərdən silinəcək. Bu, Mi Brauzeri yararsız edə bilər. Yenə də səlahiyyət ləğv edilsin?</string>
-    <string name="privacy_authorize_revoke_dialog_title">Səlahiyyət ləğv edilir</string>
-    <string name="privacy_authorize_revoke_failed">"Səlahiyyət ləğv edilə bilmədi"</string>
-    <string name="privacy_authorize_revoke_success">Səlahiyyət uğurla ləğv edildi</string>
-    <string name="privacy_authorize_revoke_time">Ləğv et (%1$ds)</string>
-    <string name="privacy_authorize_revoking">Səlahiyyət ləğv edilir…</string>
-    <string name="privacy_authorize_summary">Səlahiyyət vermək və ya səlahiyyəti ləğv etmək üçün açarı açın və bağlayın</string>
-    <string name="privacy_authorize_title">Səlahiyyətləndirmə</string>
+    <string name="privacy_authorize_revoke">Geri götür</string>
+    <string name="privacy_authorize_revoke_dialog_msg">Səlahiyyəti ləğv etdikdən sonra, Mi Brauzer dataların yığılmasını dayandıracaq və bütün əlaqəli datalar serverlərdən silinəcək. Bu, Mi Brauzeri yararsız edə bilər. Yenə də səlahiyyət ləğv edilsin?</string>
+    <string name="privacy_authorize_revoke_dialog_title">Razılığı geri götür</string>
+    <string name="privacy_authorize_revoke_failed">"Razılıq geri götürülə bilmədi"</string>
+    <string name="privacy_authorize_revoke_success">Razılıq uğurla geri götürüldü</string>
+    <string name="privacy_authorize_revoke_time">Geri götür (%1$ds)</string>
+    <string name="privacy_authorize_revoking">Razılıq geri götürülür…</string>
+    <string name="privacy_authorize_summary">Razılığınızı vermək və ya geri götürmək üçün açarı açın və bağlayın</string>
+    <string name="privacy_authorize_title">Razılığı geri götür</string>
     <string name="privacy_btn_more">Daha çox</string>
     <string name="privacy_disagree">"Razı deyiləm"</string>
     <string name="privacy_improve_performance">İstifadəçi Təcrübə Proqramı</string>
-    <string name="privacy_improve_performance_desc">Məhsul və xidmətlərimizi təkmilləşdirmək üçün Xiaomi-yə istifadəçi verilənlərini yığma və təhlil etmə icazəsi verin</string>
+    <string name="privacy_improve_performance_desc">Məhsul və xidmətlərimizi təkmilləşdirmək üçün Xiaomi-yə istifadəçi datalarını yığma və təhlil etmə icazəsi verin</string>
     <string name="privacy_message">Brauzeri istifadə etməzdən əvvəl, &lt;font color=\"#4086f5\"&gt;&lt;a href=\"%1$s\" style=\"color:#4086f5;\"&gt;İstifadəçi Razılaşmamız&lt;/a&gt;&lt;/font&gt; və &lt;font color=\"#4086f5\"&gt;&lt;a href=\"%2$s\" style=\"color:#4086f5;\"&gt;Gizlilik Siyasətimizlə&lt;/a&gt;&lt;/font&gt; razılaşmalısınız.</string>
     <string name="privacy_message_main_tips_first">Mi Brauzer, sizə təməl xidmətləri təqdim etmək üçün lazımi şəxsi məlumatları yığmalıdır. Yığdığımız məlumatları necə emal etdiyimizi &lt;font color=#0a84ff&gt;&lt;a href=%1$s style=color:#0a84ff;&gt;Gizlilik Siyasətimizdə&lt;/a&gt;&lt;/font&gt; öyrənə bilərsiniz. İstənilən vaxt, Ayarlar &gt; Gizlilik və güvənlik bölməsində Mi Brauzerin Gizlilik Siyasətinə verdiyiniz razılığı geri götürə bilərsiniz. Mi Brauzeri istifadə etməzdən əvvəl &lt;font color=#0a84ff&gt;&lt;a href=%2$s style=color:#0a84ff;&gt;İstifadəçi Razılaşmamızı&lt;/a&gt;&lt;/font&gt; və &lt;font color=#0a84ff&gt;&lt;a href=%1$s style=color:#0a84ff;&gt;Gizlilik Siyasətimizi&lt;/a&gt;&lt;/font&gt; oxuyun və razılaşın.</string>
     <string name="privacy_message_main_tips_second">"Bu cihazdakı tətbiqləri axtara və hansı tətbiqlərin quraşdırıldığını bilmək üçün Mi Brauzer, yerli yaddaşda saxlamayacaq və ya hər hansısa formda yükləməyəcək tətbiq quraşdırma məlumatlarına müraciət etməlidir."</string>
@@ -2028,6 +2036,7 @@ Bəzi saytlar, reklamlarını sizin üçün fərdiləşdirmək üçün əvvəlki
     <string name="reboot">Yenidən başlat</string>
     <string name="recent_apk_status_install">QURAŞDIRILDI</string>
     <string name="recommend">Tövsiyə edilən</string>
+    <string name="recommend_bottom_guide">Daha çox videoya baxmaq üçün yuxarı sürüşdür</string>
     <string name="recommend_button">İzlə (%s)</string>
     <string name="recommend_description">"İzləmək istəyə biləcəyiniz bəzi müəllifləri seçdik."</string>
     <string name="record_permission_name">Səs yaz</string>
@@ -2166,8 +2175,6 @@ Bəzi saytlar, reklamlarını sizin üçün fərdiləşdirmək üçün əvvəlki
     <string name="search_yahoo">Yahoo!</string>
     <string name="search_yicha">Yicha</string>
     <string name="secure_download_in_xiaomi_market">Təbiq mağazasında endir</string>
-    <string name="secureaccess">Güvənli rejimə keç</string>
-    <string name="secureaccess_cancel">Yox say</string>
     <string name="security_url_confirm_message">Bu özəlliyin bağlanması güvənlik riskləri yarada bilər.</string>
     <string name="security_warning">Güvənlik xəbərdarlığı</string>
     <string name="security_warnings_confirm_message">Bu özəlliyin bağlanması güvənlik riskləri yarada bilər.</string>
@@ -2212,8 +2219,8 @@ Bəzi saytlar, reklamlarını sizin üçün fərdiləşdirmək üçün əvvəlki
     <string name="setting_swipe_up">Əsas ekranda yuxarı sürüşdürün</string>
     <string name="settings_search_online_apps">Tətbiq marketləri</string>
     <string name="settings_search_online_apps_desc">Tətbiq marketlərindən məzmunlar</string>
-    <string name="share_image_text">Nə paylaşdığıma bir bax! @MIUI</string>
-    <string name="share_page_text">Nə paylaşdığıma bir bax: %1$s @MIUI| %2$s</string>
+    <string name="share_image_text">Bir foto paylaşdım, bir bax! @Mi Browser</string>
+    <string name="share_page_text">Gör nə paylaşmışam: %1$s @Mi Browser | %2$s</string>
     <string name="share_slide_video_text">Nə paylaşdığıma bir bax: %1$s</string>
     <string name="shear_plate_permission_name">Elementlərə müraciət et və ya onları lövhədə saxla</string>
     <string name="short_cut_name_novel">Ödənişsiz kitablar</string>
@@ -2316,8 +2323,6 @@ Bəzi saytlar, reklamlarını sizin üçün fərdiləşdirmək üçün əvvəlki
     <string name="support_pwa">PWA</string>
     <string name="survey_feedback_general">Oldu</string>
     <string name="switchText">BƏLİ</string>
-    <string name="switch_proxy_dialog_msg">"Şəbəkə hücumu aşkarlandı. MIUI-nin daxili Güvənlik tətbiqini istifadə edin və ya bunu mobil operatorunuza bildirin."</string>
-    <string name="switch_proxy_dialog_title">Şəbəkə hücumu</string>
     <string name="sync_alert_checkbox_bookmark">Əlfəcinlər</string>
     <string name="sync_alert_checkbox_history">Gəzinmə tarixçəsi</string>
     <string name="sync_bookmark">Əlfəcinləri sinxronlaşdır</string>
@@ -2438,6 +2443,10 @@ Bəzi saytlar, reklamlarını sizin üçün fərdiləşdirmək üçün əvvəlki
     <string name="tuesday">Çərşənbə axşamı</string>
     <string name="tuesday_short">Ç.a.</string>
     <string name="tuesday_shortest">Ç.a.</string>
+    <string name="turn_off_dia_btn_cancel">İmtina</string>
+    <string name="turn_off_dia_btn_turn_off">Söndür</string>
+    <string name="turn_off_dia_content">"Məzmun Mərkəzini söndürsəniz, Əsas ekrandan yuxarı sürüşdürə bilməyəcəksiniz. Bu jest üçün əməliyyata Ayarlar &gt; \"Əsas ekran\"da düzəliş edə bilərsiniz. Məzmun Mərkəzi indi söndürülsün?"</string>
+    <string name="turn_off_dia_title">Məzmun Mərkəzi söndürülsün?</string>
     <string name="twitter_moments">Twitter Moments</string>
     <string name="type_not_support">"Bu fayl formatı dəstəklənmir. Faylı paketdən çıxarıb yenidən sınayın."</string>
     <string name="unSwitchText">XEYR</string>
@@ -2465,8 +2474,6 @@ Bəzi saytlar, reklamlarını sizin üçün fərdiləşdirmək üçün əvvəlki
     <string name="url_suggest_indicator_bookmark">Əlfəcinlər/Tarixçə</string>
     <string name="url_suggest_indicator_hoturl">Məşhur</string>
     <string name="url_suggest_indicator_mostvisited">Ən çox ziyarət edilənlər</string>
-    <string name="use_cellular_network_alert_message">"Wi-Fi əlçatmazdır. Əvəzində mobil internet bağlantınız istifadə edilsin?"</string>
-    <string name="use_cellular_network_alert_title">İnternet istifadəsi</string>
     <string name="user_avatar_update_title">Profil şəklini dəyişdir</string>
     <string name="user_avatar_uploading">Bir saniyə…</string>
     <string name="user_defined_webpage">Başlat səhifəsinə əlavə et</string>
@@ -2476,10 +2483,16 @@ Bəzi saytlar, reklamlarını sizin üçün fərdiləşdirmək üçün əvvəlki
 İstənilən vaxt Ayarlar &gt; \"Gizlilik və güvənlik\" bölməsində imtina edə bilərsiniz."</string>
     <string name="user_experience_disagree">"Yazılma"</string>
     <string name="user_experience_title">İstifadəçi Təcrübə Proqramı</string>
+    <string name="user_guide_agree">Razıyam</string>
     <string name="user_guide_color_mode_info">İşıqlı rejimi və Qaranlıq rejim əlçatandır</string>
     <string name="user_guide_color_mode_title">Rəng sxemini seçin</string>
     <string name="user_guide_control_privacy_tips">Gizliliyinizə tam nəzarət edin</string>
+    <string name="user_guide_disagree">"Razı deyiləm"</string>
+    <string name="user_guide_privacy_message">Məzmun Mərkəzini istifadə etməzdən əvvəl oxuyub razılaşın: &lt;font color=#0a84ff&gt;&lt;a href=%1$s style=color:#0a84ff;&gt;Gizlilik Siyasəti&lt;/a&gt;&lt;/font&gt; və &lt;font color=#0a84ff&gt;&lt;a href=%2$s style=color:#0a84ff;&gt;İstifadəçi Razılaşması&lt;/a&gt;&lt;/font&gt;.</string>
+    <string name="user_guide_provide_service_content">Məşhur videolar və xəbərlər</string>
+    <string name="user_guide_provide_service_title">Bu özəllik aşağıdakı xidmətləri təmin edir:</string>
     <string name="user_guide_read_info_tips">Tətbiqləri axtarış nəticələrinə daxil edə bilmək üçün Mi Brauzerin cihazınızda quraşdırılmış tətbiqlər siyahısına müraciət etməsi lazımdır.</string>
+    <string name="user_guide_turn_off_feature">Bu özəlliyi söndürmək üçün &lt;font color=#0a84ff&gt;&lt;u&gt;bura&lt;/u&gt;&lt;/font&gt; toxunun.</string>
     <string name="user_id_hint">E-poçt/Telefon/Mi Hesab Kimliyi</string>
     <string name="username">Ad</string>
     <string name="uuid">UUID (Xaricə köçürmək üçün toxun)</string>
@@ -2515,7 +2528,10 @@ https://www.facebook.com/miui.global.official/videos/1602181069951748"</string>
     <string name="video_guess_you_like">Bəyənə bilərsiniz</string>
     <string name="video_play_next">Növbəti</string>
     <string name="video_replay_btn">Yenidən oxut</string>
+    <string name="video_report_entrance">Bildir</string>
+    <string name="video_report_submit">Göndər</string>
     <string name="video_retry_btn">Yenidən sına</string>
+    <string name="video_select_report_reason">Bir səbəb seç</string>
     <string name="video_view_more">Daha çox</string>
     <string name="view_certificate">Sertifikata bax</string>
     <string name="view_details">Detallara bax</string>
@@ -2700,6 +2716,7 @@ https://www.facebook.com/miui.global.official/videos/1602181069951748"</string>
     <string name="whatsapp_tab_status">Status</string>
     <string name="whatsapp_webpage_btn">Bax</string>
     <string name="whatsapp_webpage_tips">WhatsApp Status Saxlayıcı</string>
+    <string name="withdraw_dia_content">Məzmun Mərkəzinin Gizlilik Siyasətinə verdiyiniz razılığı geri götürsəniz, bu özəllik şəxsi məlumatlarınızın yığılmasını dayandıracaq. Daha əvvəl yığılmış və serverlərimizə yüklənmiş hər hansısa şəxsi məlumat silinəcək. Razılığı geri götürdükdən sonra, Məzmun Mərkəzini istifadə edə bilməyəcəksiniz. Razılıq indi geri götürülsün?</string>
     <string name="xiaomi_sign_in_btn_txt">Daxil olun və ya hesab yaradın</string>
     <string name="year_month_day_format">d MMM yyyy</string>
     <string name="yes">Bəli</string>
