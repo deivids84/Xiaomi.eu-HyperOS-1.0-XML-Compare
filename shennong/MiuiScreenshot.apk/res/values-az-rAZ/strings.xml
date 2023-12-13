@@ -274,7 +274,7 @@
     <string name="screenshot_long_screenshot">Sürüşdür</string>
     <string name="screenshot_save">Saxla</string>
     <string name="screenshot_send">Göndər</string>
-    <string name="screenshot_thumbnail">Ekran şəkli eskizi</string>
+    <string name="screenshot_thumbnail">Ekran şəklinin kiçik şəkli</string>
     <string name="scroll_annotation">Sürüşdür və açıqlama əlavə et</string>
     <string name="scroll_annotation_btn_quit">Açıqlamanı tərk et</string>
     <string name="scroll_annotation_quit_dialog_picture_msg">Çıxmazdan əvvəl açıqlamalar saxlanılsın?</string>
