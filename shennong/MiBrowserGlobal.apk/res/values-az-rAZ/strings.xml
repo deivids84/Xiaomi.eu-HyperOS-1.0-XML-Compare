@@ -266,7 +266,7 @@ Sinxronlaşdırmanı dayandırmaq üçün söndürün."</string>
     <string name="branch_apps">Tətbiqlər</string>
     <string name="branch_contacts">Kontaktlar</string>
     <string name="branch_give_relevant_permissions">Mi Brauzerə Ayarlarda əlaqəli icazələri verin</string>
-    <string name="branch_grant_permission">Tələb olunan icazələr</string>
+    <string name="branch_grant_permission">İcazələr tələb olunur</string>
     <string name="branch_local_search_settings">Yerli axtarış ayarları</string>
     <string name="branch_search_bar_tips">Tətbiq və oyunları axtar</string>
     <string name="branch_search_guide_pop_search">Axtar</string>
