@@ -488,7 +488,7 @@
     <string name="not_insert_contact">"Kontaktlara əlavə edilə bilmir"</string>
     <string name="not_network">"Şəbəkəyə bağlana bilmədi. Bir və ya iki dəqiqə gözləyib yenidən sınayın."</string>
     <string name="not_permissions_hint">Bu özəlliyi istifadə edə bilmək üçün kameraya müraciətə icazə verin.</string>
-    <string name="not_permissions_title">Tələb olunan icazələr</string>
+    <string name="not_permissions_title">İcazələr tələb olunur</string>
     <string name="not_recommend_access_web_url">Yenə də get</string>
     <string name="not_set">Ayarlanmadı</string>
     <string name="note">Açıqlama:</string>
