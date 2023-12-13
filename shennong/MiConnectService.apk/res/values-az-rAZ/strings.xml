@@ -354,7 +354,7 @@ Dinamikinizdə firmware-in güncəl olduğuna əmin olun."</string>
     <string name="time_picker_dialog_title">Vaxtı ayarla</string>
     <string name="time_picker_label_hour">Sa</string>
     <string name="time_picker_label_minute">Dəq</string>
-    <string name="title_settings_dialog">Tələb olunan icazələr</string>
+    <string name="title_settings_dialog">İcazələr tələb olunur</string>
     <string name="today">Bu gün</string>
     <string name="tomorrow">Sabah</string>
     <string name="tuesday">Çərşənbə axşamı</string>
