@@ -205,7 +205,7 @@
     <string name="columbus_player_unit_sec">san</string>
     <string name="columbus_skip_ad">Ötür</string>
     <string name="com_permission_desc">"Mi Video cihazınızdakı videolara müraciət edə bilmir. Ayarlarda müraciətə icazə verin."</string>
-    <string name="com_permission_title">Tələb olunan icazələr</string>
+    <string name="com_permission_title">İcazələr tələb olunur</string>
     <string name="comment_model_add_comment">Bir rəy əlavə et</string>
     <string name="comment_model_bg_add_comment">Fikirlərinizi cəmiyyətimizlə paylaşın</string>
     <string name="comment_model_bg_deleted_comment">Bu rəy silindi</string>
@@ -1292,7 +1292,7 @@ Bu icazəni yalnız axtardığınız videoları tapmaq üçün istifadə edəcə
     <string name="permission_continue">Davam</string>
     <string name="permission_storage">Anbar</string>
     <string name="permission_storage_desc">Elementlərə müraciət etmək, faylları saxlamaq, yerli videoları göstərmək və oxutmaq üçün</string>
-    <string name="permission_title">Tələb olunan icazələr</string>
+    <string name="permission_title">İcazələr tələb olunur</string>
     <string name="pgc_push_title">Abunəliklər</string>
     <string name="phone_bind_too_many">Bu telefon qısa bir müddət ərzində bir neçə Mi Hesabı ilə əlaqələndirilib. Fərqli telefon nömrəsi istifadə edərək sınayın.</string>
     <string name="phone_hint">Telefon nömrəsi</string>
