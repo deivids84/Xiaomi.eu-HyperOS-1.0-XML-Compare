@@ -98,7 +98,7 @@
     <string name="friday_short">Cüm</string>
     <string name="friday_shortest">Cüm</string>
     <string name="grant_permission_go_and_set_2">Ayarlar</string>
-    <string name="grant_permission_remind_title">Tələb olunan icazələr</string>
+    <string name="grant_permission_remind_title">İcazələr tələb olunur</string>
     <string name="grant_permission_storage">Bu tətbiqin anbar sahəsinə müraciətinə icazə verin.</string>
     <string name="grant_permission_text">\"Qalereya Redaktoru\"nun normal işləməsi üçün aşağıdakı icazələrə ehtiyacı var: %s. İcazəni vermək üçün \"Ayarlar\"a toxunun.</string>
     <string name="midnight">Gecə</string>
