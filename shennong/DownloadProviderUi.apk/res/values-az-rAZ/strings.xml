@@ -330,7 +330,7 @@
     <string name="starting_analysis">Məlumat alınır…</string>
     <string name="storage_dialog_content">Özəlliklərini istifadə edə bilmək üçün \"Endirilənlər\"in cihaz anbarına müraciətinə icazə verin.</string>
     <string name="storage_dialog_go">Ayarlar</string>
-    <string name="storage_dialog_title">Tələb olunan icazələr</string>
+    <string name="storage_dialog_title">İcazələr tələb olunur</string>
     <string name="storage_internal">Daxili anbar</string>
     <string name="storage_permission_deny">Anbar icazələri tələb olunur</string>
     <string name="storage_sd_card">SD kart</string>
