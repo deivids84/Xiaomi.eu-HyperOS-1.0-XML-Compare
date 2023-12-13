@@ -410,7 +410,7 @@
     <string name="password_toggle_content_description">Parolu göstər</string>
     <string name="permission_go_to_settings">Ayarlar</string>
     <string name="permission_requesr_content">Ayarlarda bu tətbiqin yaxınlıqdakı cihazlara bağlanmasına icazə verin.</string>
-    <string name="permission_requesr_title">Tələb olunan icazələr</string>
+    <string name="permission_requesr_title">İcazələr tələb olunur</string>
     <string name="personal_sound">Tətbiq edilən ön ayarla oxut</string>
     <string name="pm">GS</string>
     <string name="preference_copied">\"%1$s\" lövhəyə kopyalandı.</string>
