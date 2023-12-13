@@ -446,7 +446,7 @@ Hazırkı Xiaomi Hesabınızı, MIUI sistem hesabınız kimi istifadə etdiyiniz
     <string name="request_permission_external_storage_desc">Elementləri önizləmək, yükləmək, endirmək və sinxronlaşdırmaq üçün</string>
     <string name="request_permission_manual_authorized">Ayarlar</string>
     <string name="request_permission_manual_desc">Bəzi özəllikləri istifadə edə bilmək üçün aşağıdakı icazə tələb olunur: %s. Bu icazəni Ayarlarda verə bilərsiniz.</string>
-    <string name="request_permission_manual_title">Tələb olunan icazələr</string>
+    <string name="request_permission_manual_title">İcazələr tələb olunur</string>
     <string name="request_permission_manual_unauthorized">İmtina</string>
     <string name="request_permission_post_notification">Bildirişlər</string>
     <string name="request_permission_post_notification_desc">Mi Drive yükləmələri və endirmələri ilə bağlı bildirişləri göndərmək üçün</string>
