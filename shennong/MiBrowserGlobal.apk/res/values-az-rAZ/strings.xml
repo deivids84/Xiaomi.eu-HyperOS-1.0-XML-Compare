@@ -231,7 +231,7 @@
     <string name="bookmark_btn_select_all">Hamısını seç</string>
     <string name="bookmark_btn_select_none">Heç birini seçmə</string>
     <string name="bookmark_cannot_save_url">"Bu URL əlfəcinlərə əlavə edilə bilmir."</string>
-    <string name="bookmark_file_privacy_nightmode_moved_here">Özəllik qısayolu və baxış rejimləri burada tapıla bilər</string>
+    <string name="bookmark_file_privacy_nightmode_moved_here">Özəllik qısayolu və gəzinmə rejimləri burada tapıla bilər</string>
     <string name="bookmark_folder_needs_title">Qrup adını daxil edin</string>
     <string name="bookmark_group_lable">Qrup</string>
     <string name="bookmark_needs_title">Əlfəcinin adı olmalıdır</string>
@@ -241,11 +241,11 @@
     <string name="bookmark_saved">Əlfəcinlərə əlavə edildi</string>
     <string name="bookmark_sync_alert_ok">Sinxronlaşdır</string>
     <string name="bookmark_sync_alert_title">Sinxronlaşdırılacaq elementləri seçin</string>
-    <string name="bookmark_sync_tip_in_login_activity">\"Daxil ol\"a toxunaraq, əlfəcinlərin və brauzer tarixçəsinin avtomatik olaraq sinxronlaşdırılması ilə razılaşırsınız. Bunu daha sonra \"Hesabım\"da söndürə bilərsiniz.</string>
+    <string name="bookmark_sync_tip_in_login_activity">\"Daxil ol\"a toxunaraq, əlfəcinlərin və gəzinmə tarixçəsinin avtomatik olaraq sinxronlaşdırılması ilə razılaşırsınız. Bunu daha sonra \"Hesabım\"da söndürə bilərsiniz.</string>
     <string name="bookmark_sync_tip_in_profile_page">"Sinxronlaşdırılacaq elementləri seçin.
 Sinxronlaşdırmanı dayandırmaq üçün söndürün."</string>
-    <string name="bookmark_sync_tip_logined">Əlfəcinləri və brauzer tarixçəsini sinxronlaşdır</string>
-    <string name="bookmark_sync_tip_not_logined">Əlfəcinləri və brauzer tarixçəsini sinxronlaşdırmaq üçün daxil olun</string>
+    <string name="bookmark_sync_tip_logined">Əlfəcinləri və gəzinmə tarixçəsini sinxronlaşdır</string>
+    <string name="bookmark_sync_tip_not_logined">Əlfəcinləri və gəzinmə tarixçəsini sinxronlaşdırmaq üçün daxil olun</string>
     <string name="bookmark_title">Əlfəcin adı</string>
     <string name="bookmark_title_lable">Başlıq</string>
     <string name="bookmark_url">URL http://</string>
@@ -1001,7 +1001,7 @@ Bu kodu nəzarətçiyə göndərin."</string>
     <string name="incognito_off">Gizli rejim bağlıdır.</string>
     <string name="incognito_on">"Gizlisiniz!"</string>
     <string name="incognito_tips1">"Mi Brauzer aşağıdakı məlumatları saxlamayacaq:
-• Gəzinti tarixçəniz
+• Gəzinmə tarixçəniz
 • Çərəzlər və sayt datası
 • Formlarda daxil edilən məlumatlar"</string>
     <string name="incognito_tips2">"Fəaliyyətiniz hələ də bunlara görünə bilər:
@@ -1865,7 +1865,7 @@ Bu səhifə tərk edilsin?"</string>
     <string name="pref_security_accept_cookies_summary">"Bu veb səhifələri ziyarət etməsəniz belə tərcihlərinizi xatırlamaq üçün saytların çərəzləri saxlamasına, oxumasına və istifadə etməsinə icazə verin"</string>
     <string name="pref_security_do_not_track">İzləməyin</string>
     <string name="pref_security_do_not_track_summary">"Saytlara, gəzinmə datanızın yığılmasını və ya izlənilməsini istəmədiyinizi bildirmək üçün bunu seçin. Fərqli saytlar belə tələblərə fərqli reaksiya verə bilər.
-Bəzi saytlar, reklamlarını sizin üçün fərdiləşdirmək məqsədilə əvvəlki gəzinmə tarixçənizi istifadə etmir, bəziləri isə fərqli məqsədlərlə (güvənliyi, məzmunu təmin etmək, əlaqəli reklamlar göstərmək və daha çoxu) gəzinmə tarixçənizi yığa və istifadə edə bilər."</string>
+Bəzi saytlar, reklamlarını sizin üçün fərdiləşdirmək məqsədilə əvvəlki gəzinmə tarixçənizi istifadə etmir, bəziləri isə fərqli məqsədlərlə (güvənliyi, məzmunu təmin etmək, əlaqəli reklamlar göstərmək və daha çoxu üçün) gəzinmə tarixçənizi yığa və istifadə edə bilər."</string>
     <string name="pref_security_passwords_title">Parollar</string>
     <string name="pref_security_remember_passwords">Parolları xatırla</string>
     <string name="pref_security_remember_passwords_summary">Veb saytlar üçün istifadəçi adı və parolları saxlayın və avtomatik doldurun. Saxlanılmış elementlər şifrələnir və yalnız bu cihazda yaddaşa yazılır.</string>
@@ -1931,7 +1931,7 @@ Bəzi saytlar, reklamlarını sizin üçün fərdiləşdirmək məqsədilə əvv
     <string name="pref_volume_key_action">Səs düymələrini istifadə edərək sürüşdür</string>
     <string name="pref_web_protection">Gizlilik qoruması</string>
     <string name="preference_copied">\"%1$s\" lövhəyə kopyalandı.</string>
-    <string name="preference_des_autocomplete_search">Gəzinmə tarixçəsinə, axtarış mühərriki təkliflərinə və məşhur veb saytlara əsaslanan axtarışları avto-tamamlama</string>
+    <string name="preference_des_autocomplete_search">Gəzinmə tarixçəsinə, axtarış mühərriki təkliflərinə və məşhur veb saytlara əsaslanan axtarışları avto-tamamla</string>
     <string name="preference_title_autocomplete_search">Axtarışları və URL-ləri avto-tamamlama</string>
     <string name="privacy_accept">Razılaş və davam et</string>
     <string name="privacy_agreement">İstifadəçi Razılaşması</string>
@@ -1954,7 +1954,7 @@ Bəzi saytlar, reklamlarını sizin üçün fərdiləşdirmək məqsədilə əvv
     <string name="privacy_message_main_tips_first">Mi Brauzer, sizə təməl xidmətləri təqdim etmək üçün lazımi şəxsi məlumatları yığmalıdır. Yığdığımız məlumatları necə emal etdiyimizi &lt;font color=#0a84ff&gt;&lt;a href=%1$s style=color:#0a84ff;&gt;Gizlilik Siyasətimizdə&lt;/a&gt;&lt;/font&gt; öyrənə bilərsiniz. İstənilən vaxt, Ayarlar &gt; Gizlilik və güvənlik bölməsində Mi Brauzerin Gizlilik Siyasətinə verdiyiniz razılığı geri götürə bilərsiniz. Mi Brauzeri istifadə etməzdən əvvəl &lt;font color=#0a84ff&gt;&lt;a href=%2$s style=color:#0a84ff;&gt;İstifadəçi Razılaşmamızı&lt;/a&gt;&lt;/font&gt; və &lt;font color=#0a84ff&gt;&lt;a href=%1$s style=color:#0a84ff;&gt;Gizlilik Siyasətimizi&lt;/a&gt;&lt;/font&gt; oxuyun və razılaşın.</string>
     <string name="privacy_message_main_tips_second">"Bu cihazdakı tətbiqləri axtara və hansı tətbiqlərin quraşdırıldığını bilmək üçün Mi Brauzer, yerli yaddaşda saxlamayacaq və ya hər hansısa formda yükləməyəcək tətbiq quraşdırma məlumatlarına müraciət etməlidir."</string>
     <string name="privacy_message_welcome">Mi Brauzer-ə xoş gəldiniz! Tətbiqimiz aşağıdakı xidmətləri göstərir:</string>
-    <string name="privacy_message_welcome_tip_first">- Sürətli və güvənli veb gəzinti</string>
+    <string name="privacy_message_welcome_tip_first">- İnternetdə sürətli və güvənli gəzinmə</string>
     <string name="privacy_message_welcome_tip_second">- Sosial media platformalarından şəkillər və videoların endirilməsi</string>
     <string name="privacy_permission_name">"Fəaliyyətinizin izlənməsinə icazə verməyin"</string>
     <string name="privacy_policy">Gizlilik Siyasəti</string>
@@ -2674,9 +2674,9 @@ https://www.facebook.com/miui.global.official/videos/1602181069951748"</string>
     <string name="web_permission_setting_page_title">Veb sayt ayarları</string>
     <string name="web_permission_setting_page_web_enhance_desc">Bu veb saytda reklam əngəlləməsini dayandırmaq üçün söndürün</string>
     <string name="web_permission_setting_page_web_enhance_sub_title">Reklamları əngəllə</string>
-    <string name="web_tag_desc">Əvvəllər ziyarət edilmiş səhifələrin eskizlərini göstər</string>
+    <string name="web_tag_desc">Əvvəllər ziyarət edilmiş səhifələrin kiçik şəkillərini göstər</string>
     <string name="web_tag_tips">Bir səhifəyə yenidən ziyarət etmək üçün bura toxunun</string>
-    <string name="web_tag_title">Veb səhifə eskizləri</string>
+    <string name="web_tag_title">Veb səhifə kiçik şəkilləri</string>
     <string name="web_tools_moved_here">Alətlər bura daşındı</string>
     <string name="web_video_accelerate">Sürət</string>
     <string name="web_video_download">Endir</string>
