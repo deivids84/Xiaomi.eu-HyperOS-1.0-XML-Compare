@@ -1182,7 +1182,7 @@
     <string name="permission_declaration_positive_text">\"Güvənlik\"ə get</string>
     <string name="permission_declaration_title">Müraciətə icazə ver</string>
     <string name="permission_open">İcazə ver</string>
-    <string name="permission_required">Tələb olunan icazələr</string>
+    <string name="permission_required">İcazələr tələb olunur</string>
     <string name="pick_favorite_song">Sevimlilər</string>
     <string name="pick_local_song">Yerli mahnılar</string>
     <string name="pick_recent_song">Təzəlikcə oynadılan</string>
