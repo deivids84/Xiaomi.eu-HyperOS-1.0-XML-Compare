@@ -317,7 +317,7 @@ Söndürmək üçün https://appleid.apple.com/#!&amp;page=signin ünvanını zi
     <string name="international_new_trans_intro_question_8">"%d. Niyə bəzi üçüncü tərəf tətbiqlərin mətn mesajları və tətbiq datası köçürülə bilmir?"</string>
     <string name="international_scanner_send_dialog_message">"Bəzi üçüncü tərəf tətbiqlərinin mətn mesajları və tətbiq datası köçürülə bilmir. Köçürmə zamanı Wi-Fi-ı söndürməyin və ya şəbəkələr arasında keçid etməyin."</string>
     <string name="lack_perm_msg">Mi Mover-in normal işləməsi üçün aşağıdakı icazələrə ehtiyacı var: &lt;b&gt;%s&lt;/b&gt;.</string>
-    <string name="lack_perm_title">Tələb olunan icazələr</string>
+    <string name="lack_perm_title">İcazələr tələb olunur</string>
     <string name="launcher">Əsas ekran düzümü</string>
     <string name="league_acquire_accept">Razıyam</string>
     <string name="league_acquire_message1">Üçüncü tərəf tətbiqləri və onların məlumatlarını bu cihazdan yeni %s cihazınıza köçürə bilmək üçün aşağıdakı icazələr tələb olunur:</string>
@@ -325,7 +325,7 @@ Söndürmək üçün https://appleid.apple.com/#!&amp;page=signin ünvanını zi
     <string name="league_acquire_message3">Bu, yalnız məlumat köçürmək üçün istifadə olunan birdəfəlik icazədir. Köçürmə bitdikdən sonra, Mi Mover avtomatik olaraq bu icazənin istifadəsini dayandıracaq.</string>
     <string name="league_acquire_message4">"Bu icazənin verilməsi ilə razılaşmırsınızsa, üçüncü tərəf tətbiqləri və onların məlumatlarını köçürə bilməyəcəksiniz."</string>
     <string name="league_acquire_refuse">"Razı deyiləm"</string>
-    <string name="league_acquire_title">Tələb olunan icazələr</string>
+    <string name="league_acquire_title">İcazələr tələb olunur</string>
     <string name="league_check_service_content">"Mi Mover, %s üçün köçürmə xidmətləri təqdim edir və hazırda mövcud deyil."</string>
     <string name="league_check_service_title">%s istifadə edərək köçürmə</string>
     <string name="league_client_acquire">Aç: %s</string>
@@ -441,7 +441,7 @@ Söndürmək üçün https://appleid.apple.com/#!&amp;page=signin ünvanını zi
     <string name="name_password_not_consistent">"Daxil etdiyiniz Apple Kimliyi və parol uyğun gəlmir"</string>
     <string name="need_location_permission_confirm">Ayarlar</string>
     <string name="need_location_permission_summary">Yaxınlıqdakı cihazları tapa bilmək üçün \"Mi Mover\"in yerləşmənizə müraciətinə icazə verin.</string>
-    <string name="need_location_permission_title">Tələb olunan icazələr</string>
+    <string name="need_location_permission_title">İcazələr tələb olunur</string>
     <string name="need_more_memory_cacel">İmtina</string>
     <string name="need_more_memory_confirm">Təmizləyici</string>
     <string name="need_more_memory_summary">"Yetərli anbar sahəsi yoxdur. \"Mi Mover\"in köçürmədən əvvəl sıxışdırılmış paketləri yaratmaq üçün %1$s əlavə anbar sahəsinə ehtiyacı var.
@@ -551,7 +551,7 @@ Söndürmək üçün https://appleid.apple.com/#!&amp;page=signin ünvanını zi
     <string name="permission_about_storage">Cihaz anbarına müraciət etmək üçün icazə tələb olunur</string>
     <string name="permission_about_storage_pad">Cihaz anbarına müraciət etmək üçün icazə tələb olunur</string>
     <string name="permission_alert_message_usage_access">Mi Mover, tətbiq istifadə statistikalarına müraciət etməlidir. Mi Mover-ə tələb olunan icazəni Ayarlarda verin.</string>
-    <string name="permission_alert_title">Tələb olunan icazələr</string>
+    <string name="permission_alert_title">İcazələr tələb olunur</string>
     <string name="permission_bluetooth_summary">Yaxınlıqdakı mövcud cihazları tapmaq üçün</string>
     <string name="permission_bluetooth_title">Bluetooth-u aç/bağla</string>
     <string name="permission_calender_summary">Tədbirləri köhnə cihazdan yenisinə daşımaq üçün</string>
@@ -625,7 +625,7 @@ Söndürmək üçün https://appleid.apple.com/#!&amp;page=signin ünvanını zi
 - Zəng tarixçəsi
 - Mətn mesajları
 - Anbar"</string>
-    <string name="request_all_permission_title">Tələb olunan icazələr</string>
+    <string name="request_all_permission_title">İcazələr tələb olunur</string>
     <string name="request_permission">İcazə ver</string>
     <string name="restore_data_to_device_content">"Elementləriniz Xiaomi Cloud ilə sinxronizasiya edildi.
 Onları bərpa etmək üçün Xiaomi Hesabınıza daxil olun."</string>
@@ -768,8 +768,8 @@ Daxilə köçürülməyən data yenidən daxilə köçürülməlidir."</string>
     <string name="time_spent">Vaxt: %1$s</string>
     <string name="title_open_wlan">Wi-Fi-ı aç</string>
     <string name="title_request_alert_window_perm">Üzən pəncərələrə icazə ver</string>
-    <string name="title_request_manage_external_storage_perm">Tələb olunan icazələr</string>
-    <string name="title_request_package_stats_perm">Tələb olunan icazələr</string>
+    <string name="title_request_manage_external_storage_perm">İcazələr tələb olunur</string>
+    <string name="title_request_package_stats_perm">İcazələr tələb olunur</string>
     <string name="title_request_write_settings_perm">Sistem ayarlarını dəyişdirməyə icazə ver</string>
     <string name="today">Bu gün</string>
     <string name="tomorrow">Sabah</string>
