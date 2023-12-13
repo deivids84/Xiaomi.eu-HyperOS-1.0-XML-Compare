@@ -210,7 +210,7 @@ kalibrlə;Təzyiq;Yüksəklik;Enlik;Uzunluq;Uzunluq yoxlanışı;Enlik yoxlanı�
     <string name="network_dialog_message">Kompas, daha dəqiq yüksəklik datasına müraciət etmək üçün internetə bağlanmalıdır. İndi icazə verilsin?</string>
     <string name="network_dialog_negative">"İcazə vermə"</string>
     <string name="network_dialog_positive">İcazə ver</string>
-    <string name="network_dialog_title">Tələb olunan icazələr</string>
+    <string name="network_dialog_title">İcazələr tələb olunur</string>
     <string name="new_cta_app_purpose">istiqamətlərə və koordinatlara baxın</string>
     <string name="new_cta_app_purpose_one">\"Kompas\" xoş gəlmisiniz! Bu tətbiqi başlıca istiqamətləri, enliyi, uzunluğu, hava təzyiqini və yüksəkliyi tapmaq üçün istifadə edə bilərsiniz. Bu tətbiq, öz xidmətlərini təqdim etmək üçün internetə bağlanmalıdır.</string>
     <string name="new_cta_app_purpose_two">\"Kompas\" xoş gəlmisiniz! Bu tətbiqi başlıca istiqamətləri, enliyi və uzunluğu tapmaq üçün istifadə edə bilərsiniz. Bu tətbiq, öz xidmətlərini təqdim etmək üçün internetə bağlanmalıdır.</string>
@@ -224,7 +224,7 @@ kalibrlə;Təzyiq;Yüksəklik;Enlik;Uzunluq;Uzunluq yoxlanışı;Enlik yoxlanı�
     <string name="open_camera">Kameranı istifadə et</string>
     <string name="open_perm_msg">\"Kompas\"ın yer məlumatlarına və kameraya müraciətinə ehtiyacı var. Bu, koordinatları aşkarlamaq və canlı önizləmələri təmin etmək üçün lazımdır. İcazə verilsin?</string>
     <string name="open_perm_msg_no_camera">Kompasın koordinantları aşkarlaya bilməsi üçün yerləşmə məlumatlarına müraciətinə ehtiyacı var. İcazə verilsin?</string>
-    <string name="open_perm_title">Tələb olunan icazələr</string>
+    <string name="open_perm_title">İcazələr tələb olunur</string>
     <string name="permission_camera_desc">Canlı önizləmədə azimutu göstərmək üçün</string>
     <string name="permission_description">İcazə detalları</string>
     <string name="permission_location_desc">Koordinatları göstərmək üçün</string>
