@@ -364,7 +364,7 @@ Xiaomi Heath, sizə yalnız vacib elementlər barədə məlumat verəcək."</str
     <string name="dialog_ok">Oldu</string>
     <string name="dialog_open">İcazə ver</string>
     <string name="dialog_permission_loading_msg">Yoxlanılır…</string>
-    <string name="dialog_permission_title">Tələb olunan icazələr</string>
+    <string name="dialog_permission_title">İcazələr tələb olunur</string>
     <string name="dialog_privacy_policy_statement">Gizlilik Siyasəti bəyanatı</string>
     <string name="dialog_privacy_title">Şərtlər və qaydalar</string>
     <string name="dialog_read_phone_perm_desc">OAID və ya Android ID istifadə edərək cihazın özəlliklərini müəyyən etmək üçün</string>
@@ -1068,7 +1068,7 @@ Məlumatlarınızı paylaşmaq istəmirsinizsə, bu özəlliyi bağlayın."</str
     <string name="rb_gender_male">Cins: Kişi</string>
     <string name="reach_standard">Standarta cavab verir</string>
     <string name="recog_permission_dialog_content">Addım sayını görə bilmək üçün Xiaomi Health-in fəaliyyət məlumatlarınıza müraciətinə icazə verin.</string>
-    <string name="recog_permission_dialog_title">Tələb olunan icazələr</string>
+    <string name="recog_permission_dialog_title">İcazələr tələb olunur</string>
     <string name="recommand_body_weight_msg">Tövsiyə olunan hədəf çəki: %1$.1f kq. Ürək-damar və qaraciyər xəstəlikləri riskini azaltmaq üçün %2$.1f BMI-ə çatın.</string>
     <string name="record_blood_pressure">Ölçməni qeyd et</string>
     <string name="record_blood_pressure_exception1">"Saxlanıla bilmədi. Sistolik təzyiq diastolik təzyiqdən aşağı ola bilməz."</string>
@@ -1362,7 +1362,7 @@ tapıla bilmədi"</string>
     <string name="snore_write_description">Səsyazmaları cihazda saxlamaq üçün</string>
     <string name="sport_audio_permission_dialog_content">Çıxardığınız səslərə görə məşqlərinizi izləyə bilmək üçün bu tətbiqin səsyazma icazəsinə ehtiyacı var.</string>
     <string name="sport_audio_permission_dialog_desc">Çıxardığınız səslərə görə məşqləri izləmək üçün</string>
-    <string name="sport_audio_permission_dialog_title">Tələb olunan icazələr</string>
+    <string name="sport_audio_permission_dialog_title">İcazələr tələb olunur</string>
     <string name="sport_btn_continue">Davam et</string>
     <string name="sport_btn_finish">Bitmə</string>
     <string name="sport_btn_lock">Kilidlə</string>
