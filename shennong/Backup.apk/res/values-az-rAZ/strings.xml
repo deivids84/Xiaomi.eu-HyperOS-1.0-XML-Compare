@@ -278,7 +278,7 @@ Başlamazdan əvvəl USB sürücüsündə yetərli anbar sahəsi olduğuna əmin
     <string name="friday_shortest">Cüm</string>
     <string name="gallery_summary">Qalereya ayarları (fotolar daxil deyil)</string>
     <string name="grant_all_permission_content">Elementləri nüsxələyə və bərpa edə bilmək üçün bütün məcburi icazələri verin.</string>
-    <string name="grant_all_permission_title">Tələb olunan icazələr</string>
+    <string name="grant_all_permission_title">İcazələr tələb olunur</string>
     <string name="guarded_mode_dialog_backup_message">"Qonaq rejimində nüsxələməyə icazə verilmir."</string>
     <string name="guarded_mode_dialog_title">"Qonaq rejimindəsiniz"</string>
     <string name="guarded_mode_dialog_transfer_message">"Qonaq rejimində Mi Mover istifadə edilə bilmir."</string>
@@ -321,7 +321,7 @@ Başlamazdan əvvəl USB sürücüsündə yetərli anbar sahəsi olduğuna əmin
     <string name="item_view_role_description">Vərəq</string>
     <string name="label">Etiket</string>
     <string name="lack_perm_msg">Mi Mover-in aşağıdakı icazələrə ehtiyacı var: &lt;b&gt;%s&lt;/b&gt;.</string>
-    <string name="lack_perm_title">Tələb olunan icazələr</string>
+    <string name="lack_perm_title">İcazələr tələb olunur</string>
     <string name="list_footer_tip_title">Məsləhətlər:</string>
     <string name="loading_data">Datalar yüklənir</string>
     <string name="local_app_name">Nüsxələmə</string>
@@ -611,7 +611,7 @@ Başlamazdan əvvəl USB sürücüsündə yetərli anbar sahəsi olduğuna əmin
     <string name="permission_backup_file">Faylları nüsxələmək üçün</string>
     <string name="permission_backup_sms">Mesajları nüsxələmək üçün</string>
     <string name="permission_backup_sms_desc">Mesajları nüsxələyə bilmək üçün əvvəlcə bu tətbiqin mesajlarınıza müraciətinə icazə verin.</string>
-    <string name="permission_content_title">Tələb olunan icazələr</string>
+    <string name="permission_content_title">İcazələr tələb olunur</string>
     <string name="permission_dialog_positive_btn">Ayarlar</string>
     <string name="permission_intro">İcazə detalları</string>
     <string name="permission_management_entrance">İcazələri idarə et</string>
