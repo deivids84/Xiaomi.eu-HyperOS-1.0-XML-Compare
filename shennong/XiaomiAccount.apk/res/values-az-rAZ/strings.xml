@@ -244,7 +244,7 @@ Artıq %s istifadə edərək Xiaomi Hesabınıza daxil ola bilərsiniz."</string
     <string name="keep_phone_ticket_login">Doğrulama kodu ilə daxil ol</string>
     <string name="kr_license_desc">Xiaomi Hesabı və Xiaomi Bulud xidmətlərini istifadə etməzdən əvvəl İstifadəçi Razılaşmamız və Gizlilik Siyasətimizlə razılaşmalısınız.</string>
     <string name="kr_permission_contacts_desc">Kontakt məlumatlarına müraciət üçün</string>
-    <string name="kr_permission_desc">Tələb olunan icazələr</string>
+    <string name="kr_permission_desc">İcazələr tələb olunur</string>
     <string name="kr_permission_phone_desc">Hesabınızı qorumaq üçün</string>
     <string name="kr_permission_sms_desc">Doğrulama kodlarını avtomatik doldurmaq üçün</string>
     <string name="kr_permission_storage_desc">Diaqnostikaları saxlamaq üçün</string>
@@ -746,7 +746,7 @@ Artıq %s istifadə edərək Xiaomi Hesabınıza daxil ola bilərsiniz."</string
     <string name="recycle_phone_notification_msg">Deyəsən, telefon nömrəniz təkrar emal edilib. Güncəlləmək üçün toxunun.</string>
     <string name="recycle_phone_notification_title">Xiaomi Hesabı güvənlik riski</string>
     <string name="removing_account">Çıxış edilir…</string>
-    <string name="request_open_permission">Tələb olunan icazələr</string>
+    <string name="request_open_permission">İcazələr tələb olunur</string>
     <string name="request_use_camera_message">"Xiaomi Hesabının telefonunuzun kamerasına müraciət etməsinə icazə verilsin?"</string>
     <string name="request_use_camera_title">Kameraya müraciət</string>
     <string name="request_use_gallery_message">Xiaomi Hesabının Qalereyaya müraciət etməsinə icazə verilsin?</string>
