@@ -210,7 +210,7 @@ Faylları cihazınızdan Mi Drive-a daşımağa çalışın."</string>
     <string name="dialog_account_permission_denied_msg">Mi Drive-a daxil ola bilmək üçün bu tətbiqin cihaz hesablarına müraciət etməsinə icazə verin. Bu icazəni Ayarlarda verə bilərsiniz.</string>
     <string name="dialog_account_permission_denied_negative_button">İmtina</string>
     <string name="dialog_account_permission_denied_positive_button">Ayarlar</string>
-    <string name="dialog_account_permission_denied_title">Tələb olunan icazələr</string>
+    <string name="dialog_account_permission_denied_title">İcazələr tələb olunur</string>
     <string name="dialog_keep_choice">Seçimimi xatırla</string>
     <string name="dialog_open_mi_drive_button">Anladım</string>
     <string name="dialog_open_mi_drive_err">Mi Drive-ı yenidən başladın və təkrar sınayın.</string>
@@ -393,7 +393,7 @@ Faylları cihazınızdan Mi Drive-a daşımağa çalışın."</string>
     <string name="just_now">İndicə</string>
     <string name="kilobyteShort">KB</string>
     <string name="lack_perm_msg">Fayl Meneceri, normal işləməsi üçün aşağıdakı icazələri tələb edir: &lt;b&gt;%s&lt;/b&gt;</string>
-    <string name="lack_perm_title">Tələb olunan icazələr</string>
+    <string name="lack_perm_title">İcazələr tələb olunur</string>
     <string name="launcher_icon_add_description">Əsas ekran qısayolu əlavə et</string>
     <string name="launcher_icon_remove_description_content">"Fayl Meneceri bir sistem tətbiqidir. Əsas ekran qısayolunu sildikdən sonra cihazınızdakı faylları idarə edə bilməyəcəksiniz."</string>
     <string name="launcher_icon_remove_description_title">\"Fayl Meneceri\" əsas ekrandan silinsin?</string>
@@ -779,7 +779,7 @@ Faylları cihazınızdan Mi Drive-a daşımağa çalışın."</string>
     <string name="repair_file">Şifrələnmiş faylları bərpa et</string>
     <string name="replace">Dəyişdir</string>
     <string name="request_document_permission">SD kartınızdakı faylları idarə etmək üçün Fayl Menecerinə lazımi icazələri verin.</string>
-    <string name="request_document_permission_title">Tələb olunan icazələr</string>
+    <string name="request_document_permission_title">İcazələr tələb olunur</string>
     <string name="request_timeout">Şəbəkə tələbinin vaxtı bitdi</string>
     <string name="reset_password">Parolu dəyişdir</string>
     <string name="restoring">Bərpa edilir…</string>
@@ -925,7 +925,7 @@ Faylları cihazınızdan Mi Drive-a daşımağa çalışın."</string>
     <string name="title_app_tags">Tətbiqlər</string>
     <string name="title_expire_video">Müddəti bitmək üzrədir</string>
     <string name="title_recent">Sonuncu</string>
-    <string name="title_request_manage_external_storage_perm">Tələb olunan icazələr</string>
+    <string name="title_request_manage_external_storage_perm">İcazələr tələb olunur</string>
     <string name="title_select_volume">Qovluq seçin</string>
     <string name="to_open">Ayarlar</string>
     <string name="to_setting">Ayarlar</string>
