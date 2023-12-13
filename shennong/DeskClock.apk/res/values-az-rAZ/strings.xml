@@ -365,7 +365,7 @@
     <string name="notification_permission_dialog_content">Zəngli saat bildirişlərini almaq üçün bu tətbiqin bildiriş göndərməsinə icazə verin. Bu icazəni Ayarlarda verə bilərsiniz.</string>
     <string name="notification_permission_dialog_not_open">İndi yox</string>
     <string name="notification_permission_dialog_open">Ayarlar</string>
-    <string name="notification_permission_dialog_title">Tələb olunan icazələr</string>
+    <string name="notification_permission_dialog_title">İcazələr tələb olunur</string>
     <string name="oneshot_alarm">Çaldıqdan sonra sil</string>
     <string name="open_keep_screen">Ekran açıq qalacaq</string>
     <string name="open_notification_permission_remind">Bildirişlərin siqnalları söndürə bilməsinə icazə verin</string>
