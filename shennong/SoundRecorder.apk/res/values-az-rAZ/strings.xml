@@ -298,7 +298,7 @@
     <string name="permission_dialog_ok">Ayarlar</string>
     <string name="permission_notification_description">Səs yazarkən, oxudarkən və məzmun endirərkən xəbərdarlıqlar göndərmək üçün</string>
     <string name="permission_notification_dialog_description">"Tətbiqin hazırkı statusu haqqında xəbərdarlıqlar göndərmək üçün"</string>
-    <string name="permission_notification_title">Tələb olunan icazələr</string>
+    <string name="permission_notification_title">İcazələr tələb olunur</string>
     <string name="permission_read_phone_state">Cihaz məlumatlarına müraciət</string>
     <string name="permission_read_phone_state_description">Zəng gələrkən səsyazmanı avtomatik dayandırmaq məqsədilə zəng statusuna müraciət etmək üçün</string>
     <string name="permission_record">Səs yaz</string>
@@ -397,7 +397,7 @@
     <string name="saf_permission_dialog_grant_permission_immediately">Ayarlar</string>
     <string name="saf_permission_dialog_later">Xeyr, təşəkkürlər</string>
     <string name="saf_permission_dialog_no_more_tip">"Təkrar göstərmə"</string>
-    <string name="saf_permission_dialog_title">Tələb olunan icazələr</string>
+    <string name="saf_permission_dialog_title">İcazələr tələb olunur</string>
     <string name="saturday">Şənbə</string>
     <string name="saturday_short">Şәn</string>
     <string name="saturday_shortest">Şәn</string>
