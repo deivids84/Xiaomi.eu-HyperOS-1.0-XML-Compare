@@ -1118,7 +1118,7 @@ Belə icazələrin verilməsi və ya şəxsi məlumatlarınızın paylaşılmas�
     <string name="title_allow_network_access">Məlumatları avto-güncəlləmə</string>
     <string name="title_collapse_sp_messages">Bildirişlər qrupu</string>
     <string name="title_hide_verification_code">Kilid ekranında OTP-ni avtomatik gizlət</string>
-    <string name="title_not_show_read_mms_perm_req">Tələb olunan icazələr</string>
+    <string name="title_not_show_read_mms_perm_req">İcazələr tələb olunur</string>
     <string name="title_pref_cm_smart_sms">China Mobile Ağıllı SMS</string>
     <string name="title_show_blocked_messages">Əngəllənmiş SMS-ləri göstər</string>
     <string name="title_show_list_avatar">Profil şəkillərini göstər</string>
