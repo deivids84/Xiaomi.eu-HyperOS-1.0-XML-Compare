@@ -315,7 +315,7 @@
     <string name="got_it_botton">Anladım</string>
     <string name="guide_install_app_msg">"Bu tətbiq cihazınızda quraşdırılmayıb. İndi tapılıb quraşdırılsın?"</string>
     <string name="guide_install_app_title">Tətbiq tapılıb quraşdırılsın?</string>
-    <string name="guide_permission_title">Tələb olunan icazələr</string>
+    <string name="guide_permission_title">İcazələr tələb olunur</string>
     <string name="guide_privacy_dialog_title">Xidmət Şərtləri</string>
     <string name="hide_apps_title">Tətbiq nişanlarını gizlət</string>
     <string name="home_gesture_content_center">Məzmun Mərkəzi</string>
@@ -654,7 +654,7 @@ Təkmilləşdirilmiş güvənlik."</string>
     <string name="remove_sys_app_content">"Ayarlar &gt; Tətbiqlər &gt; \"Əsas ekran qısayollarını idarə et\" üzərindən Əsas ekran qısayolunu yenə əlavə edə biləcəksiniz. İndi silinsin?"</string>
     <string name="remove_sys_app_title">Əsas ekran qısayolu silinsin?</string>
     <string name="request_permission_msg">POCO Launcher-in tam funksionallığına müraciət etməyinizi təmin etmək üçün bir neçə icazəyə ehtiyacı var.</string>
-    <string name="request_permission_title">Tələb olunan icazələr</string>
+    <string name="request_permission_title">İcazələr tələb olunur</string>
     <string name="reset_cate_tip_content">Davam etsəniz, ilkin tətbiq qrupları bərpa olunacaq. Yenə də davam edilsin?</string>
     <string name="reset_cate_tip_title">İlkin qrupları bərpa et</string>
     <string name="reset_description_first_time">Düzümü %2$s dən %1$d saat ərzində bərpa edə bilərsiniz</string>
