@@ -1336,7 +1336,7 @@ Bunun əvəzinə tərcih edilən şəbəkə istifadə edilir."</string>
     <string name="no_ims_service_notification_content">Bu məsələni həll etmək üçün xidmət provayderinizlə əlaqə saxlayın.</string>
     <string name="no_internet_available">SIP zəngini yerləşdirmək üçün əvvəlcə internet bağlantınızı yoxlayın.</string>
     <string name="no_mobile_data">Mobil internet əlçatmazdır</string>
-    <string name="no_mobile_data_roaming">Data roaminq əlçatmazdır</string>
+    <string name="no_mobile_data_roaming">Data rouminqi əlçatmazdır</string>
     <string name="no_need_unlock_tip">Kilidi açmağa ehtiyac yoxdur, hazırkı telefonunuz kilidli deyil.</string>
     <string name="no_rtt_when_roaming">Qeyd: Rouminqdə olarkən RTT əlçatmazdır</string>
     <string name="no_unlock_chance_hint">"Yenidən sınama cəhdiniz yoxdur.
