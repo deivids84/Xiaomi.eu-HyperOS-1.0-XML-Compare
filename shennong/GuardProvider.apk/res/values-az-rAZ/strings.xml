@@ -5,7 +5,7 @@
     <string name="avast_dialog_policy">Gizlilik Siyasəti</string>
     <string name="avast_dialog_title">"Avast-ın Gizlilik Siyasəti"</string>
     <string name="avast_virus_type_adware_description">Bu, reklam virusudur. Bu, avtomatik olaraq reklam göstərir.</string>
-    <string name="avast_virus_type_cryportor_description">Bu, şifrələyici virusudur. Anbar sahəsində özünü kopyalayaraq yoluxan zərərli bir proqramdır.</string>
+    <string name="avast_virus_type_cryportor_description">Virus kriptolayıcıdır. Anbar sahəsində özünü kopyalayaraq yoluxan zərərli bir proqramdır.</string>
     <string name="avast_virus_type_dropper_description">Bu, dropper virusudur. Digər zərərli virusları yükləyən kodları daşıyır.</string>
     <string name="avast_virus_type_exploit_description">Bu, istismar virusudur. Bu viruslar, təsadüfi və gözlənilməyən davranışlara səbəb olmaq üçün sisteminizdəki xətalardan və zəif nöqtələrdən faydalanır.</string>
     <string name="avast_virus_type_heuristic_description">İnfeksiya, xüsusi bir evristik üsul istifadə edərək müəyyən edilir. Xüsusi evristik təhlil, bunun bir virus olduğunu söyləyir.</string>
