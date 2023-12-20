@@ -165,8 +165,8 @@
     <string name="deny_fine_keep_blur_location">Təxmini yerləşmə</string>
     <string name="deny_fine_keep_blur_location_dont_ask_again">Təxmini dəyərlərə həmişə icazə ver</string>
     <string name="early_morning">Səhər</string>
-    <string name="eras_ad">B.E</string>
-    <string name="eras_bc">E.Ə.</string>
+    <string name="eras_ad">B.E.</string>
+    <string name="eras_bc">B.E.Ə.</string>
     <string name="evening">Günortadan sonra</string>
     <string name="expand_button_title">Qabaqcıl</string>
     <string name="fmt_date_long_month_day">d MMMM</string>
