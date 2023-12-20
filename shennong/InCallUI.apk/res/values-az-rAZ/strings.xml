@@ -153,8 +153,8 @@
     <string name="emergency_call_dialog_number_for_display">Fövqəladə hal nömrəsi</string>
     <string name="enter_ai_assistant">İstifadə et</string>
     <string name="enter_ai_assistant_tip">"İndi danışmaq üçün sizin üçün əlverişli deyilsə, AI mətni nitqə çevirə bilər. Bu zəng üçün AI istifadə edilsin?"</string>
-    <string name="eras_ad">E.S.</string>
-    <string name="eras_bc">E.Ə.</string>
+    <string name="eras_ad">B.E.</string>
+    <string name="eras_bc">B.E.Ə.</string>
     <string name="evening">Günortadan sonra</string>
     <string name="fmt_date_long_month_day">dd MMMM</string>
     <string name="fmt_date_long_year_month_day">dd MMMM, yyyy</string>
