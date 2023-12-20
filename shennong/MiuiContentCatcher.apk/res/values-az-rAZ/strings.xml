@@ -60,8 +60,8 @@
     <string name="date_time_picker_dialog_title">Tarix və saatı ayarla</string>
     <string name="delete">Sil</string>
     <string name="early_morning">Səhər</string>
-    <string name="eras_ad">E.S.</string>
-    <string name="eras_bc">E.Ə.</string>
+    <string name="eras_ad">B.E.</string>
+    <string name="eras_bc">B.E.Ə.</string>
     <string name="evening">Günortadan sonra</string>
     <string name="expand_button_title">Qabaqcıl</string>
     <string name="fmt_date_long_month_day">d MMMM</string>
