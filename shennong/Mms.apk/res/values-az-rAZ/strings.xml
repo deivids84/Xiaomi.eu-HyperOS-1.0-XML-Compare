@@ -259,8 +259,8 @@ Yenidən sınayın."</string>
     <string name="enable_classify_tip_dialog_content">Bu, Mesajlaşma tətbiqini yenidən başladacaq. Yenə də davam edilsin?</string>
     <string name="enabled">Açıq</string>
     <string name="english_subject_limit">40 simvol</string>
-    <string name="eras_ad">E.S.</string>
-    <string name="eras_bc">E.Ə.</string>
+    <string name="eras_ad">B.E.</string>
+    <string name="eras_bc">B.E.Ə.</string>
     <string name="error_code_label">"Xəta kodu: "</string>
     <string name="error_state">Ziddiyyətli vəziyyət</string>
     <string name="error_state_text">Mövzuların və alıcıların vəziyyəti ziddiyyətlidir. Bir xəta hesabatı hazırlayın və onu http://go/droidanizer vasitəsilə bildirin</string>
