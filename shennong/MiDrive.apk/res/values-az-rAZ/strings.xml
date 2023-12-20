@@ -158,8 +158,8 @@ Daha çox anbar sahəsi əldə etmək üçün planınızı yüksəldin."</string
     <string name="download_to">"Saxla "</string>
     <string name="downloading">Endirilir</string>
     <string name="early_morning">Səhər</string>
-    <string name="eras_ad">E.S.</string>
-    <string name="eras_bc">E.Ə.</string>
+    <string name="eras_ad">B.E.</string>
+    <string name="eras_bc">B.E.Ə.</string>
     <string name="error_filename_contain_illegal_char">"Fayl adları xüsusi simvollar ehtiva edə bilməz"</string>
     <string name="error_filename_contain_space">"Fayl adları boşluqla başlaya və ya bitə bilməz"</string>
     <string name="error_filename_is_null">"Fayl adı boş ola bilməz"</string>
