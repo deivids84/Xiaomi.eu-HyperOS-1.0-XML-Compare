@@ -251,8 +251,8 @@ Faylları cihazınızdan Mi Drive-a daşımağa çalışın."</string>
     <string name="entry_phone_storage_internal">Daxili anbar</string>
     <string name="entry_storage_cloned_app">İkili tətbiqlər</string>
     <string name="entry_storage_usb">USB cihaz</string>
-    <string name="eras_ad">E.S.</string>
-    <string name="eras_bc">E.Ə.</string>
+    <string name="eras_ad">B.E.</string>
+    <string name="eras_bc">B.E.Ə.</string>
     <string name="error_contains_sharer_path">"\"/MIUI/Gallery/cloud/sharer\" qovluğundakı fayllar şəxsi edilə bilməz. Faylı başqa bir qovluğa daşıyıb yenidən sınayın."</string>
     <string name="error_create_dir">"Qovluq yaradıla bilmədi"</string>
     <string name="error_create_file">"Fayl yaradıla bilmədi"</string>
