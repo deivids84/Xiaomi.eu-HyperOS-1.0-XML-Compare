@@ -96,8 +96,8 @@
     <string name="disconnected_peripheral">%1$s ilə bağlantı kəsildi</string>
     <string name="disconnecting_peripheral">%1$s ilə bağlantı kəsilir…</string>
     <string name="early_morning">Səhər</string>
-    <string name="eras_ad">E.S.</string>
-    <string name="eras_bc">E.Ə.</string>
+    <string name="eras_ad">B.E.</string>
+    <string name="eras_bc">B.E.Ə.</string>
     <string name="error_a11y_label">Xəta: yararsızdır</string>
     <string name="error_icon_content_description">Xəta</string>
     <string name="evening">Günortadan sonra</string>
