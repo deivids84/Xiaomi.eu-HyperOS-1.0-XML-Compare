@@ -74,6 +74,7 @@ dd/MM"</string>
     <string name="aod_mode_time_summary">Həmişə açıq rejiminin açılıb bağlanma vaxtını planlaşdırın</string>
     <string name="aod_mode_time_title">Cədvəl</string>
     <string name="aod_mode_title">Həmişə açıq ekran</string>
+    <string name="aod_notification_use_app_icon">Bildirişlər üçün tətbiq nişanlarını istifadə et</string>
     <string name="aod_show_date_and_time">Tarix və saatı göstər</string>
     <string name="aod_show_style_title">Elementləri görüntülə</string>
     <string name="aod_signature_12">hh:mm aa</string>
@@ -131,8 +132,8 @@ dd/MM"</string>
     <string name="disable_aod_in_power_save_mode_summary">"Enerjiyə qənaət etmək üçün elementləri göstərmə"</string>
     <string name="dual_clock_tip">İkili saat açıqdır. Ayarları açmaq üçün toxunun.</string>
     <string name="early_morning">Səhər</string>
-    <string name="eras_ad">E.S.</string>
-    <string name="eras_bc">E.Ə.</string>
+    <string name="eras_ad">B.E.</string>
+    <string name="eras_bc">B.E.Ə.</string>
     <string name="error_a11y_label">Xəta: yararsızdır</string>
     <string name="error_icon_content_description">Xəta</string>
     <string name="evening">Günortadan sonra</string>
