@@ -68,4 +68,12 @@
         <item quantity="other">%d dəqiqə əvvəl</item>
         <item quantity="one">1 dəqiqə əvvəl</item>
     </plurals>
+    <plurals name="talkback_selection_denominator">
+        <item quantity="other">Cəmi %1$d element</item>
+        <item quantity="one">Cəmi %1$d element</item>
+    </plurals>
+    <plurals name="talkback_selection_numerator">
+        <item quantity="other">%1$d element seçildi</item>
+        <item quantity="one">%1$d element seçildi</item>
+    </plurals>
 </resources>
