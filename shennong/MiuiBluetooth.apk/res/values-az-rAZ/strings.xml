@@ -141,8 +141,8 @@
     <string name="easy_tether_statusbar_connect_title">%1$s Hotspot-u fəallaşdır</string>
     <string name="easy_tether_statusbar_connecting_title">Bağlantı qurulur</string>
     <string name="easy_tether_statusbar_dialog_connected_title">Bağlantılıdır</string>
-    <string name="eras_ad">E.S.</string>
-    <string name="eras_bc">E.Ə.</string>
+    <string name="eras_ad">B.E.</string>
+    <string name="eras_bc">B.E.Ə.</string>
     <string name="evening">Günortadan sonra</string>
     <string name="expand_button_title">Qabaqcıl</string>
     <string name="fast_connect_anti_lost_content">"Qulaqlıqlarınızdan biri itəndə açılacaq bir xəbərdarlıq qurun.
