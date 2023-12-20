@@ -185,8 +185,8 @@
     <string name="elk_info">Kanada maralları, subarktik iqlimdə yaşayır. Otyeyəndirlər və bir çox növ bitki və ya meyvələri qəbul etməyə qadirdirlər.</string>
     <string name="emperor_penguin">İmperator pinqvini</string>
     <string name="emu">Emu</string>
-    <string name="eras_ad">E.S.</string>
-    <string name="eras_bc">E.Ə.</string>
+    <string name="eras_ad">B.E.</string>
+    <string name="eras_bc">B.E.Ə.</string>
     <string name="ermine">Qaqum</string>
     <string name="evening">Günortadan sonra</string>
     <string name="exit_easymode">Lite rejimini söndür</string>
