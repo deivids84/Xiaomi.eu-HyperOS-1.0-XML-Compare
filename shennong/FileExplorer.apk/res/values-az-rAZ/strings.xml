@@ -190,6 +190,7 @@ Faylları cihazınızdan Mi Drive-a daşımağa çalışın."</string>
     <string name="decompress_destination_error">"Fayllar bu qovluğa çıxarıla bilmir."</string>
     <string name="decompress_encrypted_rar_not_supported">"Şifrələnmiş RAR faylları dəstəklənmir."</string>
     <string name="decompress_fail">"Arxivdən çıxarıla bilmədi."</string>
+    <string name="decompress_fail_contains_special_characters">"Sıxışdırıla bilmir. Sıxışdırılmış faylların adlarında xüsusi simvollar ola bilməz."</string>
     <string name="decompress_input_password">Parol daxil edin</string>
     <string name="decompress_password_error">Daxil etdiyiniz parol yanlışdır.</string>
     <string name="decompress_success">Çıxartma bitdi</string>
@@ -626,6 +627,7 @@ Faylları cihazınızdan Mi Drive-a daşımağa çalışın."</string>
     <string name="operation_decompressing">Arxivdən çıxarılır…</string>
     <string name="operation_del_fav">Sevimlilərdən silinir…</string>
     <string name="operation_delete">Sil</string>
+    <string name="operation_delete_confirm_dcim_message_folder">DCIM, Qalereya qovluğudur. Bu qovluğu silsəniz, içindəki bütün elementlər də Qalereyadan həmişəlik silinəcək. Yenə də bu qovluq silinsin?</string>
     <string name="operation_delete_confirm_message">Silinsin?</string>
     <string name="operation_delete_confirm_message_folder">"Bütün qovluq məzmunları silinəcək.
 "</string>
