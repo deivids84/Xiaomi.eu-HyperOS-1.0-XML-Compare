@@ -283,6 +283,9 @@ Sinxronlaşdırmanı dayandırmaq üçün söndürün."</string>
     <string name="browserFrameFileErrorLabel">Fayl xətası</string>
     <string name="browserFrameFormResubmitMessage">"Baxmağa çalışdığınız səhifə, daha əvvəl göndərilmiş datanı ehtiva edir. Dataları təkrar göndərsəniz, əvvəlki əməliyyatlar (axtarışlar və ya satın almalar və s.) təkrarlanacaq."</string>
     <string name="browserFrameNetworkErrorLabel">Bağlantı xətası</string>
+    <string name="browser_slide_video_history">Sonuncular</string>
+    <string name="browser_slide_video_like">Bəyənildi</string>
+    <string name="browser_slide_video_my">Profil</string>
     <string name="browser_wallpaper">Divar kağızları</string>
     <string name="browser_wallpaper_activity">Promosyonlar</string>
     <string name="browser_wallpaper_application">Tətbiq et</string>
@@ -525,11 +528,6 @@ Baxdığınız səhifələr tarixçədə görünməyəcək."</string>
     <string name="debug_user_firebase_config_search_hint">Konfiqurasiya axtar</string>
     <string name="debug_youtube_file">YouTube faylının sazlanması</string>
     <string name="debug_youtube_in_release">Buraxılışda YouTube-un sazlanması</string>
-    <string name="decompress">Arxivdən çıxart</string>
-    <string name="decompress_fail">"Arxivdən çıxarıla bilmədi"</string>
-    <string name="decompress_success">Uğurla çıxarıldı</string>
-    <string name="decompress_view">Bax</string>
-    <string name="decompress_viewer_label">Arxiv meneceri (Mi Brauzer)</string>
     <string name="decompressed_files">Arxivdən çıxarılan fayllar</string>
     <string name="deeplink_intrercept_hint">Bu açılan pəncərə bir tətbiqin açılmasını təklif edəcək.</string>
     <string name="deeplink_intrercept_second_hint">Bu veb sayt, bir tətbiqi açmaq üzrədir. Bu əməliyyat hələlik dayandırıldı.</string>
@@ -1071,6 +1069,7 @@ Bu kodu nəzarətçiyə göndərin."</string>
     <string name="list_menu_rename_file">Yenidən adlandır</string>
     <string name="list_menu_rename_result_fail">"Yenidən adlandırıla bilmədi"</string>
     <string name="list_menu_rename_result_repeat">Bu adda fayl artıq mövcuddur</string>
+    <string name="load_failure">"Yüklənə bilmədi"</string>
     <string name="load_more">Daha çox</string>
     <string name="loading">Bir saniyə…</string>
     <string name="loading_tips">Təzələmək üçün aşağı çək</string>
@@ -1503,6 +1502,10 @@ Bu səhifə tərk edilsin?"</string>
     <string name="news_load_failed">Yenidən sınamaq üçün toxunun</string>
     <string name="news_loading">Yüklənir…</string>
     <string name="news_native_see_all">Tam məqalə</string>
+    <string name="news_video_history">Tarixçə</string>
+    <string name="news_video_history_empty">Burada hələ heç nə yoxdur</string>
+    <string name="news_video_invisible_item">"Bu video göstərilə bilmir"</string>
+    <string name="news_video_no_more_videos">"İndilik bu qədər"</string>
     <string name="next">Növbəti</string>
     <string name="nf_choose_reason">Problemi təsvir edin</string>
     <string name="nf_content_gif_label">GIF</string>
@@ -2525,6 +2528,10 @@ Bəzi saytlar, reklamlarını sizin üçün fərdiləşdirmək məqsədilə əvv
 https://www.facebook.com/miui.global.official/videos/1602181069951748"</string>
     <string name="video_downloader_fail">"Bu element endirilə bilmədi"</string>
     <string name="video_downloader_retry">Yenidən sına</string>
+    <string name="video_feedback_description">Yuxarıda daxil etdiyiniz məlumatları istifadəçi təcrübənizi yaxşılaşdırmaq üçün yığırıq və istifadə edirik. Şəxsi məlumatlarınızı necə yığmağımız və emal etməyimizlə bağlı daha ətraflı öyrənmək üçün Gizlilik Siyasətimizə baxın.</string>
+    <string name="video_feedback_description_title">Bu məlumat yalnız məzmun tövsiyələri üçün istifadə olunacaq</string>
+    <string name="video_feedback_not_sumbit_toast">Göndərməzdən əvvəl bir cavab seçin</string>
+    <string name="video_feedback_thanks">Əks-əlaqəniz üçün təşəkkürlər</string>
     <string name="video_guess_you_like">Bəyənə bilərsiniz</string>
     <string name="video_play_next">Növbəti</string>
     <string name="video_replay_btn">Yenidən oxut</string>
@@ -2597,6 +2604,7 @@ https://www.facebook.com/miui.global.official/videos/1602181069951748"</string>
     <string name="web_ad_clear_dialog_confirm">Sil</string>
     <string name="web_ad_clear_dialog_msg">\"%s\" daxilindəki reklam etiketləri indi silinsin?</string>
     <string name="web_ad_clear_dialog_title">Reklam etiketlərini sil</string>
+    <string name="web_app_center">Mini proqramlar</string>
     <string name="web_enhance_dialog_cancel">İmtina</string>
     <string name="web_enhance_dialog_confirm">Oldu</string>
     <string name="web_enhance_dialog_msg">%s daxilində reklamlar əngəllənsin?</string>
