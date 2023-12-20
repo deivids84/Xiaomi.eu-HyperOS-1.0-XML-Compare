@@ -326,8 +326,8 @@
     <string name="empty_title_video">Silinəcək video yoxdur</string>
     <string name="engine_init">Başladılır…</string>
     <string name="engine_mi">Xiaomi</string>
-    <string name="eras_ad">E.S.</string>
-    <string name="eras_bc">E.Ə.</string>
+    <string name="eras_ad">B.E.</string>
+    <string name="eras_bc">B.E.Ə.</string>
     <string name="evening">Günortadan sonra</string>
     <string name="exo_download_completed">Endirmə tamamlandı</string>
     <string name="exo_download_description">Endir</string>
