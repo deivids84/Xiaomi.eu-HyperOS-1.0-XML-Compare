@@ -428,8 +428,8 @@ yol prefiksi"</string>
     <string name="eml_parse_message">EML faylı açılır…</string>
     <string name="empty_account_tip">"Hesab tapıla bilmədi"</string>
     <string name="empty_email_tip">"Boş mesaj göndərilə bilmir"</string>
-    <string name="eras_ad">E.S.</string>
-    <string name="eras_bc">E.Ə.</string>
+    <string name="eras_ad">B.E.</string>
+    <string name="eras_bc">B.E.Ə.</string>
     <string name="error">Xəta</string>
     <string name="error_icon_content_description">Xəta</string>
     <string name="error_message_account_or_password">Hesab kimliyi və ya parol yanlışdır.</string>
