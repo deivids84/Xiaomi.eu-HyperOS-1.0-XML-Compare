@@ -70,8 +70,8 @@ Batareya qənaəti, vacib tətbiqləri seçici şəkildə idarə edəcək."</str
     <string name="early_morning">Səhər</string>
     <string name="empty_title_apps_container_list">Tətbiq yoxdur</string>
     <string name="enable_sleep_mode">Gecə batareya istifadəsini optimallaşdırmaq üçün Yuxu rejimini işə salın</string>
-    <string name="eras_ad">E.S.</string>
-    <string name="eras_bc">E.Ə.</string>
+    <string name="eras_ad">B.E.</string>
+    <string name="eras_bc">B.E.Ə.</string>
     <string name="evening">Günortadan sonra</string>
     <string name="expand_button_title">Qabaqcıl</string>
     <string name="failure">Xəta</string>
