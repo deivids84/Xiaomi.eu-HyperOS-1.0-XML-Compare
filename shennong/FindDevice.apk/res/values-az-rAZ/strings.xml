@@ -63,8 +63,8 @@ kilidlənib.
     <string name="emergency_call">Fövqəladə hal zəngi</string>
     <string name="enable_find_device_error">"\"Cihazı tap\" açıla bilmədi. %1$s"</string>
     <string name="enable_find_device_success">\"Cihazı tap\" açıqdır</string>
-    <string name="eras_ad">E.S.</string>
-    <string name="eras_bc">E.Ə.</string>
+    <string name="eras_ad">B.E.</string>
+    <string name="eras_bc">B.E.Ə.</string>
     <string name="evening">Günortadan sonra</string>
     <string name="find_device_capture_done_notification_content">i.mi.com-da fotoya baxın</string>
     <string name="find_device_capture_done_notification_title">\"Cihazı tap\" uzaqdan bir şəkil çəkdi</string>
