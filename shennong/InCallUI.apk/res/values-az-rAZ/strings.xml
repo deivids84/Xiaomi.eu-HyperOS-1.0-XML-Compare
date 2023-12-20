@@ -67,7 +67,7 @@
     <string name="call_progress_info_user_busy">Digər şəxs indi məşğuldur. Lütfən daha sonra zəng edin.</string>
     <string name="call_progress_info_user_call_rejected">Nömrəniz hal-hazırda xidmət xaricindədir</string>
     <string name="call_record_wait_label">Gözləyir</string>
-    <string name="call_recording_deny_permission_msg">"Səsyazma icazəsini ləğv etdiniz, səs yazıla bilmir."</string>
+    <string name="call_recording_deny_permission_msg">"Yaza bilmir. Əvvəlcə Ayarlarda icazələri verin."</string>
     <string name="call_recording_error_low_storage">Anbarda yetərli boş yer yoxdur.</string>
     <string name="call_recording_error_privacy">"Qonaq rejimində səs yazıla bilmir"</string>
     <string name="call_recording_error_sd_access">"SD karta müraciət edilə bilmir"</string>
@@ -317,6 +317,7 @@
     <string name="remind_unlock_message">Cihazınız indi kilidlidir. Cihazınızın kilidini açdığınızdan sonra \"%s\" əlçatan olacaq. Kilid indi açılsın?</string>
     <string name="respond_via_sms_custom_message">Xüsusi SMS</string>
     <string name="satellite_call_failed">Siqnal kəsildi. Yenidən sınayın.</string>
+    <string name="satellite_diable_earpiece">"Qulaqlıqlar peyk zənglərində istifadə edilə bilmir"</string>
     <string name="satellite_dialog_button">Üzən pəncərə</string>
     <string name="satellite_dialog_cancel">İmtina</string>
     <string name="satellite_guide_down">"Topu mavi sahəyə qoymaq üçün
@@ -335,6 +336,7 @@ cihazınızı yuxarı əyin"</string>
     <string name="satellite_state">"Cihazınızı hərəkət etdirməyin"</string>
     <string name="satellite_state_connected">"Peykə bağlandı. Cihazınızı hərəkət etdirməyin."</string>
     <string name="satellite_state_connected_floating">"Cihazınızı hərəkət etdirməyin"</string>
+    <string name="satellite_state_connecting">Bağlantı qurulur… (%d s)</string>
     <string name="saturday">Şənbə</string>
     <string name="saturday_short">Şən</string>
     <string name="saturday_shortest">Şən</string>
