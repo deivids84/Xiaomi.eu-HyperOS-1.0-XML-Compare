@@ -108,8 +108,8 @@
     <string name="duplicate_video_call_not_allowed">Hal-hazırda zəng əlavə edilə bilmir.</string>
     <string name="early_morning">Səhər</string>
     <string name="enable_account_preference_title">Zəng hesabları</string>
-    <string name="eras_ad">E.S.</string>
-    <string name="eras_bc">E.Ə.</string>
+    <string name="eras_ad">B.E.</string>
+    <string name="eras_bc">B.E.Ə.</string>
     <string name="evening">Günortadan sonra</string>
     <string name="fmt_date_long_month_day">d MMMM</string>
     <string name="fmt_date_long_year_month_day">d MMMM yyyy</string>
