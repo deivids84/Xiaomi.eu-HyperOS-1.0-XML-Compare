@@ -83,8 +83,8 @@
     <string name="duration_format_second">%s san</string>
     <string name="early_morning">Səhər</string>
     <string name="empty_recognition_tip">Boş</string>
-    <string name="eras_ad">E.S.</string>
-    <string name="eras_bc">E.Ə.</string>
+    <string name="eras_ad">B.E.</string>
+    <string name="eras_bc">B.E.Ə.</string>
     <string name="error_app_internal">Başqa bir tətbiqin hazırda səsyazma özəlliyini istifadə edib-etmədiyini yoxlayın.</string>
     <string name="error_app_internal_title">Səsyazan xətası</string>
     <string name="error_file_access">"Fayl mövcud deyil və ya zədələnib"</string>
