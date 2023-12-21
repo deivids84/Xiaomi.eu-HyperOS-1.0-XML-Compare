@@ -83,7 +83,7 @@
     <string name="cars_is_public">Başladıldı</string>
     <string name="cars_no_public">Başladılmadı</string>
     <string name="cars_solution">"Həll: "</string>
-    <string name="cars_suitability">"Uyğunlaşdır: "</string>
+    <string name="cars_suitability">"Uyuşma: "</string>
     <string name="cars_title">Bir avtomobili və ya avtomobil hissəsini skan edin</string>
     <string name="carshome_data">Autohome Inc tərəfindən təmin edilən texniki dəstək</string>
     <string name="change_phone_number">Telefon nömrəsini dəyişdir</string>
@@ -181,7 +181,7 @@
     <string name="document_list_is_empty">Sənəd siyahısı boşdur</string>
     <string name="document_list_rename">Adı daxil edin</string>
     <string name="document_ocr">OCR</string>
-    <string name="document_ocr_fail">"Mətn tanına bilmədi. Şəkli cihazınızın istiqamətinə uyğun gələn şəkildə döndərib yenidən sınayın."</string>
+    <string name="document_ocr_fail">"Mətn tanına bilmədi. Şəkli cihazınızın istiqamətinə uyuşan şəkildə döndərib yenidən sınayın."</string>
     <string name="document_ocr_fail_no_text">"Mətn tanına bilmədi. Yenidən seçib təzədən başladın."</string>
     <string name="document_ocr_result_copy">Mətni kopyala</string>
     <string name="document_ocr_result_save">\"Notlar\"da saxla</string>
