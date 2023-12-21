@@ -857,7 +857,7 @@ Wi-Fi-ı söndürməyin"</string>
     <string name="trans_detail_category_user_app_data">Tətbiq datası</string>
     <string name="trans_detail_category_userdata">Tətbiqlər</string>
     <string name="trans_detail_category_wechat_qq">WeChat və QQ datası (söhbət tarixçəsi daxildir)</string>
-    <string name="trans_detail_item_app_data_selected_tip">Uyğun olan tətbiqlər də seçilir.</string>
+    <string name="trans_detail_item_app_data_selected_tip">Müvafiq tətbiqlər də seçildi.</string>
     <string name="trans_detail_item_app_data_skip_data">"Tətbiq datası köçürülə bilmir"</string>
     <string name="trans_detail_item_app_data_too_large_tip">Deyəsən, köçürmək üçün böyük element seçmisiniz.</string>
     <string name="trans_detail_list_footer">"1. Köçürmək istədiyiniz fərdi tətbiqləri seçə bilərsiniz.
