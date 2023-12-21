@@ -125,8 +125,8 @@
     <string name="editmode_menu_delete">Sil</string>
     <string name="editmode_menu_share">Paylaş</string>
     <string name="engine_open">Aç</string>
-    <string name="eras_ad">E.S.</string>
-    <string name="eras_bc">E.Ə.</string>
+    <string name="eras_ad">B.E.</string>
+    <string name="eras_bc">B.E.Ə.</string>
     <string name="evening">Günortadan sonra</string>
     <string name="expand_button_title">Qabaqcıl</string>
     <string name="extract_file">Fayl paketi açılır…</string>
