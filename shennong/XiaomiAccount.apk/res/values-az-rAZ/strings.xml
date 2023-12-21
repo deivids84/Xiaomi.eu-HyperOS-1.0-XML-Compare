@@ -160,7 +160,7 @@ Artıq %s istifadə edərək Xiaomi Hesabınıza daxil ola bilərsiniz."</string
     <string name="empty_device_list">Burada hələ heç nə yoxdur</string>
     <string name="enable">Ayarlar</string>
     <string name="ep_unsupported">"Cihazınızda Xiaomi Hesabına daxil oluna bilmir"</string>
-    <string name="eras_bc">E.Ə.</string>
+    <string name="eras_bc">B.E.Ə.</string>
     <string name="error_dup_binded_email">Bu e-poçt ünvanı artıq başqa bir Xiaomi Hesabı ilə əlaqələndirilib.</string>
     <string name="error_icon_content_description">Xəta</string>
     <string name="error_invalid_bind_address">Daxil etdiyiniz e-poçt ünvanı yararsızdır.</string>
