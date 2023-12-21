@@ -234,7 +234,7 @@ Artıq %s istifadə edərək Xiaomi Hesabınıza daxil ola bilərsiniz."</string
     <string name="icon_content_description">Dialoq nişanı</string>
     <string name="identity">Kimlik</string>
     <string name="in_progress">Davam edir</string>
-    <string name="inconsistent_pwd">"Parollar uyğunlaşmır"</string>
+    <string name="inconsistent_pwd">"Parollar uyuşmur"</string>
     <string name="indeterminate">Nə yoxlanılıb, nə də yoxlanılmayıb</string>
     <string name="input_email_address_notice">"Verdiyiniz ünvana doğrulama kodu olan bir e-poçt göndərəcəyik."</string>
     <string name="input_new_pwd">Yeni parolu daxil edin</string>
@@ -525,7 +525,7 @@ Artıq %s istifadə edərək Xiaomi Hesabınıza daxil ola bilərsiniz."</string
     <string name="passport_error_unknown">"Daxil ola bilmir"</string>
     <string name="passport_error_user_agreement_error">Əvvəlcə şərtlər və qaydalarla razılaşın</string>
     <string name="passport_error_user_name">Daxil etdiyiniz istifadəçi adı yararsızdır.</string>
-    <string name="passport_error_user_password">"Parollar uyğunlaşmır"</string>
+    <string name="passport_error_user_password">"Parollar uyuşmur"</string>
     <string name="passport_facebook_login_btn_content_description">Facebook ilə daxil olun</string>
     <string name="passport_failed_to_send_activate_email">"Aktivləşdirmə e-poçtu göndərilə bilmədi"</string>
     <string name="passport_find_password_on_web_msg">Parolunuzu sıfırlamaq üçün ziyarət edin: account.mi.com.</string>
