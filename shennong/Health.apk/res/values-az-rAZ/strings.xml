@@ -419,8 +419,8 @@ Xiaomi Heath, sizə yalnız vacib elementlər barədə məlumat verəcək."</str
     <string name="environment_detection_hint_two">Məşqiniz, çıxardığınız səslərə görə dayandırılacaq və avtomatik davam etdiriləcək.</string>
     <string name="environment_detection_ing">Məşq mühiti yoxlanılır…</string>
     <string name="equivalent_exercise">≈%1$s km gəzinti (%2$s kkal)</string>
-    <string name="eras_ad">E.S.</string>
-    <string name="eras_bc">E.Ə.</string>
+    <string name="eras_ad">B.E.</string>
+    <string name="eras_bc">B.E.Ə.</string>
     <string name="evaluation_origin_health">Təkliflər, Health tərəfindən verildi.</string>
     <string name="evening">Günortadan sonra</string>
     <string name="every_day">Hər gün</string>
