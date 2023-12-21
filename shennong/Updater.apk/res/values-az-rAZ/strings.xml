@@ -30,7 +30,7 @@
     <string name="downgrade_warning">OTA ilə versiya endirmə aşkarlandı və əngəlləndi! Sisteminizi zədələməyə imkan verməmək üçün!</string>
     <string name="download_done">Uğurla endirildi!</string>
     <string name="download_fail">Endirilərkən xəta baş verdi!</string>
-    <string name="download_fail_desc">MD5 Sum uyğun gəlmir…</string>
+    <string name="download_fail_desc">MD5 Sum uyuşmur…</string>
     <string name="downloading">Endirilir:</string>
     <string name="downloading_desc">Endirmə davam edir, bildiriş sahəsində statusu yoxlayın.</string>
     <string name="fastboot_desc">Cihaz indi Fastboot rejimində yenidən başladılacaq. Rejim sizə tanış gəlmirsə, gələcək əməliyyatlardan imtina edin. Davam edilsin?</string>
