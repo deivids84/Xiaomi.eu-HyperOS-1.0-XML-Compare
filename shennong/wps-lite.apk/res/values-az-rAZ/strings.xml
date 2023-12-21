@@ -53,7 +53,7 @@
     <string name="abc_shareactionprovider_share_with">Paylaş</string>
     <string name="abc_shareactionprovider_share_with_application">%s ilə paylaş</string>
     <string name="abc_toolbar_collapse_description">Yığcamlaşdır</string>
-    <string name="aboard_mail_body_content">Tətbiq, kiçik həcmli və həmişəlik ödənişsiz olan çoxsaylı sənəd formatları ilə uyğundur. Buradan əldə edin:</string>
+    <string name="aboard_mail_body_content">Tətbiq, kiçik həcmli və həmişəlik ödənişsiz olan çoxsaylı sənəd formatları ilə uyumludur. Buradan əldə edin:</string>
     <string name="app_unknownError">Bilinməyən xətaya görə çıxış edildi</string>
     <string name="chart_NotSupportedPic_bmw">Bu təsvir, hazırda görüntülənə bilmir.</string>
     <string name="chart_OtherCategoryName_bmw">Digər</string>
@@ -375,7 +375,7 @@
     <string name="writer_revision_edit_nottrack">"Bu əməliyyat, bir təftiş olaraq işarələnməyəcək. Yenə də davam edilsin?"</string>
     <string name="writer_revision_unsupportedRevisionSubDocument">"Hazırda bu təftişə düzəliş edilə bilmir"</string>
     <string name="writer_rom_bottom_tools_show_categoary">Kataloqu göstər</string>
-    <string name="writer_searchnotfound">Heç bir element uyğun gəlmədi</string>
+    <string name="writer_searchnotfound">Uyuşan element yoxdur</string>
     <string name="writer_table_delete_table">Cədvəli sil</string>
     <string name="writer_table_of_contents_empty">Faylda mündəricat yoxdur</string>
     <string name="writer_vertical_text_not_supported">"Bu əməliyyat şaquli mətndə dəstəklənmir"</string>
