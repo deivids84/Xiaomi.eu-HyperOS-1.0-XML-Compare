@@ -388,8 +388,8 @@ Bu özəllik OPPO, vivo, realme və digər ağıllı telefon istehsalçıları t
     <string name="today">Bu gün</string>
     <string name="tomorrow">Sabah</string>
     <string name="transfer_intercept_to_remote">"Göndərilə bilmədi: %1$s"</string>
-    <string name="transfer_to_pc_summary">"Mi Noutbuklarda quraşdırılmış AIoT proqram təminatının ən son versiyası Mi Share ilə uyğundur. Dəstəklənən noutbuk modellərinin siyahısını MIUI saytında yoxlaya bilərsiniz. Notbukunuz siyahıdadırsa, ancaq AIoT quraşdırılmayıbsa, noutbukunuzun BIOS və şəbəkə adapter sürücüsünü güncəlləyin və \"AIoT\"u endirin."</string>
-    <string name="transfer_to_pc_summary_new"><Data>\"Mi Notbuklarda quraşdırılmış ən son \"MIUI+\" versiyası Mi Share ilə uyğun gəlir. MIUI+ veb saytında dəstəklənən notbuk modellərinin siyahısını yoxlaya bilərsiniz (&lt;a href=%1$s&gt;%2$s&lt;/a&gt;). Notbukunuz siyahıdadırsa, ancaq MIUI+ quraşdırılmayıbsa, notbukunuzun BIOS və şəbəkə adapteri sürücüsünü güncəlləyin və \"MIUI+\"u endirin.\"</Data></string>
+    <string name="transfer_to_pc_summary">"Mi Notbuklarda quraşdırılmış AIoT proqram təminatının ən son versiyası Mi Share ilə uyumludur. Dəstəklənən noutbuk modellərinin siyahısını MIUI saytında yoxlaya bilərsiniz. Notbukunuz siyahıdadırsa, ancaq AIoT quraşdırılmayıbsa, notbukunuzun BIOS və şəbəkə adapter sürücüsünü güncəlləyin və \"AIoT\"u endirin."</string>
+    <string name="transfer_to_pc_summary_new"><Data>\"Mi Notbuklarda quraşdırılmış ən son \"MIUI+\" versiyası Mi Share ilə uyumludur. MIUI+ veb saytında dəstəklənən notbuk modellərinin siyahısını yoxlaya bilərsiniz (&lt;a href=%1$s&gt;%2$s&lt;/a&gt;). Notbukunuz siyahıdadırsa, ancaq MIUI+ quraşdırılmayıbsa, notbukunuzun BIOS və şəbəkə adapteri sürücüsünü güncəlləyin və \"MIUI+\"u endirin.\"</Data></string>
     <string name="transfer_to_pc_summary_new_plus"><Data>Xiaomi PC Manager, artıq Mi Share-i dəstəkləyir! Dəstəklənən kompüter modellərinin siyahısına &lt;a href=%1$s&gt;buradan&lt;/a&gt; baxa bilərsiniz.</Data></string>
     <string name="transfer_to_pc_title">Kompüterlərə fayl göndər</string>
     <string name="transfer_to_phone_summary">"Bildiriş panelindəki açarı istifadə edərək Mi Share-i açın. Bundan sonra, foto və ya fayl paylaşmağa başlayanda yaxınlıqdakı cihazları görə biləcəksiniz. Paylaşdığınız elementi göndərmək üçün alıcının cihazına toxunun."</string>
@@ -410,9 +410,9 @@ Bu özəllik OPPO, vivo, realme və digər ağıllı telefon istehsalçıları t
     <string name="uwb_guide_title_2">Hədəf cihazı Beam ilə daha tez tapın</string>
     <string name="uwb_setting_guide">Daha ətraflı</string>
     <string name="uwb_setting_guide_summary">Beam, hədəf cihazları naqilsiz olaraq tanımaq üçün UWB texnologiyasını istifadə edir. Hədəf cihaz tanındıqdan sonra, nişanı ön plana çıxacaq.</string>
-    <string name="uwb_setting_guide_title">Bu cihazı birbaşa uyğun cihazın qarşısında saxlayın</string>
+    <string name="uwb_setting_guide_title">Bu cihazı birbaşa uyumlu cihazın qarşısında saxlayın</string>
     <string name="uwb_summary">Beam, hədəf cihazları naqilsiz olaraq tanımaq üçün UWB texnologiyasını istifadə edir. UWB texnologiyası ilə işləyən cihazlar arasında elementlərin ötürülməsi daha sürətli və daha rahatdır.</string>
-    <string name="uwb_support_device">"Uyğun cihazlar: "</string>
+    <string name="uwb_support_device">"Uyumlu cihazlar: "</string>
     <string name="uwb_title">Beam</string>
     <string name="v7_preference_off">BAĞLI</string>
     <string name="v7_preference_on">AÇIQ</string>
