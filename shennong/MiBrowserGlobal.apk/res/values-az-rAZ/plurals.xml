@@ -101,8 +101,8 @@
         <item quantity="one">%1$d element</item>
     </plurals>
     <plurals name="find_on_page_matches">
-        <item quantity="other">%d uyğunluq</item>
-        <item quantity="one">%d uyğunluq</item>
+        <item quantity="other">%d uyuşma</item>
+        <item quantity="one">%d uyuşma</item>
     </plurals>
     <plurals name="found_new_files">
         <item quantity="other">%1$d yeni fayl tapıldı</item>
@@ -173,8 +173,8 @@
         <item quantity="one">Son %d gün</item>
     </plurals>
     <plurals name="mw_matches_found">
-        <item quantity="other">%1$d / %2$d</item>
-        <item quantity="one">%d uyğunluq</item>
+        <item quantity="other">%1$d/%2$d</item>
+        <item quantity="one">%d uyuşma</item>
     </plurals>
     <plurals name="nav_screen_incognito_time">
         <item quantity="other">%d saniyə sonra avtomatik olaraq yeni səhifə yaradılacaq</item>
