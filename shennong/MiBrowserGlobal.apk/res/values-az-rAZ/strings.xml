@@ -1007,7 +1007,7 @@ Bu kodu nəzarətçiyə göndərin."</string>
 • İşəgötürən və ya məktəb
 • İnternet xidmət provayderiniz"</string>
     <string name="incognito_title">"Gizlisiniz"</string>
-    <string name="inconsistent_pwd">"Parollar uyğunlaşmır"</string>
+    <string name="inconsistent_pwd">"Parollar uyuşmur"</string>
     <string name="input_email_address_notice">"Hesabınızı doğrulamaq üçün bu e-poçtu istifadə edəcəyik"</string>
     <string name="input_new_pwd">Yeni parolu daxil edin</string>
     <string name="ins_login_tips">Instagram-dan videolar endirmək üçün hesaba daxil olun</string>
@@ -1443,7 +1443,7 @@ Bu səhifə tərk edilsin?"</string>
     <string name="mw_miuichromium_error_page_unknown_error">Ups, nəsə səhv getdi</string>
     <string name="mw_miuichromium_error_page_wlan">Wi-Fi-ı aç</string>
     <string name="mw_month_picker_dialog_title">Ayı ayarla</string>
-    <string name="mw_no_matches">Uyğunluq yoxdur</string>
+    <string name="mw_no_matches">Uyuşma yoxdur</string>
     <string name="mw_older">Köhnə</string>
     <string name="mw_opening_android_media_picker">Foto seçici açıla bilmir</string>
     <string name="mw_opening_file_error">"Seçilmiş fayl açıla bilmədi"</string>
@@ -2287,7 +2287,7 @@ Bəzi saytlar, reklamlarını sizin üçün fərdiləşdirmək məqsədilə əvv
     <string name="ssl_expired">Bu sertifikatın müddəti bitib.</string>
     <string name="ssl_go_back">Geri qayıt</string>
     <string name="ssl_invalid">Bu sertifikat yararsızdır.</string>
-    <string name="ssl_mismatch">"Saytın adı sertifikatdakı adla uyğunlaşmır."</string>
+    <string name="ssl_mismatch">"Saytın adı, sertifikatdakı adla uyuşmur."</string>
     <string name="ssl_not_yet_valid">"Bu sertifikat hələ yararlı deyil."</string>
     <string name="ssl_unknown">Bilinməyən sertifikat xətası.</string>
     <string name="ssl_untrusted">"Bu sertifikat etibarlı mənbədən deyil."</string>
