@@ -293,7 +293,7 @@
     <string name="callFailed_imei_not_accepted">Bağlantı qurula bilmir, yararlı bir SIM kart daxil edin.</string>
     <string name="callFailed_incoming_calls_barred_within_CUG">CUG daxilində gələn zənglərə qadağa qoyulub</string>
     <string name="callFailed_incoming_cb_enabled">Qarşı tərəf, gələn bütün zənglərə qadağa qoyub.</string>
-    <string name="callFailed_incompatible_destination">Uyğunsuz hədəf</string>
+    <string name="callFailed_incompatible_destination">Uyumsuz hədəf</string>
     <string name="callFailed_information_element_non_existent">Məlumat elementi yoxdur, mövcud deyil və ya tətbiq edilməyib</string>
     <string name="callFailed_interworking_unspecified">Birlikdə işləmə, müəyyənləşdirilməyib</string>
     <string name="callFailed_invalid_credentials">Yanlış istifadəçi adı və ya parol</string>
@@ -304,9 +304,9 @@
     <string name="callFailed_limitExceeded">ACM limiti aşıldı</string>
     <string name="callFailed_low_battery">Batareya səviyyəsi aşağı olduğuna görə görüntülü zəng sonlandırıldı.</string>
     <string name="callFailed_maximum_reached">Bütün mövcud xətlər istifadə olunur. Zəng etmək üçün, bu və ya digər cihazlarınızda zənglərdən birini sonlandırın</string>
-    <string name="callFailed_message_not_compatible_with_protocol_state">Mesaj, protokol statusu ilə uyğunlaşmır</string>
+    <string name="callFailed_message_not_compatible_with_protocol_state">Mesaj, protokol statusu ilə uyumlu deyil</string>
     <string name="callFailed_message_type_non_implemented">Mesaj növü mövcud deyil və ya tətbiq edilməyib</string>
-    <string name="callFailed_message_type_not_compatible_with_protocol_state">Mesaj növü, protokol statusu ilə uyğunlaşmır</string>
+    <string name="callFailed_message_type_not_compatible_with_protocol_state">Mesaj növü, protokol statusu ilə uyumlu deyil</string>
     <string name="callFailed_network_out_of_order">Şəbəkə işləmir</string>
     <string name="callFailed_noSignal">Siqnal yoxdur</string>
     <string name="callFailed_no_answer_from_user">İstifadəçi xəbərdarlığı, cavab yoxdur</string>
@@ -377,7 +377,7 @@
     <string name="call_barring_deactivate_success">Zəng qadağası deaktiv edildi</string>
     <string name="call_barring_new_pwd">Yeni parol</string>
     <string name="call_barring_old_pwd">Köhnə parol</string>
-    <string name="call_barring_pwd_not_match">Parollar uyğun gəlmir</string>
+    <string name="call_barring_pwd_not_match">Parollar uyuşmur</string>
     <string name="call_barring_right_pwd_number">4 rəqəmli parolu daxil edin</string>
     <string name="call_barring_settings">Zəng qadağası ayarları</string>
     <string name="call_barring_sum">Səsli zəng qadağası ayarları</string>
@@ -495,7 +495,7 @@
     <string name="change_pin2">PIN2-ni dəyişdir</string>
     <string name="change_pin_cancel_label">İmtina</string>
     <string name="change_pin_confirm_pin_header">PIN-i təkrar daxil edin</string>
-    <string name="change_pin_confirm_pins_dont_match">"PIN-lər eyni deyil"</string>
+    <string name="change_pin_confirm_pins_dont_match">"PIN-lər uyuşmur"</string>
     <string name="change_pin_continue_label">Davam</string>
     <string name="change_pin_enter_new_pin_header">Yeni PIN kodu təyin edin</string>
     <string name="change_pin_enter_new_pin_hint">PIN %1$d-%2$d rəqəmli olmalıdır.</string>
@@ -904,7 +904,7 @@ Yenə də yeni provayderə keçilsin?"</string>
     <string name="gsm_umts_network_preferences_dialogtitle">Şəbəkə rejimi</string>
     <string name="gsm_umts_network_preferences_title">Şəbəkə rejimi</string>
     <string name="gsm_umts_options">GSM/UMTS seçimləri</string>
-    <string name="hac_mode_summary">Eşitmə cihazının uyğunluğunu aç</string>
+    <string name="hac_mode_summary">Eşitmə cihazının uyumluluğunu işə sal</string>
     <string name="hac_mode_title">Eşitmə cihazları</string>
     <string name="handon_ringer_summary">Telefonu qaldıranda gələn zənglər üçün zəng səsi səviyyəsini azalt.</string>
     <string name="handon_ringer_title">Qaldıranda zəng səsini susdur</string>
@@ -1101,11 +1101,11 @@ kilid açma kodunu daxil edilməsi gözlənilir"</string>
     <string name="mi_sim_settings_summary">SIM kart olmadan mobil internet istifadə edin</string>
     <string name="mi_sim_settings_title">Mi SIM</string>
     <string name="midnight">Gecə</string>
-    <string name="mismatchPin">"Yazdığınız PIN-lər uyğunlaşmır. Yenidən sınayın."</string>
-    <string name="mismatchPin2">"PIN2-lər uyğunlaşmır. Yenidən sınayın."</string>
-    <string name="mismatch_password">"Daxil etdiyiniz parollar uyğunlaşmır"</string>
-    <string name="mismatch_pin">"PIN-lər uyğunlaşmır."</string>
-    <string name="mismatch_pin2">"PIN%d uyğun gəlmir. Yenidən sınayın."</string>
+    <string name="mismatchPin">"Yazdığınız PIN-lər uyuşmur. Yenidən sınayın."</string>
+    <string name="mismatchPin2">"PIN2-lər uyuşmur. Yenidən sınayın."</string>
+    <string name="mismatch_password">"Daxil etdiyiniz parollar uyuşmur"</string>
+    <string name="mismatch_pin">"PIN-lər uyuşmur."</string>
+    <string name="mismatch_pin2">"PIN%d-lər uyuşmur. Yenidən sınayın."</string>
     <string name="missed_call_notify_five_times">%d dəfə</string>
     <string name="missed_call_notify_none">Xatırladıcı yoxdur</string>
     <string name="missed_call_notify_once">%d dəfə</string>
@@ -2138,7 +2138,7 @@ Növbəti dövr %2$d günə başlayır (%3$s)"</string>
     <string name="vm_change_failed">"Səsli poçt nömrəsi dəyişdirilə bilmədi.
 Bu problem davam edərsə, operatorunuzla əlaqə saxlayın."</string>
     <string name="vm_change_pin_error_invalid">Yeni PIN, yararsız simvollar ehtiva edir.</string>
-    <string name="vm_change_pin_error_mismatch">Köhnə PIN uyğunlaşmır.</string>
+    <string name="vm_change_pin_error_mismatch">Köhnə PIN uyuşmur.</string>
     <string name="vm_change_pin_error_system_error">PIN dəyişdirilə bilmir</string>
     <string name="vm_change_pin_error_too_long">Yeni PIN çox uzundur.</string>
     <string name="vm_change_pin_error_too_short">Yeni PIN çox qısadır.</string>
@@ -2158,7 +2158,7 @@ Bu problem davam edərsə, operatorunuzla əlaqə saxlayın."</string>
     <string name="voice_service_switch_title">VoLTE zəng xidmətlərini istifadə et</string>
     <string name="voice_service_warning_dialog_body">"Bu planşet, 4G şəbəkələrində VoLTE zənglərini dəstəkləyir. Cihazınızın bağlantı qurduğu şəbəkələrin bu funksionallığı dəstəklədiyinə əmin olun. VoLTE xidmətləri operatorunuz tərəfindən təmin edilir. VoLTE-nin bölgənizdə dəstəkləndiyini öyrənmək üçün yerli operatorunuzla əlaqə saxlayın.
 
-Status çubuğunda _ görsəniz, bilin ki, VoLTE zəngləri əlçatmazdır. Zəng edə və ya ala bilmirsinizsə, zəngləriniz yarımçıq kəsilirsə, şəbəkənizin VoLTE ilə uyğun olduğuna əmin olun. 
+Status çubuğunda _ görsəniz, bilin ki, VoLTE zəngləri əlçatmazdır. Zəng edə və ya ala bilmirsinizsə, zəngləriniz yarımçıq kəsilirsə, şəbəkənizin VoLTE ilə uyumlu olduğuna əmin olun. 
 
 Bu planşetdə qulaqlıq sahəsi yoxdur. Zəng edə bilmək üçün əllər-sərbəst rejiminə keçin və ya qulaqlıq istifadə edin."</string>
     <string name="voice_service_warning_dialog_cancel">İmtina</string>
