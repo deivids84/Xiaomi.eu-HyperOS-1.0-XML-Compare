@@ -200,7 +200,7 @@ Bu kodu nəzarətçiyə göndərin."</string>
     <string name="feedback_answer_detail_feedback_result">Əks-əlaqəniz üçün təşəkkürlər!</string>
     <string name="feedback_answer_detail_feedback_title">Bu faydalı oldu?</string>
     <string name="feedback_answer_detail_feedback_unresolved">Xeyr</string>
-    <string name="feedback_answer_detail_relative_question">Bu uyğun gələ bilər</string>
+    <string name="feedback_answer_detail_relative_question">Bu, əlaqəli ola bilər</string>
     <string name="feedback_answer_detail_submit_dialog_confirm">Göndər</string>
     <string name="feedback_answer_detail_submit_dialog_content">"Qarşılaşdığınız problemi təsvir edə bilərsiniz və onu həll etməyə çalışacağıq. Əks-əlaqə göndərilsin?"</string>
     <string name="feedback_answer_detail_submit_dialog_title">Əks-əlaqə göndərilsin?</string>
@@ -237,7 +237,7 @@ Bu kodu nəzarətçiyə göndərin."</string>
     <string name="feedback_detail_upload_local_log">Fayl yüklə</string>
     <string name="feedback_detail_upload_log">Jurnal yüklə</string>
     <string name="feedback_detail_waiting">Yaradılır…</string>
-    <string name="feedback_edit_popup_window_related_title">Bu uyğun gələ bilər</string>
+    <string name="feedback_edit_popup_window_related_title">Bu, əlaqəli ola bilər</string>
     <string name="feedback_empty_report_list">Hesabat yoxdur</string>
     <string name="feedback_evaluation_btn_content">Qiymətləndir</string>
     <string name="feedback_evaluation_expired_hint">"Bu elementə qiymət verilə bilmir"</string>
@@ -438,7 +438,7 @@ Bu kodu nəzarətçiyə göndərin."</string>
     <string name="miui_feedback_edit_submit_dialog_cancel">"Razı deyiləm"</string>
     <string name="miui_feedback_edit_submit_dialog_confirm">Razıyam</string>
     <string name="miui_feedback_edit_submit_dialog_content">"&lt;Data&gt;\"\"Əks-əlaqə\"ni istifadə edə bilmək üçün &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\"&gt;Gizlilik Siyasətimiz&lt;/a&gt; və &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\"&gt;İstifadəçi Razılaşmamızla&lt;/a&gt; razılaşmalısınız. Əlavə etdiyiniz elementlərlə birlikdə bildirdiyiniz problemlər (şəxsi məlumatlar, həmçinin cihazınız və şəbəkəniz haqqında məlumat daxil ola bilər) MIUI serverlərinə yüklənəcək. Bu, bildirdiyiniz problemləri tapmaq və həll etməkdə bizə kömək edəcək.&lt;/Data&gt;"</string>
-    <string name="miui_feedback_edit_submit_dialog_content_global">"&lt;Data&gt;\"Əks-əlaqəniz, qoşmalar (əgər varsa) və jurnallarla (yükləmək istəmədiyiniz elementlər üçün müvafiq xanalardan işarəni götürə bilərsiniz) MIUI serverlərinə göndəriləcək. Jurnallar, şəxsi məlumatlarınızı və yerləşmə verilənlərinizi ehtiva edə bilər. \"Razıyam\"ın seçilməsi &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\"&gt;Gizlilik Siyasətimizi&lt;/a&gt; və &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\"&gt;İstifadəçi Razılaşmamızı&lt;/a&gt; oxuyub razılaşdığınızı bildirir.&lt;/Data&gt;"</string>
+    <string name="miui_feedback_edit_submit_dialog_content_global">"&lt;Data&gt;\"Əks-əlaqəniz, qoşmalar (əgər varsa) və jurnallarla (yükləmək istəmədiyiniz elementlər üçün müvafiq xanalardan işarəni götürə bilərsiniz) MIUI serverlərinə göndəriləcək. Jurnallar, şəxsi məlumatlarınızı və yerləşmə datanızı ehtiva edə bilər. \"Razıyam\"ın seçilməsi &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\"&gt;Gizlilik Siyasətimizi&lt;/a&gt; və &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\"&gt;İstifadəçi Razılaşmamızı&lt;/a&gt; oxuyub razılaşdığınızı bildirir.&lt;/Data&gt;"</string>
     <string name="miui_feedback_edit_submit_dialog_not_show_again">"Təkrar göstərmə"</string>
     <string name="miui_feedback_edit_submit_dialog_title">Hesabat göndər</string>
     <string name="miui_feedback_edit_submit_directly">Göndər</string>
@@ -794,8 +794,8 @@ Davam etməzdən əvvəl %3$s üçün yeni versiyanı oxuyun və razılaşın."<
     <string name="submit_dialog_cancel">"Razı deyiləm"</string>
     <string name="submit_dialog_confirm">Razıyam</string>
     <string name="submit_dialog_content">&lt;Data&gt;\"Əks-əlaqə göndərməzdən əvvəl &lt;a href=\"%1$s\"&gt;Gizlilik Siyasətimizi&lt;/a&gt; və &lt;a href=\"%2$s\"&gt;İstifadəçi Razılaşmamızı&lt;/a&gt; oxuyun və razılaşın. Daxil etdiyiniz elementlərlə birgə bildirdiyiniz problemlər (şəxsi məlumatlarınızı ehtiva edə biləcək jurnallar ilə cihazınız və şəbəkəniz haqqındakı məlumatlar daxil olmaqla) serverlərimizə yüklənəcək. Bu, bildirdiyiniz problemləri tapmağımıza və həll etməyimizə kömək edəcək. Bir neçə cihazla əlaqəli problemləri bildirsəniz, Xiaomi Hesabınızın istifadə edildiyi digər cihazlardan alınan jurnallar da yüklənəcək.&lt;/Data&gt;</string>
-    <string name="submit_dialog_content_global">"&lt;Data&gt;\"Əks-əlaqəniz, qoşmalar (əgər varsa) və jurnallarla (yükləmək istəmədiyiniz elementlər üçün müvafiq xanalardan işarəni götürə bilərsiniz) serverlərimizə göndəriləcək. Jurnallar, şəxsi məlumatlarınızı və yerləşmə verilənlərinizi ehtiva edə bilər. \"Razıyam\"ın seçilməsi &lt;a href=\"%1$s\"&gt;Gizlilik Siyasətimizi&lt;/a&gt; və &lt;a href=\"%2$s\"&gt;İstifadəçi Razılaşmamızı&lt;/a&gt; oxuyub razılaşdığınızı bildirir.&lt;/Data&gt;"</string>
-    <string name="submit_dialog_content_global_with_contactinfo">"&lt;Data&gt;\"Əks-əlaqəniz, qoşmalar (əgər varsa) və jurnallarla (yükləmək istəmədiyiniz elementlər üçün müvafiq xanalardan işarəni götürə bilərsiniz) serverlərimizə göndəriləcək. Jurnallar, şəxsi məlumatlarınızı və yerləşmə verilənlərinizi ehtiva edə bilər. \"Razıyam\"ın seçilməsi &lt;a href=\"%1$s\"&gt;Gizlilik Siyasətimizi&lt;/a&gt; və &lt;a href=\"%2$s\"&gt;İstifadəçi Razılaşmamızı&lt;/a&gt; oxuyub razılaşdığınızı bildirir.&lt;/Data&gt;"</string>
+    <string name="submit_dialog_content_global">"&lt;Data&gt;\"Əks-əlaqəniz, qoşmalar (əgər varsa) və jurnallarla (yükləmək istəmədiyiniz elementlər üçün müvafiq xanalardan işarəni götürə bilərsiniz) serverlərimizə göndəriləcək. Jurnallar, şəxsi məlumatlarınızı və yerləşmə datanızı ehtiva edə bilər. \"Razıyam\"ın seçilməsi &lt;a href=\"%1$s\"&gt;Gizlilik Siyasətimizi&lt;/a&gt; və &lt;a href=\"%2$s\"&gt;İstifadəçi Razılaşmamızı&lt;/a&gt; oxuyub razılaşdığınızı bildirir.&lt;/Data&gt;"</string>
+    <string name="submit_dialog_content_global_with_contactinfo">"&lt;Data&gt;\"Əks-əlaqəniz, qoşmalar (əgər varsa) və jurnallarla (yükləmək istəmədiyiniz elementlər üçün müvafiq xanalardan işarəni götürə bilərsiniz) serverlərimizə göndəriləcək. Jurnallar, şəxsi məlumatlarınızı və yerləşmə datanızı ehtiva edə bilər. \"Razıyam\"ın seçilməsi &lt;a href=\"%1$s\"&gt;Gizlilik Siyasətimizi&lt;/a&gt; və &lt;a href=\"%2$s\"&gt;İstifadəçi Razılaşmamızı&lt;/a&gt; oxuyub razılaşdığınızı bildirir.&lt;/Data&gt;"</string>
     <string name="submit_dialog_not_show_again">"Təkrar göstərmə"</string>
     <string name="submit_dialog_title">Hesabat göndər</string>
     <string name="submit_feedback_info_failed">"Hesabat göndərilə bilmədi"</string>
