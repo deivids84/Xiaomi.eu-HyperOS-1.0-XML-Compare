@@ -606,7 +606,7 @@ MiCoin xidmətlərinin göstərilməsi, zəruri şəxsi məlumatların yığılm
     <string name="passport_error_unknow_network_error">Şəbəkə xətası baş verdi</string>
     <string name="passport_error_unknown">Bilinməyən xəta</string>
     <string name="passport_error_user_name">Daxil etdiyiniz istifadəçi adı yararsızdır</string>
-    <string name="passport_error_user_password">"Parollar uyğunlaşmır"</string>
+    <string name="passport_error_user_password">"Parollar uyuşmur"</string>
     <string name="passport_exceed_binded_phone_times_notice">Bu telefon nömrəsi artıq başqa bir Xiaomi Hesabı ilə əlaqələndirilib.</string>
     <string name="passport_facebook_login_btn_content_description">Facebook ilə daxil olun</string>
     <string name="passport_frequency_try_later">Həddindən çox cəhd edildi. Bir və ya iki dəqiqə gözləyib yenidən sınayın.</string>
