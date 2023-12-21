@@ -364,14 +364,14 @@
     <string name="music_headset_effect_harman_kardon">Harman Kardon</string>
     <string name="music_headset_effect_harman_kardon_summary">Sertifikatlı pro səs</string>
     <string name="music_headset_effect_settings">Səs effektləri</string>
-    <string name="music_headset_improve_sound">Səsi qulaqlığa uyğun nizamla</string>
+    <string name="music_headset_improve_sound">Səsi qulaqlığa görə ayarla</string>
     <string name="music_headset_is_open">Açıq</string>
     <string name="music_headset_mode_music">Musiqi oxutmanı idarə et</string>
     <string name="music_headset_mode_settings">Qulaqlıq idarəetmə düymələri</string>
     <string name="music_headset_mode_volume">Səs səviyyəsi idarəetməsi</string>
     <string name="music_headset_no_contected">Qulaqlıq aşkarlanmadı</string>
     <string name="music_headset_not_open">Bağlı</string>
-    <string name="music_headset_open">Səsi qulaqlığa uyğun nizamla</string>
+    <string name="music_headset_open">Səsi qulaqlığa görə ayarla</string>
     <string name="music_headset_optimization">Səs optimallaşdırma</string>
     <string name="music_headset_scenario_intelligent">Ağıllı</string>
     <string name="music_headset_scenario_music">Musiqi</string>
@@ -465,7 +465,7 @@
     <string name="sound_id_notice_headset_change_msg2">"Deyəsən, fərqli qulaqlıq istifadə edirsiniz. Bu fərdiləşdirilmiş səsin bu qulaqlıqlarla uyuşduğuna əmin olun."</string>
     <string name="sound_id_notice_headset_change_positive">Oldu</string>
     <string name="sound_id_notice_headset_change_title">Qulaqlıqların statusunu təsdiqlə</string>
-    <string name="sound_id_pref_description">Səs effektlərini qulaqlıq modellərinə uyğunlaşdırın</string>
+    <string name="sound_id_pref_description">Səs effektlərini qulaqlıq modellərinə görə ayarla</string>
     <string name="sound_id_pref_name">Özəl effektlər</string>
     <string name="sound_id_rename_dialog_title">Adı daxil edin</string>
     <string name="sound_id_rename_fail">"Adlarda xüsusi simvollar ola bilməz"</string>
