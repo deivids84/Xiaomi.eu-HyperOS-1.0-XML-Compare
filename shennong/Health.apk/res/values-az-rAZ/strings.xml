@@ -1467,7 +1467,7 @@ tapıla bilmədi"</string>
     <string name="suggestion_move_content">Yüz addım atın və ya bir neçə pilləkən qalxın.</string>
     <string name="suggestion_move_title">Hərəkət etmək vaxtıdır!</string>
     <string name="suggestion_title">Təkliflər</string>
-    <string name="suitable">Uyğundur</string>
+    <string name="suitable">Uyğun</string>
     <string name="sunday">Bazar</string>
     <string name="sunday_short">Baz</string>
     <string name="sunday_shortest">Baz</string>
@@ -1700,9 +1700,9 @@ tapıla bilmədi"</string>
     <string name="title_no_record_menstruation">"Hələ periodlarınızı qeyd etməmisiniz."</string>
     <string name="title_run_in_background">Arxaplanda işə sal</string>
     <string name="title_select_birthday">Doğum gününü seçin</string>
-    <string name="title_select_birthday_description">"Xidmətlərimizi yaşınıza görə uyğunlaşdıracağıq"</string>
+    <string name="title_select_birthday_description">"Xidmətlərimizi yaşınıza görə ayarlayacağıq"</string>
     <string name="title_select_gender">Cinsi seçin</string>
-    <string name="title_select_gender_description">"Xidmətlərimizi cinsinizə görə uyğunlaşdıracağıq"</string>
+    <string name="title_select_gender_description">"Xidmətlərimizi cinsinizə görə ayarlayacağıq"</string>
     <string name="title_select_height">Boyu ayarla</string>
     <string name="title_select_height_description">Bu, statistikalarımızı daha dəqiq edəcək</string>
     <string name="title_select_weight">Çəkini ayarla</string>
