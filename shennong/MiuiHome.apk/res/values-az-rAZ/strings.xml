@@ -751,7 +751,7 @@ Təkmilləşdirilmiş güvənlik."</string>
     <string name="uninstall_dialog_title_format">%s silinsin?</string>
     <string name="uninstall_result_failed">"%s silinə bilmir"</string>
     <string name="uninstall_result_succeeded">Uğurla silindi</string>
-    <string name="uninstall_with_xspace_dialog_message">Uyğun gələn ikili tətbiqlər, tətbiq məlumatları ilə birlikdə silinəcək.</string>
+    <string name="uninstall_with_xspace_dialog_message">Müvafiq ikili tətbiqlər, tətbiq dataları ilə birgə silinəcək.</string>
     <string name="uninstall_xspace_dialog_message">İkili tətbiqi silsəniz, bütün tətbiq məlumatları silinəcək.</string>
     <string name="uninstall_xspace_dialog_title_format">İkili \"%s\" tətbiqi silinsin?</string>
     <string name="unnamed_folder_name">Qovluq</string>
