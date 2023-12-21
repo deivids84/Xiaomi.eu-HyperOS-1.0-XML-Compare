@@ -265,7 +265,7 @@ Qeyd: Quraşdırdığınız tətbiqlərin dataları Xiaomi Cloud-da nüsxələnm
     <string name="friday_shortest">Cüm</string>
     <string name="get_device_id_error">"Cihaz kimliyi alında bilmədi"</string>
     <string name="help_and_feedback">Kömək və əks əlaqə</string>
-    <string name="hint_restore_wechat_data">Qeyd: Bəzi hallarda WeChat datası uyğunluq problemlərinə görə bərpa oluna bilməyə bilər.</string>
+    <string name="hint_restore_wechat_data">Qeyd: Bəzi hallarda WeChat datası uyumluluq problemlərinə görə bərpa oluna bilməyə bilər.</string>
     <string name="home_hint_global_launcher">POCO Başladıcı</string>
     <string name="home_hint_other_launcher">Digər başladıcı</string>
     <string name="home_restore_error">"Əsas ekran bərpa edilə bilmədi"</string>
