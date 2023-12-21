@@ -444,7 +444,7 @@ Kilid ekranınızdan bu məlumatları oxuyan istənilən şəxs, ekrandakı adla
     <string name="local_backup_password_summary_change">Masaüstü tam nüsxələmələrinin parolunu dəyişdirmək və ya silmək üçün toxunun</string>
     <string name="local_backup_password_summary_none">Masaüstü tam nüsxələmələri hal-hazırda qorunmur</string>
     <string name="local_backup_password_title">Masaüstü nüsxələmə parolu</string>
-    <string name="local_backup_password_toast_confirmation_mismatch">Yeni parol və parolun təkrarı uyğun gəlmir</string>
+    <string name="local_backup_password_toast_confirmation_mismatch">Yeni parol və təsdiqi uyuşmur</string>
     <string name="local_backup_password_toast_success">Yeni nüsxə parolu ayarlandı</string>
     <string name="local_backup_password_toast_validation_failure">Nüsxə parolunu ayarlama uğursuz oldu</string>
     <string name="managed_user_title">Bütün iş tətbiqləri</string>
