@@ -1177,7 +1177,7 @@ kilid açma kodunu daxil edilməsi gözlənilir"</string>
     <string name="mobile_property">Mobil şəbəkə özəllikləri</string>
     <string name="mobile_settings_screen_title">Mobil internet</string>
     <string name="mobile_special_network_optimization_config_summary">Rabitə təcrübəsini təkmilləşdirmək üçün şəbəkədəki çoxsaylı ssenariləri ağıllı şəkildə qavrayın</string>
-    <string name="mobile_special_network_optimization_config_title">Səhnəyə uyğunlaşma rejimi</string>
+    <string name="mobile_special_network_optimization_config_title">Səhnə adaptiv rejimi</string>
     <string name="modem_dialog_body">Mobil şəbəkə qeyri-stabildir, bu da kəsintilərə və şəbəkə problemlərinə səbəb olur. Təhlil edilməsi üçün Mi-yə əks-əlaqə göndərilsin? Bu hesabat, şəxsiyyəti müəyyən edə bilən məlumatları ehtiva edə bilər. Hesabatınız, bu xətanı aradan qaldırmaqda bizə kömək etməsi üçün istifadə olunacaq və heç bir kommersiya kontekstində paylaşılmayacaq.</string>
     <string name="modem_dialog_title">Mobil şəbəkə qeyri-stabildir</string>
     <string name="modem_log_notification__message">Bu, enerji sərfiyyatını artıra bilər</string>
