@@ -117,7 +117,7 @@ Dinamikinizdə firmware-in güncəl olduğuna əmin olun."</string>
     <string name="enable_location_alert_message">Cihazları arasında bağlantı qurmaq üçün əvvəlcə yerləşmə xidmətlərini işə salın. İndi işə salınsın?</string>
     <string name="enable_location_alert_ok">İşə sal</string>
     <string name="enable_location_alert_title">Yerləşmə xidmətlərini aç</string>
-    <string name="eras_ad">E.S.</string>
+    <string name="eras_ad">B.E.</string>
     <string name="eras_bc">B.E</string>
     <string name="evening">Günortadan sonra</string>
     <string name="fmt_date">D</string>
