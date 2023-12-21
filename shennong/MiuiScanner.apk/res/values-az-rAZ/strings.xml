@@ -209,7 +209,7 @@
     <string name="downloadAiVisonReason">Yüksəldilməli qoşmalardan asılıdır</string>
     <string name="download_stable_version">Stabil versiyanı istifadə edin</string>
     <string name="download_use_stable_version">Stabil versiyanı endir</string>
-    <string name="drag_barcode_into_frame">Koda uyğunlaşdırmaq üçün çərçivəni sürükləyin</string>
+    <string name="drag_barcode_into_frame">Kodu sığdırmaq üçün çərçivəni sürükləyin</string>
     <string name="drag_crop_to_business_card">Kəsmək üçün daşı</string>
     <string name="duplicate_file_name_please_rename">Bu adda bir fayl artıq mövcuddur</string>
     <string name="early_morning">Səhər</string>
