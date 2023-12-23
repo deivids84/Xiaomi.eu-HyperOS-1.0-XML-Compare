@@ -113,13 +113,13 @@
     </string-array>
     <string-array name="settings_search_cloud_space_share">
         <item>Espacio de almacenamiento familiar</item>
-        <item>Ver/activar el espacio de almacenamiento familiar</item>
-        <item>Espacio de almacenamiento familiar; Compartir almacenamiento</item>
+        <item>Vista/enciende el espacio de almacenamiento de la familia</item>
+        <item>Espacio de almacenamiento de la familia;Compartir almacenamiento</item>
     </string-array>
     <string-array name="settings_search_family_service">
         <item>Servicios familiares</item>
-        <item>Ver/activar los servicios familiares</item>
-        <item>Familia; Servicios familiares; Compartir en familia</item>
+        <item>Visualizar/activar los servicios familiares</item>
+        <item>Familia;Servicios familiares;Compartición familiar</item>
     </string-array>
     <string-array name="settings_search_help_center">
         <item>Ayuda</item>
