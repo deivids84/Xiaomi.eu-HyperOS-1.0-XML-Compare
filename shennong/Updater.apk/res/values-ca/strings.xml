@@ -53,11 +53,11 @@
     <string name="install_desc">El dispositiu es reiniciarà per recuperar i instal·lar el fitxer triat: <b>%1$s</b>\"
 Les dades no s’esborraran.\"</string>
     <string name="install_title">Esteu segurs de continuar?</string>
-    <string name="menu_title_current_version_log">Que hi ha de nou?</string>
+    <string name="menu_title_current_version_log">Què hi ha de nou</string>
     <string name="menu_title_fastboot">Reinicieu al mode Fastboot</string>
     <string name="menu_title_fastboot_mode">Actualització en mode Fastboot</string>
-    <string name="menu_title_pick_rom_file">Trieu el paquet d’actualització</string>
-    <string name="menu_title_recovery">Reinicia en mode de recuperació</string>
+    <string name="menu_title_pick_rom_file">Seleccioneu el paquet d\'actualització</string>
+    <string name="menu_title_recovery">Reinici en mode de recuperació</string>
     <string name="menu_title_recovery_mode">Actualització en mode de recuperació</string>
     <string name="menu_title_show_notifications">Mostra les notificacions</string>
     <string name="message_checkbox">Oculta els futurs missatges de l\'equip de Xiaomi.eu</string>
@@ -68,8 +68,8 @@ Les dades no s’esborraran.\"</string>
     <string name="no_mirror">Actualment tots els miralls estan fora de línia, proveu-ho més tard…</string>
     <string name="no_network">No hi ha accés a la xarxa.</string>
     <string name="no_update">Esteu al dia!</string>
-    <string name="no_xioamieu">"No utilitzeu una Rom MIUI creada per l'equip de Xiaomi.eu!
-Les actualitzacions no estan disponibles per a vosaltres!"</string>
+    <string name="no_xioamieu">"No esteu utilitzant HyperOS ROM creada per Xiaomi.eu equip!
+Les actualitzacions no estan disponibles per a tu!"</string>
     <string name="notif_cancel">Cancel·la</string>
     <string name="notif_install">Instal·la</string>
     <string name="notif_new_summary">Toqueu per obtenir detalls</string>
@@ -86,7 +86,7 @@ Les actualitzacions no estan disponibles per a vosaltres!"</string>
     <string name="recovery_desc">El dispositiu es reiniciarà ara al mode de recuperació. Si no esteu familiaritzat amb el mode, cancel·leu accions futures. Continuar?</string>
     <string name="recovery_mode">L\'actualitzador està en mode de recuperació, podeu flashejar ROM a Updater.</string>
     <string name="server_error">El servidor no respon, pot ser que l\'aplicació no funcioni correctament!</string>
-    <string name="share_desc">La vostra versió MIUI s\'ha actualitzat a %1$s, comproveu la llista de canvis a: %2$s</string>
+    <string name="share_desc">La vostra versió d\'HyperOS s\'ha actualitzat a %1$s, consulteu l\'últim registre de canvis a: %2$s</string>
     <string name="share_title">Comparteix amb</string>
     <string name="stable">Estable</string>
     <string name="twrp_update_warning">Per poder utilitzar OTA, heu de seleccionar si teniu o no TWRP instal·lat al vostre dispositiu:</string>
