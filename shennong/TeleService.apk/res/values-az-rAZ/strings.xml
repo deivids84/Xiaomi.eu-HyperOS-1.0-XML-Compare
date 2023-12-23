@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="HIPS_Perm_External_Storage">Anbar</string>
-    <string name="HIPS_Perm_External_Storage_Desc">Cihazınızdakı faylları və fotoları saxlama və onlara müraciət etmə</string>
     <string name="HIPS_Perm_Read_Contact">Kontaktlar</string>
     <string name="HIPS_Perm_Read_Contact_Desc">Kontaktlara müraciət</string>
     <string name="PERSOSUBSTATE_RUIM_CORPORATE_ENTRY">RUIM Korporativ kilid açma PIN kodu</string>
