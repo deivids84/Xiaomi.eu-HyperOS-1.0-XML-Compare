@@ -583,7 +583,7 @@ Comproveu la configuració i proveu-ho de nou."</string>
     <string name="no_visiable_calendar_title">Afegeix un compte</string>
     <string name="none">Cap</string>
     <string name="noon">Migdia</string>
-    <string name="not_more_than_three_weekday">Podeu seleccionar fins a 3 dies</string>
+    <string name="not_more_than_three_weekday">Podeu seleccionar fins a %d dies</string>
     <string name="not_set">Sense definir</string>
     <string name="notes_hint">Toqueu per afegir una tasca</string>
     <string name="notes_reminders_channel">Recordatoris de notes</string>
