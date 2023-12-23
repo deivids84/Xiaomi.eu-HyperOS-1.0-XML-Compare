@@ -62,14 +62,14 @@
     <string name="miui_feedback_main_title">Comentarios</string>
     <string name="miuix_access_state_desc">Seleccionado</string>
     <string name="miuix_alphabet_indexer_name">Barra de índice</string>
-    <string name="miuix_appcompat_action_mode_deselect_all">Anular la selección de todo</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">Deseleccionar todo</string>
     <string name="miuix_appcompat_action_mode_select_all">Seleccionar todo</string>
     <string name="miuix_appcompat_action_mode_title_empty">Seleccionar elementos</string>
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">Más</string>
     <string name="miuix_appcompat_cancel_description">Cancelar</string>
     <string name="miuix_appcompat_confirm_description">Confirmar</string>
     <string name="miuix_appcompat_delete_description">Eliminar</string>
-    <string name="miuix_appcompat_deselect_all">Anular la selección de todo</string>
+    <string name="miuix_appcompat_deselect_all">Deseleccionar todo</string>
     <string name="miuix_appcompat_deselect_all_description">Deseleccionar todo</string>
     <string name="miuix_appcompat_edit">Editar</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Cancelar</string>
@@ -131,7 +131,7 @@
     <string name="night">Noche</string>
     <string name="noon">Mediodía</string>
     <string name="permission_agree">Aceptar</string>
-    <string name="permission_china_version_msg">&lt;Data&gt;Antes de usar \"Servicios y comentarios\", debes leer y aceptar nuestro &lt;a href=%1$s&gt;Acuerdo de Usuario&lt;/a&gt; y &lt;a href=%2$s&gt;Política de Privacidad&lt;/a&gt;. Esta aplicación también necesita conectarse a internet para trabajar con normalidad.&lt;/Data&gt;</string>
+    <string name="permission_china_version_msg">&lt;Data&gt;Antes de usar \"Servicios &amp;amp; comentarios\", debes leer y aceptar nuestro &lt;a href=%1$s&gt;Acuerdo de Usuario&lt;/a&gt; y &lt;a href=%2$s&gt;Política de Privacidad&lt;/a&gt;. Esta aplicación también necesita conectarse a internet para funcionar normalmente.&lt;/Data&gt;</string>
     <string name="permission_complete">Listo</string>
     <string name="permission_contacts_info">Acceder a la información de la cuenta</string>
     <string name="permission_contacts_introduce">Para iniciar sesión usando la Cuenta Xiaomi</string>
@@ -143,9 +143,9 @@
     <string name="permission_imei_disable_desc">Permitir a esta aplicación conectarse a internet.</string>
     <string name="permission_imei_enable_desc">Permitir a esta aplicación conectarse a internet y conceder los permisos obligatorios arriba mencionados.</string>
     <string name="permission_location_introduce">Para mostrar puntos de servicio cercanos</string>
-    <string name="permission_main_purpose">Mostrar funciones demo, enviar comentarios y solicitar servicios postventa.</string>
+    <string name="permission_main_purpose">Mostrar demostraciones de funciones, enviar comentarios y solicitar servicios posventa.</string>
     <string name="permission_privacy">Política de Privacidad (obligatorio)</string>
-    <string name="permission_region_version_msg">&lt;Data&gt;Antes de usar \"Servicios y comentarios\", debes leer y aceptar nuestro &lt;a href=%1$s&gt;Acuerdo de Usuario&lt;/a&gt; y &lt;a href=%2$s&gt;Política de Privacidad&lt;/a&gt;.&lt;/Data&gt;</string>
+    <string name="permission_region_version_msg">&lt;Data&gt;Antes de usar \"Servicios &amp;amp; comentarios\", debe leer y aceptar nuestro &lt;a href=%1$s&gt;Acuerdo de usuario&lt;/a&gt; y &lt;a href=%2$s&gt;Política de privacidad&lt;/a&gt;.&lt;/Data&gt;</string>
     <string name="permission_select_all">Seleccionar todo</string>
     <string name="permission_storage">Almacenamiento</string>
     <string name="permission_storage_introduce">Para guardar elementos en su dispositivo</string>
