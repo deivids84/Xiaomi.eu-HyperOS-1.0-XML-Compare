@@ -35,11 +35,11 @@
     <string name="abrupt_weather_settings_summary_type_b">Interruptor de Alerta de Tiempo Inusual</string>
     <string name="abrupt_weather_settings_title">Aviso de tiempo inusual</string>
     <string name="act_find_city_hint">Ingrese una ubicación</string>
-    <string name="act_find_city_hot_attractions_title">Ciudades populares</string>
+    <string name="act_find_city_hot_attractions_title">Sitios populares</string>
     <string name="act_find_city_hot_city_title">Ciudades populares</string>
-    <string name="act_find_city_location_button_text">Obtener la ubicación actual</string>
+    <string name="act_find_city_location_button_text">Obtener ubicación actual</string>
     <string name="act_find_city_location_title">Ubicación actual</string>
-    <string name="act_location_error_to_find_city">"No se pudo obtener la información de ubicación. Puedes añadir una ubicación manualmente."</string>
+    <string name="act_location_error_to_find_city">"No se pudo obtener información de ubicación. Puedes añadir una ubicación manualmente."</string>
     <string name="act_set_city_find_side">Ubicando</string>
     <string name="act_set_city_find_side_error">"No se puede ubicar el dispositivo"</string>
     <string name="act_weather_find_city_added">Agregada</string>
@@ -57,7 +57,7 @@
     <string name="activity_find_city_location_fail_dialog_message">Permitir que esta aplicación acceda a tu ubicación para poder usar esta función. Puedes conceder este permiso en Configuración.</string>
     <string name="activity_find_city_location_fail_dialog_negative_btn_tag">Cancelar</string>
     <string name="activity_find_city_location_fail_dialog_positive_btn_tag">Ajustes</string>
-    <string name="activity_find_city_location_fail_dialog_title">Permisos requeridos</string>
+    <string name="activity_find_city_location_fail_dialog_title">Permisos necesarios</string>
     <string name="activity_main_pub_time">Publicado a las %1$s</string>
     <string name="activity_main_update_time">Actualizado %1$s</string>
     <string name="activity_main_update_time_expire">Datos no actualizados</string>
@@ -85,7 +85,7 @@
     <string name="aqi_detail_title">Índice de Calidad del Aire</string>
     <string name="aqi_detail_unit">Unidad: µg/m³</string>
     <string name="aqi_fifteen_dates_time_format">d/M</string>
-    <string name="aqi_first_sub_desc_locate">Estación: %1$s (%2$s de distancia)</string>
+    <string name="aqi_first_sub_desc_locate">Estación: %1$s (%2$s lejos)</string>
     <string name="aqi_first_sub_desc_no_locate">AQI promedio en %1$s</string>
     <string name="aqi_publish_time">Actualizado %1$s</string>
     <string name="aqi_quality_ambient_air_quality">Calidad del aire cerca</string>
@@ -110,7 +110,7 @@
     <string name="aqi_top_pollution">Contaminantes principales</string>
     <string name="background_location_dialog_msg">"Para asegurarse de que esta aplicación utiliza siempre información de ubicación precisa, permite acceder a tu ubicación cuando se ejecuta en segundo plano. Puedes conceder este permiso en Configuración."</string>
     <string name="background_location_dialog_open_button">Ajustes</string>
-    <string name="background_location_dialog_title">Permisos requeridos</string>
+    <string name="background_location_dialog_title">Permisos necesarios</string>
     <string name="button_abandon">Descartar cambios</string>
     <string name="button_add_city">Añadir ubicación</string>
     <string name="button_allow">Aceptar</string>
@@ -235,7 +235,7 @@ Leer y aceptar la nueva versión de %2$s antes de continuar."</string>
     <string name="feedback_result_fail_no_choice">Elija las condiciones del tiempo actuales</string>
     <string name="feedback_result_fail_no_reason">¡Gracias por sus comentarios!</string>
     <string name="feedback_result_fail_same_type">"Parece que su reporte no es diferente al estado del tiempo actual. Vuelva a intentarlo."</string>
-    <string name="feedback_result_success">Enviado. Gracias por tu comentario.</string>
+    <string name="feedback_result_success">Enviado con éxito. Gracias por tus comentarios.</string>
     <string name="feedback_sandy">Tormenta de polvo</string>
     <string name="feedback_sunny">Despejado</string>
     <string name="feedback_temperature_subtitle">Actualmente mostrando: %1$s°</string>
