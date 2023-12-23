@@ -223,7 +223,7 @@
     <string-array name="battery_indicator_style_summaries">
         <item>Gráfico</item>
         <item>Porcentaje (en el icono)</item>
-        <item>Porcentaje (al lado del icono)</item>
+        <item>Porcentaje (junto al icono)</item>
         <item>Barra de progreso</item>
     </string-array>
     <string-array name="bearer_entries">
@@ -254,13 +254,13 @@
         <item>Modo baja latencia</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_bits_per_sample_summaries">
-        <item>Usar selección de sistema (predeterminado)</item>
+        <item>Usar selección del sistema (por defecto)</item>
         <item>16 bits/muestra</item>
         <item>24 bits/muestra</item>
         <item>32 bits/muestra</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_bits_per_sample_titles">
-        <item>Usar selección de sistema (predeterminado)</item>
+        <item>Usar selección del sistema (por defecto)</item>
         <item>16 bits/muestra</item>
         <item>24 bits/muestra</item>
         <item>32 bits/muestra</item>
@@ -279,7 +279,7 @@
         <item>Optimizado para calidad de audio</item>
         <item>Audio balanceado y calidad de conexión</item>
         <item>Optimizado para calidad de conexión</item>
-        <item>Mejor esfuerzo (tasa de bits flexible)</item>
+        <item>Mejor esfuerzo (bit adaptivo r)</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_ldac_playback_quality_titles">
         <item>Optimizado para calidad de audio (990 kbps/909 kbps)</item>
@@ -340,8 +340,8 @@
         <item>LHDC V3/V4</item>
         <item>LHDC V2</item>
         <item>LHDC V1</item>
-        <item>Habilitar códecs opcionales</item>
-        <item>Deshabilitar códecs opcionales</item>
+        <item>Habilitar codecs opcionales</item>
+        <item>Desactivar codecs opcionales</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_titles">
         <item>Usar preferencia del sistema (por defecto)</item>
@@ -356,8 +356,8 @@
         <item>LHDC V3/V4</item>
         <item>LHDC V2</item>
         <item>LHDC V1</item>
-        <item>Habilitar códecs opcionales</item>
-        <item>Deshabilitar códecs opcionales</item>
+        <item>Habilitar codecs opcionales</item>
+        <item>Desactivar codecs opcionales</item>
     </string-array>
     <string-array name="bluetooth_audio_active_device_summaries">
         <item></item>
@@ -366,9 +366,9 @@
         <item>" | Activo (teléfono)"</item>
     </string-array>
     <string-array name="bluetooth_audio_routing_titles">
-        <item>Usar la configuración predeterminada de la aplicación</item>
-        <item>Reproducir en el audífono</item>
-        <item>Reproducir en el altavoz del teléfono</item>
+        <item>Usar app por defecto</item>
+        <item>Reproducir en dispositivo auditivo</item>
+        <item>Jugar con el altavoz del teléfono</item>
     </string-array>
     <string-array name="bluetooth_avrcp_versions">
         <item>AVRCP 1.4 (Por defecto)</item>
@@ -378,8 +378,8 @@
     </string-array>
     <string-array name="bluetooth_broadcast_pin_config_titles">
         <item>Sin cifrar (sin seguridad)</item>
-        <item>Pin de 4 dígitos (baja seguridad)</item>
-        <item>Pin de 16 dígitos (alta seguridad)</item>
+        <item>pin de 4 dígitos (baja seguridad)</item>
+        <item>pin de 16 dígitos (alta seguridad)</item>
     </string-array>
     <string-array name="bluetooth_map_versions">
         <item>MAP 1.2 (por defecto)</item>
@@ -403,15 +403,15 @@
         <item>Perfiles habilitados filtrados</item>
     </string-array>
     <string-array name="bt_hci_snoop_log_filters_entries">
-        <item>Dejar solo los encabezados ACL</item>
+        <item>Dejar solo cabeceras ACL</item>
         <item>Filtrar paquetes multimedia A2DP</item>
         <item>Filtrar canal RFCOMM</item>
     </string-array>
     <string-array name="bt_hci_snoop_log_profile_filter_entries">
-        <item>Deshabilitar</item>
-        <item>Rellenar con cadena de caracteres</item>
-        <item>Dejar solo el encabezado</item>
-        <item>Eliminar totalmente</item>
+        <item>Desactivar</item>
+        <item>Rellenar con una cadena de caracteres</item>
+        <item>Dejar solo cabecera</item>
+        <item>Eliminar por completo</item>
     </string-array>
     <string-array name="button_light_timeout_entries">
         <item>1 segundo</item>
@@ -748,16 +748,16 @@ Nota: solo para Ubuntu 8.04"</item>
         <item>Moviendo…</item>
     </string-array>
     <string-array name="nfc_notification_mode_summaries">
-        <item>Tarjetas de pago, acceso y hogar inteligente</item>
-        <item>Vinculación Bluetooth, conexión inalámbrica y tarjetas de hogar inteligente</item>
+        <item>Pago, acceso y tarjetas inteligentes</item>
+        <item>Combinación Bluetooth, conexión inalámbrica y tarjetas de hogar inteligentes</item>
     </string-array>
     <string-array name="nfc_notification_mode_titles">
         <item>Todas las tarjetas</item>
-        <item>Las tarjetas reconocidas por el sistema</item>
+        <item>Tarjetas reconocidas por el sistema</item>
     </string-array>
     <string-array name="nfc_payment_favor">
         <item>Siempre</item>
-        <item>Excepto si hay otra aplicación de pago abierta</item>
+        <item>Excepto cuando otra aplicación de pago está abierta</item>
     </string-array>
     <string-array name="notch_battery_indicator_style_entries">
         <item>Gráfica</item>
@@ -767,7 +767,7 @@ Nota: solo para Ubuntu 8.04"</item>
     <string-array name="notch_battery_indicator_style_summaries">
         <item>Gráfico</item>
         <item>Porcentaje (en el icono)</item>
-        <item>Porcentaje (al lado del icono)</item>
+        <item>Porcentaje (junto al icono)</item>
     </string-array>
     <string-array name="notification_shade_shortcut_entries">
         <item>Buscar</item>
@@ -926,7 +926,7 @@ Nota: solo para Ubuntu 8.04"</item>
         <item>Permitir siempre</item>
     </string-array>
     <string-array name="select_gpo_version_titles">
-        <item>Desactivado</item>
+        <item>Apagado</item>
         <item>GPO4</item>
         <item>GPO5</item>
         <item>GPO6</item>
@@ -987,12 +987,12 @@ Nota: solo para Ubuntu 8.04"</item>
     </string-array>
     <string-array name="smart_device_control_entries">
         <item>@string/mi_smart_hub_entry_title</item>
-        <item>Hogar inteligente</item>
-        <item>Ninguno</item>
+        <item>Casa inteligente</item>
+        <item>Ninguna</item>
     </string-array>
     <string-array name="smart_home_entries">
-        <item>Hogar inteligente</item>
-        <item>Ninguno</item>
+        <item>Casa inteligente</item>
+        <item>Ninguna</item>
     </string-array>
     <string-array name="special_locale_names_global">
         <item>简体 中文</item>
@@ -1011,8 +1011,8 @@ Nota: solo para Ubuntu 8.04"</item>
     </string-array>
     <string-array name="switch_to_dock_user_when_docked_timeout_entries">
         <item>Nunca</item>
-        <item>Tras 1 minuto</item>
-        <item>Tras 5 minutos</item>
+        <item>Después de 1 minuto</item>
+        <item>Después de 5 minutos</item>
     </string-array>
     <string-array name="tabs_taptic_detail">
         <item>Nítido</item>
@@ -1020,13 +1020,13 @@ Nota: solo para Ubuntu 8.04"</item>
         <item>Pop</item>
     </string-array>
     <string-array name="tabs_taptic_detail_m2">
-        <item>Nítido</item>
-        <item>Sólido</item>
+        <item>Cristo</item>
+        <item>Solid</item>
     </string-array>
     <string-array name="tare_modifiers_subfactors">
         <item>Cargando</item>
-        <item>Reposo</item>
-        <item>Modo ahorro de energía</item>
+        <item>Doze</item>
+        <item>Modo de ahorro de energía</item>
         <item>Estado del proceso</item>
     </string-array>
     <string-array name="time_format_entries">
@@ -1080,10 +1080,10 @@ Nota: solo para Ubuntu 8.04"</item>
         <item>Toque directo</item>
     </string-array>
     <string-array name="udfps_accessibility_touch_hints">
-        <item>Mover a la izquierda</item>
-        <item>Mover hacia abajo</item>
+        <item>Mover izquierda</item>
+        <item>Bajar</item>
         <item>Mover a la derecha</item>
-        <item>Mover hacia arriba</item>
+        <item>Subir</item>
     </string-array>
     <string-array name="usb_configuration_titles">
         <item>Cargando</item>
