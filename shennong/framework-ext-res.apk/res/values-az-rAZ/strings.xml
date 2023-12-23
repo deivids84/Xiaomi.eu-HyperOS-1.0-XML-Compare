@@ -248,7 +248,7 @@
     <string name="key_none">Heç biri</string>
     <string name="keyboard_connect_failed">"Klaviaturaya bağlana bilmədi. Yenidən qoşun."</string>
     <string name="keyboard_identity_reject_confirm">Anladım</string>
-    <string name="keyboard_identity_reject_message">"Deyəsən, klaviaturanız bu cihazla uyğunlaşmır."</string>
+    <string name="keyboard_identity_reject_message">"Deyəsən, klaviaturanız bu cihazla uyumlu deyil."</string>
     <string name="keyboard_identity_transfer_error_message">"Klaviaturaya bağlana bilmədi. Yenidən sınayın."</string>
     <string name="keyboard_upgrade_failed">"Klaviatura güncəllənə bilmədi"</string>
     <string name="keyboard_upgrade_start">Klaviatura güncəllənir…</string>
@@ -325,7 +325,7 @@
     <string name="miui">miui</string>
     <string name="miui_device_name">Android</string>
     <string name="miui_forbid_poweroff_when_device_locked">"Söndürülə bilmir, cihaz kilidlidir."</string>
-    <string name="miui_landscape_compat_toast">"Tətbiqi üfüqi rejimdə istifadə edərkən qatlama cihazı üçün uyğun ola bilməz, onu şaquli rejimdə istifadə etmək məsləhət görülür"</string>
+    <string name="miui_landscape_compat_toast">"Tətbiqi üfüqi rejimdə istifadə etmək qatlanan cihaz üçün uyğun ola bilməz, onu şaquli rejimdə istifadə etmək məsləhət görülür"</string>
     <string name="miui_multiwindow_not_support_cvw">"Bu tətbiq üçün pəncərə ölçüsü ayarlana bilmir"</string>
     <string name="miui_multiwindow_not_support_small_window">"%1$s, üzən pəncərələri dəstəkləmir"</string>
     <string name="miui_multiwindow_not_support_split">"%1$s, bölünmüş ekranı dəstəkləmir"</string>
@@ -560,7 +560,7 @@
     <string name="stylus_pen_mask_screenshot">Bir ekran şəkli çəkmək üçün ekrana toxunun</string>
     <string name="stylus_pen_mask_text">Yazmağa başlamaq üçün ekrana toxunun</string>
     <string name="subinfo_default_name">SIM %d</string>
-    <string name="sunlight_notification_content">Parlaqlığı avtomatik olaraq güclü ətraf mühit işığına uyğunlaşdırın</string>
+    <string name="sunlight_notification_content">Parlaqlığı avtomatik olaraq güclü mühit işığına görə ayarla</string>
     <string name="sunlight_notification_title">Günəş işığı rejimini açın</string>
     <string name="sunrise">Gün doğumu</string>
     <string name="super_resolution_maintain_tips">"Super dəqiqlik hələ mövcud deyil."</string>
@@ -610,7 +610,9 @@ cihazınızı qatlayın"</string>
     <string name="vivo">vivo</string>
     <string name="vivo_phone">vivo</string>
     <string name="voice_assist">Mi AI</string>
+    <string name="wallpaper_floral_arrangement_title">Floral sazlama</string>
     <string name="wallpaper_geometrically_irregular_title">Abstrakt həndəsə</string>
+    <string name="wallpaper_gradient_title">Gradient</string>
     <string name="wallpaper_group_black_gobi_title">Qobi qumları</string>
     <string name="wallpaper_group_black_white_title">Qara və ağ</string>
     <string name="wallpaper_group_color_move_title">Maye rənglər</string>
@@ -635,8 +637,6 @@ cihazınızı qatlayın"</string>
     <string name="wallpaper_group_sgn_mountain_title">Siguniang dağı</string>
     <string name="wallpaper_neon_title">Neon</string>
     <string name="wallpaper_overlapping_space_title">Forma və kölgə</string>
-    <string name="wallpaper_submerged_wing_title">Tekstura</string>
-    <string name="wallpaper_wabi_sabi_title">Wabi-sabi</string>
     <string name="waterdrop_preview">Damlacıqlar</string>
     <string name="wifi_assistant_wifi_no_internet">Bu Wi-Fi şəbəkəsinin internetə müraciəti yoxdur</string>
     <string name="wifi_assistant_wifi_no_internet_detail">Detallara baxmaq üçün toxunun</string>
