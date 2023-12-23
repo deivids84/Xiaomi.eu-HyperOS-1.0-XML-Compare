@@ -130,9 +130,9 @@
         <item>Activar</item>
     </string-array>
     <string-array name="tile_states_color_correction">
-        <item>No disponible</item>
-        <item>Desactivado</item>
-        <item>Activado</item>
+        <item>Unavailable</item>
+        <item>Apagado</item>
+        <item>En</item>
     </string-array>
     <string-array name="tile_states_controls">
         <item>No disponible</item>
@@ -150,9 +150,9 @@
         <item>Activar</item>
     </string-array>
     <string-array name="tile_states_dream">
-        <item>No disponible</item>
-        <item>Desactivado</item>
-        <item>Activado</item>
+        <item>Unavailable</item>
+        <item>Apagado</item>
+        <item>En</item>
     </string-array>
     <string-array name="tile_states_flashlight">
         <item>No disponible</item>
@@ -160,9 +160,9 @@
         <item>Activar</item>
     </string-array>
     <string-array name="tile_states_font_scaling">
-        <item>No disponible</item>
-        <item>Desactivado</item>
-        <item>Activado</item>
+        <item>Unavailable</item>
+        <item>Apagado</item>
+        <item>En</item>
     </string-array>
     <string-array name="tile_states_hotspot">
         <item>No disponible</item>
@@ -195,14 +195,14 @@
         <item>Activar</item>
     </string-array>
     <string-array name="tile_states_onehanded">
-        <item>No disponible</item>
-        <item>Desactivada</item>
-        <item>Activada</item>
+        <item>Unavailable</item>
+        <item>Apagado</item>
+        <item>En</item>
     </string-array>
     <string-array name="tile_states_qr_code_scanner">
-        <item>No disponible</item>
-        <item>Desactivado</item>
-        <item>Activado</item>
+        <item>Unavailable</item>
+        <item>Apagado</item>
+        <item>En</item>
     </string-array>
     <string-array name="tile_states_reduce_brightness">
         <item>No disponible</item>
@@ -245,10 +245,10 @@
         <item>Activar</item>
     </string-array>
     <string-array name="udfps_accessibility_touch_hints">
-        <item>Mover a la izquierda</item>
-        <item>Mover abajo</item>
+        <item>Mover izquierda</item>
+        <item>Bajar</item>
         <item>Mover a la derecha</item>
-        <item>Mover arriba</item>
+        <item>Subir</item>
     </string-array>
     <string-array name="wifitrackerlib_wifi_status">
         <item></item>
