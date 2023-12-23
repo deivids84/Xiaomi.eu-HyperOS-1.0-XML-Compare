@@ -92,7 +92,7 @@
         <item>Sonidos del sistema</item>
     </string-array>
     <string-array name="screenrecorder_settings_sound_native">
-        <item>Desactivado</item>
+        <item>Ninguna</item>
         <item>Micrófono</item>
         <item>Sistema</item>
         <item>Ambos</item>
