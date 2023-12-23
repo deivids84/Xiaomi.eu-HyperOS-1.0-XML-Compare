@@ -246,8 +246,8 @@
         <item>Algunas aplicaciones de terceros pueden contener malware que pone en riesgo sus datos personales.</item>
     </string-array>
     <string-array name="pp_lab_compact_blur_location_entry">
-        <item>Predeterminado</item>
-        <item>Todo</item>
+        <item>Por defecto</item>
+        <item>Todos</item>
     </string-array>
     <string-array name="priority_storage_entries">
         <item>Almacenamiento interno</item>
@@ -263,15 +263,15 @@
         <item>Saldo del teléfono</item>
     </string-array>
     <string-array name="sort_title_new">
-        <item>Ordenar por el nombre de la aplicación</item>
-        <item>Ordenar por el uso reciente</item>
-        <item>Ordenar por el almacenamiento usado</item>
-        <item>Ordenar por la fecha de instalación</item>
+        <item>Ordenar por nombre de aplicación</item>
+        <item>Ordenar por más recientemente usado</item>
+        <item>Ordenar por almacenamiento usado</item>
+        <item>Ordenar por tiempo de instalación</item>
     </string-array>
     <string-array name="sort_type_new">
         <item>Nombre de la aplicación</item>
         <item>Usado recientemente</item>
-        <item>Almacenamiento utilizado</item>
+        <item>Almacenamiento usado</item>
         <item>Tiempo de instalación</item>
     </string-array>
     <string-array name="tether_limit_warn_type">
