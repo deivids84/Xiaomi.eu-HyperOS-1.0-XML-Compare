@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="account_user_gender_name">
+        <item>Masculí</item>
+        <item>Femení</item>
+    </string-array>
+    <string-array name="alphabet_table_with_starred">
+        <item>!</item>
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+        <item>\#</item>
+    </string-array>
+    <string-array name="net_diag_err_link_quality">
+        <item>Connexió Wi-Fi deficient. Canvieu les bandes sense fils o reinicieu l\'encaminador.</item>
+        <item>"No puc accedir a la xarxa. Torneu a connectar-vos a la Wi-Fi o reinicieu l'encaminador."</item>
+    </string-array>
+    <string-array name="net_diag_err_link_quality_china">
+        <item>Connexió Wi-Fi deficient. Canvieu les bandes sense fils o reinicieu l\'encaminador.</item>
+        <item>"No puc accedir a la xarxa. Torneu a connectar-vos a la Wi-Fi o reinicieu l'encaminador."</item>
+    </string-array>
+    <string-array name="net_diag_err_network_connectivity">
+        <item>L\'autenticació és necessària per a l\'accés a la xarxa</item>
+        <item>"L'accés a la xarxa està restringit. Ajusteu el temps en aquest dispositiu i comproveu la configuració de xarxa del router."</item>
+        <item>Error de xarxa. Comproveu la configuració del servidor intermediari HTTP.</item>
+        <item>Error de xarxa. Comproveu si l\'encaminador pot accedir a Internet.</item>
+        <item>"No puc accedir a la xarxa. Torneu a connectar-vos a la Wi-Fi o reinicieu l'encaminador."</item>
+    </string-array>
+    <string-array name="net_diag_err_network_connectivity_china">
+        <item>L\'autenticació és necessària per a l\'accés a la xarxa</item>
+        <item>"L'accés a la xarxa està restringit. Ajusteu el temps en aquest dispositiu i comproveu la configuració de xarxa del router."</item>
+        <item>Error de xarxa. Comproveu la configuració del servidor intermediari HTTP.</item>
+        <item>Error de xarxa. Comproveu si l\'encaminador pot accedir a Internet.</item>
+        <item>"No es pot connectar a la xarxa. Torneu a connectar-vos a la Wi-Fi o reinicieu l'encaminador."</item>
+    </string-array>
+    <string-array name="net_diag_err_network_dns">
+        <item>"Error del servidor DNS. Comproveu la configuració DNS del router."</item>
+        <item>"Retards importants del servidor DNS. Comproveu la configuració DNS del router."</item>
+        <item>"No puc accedir a la xarxa. Torneu a connectar-vos a la Wi-Fi o reinicieu l'encaminador."</item>
+    </string-array>
+    <string-array name="net_diag_err_network_dns_china">
+        <item>"Error del servidor DNS. Comproveu la configuració DNS del router."</item>
+        <item>"Retards importants del servidor DNS. Comproveu la configuració DNS del router."</item>
+        <item>"No es pot accedir a la passarel·la. Torneu a connectar-vos a la Wi-Fi o reinicieu l'encaminador."</item>
+    </string-array>
+    <string-array name="net_diag_err_network_latency">
+        <item>Retards importants de la xarxa local. Reinicieu l\'encaminador o connecteu-vos a una altra xarxa.</item>
+        <item>Retards importants d\'internet. Comprova la configuració de la xarxa de l\'operador de telefonia mòbil o connecta\'t a una altra xarxa.</item>
+    </string-array>
+    <string-array name="net_diag_err_network_parameters">
+        <item>Canvieu d\'IP estàtica a DHCP</item>
+    </string-array>
+    <string-array name="net_diag_err_network_protocol">
+        <item>Error de protocol de xarxa. Torneu a connectar-vos a la Wi-Fi o reinicieu el dispositiu.</item>
+    </string-array>
+    <string-array name="net_diag_err_network_protocol_china">
+        <item>Error de protocol de xarxa. Torneu a connectar-vos a la Wi-Fi o reinicieu el dispositiu.</item>
+    </string-array>
+    <string-array name="net_diag_err_network_rssi">
+        <item>Trasllada\'t a una zona amb millor cobertura Wi-Fi</item>
+    </string-array>
+    <string-array name="net_diag_err_network_rssi_china">
+        <item>Trasllada\'t a una zona amb millor cobertura Wi-Fi</item>
+    </string-array>
+    <string-array name="net_diag_err_network_topology">
+        <item>"Comproveu la configuració DHCP i la connexió per cable de l'encaminador"</item>
+    </string-array>
+</resources>
