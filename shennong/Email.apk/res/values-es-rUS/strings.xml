@@ -230,7 +230,7 @@ Prefijo de ruta"</string>
     <string name="attendee_needed">Añadir al menos un invitado.</string>
     <string name="auto_login_fail">"No se pudo iniciar sesión automáticamente"</string>
     <string name="auto_login_fail_to_retry">"No se pudo iniciar sesión automáticamente, vuelva a intentarlo."</string>
-    <string name="auto_start_open_prompt">Permitir que la aplicación se inicie automáticamente para sincronizar los correos electrónicos. Puedes conceder este permiso en Ajustes.</string>
+    <string name="auto_start_open_prompt">Permitir que la aplicación se auto inicie para que pueda sincronizar sus correos electrónicos. Puede conceder este permiso en Configuración.</string>
     <string name="bContact_list_search_hint">Buscar contactos bloqueados</string>
     <string name="b_contacts">Lista de bloqueados</string>
     <string name="b_contacts_remove">Eliminar de la lista de bloqueo</string>
@@ -247,7 +247,7 @@ Prefijo de ruta"</string>
     <string name="calendar_remind_gridview_pick_date">Elegir fecha</string>
     <string name="cancel">Cancelar</string>
     <string name="cancel_action">Cancelar</string>
-    <string name="cancel_edit">Terminar edición</string>
+    <string name="cancel_edit">Dejar de editar</string>
     <string name="cc">Cc</string>
     <string name="cc_bcc">Cc/Cco</string>
     <string name="cc_heading">"Cc: "</string>
@@ -393,7 +393,7 @@ Prefijo de ruta"</string>
     <string name="drive_card_code">"Código de acceso: "</string>
     <string name="drive_card_tips">%s compartió contigo un elemento almacenado en la nube.</string>
     <string name="drive_card_title">URL de almacenamiento en la nube</string>
-    <string name="drop_sign_operation">¿Terminar la edición y descartar los cambios?</string>
+    <string name="drop_sign_operation">¿Dejar de editar y descartar todos los cambios ahora?</string>
     <string name="dtend">Termina</string>
     <string name="dtstart">Empieza</string>
     <string name="early_morning">Mañana</string>
@@ -880,7 +880,7 @@ Declinado:
     <string name="pdf_has_signature_prompt_confirm">Copia firmada</string>
     <string name="pdf_has_signature_prompt_message">Parece que este archivo adjunto tiene una copia firmada. ¿Abrirlo en su lugar?</string>
     <string name="pdf_save_error">"No se puede convertir a PDF. Este mensaje es demasiado largo."</string>
-    <string name="pdf_save_local">"Guardado en el dispositivo: "</string>
+    <string name="pdf_save_local">"Guardado correctamente en el dispositivo: "</string>
     <string name="pdf_save_no_body">Espere hasta que el mensaje esté completamente cargado antes de convertir a PDF</string>
     <string name="pdf_save_to">"Guardado en "</string>
     <string name="pdf_signature_add">Agregar una nueva firma</string>
@@ -918,7 +918,7 @@ Declinado:
     <string name="personal_data_collection_summary">Al activar el interruptor usted acepta que recolectemos sus datos personales. Puede desactivar el interruptor, revocar su autorización y eliminar sus datos de nuestros servidores en cualquier momento.</string>
     <string name="personal_data_collection_title">Permitir recoger datos personales</string>
     <string name="pl_select_age">Seleccionar edad</string>
-    <string name="please_save_sign_first">Guardar la firma antes</string>
+    <string name="please_save_sign_first">Guardar firma primero</string>
     <string name="pm">PM</string>
     <string name="preference_copied">Se copió \"%1$s\" en el portapapeles.</string>
     <string name="preferences_signature_dialog_title">Firma</string>
@@ -998,7 +998,7 @@ Espere hasta que esté completamente sincronizado o vea el mensaje en su computa
     <string name="saturday_short">Sab</string>
     <string name="saturday_shortest">Sáb.</string>
     <string name="save_draft_failed">Error al guardar borrador</string>
-    <string name="save_sign_pdf">Guardar en el dispositivo</string>
+    <string name="save_sign_pdf">Guardar en dispositivo</string>
     <string name="search_bar_text">Buscar remitentes o contactos</string>
     <string name="search_menu_title">Buscar</string>
     <string name="search_remote_again">"No se pudo conectar a la red. Toque para reintentar."</string>
@@ -1062,10 +1062,10 @@ Espere hasta que esté completamente sincronizado o vea el mensaje en su computa
     <string name="show_password">Mostrar contraseña</string>
     <string name="show_server_cet">Ver certificado</string>
     <string name="shrink">Contraer</string>
-    <string name="sign_in_dialog_office365">Edición Personal Office365</string>
-    <string name="sign_in_dialog_outlook_enterprise">Edición corporativa Exchange Office365</string>
+    <string name="sign_in_dialog_office365">Edición Personal de Office365</string>
+    <string name="sign_in_dialog_outlook_enterprise">Edición corporativa de Exchange 365</string>
     <string name="sign_in_dialog_outlook_imap">IMAP (sin calendario)</string>
-    <string name="sign_in_dialog_title">Elija el método de inicio de sesión</string>
+    <string name="sign_in_dialog_title">Elegir método de inicio de sesión</string>
     <string name="sign_in_no_useful_provider_error">"No se pueden obtener configuraciones de protocolo de Microsoft. Utilice un protocolo diferente o actualice el protocolo de Microsoft."</string>
     <string name="signature">"
 
@@ -1193,7 +1193,7 @@ Espere hasta que esté completamente sincronizado o vea el mensaje en su computa
     <string name="train_card_title_change">Reserva modificada con éxito</string>
     <string name="train_card_title_change_arrival">Destino cambiado con éxito</string>
     <string name="train_card_title_refund">Boleto cancelado con éxito</string>
-    <string name="translated_text_too_long">Selecciona menos texto para copiar e inténtalo otra vez</string>
+    <string name="translated_text_too_long">Selecciona menos texto para copiar e inténtalo de nuevo</string>
     <string name="translation_loading">Un momento…</string>
     <string name="translation_no_result">Sin resultados</string>
     <string name="translation_pronunciation_am">AmE</string>
