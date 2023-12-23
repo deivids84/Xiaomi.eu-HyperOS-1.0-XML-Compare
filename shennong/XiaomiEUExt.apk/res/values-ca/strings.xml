@@ -65,15 +65,16 @@
     <string name="midnight">Nit</string>
     <string name="miuix_access_state_desc">Seleccionat</string>
     <string name="miuix_alphabet_indexer_name">Barra d\'índex</string>
-    <string name="miuix_appcompat_action_mode_deselect_all">Desselecciona</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">Desmarqueu-ho tot</string>
     <string name="miuix_appcompat_action_mode_select_all">Selecciona-ho tot</string>
     <string name="miuix_appcompat_action_mode_title_empty">Seleccioneu els elements</string>
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">Més</string>
     <string name="miuix_appcompat_cancel_description">Cancel·la</string>
     <string name="miuix_appcompat_confirm_description">Confirma</string>
     <string name="miuix_appcompat_delete_description">Suprimeix</string>
-    <string name="miuix_appcompat_deselect_all">Desselecciona</string>
+    <string name="miuix_appcompat_deselect_all">Desmarqueu-ho tot</string>
     <string name="miuix_appcompat_deselect_all_description">Desselecciona-ho tot</string>
+    <string name="miuix_appcompat_edit">Editar</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Cancel·la</string>
     <string name="miuix_appcompat_search_input_description">Cerca</string>
     <string name="miuix_appcompat_select_all">Selecciona-ho tot</string>
@@ -134,6 +135,7 @@
     <string name="no_apps">No hi ha aplicacions</string>
     <string name="no_icons">Sense icones</string>
     <string name="noon">Migdia</string>
+    <string name="other_ime">Altres teclats</string>
     <string name="pm">PM</string>
     <string name="reset">Restableix</string>
     <string name="saturday">Dissabte</string>
