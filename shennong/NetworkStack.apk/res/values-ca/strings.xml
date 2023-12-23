@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="application_label">Gestor de xarxa</string>
+    <string name="connected">Contigu</string>
+    <string name="notification_channel_description_connected">Notificacions que es mostren quan el dispositiu s\'ha autenticat correctament a una xarxa del portal captiu</string>
+    <string name="notification_channel_description_network_venue_info">Les notificacions es mostren per indicar que la xarxa té una pàgina d\'informació del local</string>
+    <string name="notification_channel_name_connected">Autenticació del portal captiu</string>
+    <string name="notification_channel_name_network_venue_info">Informació dels espais de la xarxa</string>
+    <string name="tap_for_info">Connectat / Toqueu per veure el lloc web</string>
+</resources>
