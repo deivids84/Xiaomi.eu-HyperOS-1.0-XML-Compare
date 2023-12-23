@@ -123,7 +123,7 @@
     <string name="bh_express_number">Paket nömrəsi</string>
     <string name="bh_fetch_balance">Balansı yoxla</string>
     <string name="bh_flow_exceed">Limit aşıldı</string>
-    <string name="bh_funtion_desc">Mi Operator Xidmətlərinə xoş gəldiniz! Telefon balansınızı yoxlamaq, zəng dəqiqəsi və mobil internet satın almaq və daha çoxu üçün bu tətbiqi istifadə edə bilərsiniz. Bu tətbiq, normal işləməsi üçün şəbəkəyə bağlanmalıdır.</string>
+    <string name="bh_funtion_desc">Mi Carrier Xidmətlərinə xoş gəlmisiniz! Siz telefon balansınızı yoxlamaq, zəng dəqiqələri və mobil data almaq və s. üçün bu proqramdan istifadə edə bilərsiniz.</string>
     <string name="bh_get_balance_success">Uğurla yoxlanıldı. Burada məlumatlar gecikmə ilə güncəllənə bilər.</string>
     <string name="bh_get_charge_phone_number">Kontaktlardan seçin</string>
     <string name="bh_goto_granted">İcazə vermə</string>
@@ -346,7 +346,7 @@
     <string name="combined_title_and_miprofile_swaped_huge_mode">"%1$s
 %2$s"</string>
     <string name="comma">Vergül</string>
-    <string name="composer_failed_to_get_database_infomation">"Verilənlər bazası məlumatları alına bilmədi."</string>
+    <string name="composer_failed_to_get_database_infomation">"Data bazası məlumatları alına bilmədi."</string>
     <string name="composer_has_no_exportable_contact">Xaricə köçürülə biləcək kontakt yoxdur. Əgər cihazınızda kontaktlar varsa, bəzi şəbəkə provayderləri kontaktların cihazınızdan xaricə köçürülməsinə icazə verməyə bilər.</string>
     <string name="composer_not_initialized">"vCard hazırlayıcı düzgün başlamadı."</string>
     <string name="conference_call_disable_tip">"Zəng edilə bilmir. Cihazınızın VoLTE dəstəyi ilə 4G şəbəkəsinə bağlandığına əmin olun."</string>
@@ -546,8 +546,8 @@ Mi Roaming, normal işləməsi üçün internetə bağlanmalı və yerləşmə m
     <string name="email_work">İşə e-poçt göndər</string>
     <string name="emergency_number_label">Fövqəladə hal nömrəsi</string>
     <string name="ensure">Oldu</string>
-    <string name="eras_ad">E.S.</string>
-    <string name="eras_bc">E.Ə.</string>
+    <string name="eras_ad">B.E.</string>
+    <string name="eras_bc">B.E.Ə.</string>
     <string name="err_dont_install_mipay">Ödənişi tamamlamaq üçün Mi Pay-ı quraşdırın.</string>
     <string name="evening">Günortadan sonra</string>
     <string name="eventLabelsGroup">Doğum günü</string>
@@ -696,7 +696,7 @@ Səbəb: \"%s\""</string>
     <string name="make_primary">Bu seçimi xatırla</string>
     <string name="manage_external_storage_dialog_message">Zəng səsyazmalarını idarə etmək üçün bu tətbiqin bütün fayllara müraciətinə icazə verin.</string>
     <string name="manage_external_storage_dialog_positive">Ayarlar</string>
-    <string name="manage_external_storage_dialog_title">Tələb olunan icazələr</string>
+    <string name="manage_external_storage_dialog_title">İcazələr tələb olunur</string>
     <string name="map_custom">%s ünvanına bax</string>
     <string name="map_home">Ev ünvanına bax</string>
     <string name="map_other">Ünvana bax</string>
@@ -884,7 +884,7 @@ Səbəb: \"%s\""</string>
     <string name="permission_access_fine_location_desc">Yerli şəbəkə siqnalını yaxşılaşdırmaq üçün</string>
     <string name="permission_camera_desc">Kimlik doğrulaması zamanı foto çəkmək üçün</string>
     <string name="permission_dailog_positive_button">Get</string>
-    <string name="permission_dailog_title">Tələb olunan icazələr</string>
+    <string name="permission_dailog_title">İcazələr tələb olunur</string>
     <string name="permission_notice_desc_access_fine_location">Kontaktları Bluetooth vasitəsilə digər cihazlardan daxilə köçürmək üçün</string>
     <string name="permission_notice_desc_add_voicemail">Səsli poçt və səsli mesaj özəlliklərini istifadə etmək üçün</string>
     <string name="permission_notice_desc_call_phone">Əsas ekran qısayolları vasitəsilə zəng etmək üçün</string>
@@ -894,7 +894,7 @@ Səbəb: \"%s\""</string>
     <string name="permission_notice_desc_read_contacts">Kontaktlara baxmaq üçün</string>
     <string name="permission_notice_desc_read_external_storage">Profil şəkilləri əlavə etmək və vCard-ları daxilə köçürmək üçün</string>
     <string name="permission_notice_desc_read_phone_state">SIM məlumatlarına müraciət etmək üçün</string>
-    <string name="permission_notice_desc_title">Tələb olunan icazələr</string>
+    <string name="permission_notice_desc_title">İcazələr tələb olunur</string>
     <string name="permission_notice_desc_write_call_logs">Zəng tarixçəsinə düzəliş etmək üçün</string>
     <string name="permission_notice_desc_write_contacts">Kontaktları idarə etmək üçün</string>
     <string name="permission_notice_desc_write_external_storage">Profil şəkilləri əlavə etmək və vCard-ları daxilə köçürmək üçün</string>
@@ -930,7 +930,7 @@ Səbəb: \"%s\""</string>
     <string name="postal_street">Küçə</string>
     <string name="pref_key_photo_word_title">Kontakt fotolarını təyin et</string>
     <string name="pref_key_rebuild_t9_index_message">Axtarış problemlərini həll etmək üçün indeksi yenidən qur</string>
-    <string name="pref_key_rebuild_t9_index_title">İndeks verilənlərini yenidən qur</string>
+    <string name="pref_key_rebuild_t9_index_title">İndeks datasını yenidən qur</string>
     <string name="pref_key_sdn_manage">SDN göstər</string>
     <string name="pref_key_sdn_manage1">SDN kart 1 göstər</string>
     <string name="pref_key_sdn_manage2">SDN kart 2 göstər</string>
@@ -1028,12 +1028,12 @@ Səbəb: \"%s\""</string>
     <string name="quit_dialog_confirm_message">"Heç bir kontaktı birləşdirmədiniz"</string>
     <string name="quit_dialog_confirm_title">Kontaktların birləşdirilməsini ləğv et</string>
     <string name="readingSimContacts">SIM kart oxunur…</string>
-    <string name="reading_vcard_failed_title">"vCard verilənləri oxuna bilmədi"</string>
+    <string name="reading_vcard_failed_title">"vCard datası oxuna bilmədi"</string>
     <string name="rebuild_t9_index_dialog_message">Yenidən qurulur…</string>
     <string name="recentCallsIconLabel">Zəng jurnalı</string>
     <string name="recent_contacts_label">Sonuncular</string>
     <string name="recent_number">Sonuncu</string>
-    <string name="redirect_calls_to_vm_confirm_message">Poçt qutusunu ayarlamazdan əvvəl, mobil şəbəkə provayderinizlə aranızdakı müqavilənin şərt və qaydalarını yoxlayın.</string>
+    <string name="redirect_calls_to_vm_confirm_message">Poçt qutusunu qurmazdan əvvəl, mobil şəbəkə provayderinizlə aranızdakı müqavilənin şərt və qaydalarını yoxlayın.</string>
     <string name="redirect_calls_to_vm_confirm_text">Oldu</string>
     <string name="relationLabelsGroup">Münasibət</string>
     <string name="removePhoto">Fotonu sil</string>
@@ -1064,7 +1064,7 @@ Səbəb: \"%s\""</string>
     <string name="savingContact">Kontakt saxlanılır…</string>
     <string name="savingDisplayGroups">Görüntüləmə seçimləri saxlanılır…</string>
     <string name="scan_business_card">Vizit kartı skan et</string>
-    <string name="scan_bussiness_card_merge_tip">Ziddiyətli verilənlər dəyişdirildi</string>
+    <string name="scan_bussiness_card_merge_tip">Ziddiyətli data dəyişdirildi</string>
     <string name="scan_merge">Dublikat kontaktlar axtarılır…</string>
     <string name="scan_not_installed_china">Əvvəlcə Mi AI Skaneri quraşdırın</string>
     <string name="scan_not_installed_global">Əvvəlcə Skaneri quraşdırın</string>
@@ -1077,7 +1077,7 @@ Səbəb: \"%s\""</string>
     <string name="search_menu_title">Axtar</string>
     <string name="search_results_searching">Axtarılır…</string>
     <string name="search_settings_description">Kontaktlarınızın adları</string>
-    <string name="searching_vcard_message">Cihazdakı vCard verilənləri axtarılır…</string>
+    <string name="searching_vcard_message">Cihazdakı vCard datası axtarılır…</string>
     <string name="select_all">Hamısını seç</string>
     <string name="select_groups">Qrupları seç</string>
     <string name="select_vcard_title">vCard faylı seçin</string>
@@ -1302,7 +1302,7 @@ Aşağıdakı seçimlərdən birini seçin:"</string>
     <string name="wednesday_short">Çər</string>
     <string name="wednesday_shortest">Çər</string>
     <string name="wifi_pad_disable_phone">"Bu cihazda zəng edilə bilmir"</string>
-    <string name="wipe_data">Verilənləri təmizlə</string>
+    <string name="wipe_data">Datanı təmizlə</string>
     <string name="yellowPageNavigationLabel">Sarı səhifələr</string>
     <string name="yellowpage_address_tag">Ünvan</string>
     <string name="yellowpage_provider_label">Zəng edən/Göndərən kimliyinin tanınması üçün texniki dəstək</string>
