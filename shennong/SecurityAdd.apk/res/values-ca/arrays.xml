@@ -74,6 +74,13 @@
         <item>Equilibrada</item>
         <item>Omissió</item>
     </string-array>
+    <string-array name="gb_gpu_custom_frame_rate_gear">
+        <item>Baix</item>
+        <item>Estàndard</item>
+        <item>Alt</item>
+        <item>Màxima</item>
+        <item>Omissió</item>
+    </string-array>
     <string-array name="gb_gpu_custom_texture">
         <item>Alta velocitat</item>
         <item>Equilibrat</item>
