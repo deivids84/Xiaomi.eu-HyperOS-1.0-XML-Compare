@@ -68,4 +68,12 @@
         <item quantity="other">Fa %d</item>
         <item quantity="one">Fa 1 minut</item>
     </plurals>
+    <plurals name="talkback_selection_denominator">
+        <item quantity="other">%1$d Total d\'articles</item>
+        <item quantity="one">%1$d Total de l\'article</item>
+    </plurals>
+    <plurals name="talkback_selection_numerator">
+        <item quantity="other">Seleccionat %1$d Elements</item>
+        <item quantity="one">Seleccionat %1$d ítem</item>
+    </plurals>
 </resources>
