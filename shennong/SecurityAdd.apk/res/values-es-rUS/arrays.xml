@@ -72,14 +72,14 @@
     </string-array>
     <string-array name="gb_gpu_custom_cut_texture_value">
         <item>Equilibrado</item>
-        <item>Predeterminado</item>
+        <item>Por defecto</item>
     </string-array>
     <string-array name="gb_gpu_custom_frame_rate_gear">
         <item>Baja</item>
         <item>Estándar</item>
         <item>Alta</item>
-        <item>Máxima</item>
-        <item>Predeterminada</item>
+        <item>Más alto</item>
+        <item>Por defecto</item>
     </string-array>
     <string-array name="gb_gpu_custom_texture">
         <item>Alta velocidad</item>
