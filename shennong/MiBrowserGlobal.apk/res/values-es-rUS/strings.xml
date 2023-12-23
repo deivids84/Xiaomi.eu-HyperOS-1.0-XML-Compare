@@ -283,7 +283,7 @@ Desactive el interruptor para dejar de sincronizar."</string>
     <string name="browserFrameFileErrorLabel">Error de archivo</string>
     <string name="browserFrameFormResubmitMessage">"La página que intenta ver contiene datos que ya se han enviado. Si reenvía los datos, las acciones anteriores (búsquedas o compras) se repetirán."</string>
     <string name="browserFrameNetworkErrorLabel">Error de conexión</string>
-    <string name="browser_slide_video_history">Recent</string>
+    <string name="browser_slide_video_history">Reciente</string>
     <string name="browser_slide_video_like">Liked</string>
     <string name="browser_slide_video_my">Profile</string>
     <string name="browser_wallpaper">Fondos de pantalla</string>
@@ -2554,17 +2554,17 @@ Siempre puede inhabilitar en Ajustes &gt; Privacidad y Seguridad"</string>
 https://www.facebook.com/miui.global.official/videos/1602181069951748"</string>
     <string name="video_downloader_fail">"No se pudo descargar este elemento"</string>
     <string name="video_downloader_retry">Vuelva a intentarlo</string>
-    <string name="video_feedback_description">We collect and use the information you enter above in order to improve your user experience. To learn more about how we collect and process your personal information, refer to our Privacy Policy.</string>
-    <string name="video_feedback_description_title">This information will be used only for content recommendations</string>
-    <string name="video_feedback_not_sumbit_toast">Select an answer before submitting</string>
-    <string name="video_feedback_thanks">Thanks for your feedback</string>
+    <string name="video_feedback_description">Recopilamos y utilizamos la información que introduzcas arriba para mejorar tu experiencia de usuario. Para obtener más información sobre cómo recopilamos y procesamos su información personal, consulte nuestra Política de Privacidad.</string>
+    <string name="video_feedback_description_title">Esta información se utilizará sólo para recomendaciones de contenido</string>
+    <string name="video_feedback_not_sumbit_toast">Seleccione una respuesta antes de enviarla</string>
+    <string name="video_feedback_thanks">Gracias por tus comentarios</string>
     <string name="video_guess_you_like">Te puede interesar</string>
     <string name="video_play_next">Siguiente</string>
     <string name="video_replay_btn">Repetir</string>
-    <string name="video_report_entrance">Report</string>
-    <string name="video_report_submit">Submit</string>
+    <string name="video_report_entrance">Informe</string>
+    <string name="video_report_submit">Enviar</string>
     <string name="video_retry_btn">Reintentar</string>
-    <string name="video_select_report_reason">Select a reason</string>
+    <string name="video_select_report_reason">Seleccione una razón</string>
     <string name="video_view_more">Más</string>
     <string name="view_certificate">Ver certificado</string>
     <string name="view_details">Ver detalles</string>
@@ -2630,7 +2630,7 @@ https://www.facebook.com/miui.global.official/videos/1602181069951748"</string>
     <string name="web_ad_clear_dialog_confirm">Eliminar</string>
     <string name="web_ad_clear_dialog_msg">¿Eliminar ahora etiquetas publicitarias de \"%s\"?</string>
     <string name="web_ad_clear_dialog_title">Eliminar etiqueta publicitaria</string>
-    <string name="web_app_center">Mini programs</string>
+    <string name="web_app_center">Mini programas</string>
     <string name="web_enhance_dialog_cancel">Cancelar</string>
     <string name="web_enhance_dialog_confirm">OK </string>
     <string name="web_enhance_dialog_msg">¿Empezar ahora a bloquear anuncios en %s?</string>
