@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="permissions_desc">
+        <item>Per accedir i desar imatges, aplicacions i altres fitxers, així com transferir-los</item>
+        <item>Per transferir fitxers mitjançant Bluetooth i Wi-Fi</item>
+    </string-array>
+</resources>
