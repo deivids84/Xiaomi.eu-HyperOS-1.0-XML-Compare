@@ -57,7 +57,7 @@
     <string name="app_name">Provision</string>
     <string name="application_package_introduction">Paket quraşdırıcı, quraşdırmadan əvvəlki skan və quraşdırmadan sonrakı tətbiq tövsiyə xidmətləri daxil olmaqla üçüncü tərəf tətbiqləri quraşdırmaq üçün istifadə olunur.</string>
     <string name="application_permissions">Tətbiq icazələri</string>
-    <string name="aquire_device_info">Avadanlıq info-larına daxil olmaq</string>
+    <string name="aquire_device_info">Cihaz məlumatlarına müraciət</string>
     <string name="authority_introduction">İcazə meneceri, bu cihazdakı tətbiq iicazələrini idarə etməyinizə imkan verən təməl bir xidmətdir.</string>
     <string name="back">Geri</string>
     <string name="backup_introduction">Bu tətbiqi, cihazınızdakı elementləri nüsxələmək və bərpa etmək üçün istifadə edə bilərsiniz.</string>
@@ -254,8 +254,8 @@ Avavailable interconnectivity xidmətləri sizin sistem versiyası və cihaz mod
     <string name="location_introduction_qcom">Yerləşmə xidmətləri, yerləşməyə xas xidmətləri təqdim etmək üçün yerləşdirməni istifadə edir. Cihazınız yerləşmə xidmətlərini istifadə etdikdə, QCC modulu yerləşdirmə prosesini sürətləndirmək üçün şəbəkəyə bağlanacaq.</string>
     <string name="location_location">Fövqəladə hal xilasetmə qurumları tələb əsasında olduğunuz yeri əldə edə bilər</string>
     <string name="lockscreen_introduction">Divar kağızı Karuseli, hər gün ən yeni şəkillərin Kilid ekranınıza çatdırılmasını təmin edir.</string>
-    <string name="media_storage_devices">Media saxlama qurğuları</string>
-    <string name="media_storage_introduction">Bu xidmət proqramlara foto, video, audio və fayllara daxil olmağa və qənaət etməyə imkan verir.</string>
+    <string name="media_storage_devices">Media anbar cihazları</string>
+    <string name="media_storage_introduction">Bu xidmət, tətbiqlərin foto, video, səs və fayllara müraciət etməsinə və bunları saxlamasına imkan verir.</string>
     <string name="message_introduction">SMS göndərmək və almaq üçün bu tətbiqi istifadə edə bilərsiniz.</string>
     <string name="mi_account_introduction">Xiaomi Hesabı sistem hesablarını qeydiyyatdan keçirməyə, daxil olmağa və idarə etməyə imkan verir.</string>
     <string name="midnight">Gecə</string>
@@ -388,7 +388,7 @@ Bu özəlliyi Ayarlar &gt; Parollar və güvənlik &gt; Gizlilik &gt; \"İstifad
     <string name="other_settings_upload_debug_log_summary">Diaqnostika, cihaz və tətbiq istifadə datalarını avtomatik olaraq Xiaomi-yə göndərərək cihaz təcrübənizi təkmilləşdirməyə kömək edin. Bu, batareya ömrünü, sistem və tətbiq stabilliyini və daha çoxunu yaxşılaşdırmağa kömək edəcək.</string>
     <string name="other_settings_upload_debug_log_title">İstifadə və diaqnostika datalarını göndər</string>
     <string name="other_settings_user_experience">İstifadəçi Təcrübə Proqramı</string>
-    <string name="other_settings_user_experience_summary">"İstifadə statistikanızı və analitikanızı bizimlə bölüşərək məhsul və xidmətlərimizi təkmilləşdirməyimizə kömək edin. "</string>
+    <string name="other_settings_user_experience_summary">"İstifadə statistikalarını və təhlilləri bizimlə paylaşaraq, məhsul və xidmətlərimizi yaxşılaşdırmağa kömək edin. "</string>
     <string name="other_settings_user_experience_summary_index">Detallara bax</string>
     <string name="permission_MIUIDaemon_introduction">Sistem Daemon, ekran zədələndikdə cihazınızdan data köçürməyə imkan verir.</string>
     <string name="permission_access_calendar">Təqvimə müraciət</string>
@@ -396,7 +396,7 @@ Bu özəlliyi Ayarlar &gt; Parollar və güvənlik &gt; Gizlilik &gt; \"İstifad
     <string name="permission_account">Cihazınızdakı hesablara müraciət</string>
     <string name="permission_account_introduction">Xiaomi Hesabı ilə daxil olmaq üçün</string>
     <string name="permission_application_package_introduction">Quraşdırma paketlərini təhlil etmək və skan etmək məqsədilə anbara müraciət etmək üçün</string>
-    <string name="permission_application_scope_description">"Biz bu icazələri yalnız təhlükəsizlik yoxlamasını yerinə yetirərkən istifadə edirik və başqa məqsədlər üçün istifadə etməyəcək."</string>
+    <string name="permission_application_scope_description">"Bu icazələri yalnız güvənlik doğrulamalarını həyata keçirərkən istifadə edirik, başqa heç bir məqsəd üçün istifadə etməyəcəyik."</string>
     <string name="permission_authority_describe">Bu cihazda quraşdırılmış tətbiqlərin siyahısına müraciət</string>
     <string name="permission_authority_describe_applist_summary">Tətbiq icazələrini idarə etmək üçün</string>
     <string name="permission_backup">Anbara müraciət</string>
@@ -535,7 +535,7 @@ Bu özəlliyi Ayarlar &gt; Parollar və güvənlik &gt; Gizlilik &gt; \"İstifad
     <string name="provision_inputmethod_policy_description1">Gizlilik Siyasəti</string>
     <string name="provision_next">Növbəti</string>
     <string name="provision_skip_underline">Ötür</string>
-    <string name="read_application_info">Access app info</string>
+    <string name="read_application_info">Tətbiq məlumatına müraciət</string>
     <string name="recommend_font">MiSanlar</string>
     <string name="recommended_font_mark">Məsləhətli</string>
     <string name="recorder_introduction">Bu tətbiqi səs yazmaq və səsyazmaları buluda nüsxələmək üçün istifadə edə bilərsiniz.</string>
@@ -550,8 +550,8 @@ Bu özəlliyi Ayarlar &gt; Parollar və güvənlik &gt; Gizlilik &gt; \"İstifad
     <string name="require_network_and_authority_statement">Normal işləyə bilməsi üçün, bu xidmətin internetə bağlanması və aşağıdakı icazələrə sahib olması lazımdır:</string>
     <string name="require_network_authority_statement">Normal işləyə bilməsi üçün, bu xidmətin internetə bağlanması və aşağıdakı icazələrə sahib olması lazımdır:</string>
     <string name="require_network_authority_statement_dual">Normal işləyə bilməsi üçün, bu xidmətin internetə bağlanması və aşağıdakı icazələrə sahib olması lazımdır:</string>
-    <string name="safe_open_service">Təhlükəsiz açıq xidmətlər</string>
-    <string name="safe_open_service_introduction">Secure açıq xidmətlər developers kömək edir və istifadəçilər və onların şəxsi məlumat qorumaq üçün sistem səviyyəli təhlükəsizlik imkanları təmin edir.</string>
+    <string name="safe_open_service">Güvənli açıq xidmətlər</string>
+    <string name="safe_open_service_introduction">Güvənli açıq xidmətlər, tərtibatçılara kömək edir. İstifadəçiləri və onların gizliliyini qorumaq üçün sistem səviyyəsində güvənlik imkanları təqdim edir.</string>
     <string name="saturday">Şənbə</string>
     <string name="saturday_short">Şәn</string>
     <string name="saturday_shortest">Şәn</string>
@@ -641,10 +641,10 @@ Bu özəlliyi Ayarlar &gt; Parollar və güvənlik &gt; Gizlilik &gt; \"İstifad
     <string name="term_condition_detail">"Kilid ekranınıza hər gün heyrətamiz şəkillər və maraqlı hekayələr daxil edin. Bu özəllik, razılığınız olmadan datanızı fərdiləşdirmə məqsədilə istifadə etməyəcək. Bu özəlliyi istifadə etməzdən əvvəl üçüncü tərəf provayderin &lt;a href =%1$s&gt;Gizlilik Siyasətini&lt;/a&gt; və &lt;a href =%2$s&gt;İstifadəçi Razılaşmasını&lt;/a&gt; oxuyun və razılaşın."</string>
     <string name="terms_of_use">Şərtlər və qaydalar</string>
     <string name="terms_of_use_label_MSA">MSA</string>
-    <string name="terms_of_use_label_Mistore">Mi Mağazası</string>
-    <string name="terms_of_use_label_RMS">İcazələr İdarəsi</string>
+    <string name="terms_of_use_label_Mistore">Mi Store</string>
+    <string name="terms_of_use_label_RMS">İcazə meneceri</string>
     <string name="terms_of_use_label_ai_assistant">AI Köməkçi</string>
-    <string name="terms_of_use_label_app_vault">Körpü</string>
+    <string name="terms_of_use_label_app_vault">Mi Link</string>
     <string name="terms_of_use_label_back">Nüsxələmə xidməti</string>
     <string name="terms_of_use_label_ble">Birləşdirilmiş yerləşmə provayderi</string>
     <string name="terms_of_use_label_cloud">Xiaomi Cloud</string>
@@ -655,9 +655,9 @@ Bu özəlliyi Ayarlar &gt; Parollar və güvənlik &gt; Gizlilik &gt; \"İstifad
     <string name="terms_of_use_label_home">Əsas ekran</string>
     <string name="terms_of_use_label_htmlViewer">HTML nümayişetdirici</string>
     <string name="terms_of_use_label_htmlviewer">HTML nümayişetdirici</string>
-    <string name="terms_of_use_label_info_assistant">App vault</string>
+    <string name="terms_of_use_label_info_assistant">Tətbiq kassası</string>
     <string name="terms_of_use_label_joyose">Joyose</string>
-    <string name="terms_of_use_label_landscape">Landşaft görünüşü</string>
+    <string name="terms_of_use_label_landscape">Mənzərə görünüşü</string>
     <string name="terms_of_use_label_mab">, MAB</string>
     <string name="terms_of_use_label_mi_account">Xiaomi Hesabı komponentləri</string>
     <string name="terms_of_use_label_miuiDaemon">Sistem Daemon</string>
@@ -671,7 +671,7 @@ Bu özəlliyi Ayarlar &gt; Parollar və güvənlik &gt; Gizlilik &gt; \"İstifad
     <string name="terms_of_use_label_quickapp">Cəld tətbiqlər</string>
     <string name="terms_of_use_label_remote_provisioner">_Cərgəni _Yenidən Bax</string>
     <string name="terms_of_use_label_secure">Güvənli Element Tətbiqi</string>
-    <string name="terms_of_use_label_simcard">SIM aktivasiya xidməti</string>
+    <string name="terms_of_use_label_simcard">SIM aktivləşdirmə xidməti</string>
     <string name="terms_of_use_label_smart_service">Ağıllı xidmətlər</string>
     <string name="terms_of_use_label_statistics">Statistikalar</string>
     <string name="terms_of_use_label_system_quality_monitoring">Sistem keyfiyyətini izləmə</string>
@@ -750,8 +750,8 @@ Bu özəlliyi istifadə etməzdən əvvəl Mint Keyboard Gizlilik Siyasəti ilə
     <string name="user_agreement">İstifadəçi Razılaşması</string>
     <string name="v7_preference_off">BAĞLI</string>
     <string name="v7_preference_on">AÇIQ</string>
-    <string name="verify_application_security">Proqram təhlükəsizliyini yoxlamaq üçün</string>
-    <string name="verify_device_security">Avadanlıq təhlükəsizliyini yoxlamaq üçün</string>
+    <string name="verify_application_security">Tətbiq güvənliyini doğrulamaq üçün</string>
+    <string name="verify_device_security">Cihaz güvənliyini doğrulamaq üçün</string>
     <string name="voice_assist_desp">Telefonunuza \"Mi AI\" deyin. Mi AI səsinizi tanıyacaq və cihazınızı idarə edə biləcək.</string>
     <string name="voice_assist_title">Səslə oyandır</string>
     <string name="wc_dialog_agree">Razıyam</string>
