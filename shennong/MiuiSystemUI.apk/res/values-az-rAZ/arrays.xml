@@ -103,7 +103,7 @@
     <string-array name="tile_states_font_scaling">
         <item>Əlçatmazdır</item>
         <item>Bağla</item>
-        <item>Aktiv</item>
+        <item>Açıq</item>
     </string-array>
     <string-array name="tile_states_hotspot">
         <item>Əlçatmazdır</item>
