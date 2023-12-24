@@ -292,11 +292,11 @@ basılı tutun, sonra sürükləyin"</string>
     <string name="saturday_shortest">Şәn</string>
     <string name="search_menu_title">Axtar</string>
     <string name="send">Göndər</string>
-    <string name="split_operation_guide_title">Split ekran istifadə etmək üçün necə</string>
+    <string name="split_operation_guide_title">Bölünmüş ekran necə istifadə edilir</string>
     <string name="sunday">Bazar</string>
     <string name="sunday_short">Baz</string>
     <string name="sunday_shortest">Baz</string>
-    <string name="tablet_screen_settings">Tabletlər üçün xüsusiyyətlər</string>
+    <string name="tablet_screen_settings">Planşetlər üçün özəlliklər</string>
     <string name="the_double_ninth_festival">İkiqat Doqquzuncu Festivalı</string>
     <string name="the_dragon_boat_festival">Dragon Boat Festivalı</string>
     <string name="the_easter_day">Pasxa</string>
@@ -306,8 +306,8 @@ basılı tutun, sonra sürükləyin"</string>
     <string name="the_forth_day">Çin Yeni İlinin dördüncü günü</string>
     <string name="the_hksar_establishment_day">Honq Konq SAR Quruluş Günü</string>
     <string name="the_international_womens_day">"Qadınlar Günü"</string>
-    <string name="three_fingers_slide_horizontally_into_splitscreen_fold">Split ekran açmaq üçün üç barmaq ilə daxili ekranda üfüqi веве</string>
-    <string name="three_fingers_slide_horizontally_into_splitscreen_pad">Üç barmaq ilə üfüqi olaraq süzərək Split ekran açmaq</string>
+    <string name="three_fingers_slide_horizontally_into_splitscreen_fold">Bölünmüş ekranı açmaq üçün üç barmağınızla daxili ekran üfüqi şəkildə sürüşdürün</string>
+    <string name="three_fingers_slide_horizontally_into_splitscreen_pad">Bölünmüş ekranı açmaq üçün üç barmağınızla üfüqi sürüşdürün</string>
     <string name="thursday">Cümə axşamı</string>
     <string name="thursday_short">C.a.</string>
     <string name="thursday_shortest">C.a.</string>
