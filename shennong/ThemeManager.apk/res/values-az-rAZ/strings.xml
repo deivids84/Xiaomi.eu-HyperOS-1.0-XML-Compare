@@ -1206,8 +1206,8 @@ Bu icazəni Ayarlar &gt; \"Gizlilik\"də verə bilərsiniz."</string>
     <string name="resource_wallpaper_download">Divar kağızı endir</string>
     <string name="restore_default_change_wallpaper_when_special_lockscreen">"Hazırda bir Kilid ekranı şablonu istifadə edirsiniz. Davam etsəniz, Kilid ekranınız ilkin halına qaytarılacaq və Əsas və Kilid ekranı divar kağızlarınız dəyişdiriləcək. İndi tətbiq edilsin?"</string>
     <string name="restore_default_lock_style_apply_superwallpaper">"Bu Kilid ekranı şablonu Super divar kağızlarını dəstəkləmir. Tətbiq edildikdən sonra, Kilid ekranınız ilkin vəziyyətinə qayıdacaq və Əsas və Kilid ekranı divar kağızlarınız dəyişdiriləcək. İndi tətbiq edildin?"</string>
-    <string name="restore_default_lockscreen_when_special_lock_style">"Hal-hazırda Lock ekran şablonundan istifadə edirsiniz. Əgər davam etsəniz, Lock ekranınız default olaraq bərpa olunacaq. İndi tətbiq edin?"</string>
-    <string name="restore_history_lock_screen_when_apply_theme">"Hal-hazırda üçüncü tərəf mövzusundan istifadə edirsiniz. Lock ekran divar kağızınızı dəyişsəniz, bu Lock ekran saatının defaulta qaytarılmasına səbəb ola bilər. İndi tətbiq edin?"</string>
+    <string name="restore_default_lockscreen_when_special_lock_style">"Hazırda bir Kilid ekranı şablonu istifadə edirsiniz. Davam etsəniz, Kilid ekranınız ilkin vəziyyətinə bərpa olunacaq. İndi tətbiq edilsin?"</string>
+    <string name="restore_history_lock_screen_when_apply_theme">"Hazırda üçüncü tərəf tema istifadə edirsiniz. Kilid ekranınızın divar kağızını dəyişdirsəniz, bu, Kilid ekranı saatının ilkin halına qaytarılmasına səbəb ola bilər. İndi tətbiq edilsin?"</string>
     <string name="restore_home_icon_text">Əsas ekran qısayolu əlavə et</string>
     <string name="restore_icon_later">Əsas ekran qısayolunu Ayarlarda yenidən əlavə edə bilərsiniz</string>
     <string name="ringtone_confirm_dialog_message">"Bu zəng səsinin müddəti nisbətən uzundur. Yenə də istifadə edilsin?"</string>
