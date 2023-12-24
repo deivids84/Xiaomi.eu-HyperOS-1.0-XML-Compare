@@ -452,7 +452,7 @@ Proses tamamlandıqda bir bildiriş alacaqsınız və \"Health Connect\"i istif
 
 Datanızın və icazələrinizın ötürülməsi bir az vaxt apara bilər."</string>
     <string name="migration_in_progress_screen_integration_dont_close">"Prosesin başa çatması barədə bildiriş alana qədər proqramı bağlamayın."</string>
-    <string name="migration_in_progress_screen_title">İnteqrasiya inkişaf edir</string>
+    <string name="migration_in_progress_screen_title">İnteqrasiya davam edir</string>
     <string name="migration_module_update_needed_action">Davam etməzdən əvvəl telefonunuzun sistemini güncəlləyin.</string>
     <string name="migration_module_update_needed_notification_title">Sistem güncəllənməlidir</string>
     <string name="migration_module_update_needed_restart">"Əgər telefonunuzun sistemini güncəlləmisinizsə, inteqrasiyanı davam etdirmək üçün telefonunuzu yenidən başlatmağa çalışın"</string>
