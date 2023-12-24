@@ -65,48 +65,48 @@
         <item quantity="one">%d il</item>
     </plurals>
     <plurals name="ai_create_image_queue">
-        <item quantity="other">%1d qarşınızdakı insanlar</item>
-        <item quantity="one">%1d qarşındakı insan</item>
+        <item quantity="other">Sizdən öndə %1d nəfər var</item>
+        <item quantity="one">Sizdən öndə %1d nəfər var</item>
     </plurals>
     <plurals name="ai_create_remain_time_hour">
-        <item quantity="other">Gözləmə vaxtı: %s hrs</item>
-        <item quantity="one">Gözləmə vaxtı: %s hr</item>
+        <item quantity="other">Gözləmə vaxtı: %s sa</item>
+        <item quantity="one">Gözləmə vaxtı: %s sa</item>
     </plurals>
     <plurals name="ai_create_remain_time_minute">
-        <item quantity="other">Gözləmə vaxtı: %s mins</item>
-        <item quantity="one">Gözləmə vaxtı: %s min</item>
+        <item quantity="other">Gözləmə vaxtı: %s dəq</item>
+        <item quantity="one">Gözləmə vaxtı: %s dəq</item>
     </plurals>
     <plurals name="ai_creation_wait_message_time">
-        <item quantity="other">Yaradılır… | Gözləmə vaxtı: %d selik</item>
-        <item quantity="one">Yaradılır… | Gözləmə vaxtı: %d səkmək</item>
+        <item quantity="other">Yaradılır… | Gözləmə vaxtı: %d san</item>
+        <item quantity="one">Yaradılır… | Gözləmə vaxtı: %d san</item>
     </plurals>
     <plurals name="ai_creation_wait_queue">
-        <item quantity="other">Yaradılır… | %d qarşınızdakı insanlar</item>
-        <item quantity="one">Yaradılır… | %d qarşındakı insan</item>
+        <item quantity="other">Yaradılır… | Sizdən öndə %d nəfər var</item>
+        <item quantity="one">Yaradılır… | Sizdən öndə %d nəfər var</item>
     </plurals>
     <plurals name="ai_creation_wait_time_minute">
-        <item quantity="other">Gözləmə vaxtı: %d mins</item>
-        <item quantity="one">Gözləmə vaxtı: %d min</item>
+        <item quantity="other">Gözləmə vaxtı: %d dəq</item>
+        <item quantity="one">Gözləmə vaxtı: %d dəq</item>
     </plurals>
     <plurals name="ai_enhance_bar_waiting">
-        <item quantity="other">Yaradılır… | %d qalan seclər</item>
-        <item quantity="one">Yaradılır… | %d qalan sec</item>
+        <item quantity="other">Yaradılır… | %d san qaldı</item>
+        <item quantity="one">Yaradılır… | %d san qaldı</item>
     </plurals>
     <plurals name="ai_hour">
-        <item quantity="other">%s hrs</item>
-        <item quantity="one">%s hr</item>
+        <item quantity="other">%s sa</item>
+        <item quantity="one">%s sa</item>
     </plurals>
     <plurals name="ai_image_over_limit_msg">
-        <item quantity="other">Bir insan yarada bilər ki, %d AI images.</item>
-        <item quantity="one">Bir insan yarada bilər ki, %d AI image.</item>
+        <item quantity="other">Bir şəxs ən çox %d AI şəkli yarada bilər.</item>
+        <item quantity="one">Bir şəxs ən çox %d AI şəkli yarada bilər.</item>
     </plurals>
     <plurals name="ai_minute">
-        <item quantity="other">%d mins</item>
-        <item quantity="one">%d min</item>
+        <item quantity="other">%d dəq</item>
+        <item quantity="one">%d dəq</item>
     </plurals>
     <plurals name="ai_select_photo_time_count">
-        <item quantity="other">Fotoların seçilməsi (%d secs qala)…</item>
-        <item quantity="one">Fotoların seçilməsi (%d qalan sec)…</item>
+        <item quantity="other">Fotolar seçilir (%d san qaldı)…</item>
+        <item quantity="one">Fotolar seçilir (%d san qaldı)…</item>
     </plurals>
     <plurals name="album_already_share_user_count">
         <item quantity="other">%d şəxslə paylaşıldı</item>
@@ -445,8 +445,8 @@
         <item quantity="one">\"%2$s\" yerindən %1$d foto silindi.</item>
     </plurals>
     <plurals name="search_title_ai">
-        <item quantity="other">Tap %d əşyalar</item>
-        <item quantity="one">Tap %d əşya</item>
+        <item quantity="other">%d element tapıldı</item>
+        <item quantity="one">%d element tapıldı</item>
     </plurals>
     <plurals name="send_apk_dialog_desc">
         <item quantity="other">%1$s mənbəsindən %2$d quraşdırma paketi (%3$s)</item>
