@@ -991,7 +991,7 @@ Zənglər, mesajlar və şəbəkə trafiki təşkilatınız tərəfindən görü
     <string name="auto_rotate_switch_face_based">Üz aşkarlama</string>
     <string name="auto_rule">Taymer</string>
     <string name="auto_silent">Planlı açılış vaxtı</string>
-    <string name="auto_silent_info">DND rejiminə əl ilə keçid etsəniz bu funksiya fəaliyyətini dayandırır</string>
+    <string name="auto_silent_info">Narahat etməyin rejiminə əllə keçsəniz bu özəllik işləməyi dayandıracaq</string>
     <string name="auto_startup_application_manage">Avto-başlatma</string>
     <string name="auto_sync_account_summary">Tətbiqlərin məlumatları avto-təzələməsinə icazə verin</string>
     <string name="auto_sync_account_title">Tətbiq məlumatlarını avto-sinxronlaşdır</string>
@@ -9234,7 +9234,7 @@ Daha sürətli ^3 istifadə etməyə çalışın və ya bunun əvəzinə portati
     <string name="theme_settings_title">Temalar</string>
     <string name="thememanager_not_found">"Temalar açıla bilmədi. Tətbiqin quraşdırıldığına əmin olun."</string>
     <string name="three_fingers_slide_horizontally_into_splitscreen_fold">Bölünmüş ekranı açmaq üçün üç barmağınızla daxili ekran üfüqi şəkildə sürüşdürün</string>
-    <string name="three_fingers_slide_horizontally_into_splitscreen_pad">Bölnümüş ekranı açmaq üçün üç barmağınızla üfüqi sürüşdürün</string>
+    <string name="three_fingers_slide_horizontally_into_splitscreen_pad">Bölünmüş ekranı açmaq üçün üç barmağınızla üfüqi sürüşdürün</string>
     <string name="three_gesture_down">3 barmaqla aşağı sürüşdür</string>
     <string name="three_gesture_horizontal">%d barmaqla üfüqi sürüşdür</string>
     <string name="three_gesture_long_press">%d barmaqla basılı tutun</string>
