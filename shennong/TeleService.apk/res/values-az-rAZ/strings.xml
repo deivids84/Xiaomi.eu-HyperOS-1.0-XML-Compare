@@ -826,7 +826,7 @@
     <string name="fire_type_description">Yanğın</string>
     <string name="fiveg_available_status1">NR əlçatandır:</string>
     <string name="fiveg_bearer_status1">5G daşıyıcı statusu:</string>
-    <string name="fiveg_carrier_aggregation_title">5G daşıyıcı yığma</string>
+    <string name="fiveg_carrier_aggregation_title">5G operator yığma</string>
     <string name="fiveg_endc_available1">NR ENDC əlçatandır:</string>
     <string name="fiveg_endc_status1">Endc statusu:</string>
     <string name="fiveg_hosted_mode_summary">Batareyaya qənaət etmək üçün ən yaxşı şəbəkəni avtomatik seç</string>
@@ -837,8 +837,8 @@
     <string name="fiveg_network_config_type1">Şəbəkə konfiqurasiya növü:</string>
     <string name="fiveg_network_mode_title">5G şəbəkə rejimini seç</string>
     <string name="fiveg_network_title">5G şəbəkələri</string>
-    <string name="fiveg_nrca_switch_summary">Ən yaxşı bağlantı üçün 5G daşıyıcı yığmanı istifadə et</string>
-    <string name="fiveg_nrca_switch_title">5G daşıyıcı yığma</string>
+    <string name="fiveg_nrca_switch_summary">Ən yaxşı bağlantı üçün 5G operator yığmanı istifadə et</string>
+    <string name="fiveg_nrca_switch_title">5G operator yığma</string>
     <string name="fiveg_plmn_info_list1">PLMN məlumat siyahısı:</string>
     <string name="fiveg_power_switch_summary">5G bağlantısının müəyyən ssenarilərdə daha az enerji sərf etməsini təmin edin</string>
     <string name="fiveg_power_switch_title">5G batareyaya qənaət</string>
@@ -1372,7 +1372,7 @@ Lütfən operatorunuzla əlaqə saxlayın"</string>
     <string name="nr_usaged_operator">Operator</string>
     <string name="nr_usaged_used_time">İstifadə müddəti</string>
     <string name="nrca_need_reset">Dəyişiklikləri tətbiq etmək üçün cihazınızı yenidən başladın</string>
-    <string name="nrca_switch_summary">Ən yaxşı bağlantı üçün 5G daşıyıcı yığmanı istifadə et</string>
+    <string name="nrca_switch_summary">Ən yaxşı bağlantı üçün 5G operator yığmanı istifadə et</string>
     <string name="nrca_switch_title">NRCA istifadə et</string>
     <string name="number">Nömrə</string>
     <string name="numerous_emergency_numbers_title">Fövqəladə hal nömrələri</string>
