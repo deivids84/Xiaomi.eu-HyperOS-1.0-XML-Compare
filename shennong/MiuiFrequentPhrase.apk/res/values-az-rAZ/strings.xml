@@ -166,10 +166,10 @@
     <string name="sunday">Bazar</string>
     <string name="sunday_short">Baz</string>
     <string name="sunday_shortest">Baz</string>
-    <string name="super_clipboard_alert_dialog_cancel_button">Ləğv etmək</string>
-    <string name="super_clipboard_alert_dialog_sure_button">YAXŞI</string>
-    <string name="super_clipboard_send_file">Faylı panodan yapışdırın?</string>
-    <string name="super_clipboard_send_image">Şəkli panodan yapışdırın?</string>
+    <string name="super_clipboard_alert_dialog_cancel_button">İmtina</string>
+    <string name="super_clipboard_alert_dialog_sure_button">Oldu</string>
+    <string name="super_clipboard_send_file">Fayl lövhədən yapışdırılsın?</string>
+    <string name="super_clipboard_send_image">Təsvir lövhədən yapışdırılsın?</string>
     <string name="sync_phrase_label">Çox işlədilən ifadələr</string>
     <string name="thursday">Cümə axşamı</string>
     <string name="thursday_short">C.a.</string>
