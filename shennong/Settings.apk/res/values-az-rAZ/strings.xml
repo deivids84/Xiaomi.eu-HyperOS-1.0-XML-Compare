@@ -2866,8 +2866,8 @@ Bu ayar, bu cihazın bütün istifadəçilərinə təsir edir."</string>
     <string name="development_enable">Tərtibatçı seçimləri</string>
     <string name="development_memtag_footer">MTE-ni işə salmaq cihazın performansının yavaş olmasına səbəb ola bilər.</string>
     <string name="development_memtag_intro">Memory Tagging Extension (MTE) proqramınızda yaddaş təhlükəsizliyi ilə bağlı məsələləri tapmaq və onda olan yerli kodu daha təhlükəsiz etmək üçün asanlaşdırır.</string>
-    <string name="development_memtag_learn_more">MTE haqqında ətraflı məlumat əldə etmək</string>
-    <string name="development_memtag_page_title">Yaddaşa Əlavələr</string>
+    <string name="development_memtag_learn_more">MTE haqqında daha ətraflı</string>
+    <string name="development_memtag_page_title">Memory Tagging Extension</string>
     <string name="development_memtag_reboot_message_off">"MTE-ni söndürmək üçün cihazınızı yenidən başlatmanız lazım gələcək."</string>
     <string name="development_memtag_reboot_message_on">"MTE-ni söndürmək üçün cihazınızı yenidən başlatmanız lazım gələcək."</string>
     <string name="development_memtag_toggle">Söndürənə qədər MTE-ni fəallaşdır</string>
