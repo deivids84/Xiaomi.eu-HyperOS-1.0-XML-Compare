@@ -129,8 +129,8 @@
         <item quantity="one">%1$d qaralama silinsin?</item>
     </plurals>
     <plurals name="manual_picture_style_desc_custom_add_max">
-        <item quantity="other">Üstünə əlavə et %d presetlər</item>
-        <item quantity="one">Üstünə əlavə et %d əvvəlcədən tə\'y</item>
+        <item quantity="other">Ən çox %d ön ayar əlavə et</item>
+        <item quantity="one">Ən çox %d ön ayar əlavə et</item>
     </plurals>
     <plurals name="miuix_appcompat_items_selected">
         <item quantity="other">%d element seçildi</item>
