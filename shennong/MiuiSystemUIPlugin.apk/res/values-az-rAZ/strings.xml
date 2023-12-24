@@ -380,8 +380,8 @@ Xiaomi olmayan qulaqlıq istifadəçiləri: qulaqlıqlarınızı Bluetooth ayarl
     <string name="qs_control_customize_title">Keçidlər əlavə edildi</string>
     <string name="qs_control_expand_detail_title">Datalarım</string>
     <string name="qs_control_header_tiles_title">İdarəetmə mərkəzi</string>
-    <string name="qs_customize_divider_label_packages_tiles_text">Tətbiq dəyişir</string>
-    <string name="qs_customize_divider_label_system_tiles_text">Sistem dəyişir</string>
+    <string name="qs_customize_divider_label_packages_tiles_text">Tətbiq keçidləri</string>
+    <string name="qs_customize_divider_label_system_tiles_text">Sistem keçidləri</string>
     <string name="qs_customize_entry_button_text">Düzəliş et</string>
     <string name="qs_customize_header_sub_title">Yenidən düzmək üçün əlavə edilən keçidləri sürükləyin</string>
     <string name="qs_customize_header_title">Düzəliş et və sırala</string>
