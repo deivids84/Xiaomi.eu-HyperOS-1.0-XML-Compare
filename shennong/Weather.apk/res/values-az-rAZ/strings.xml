@@ -593,7 +593,7 @@ Davam etməzdən əvvəl %2$s üçün yeni versiyanı oxuyun və razılaşın."<
     <string name="traffic_control_daty_after_tomorrow_numbers">Birisigün: %1$s</string>
     <string name="traffic_control_today_numbers">Bu gün: %1$s</string>
     <string name="traffic_control_tomorrow_numbers">Sabah: %1$s</string>
-    <string name="traffic_controls">Yol kosmosu rasionu</string>
+    <string name="traffic_controls">Yol sahəsini rasionlaşdırma</string>
     <string name="translate_notification_info">Arxaplanda tərcümə edilir…</string>
     <string name="tts_best_aqi">Ən yaxşı hava keyfiyyəti</string>
     <string name="tts_hour_weather_date_time">%2$s %1$s tarixindən %4$s %3$s tarixinə qədər</string>
