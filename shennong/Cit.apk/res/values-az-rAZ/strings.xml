@@ -145,10 +145,10 @@ Cihazı zəng edirmiş kimi tutun, üst mikrofona danışın, qəbuledicidən s�
     <string name="sidetop_mic_check_record_tip">Səs yazılır, lütfən cihazın yan üst hissəsindəki mikrofona nəsə deyin</string>
     <string name="soft_light_title">Yumşaq işıq</string>
     <string name="test_aux_mic">AUX mikrofon</string>
-    <string name="test_back_handset">Arxa əl testi</string>
+    <string name="test_back_handset">Arxa telefon testi</string>
     <string name="test_first_flash">İlk fləş testi</string>
     <string name="test_flash">Fləş testi</string>
-    <string name="test_front_handset">Ön əl testi</string>
+    <string name="test_front_handset">Ön telefon testi</string>
     <string name="test_horn_motor_summary">"İki təsadüfi rəqəm eşidəcəksiniz
 Lütfən eşitdiyiniz rəqəmə uyğun müvafiq düyməyə basın
 Fərqli titrəmə şərtlərinə uyğun olaraq düzgün düyməni seçin"</string>
