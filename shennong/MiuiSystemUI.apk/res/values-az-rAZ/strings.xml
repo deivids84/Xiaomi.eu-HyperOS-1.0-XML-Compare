@@ -684,22 +684,22 @@ Onlar silindikdən sonra, telefonunuzun kilidini açmaq və siz olduğunuzu doğ
     <string name="group_system_cycle_back">Son proqramlar vasitəsilə dövr edin (geri)</string>
     <string name="group_system_cycle_forward">Son proqramlar vasitəsilə dövr edin (irəli)</string>
     <string name="group_system_full_screenshot">Tam ekran görüntüsü alın</string>
-    <string name="group_system_go_back">Geri: əvvəlki vəziyyətə qayıt (arxa düymə)</string>
-    <string name="group_system_hide_reshow_taskbar">Gizlət və (re)tapşırıq çubuğunu göstər</string>
-    <string name="group_system_overview_open_apps">Açıq proqramlar haqqında ümumi məlumat</string>
-    <string name="guest_exit_button">Çıxış qonaq modu</string>
+    <string name="group_system_go_back">Geri: əvvəlki vəziyyətə qayıt (geri düyməsi)</string>
+    <string name="group_system_hide_reshow_taskbar">Tapşırıq çubuğunu gizlət və (yenidən) göstər</string>
+    <string name="group_system_overview_open_apps">Açıq tətbiqlərə ümumi baxış</string>
+    <string name="guest_exit_button">Qonaq rejimindən çıx</string>
     <string name="guest_exit_clear_data_button">Sil</string>
     <string name="guest_exit_dialog_button">Çıx</string>
-    <string name="guest_exit_dialog_message">Bu, hazırkı qonaq iclasından proqram və məlumatları siləcək</string>
-    <string name="guest_exit_dialog_message_non_ephemeral">Cari seansdan aktivlik qeyd edə və ya bütün proqramları və məlumatları silə bilərsiniz</string>
-    <string name="guest_exit_dialog_title">Qonaqların modundan çıxın</string>
-    <string name="guest_exit_dialog_title_non_ephemeral">Qonaqların fəaliyyətinə qənaət edin?</string>
-    <string name="guest_exit_quick_settings_button">Çıxış qonağı</string>
-    <string name="guest_exit_save_data_button">Qeyd Et</string>
+    <string name="guest_exit_dialog_message">Bu, hazırkı qonaq seansındakı tətbiqləri və dataları siləcək</string>
+    <string name="guest_exit_dialog_message_non_ephemeral">Hazırkı seansdakı bütün fəaliyyəti saxlaya və ya bütün tətbiqləri və datanı silə bilərsiniz</string>
+    <string name="guest_exit_dialog_title">Qonaq rejimindən çıxılsın?</string>
+    <string name="guest_exit_dialog_title_non_ephemeral">Qonaq fəaliyyəti saxlanılsın?</string>
+    <string name="guest_exit_quick_settings_button">Qonaq rejimindən çıx</string>
+    <string name="guest_exit_save_data_button">Saxla</string>
     <string name="guest_new_guest">Qonaq əlavə et</string>
-    <string name="guest_notification_app_name">Qonaq modu</string>
+    <string name="guest_notification_app_name">Qonaq rejimi</string>
     <string name="guest_notification_ephemeral">Çıxışda bütün fəaliyyət silinəcək</string>
-    <string name="guest_notification_non_ephemeral">Çıxışda aktivliyinizi qeyd edə və ya silə bilərsiniz</string>
+    <string name="guest_notification_non_ephemeral">Çıxışda fəaliyyətinizi saxlaya və ya silə bilərsiniz</string>
     <string name="guest_notification_non_ephemeral_non_first_login">Seans fəaliyyətini indi silmək üçün sıfırlayın, ya da çıxışda fəaliyyəti sxlaya və ya silə bilərsiniz</string>
     <string name="guest_notification_session_active">Qonaq rejimindəsiniz</string>
     <string name="guest_reset_and_restart_dialog_message">Bu, yeni qonaq seansını başladacaq və hazırkı seansdan bütün tətbiqlər və datalar silinəcək</string>
@@ -792,8 +792,8 @@ Daha çox məlumat üçün toxunun"</string>
     <string name="input_pin_code">PIN-i daxil edin</string>
     <string name="input_puk_code">PUK-u daxil edin</string>
     <string name="input_second_pattern_after_restart_msg">Davam etmək üçün İkinci sahə parolunu təsdiqləyin</string>
-    <string name="input_switch_input_language_next">Switch giriş dili (növbəti dil)</string>
-    <string name="input_switch_input_language_previous">Switch giriş dili (əvvəlki dil)</string>
+    <string name="input_switch_input_language_next">Giriş dilini dəyişdir (növbəti dil)</string>
+    <string name="input_switch_input_language_previous">Giriş dilini dəyişdir (əvvəlki dil)</string>
     <string name="install_dialer_on_work_profile_action">Bir iş telefonu tətbiqi quraşdırın</string>
     <string name="install_type_instant">Ani tətbiq</string>
     <string name="instant_apps">Ani Tətbiqlər</string>
@@ -852,8 +852,8 @@ Daha çox məlumat üçün toxunun"</string>
     <string name="keyboard_shortcut_search_category_input">Giriş</string>
     <string name="keyboard_shortcut_search_category_open_apps">Tətbiqləri aç</string>
     <string name="keyboard_shortcut_search_category_system">Sistem</string>
-    <string name="keyboard_shortcut_search_list_hint">Qısa yol axtar</string>
-    <string name="keyboard_shortcut_search_list_no_result">Qısa yol tapılmadı</string>
+    <string name="keyboard_shortcut_search_list_hint">Qısayol axtar</string>
+    <string name="keyboard_shortcut_search_list_no_result">Qısayol tapılmadı</string>
     <string name="keyboard_shortcut_search_list_title">Qısayollar</string>
     <string name="keyboardview_keycode_enter">Enter</string>
     <string name="keyguard_accessibility_pin_area">PIN sahəsi</string>
@@ -862,7 +862,7 @@ Daha çox məlumat üçün toxunun"</string>
     <string name="keyguard_charging_normal_and_level_tip">%d%% dolur</string>
     <string name="keyguard_charging_quick_and_level_tip">%d%% sürətlə dolur</string>
     <string name="keyguard_charging_super_quick_and_level_tip">%d%% sürətlə dolur</string>
-    <string name="keyguard_editor_super_save_mode_toast">"Ultra batareya qənaət edən zaman Lock ekran redaktə edilə bilmir"</string>
+    <string name="keyguard_editor_super_save_mode_toast">"Ultra batareya qənaəti açıq olduqda Kilid ekranına düzəliş edilə bilmir"</string>
     <string name="keyguard_enter_password">Parolu daxil edin</string>
     <string name="keyguard_enter_pattern">Naxış çəkin</string>
     <string name="keyguard_enter_pin">PIN-i daxil edin</string>
@@ -877,7 +877,7 @@ Daha çox məlumat üçün toxunun"</string>
     <string name="keyguard_left_smarthome">Mi Home</string>
     <string name="keyguard_left_torch">Fənər</string>
     <string name="keyguard_left_view_lock_wallpaper">Divar kağızı Karuseli</string>
-    <string name="keyguard_loading_to_editor_tips">Lock ekran redaktoru açılır…</string>
+    <string name="keyguard_loading_to_editor_tips">Kilid ekranı redaktoru açılır…</string>
     <string name="keyguard_missing_sim_message_short">SIM yoxdur</string>
     <string name="keyguard_network_locked_message">Şəbəkə kilidlidir</string>
     <string name="keyguard_permanent_disabled_sim_message_short">Yararsız SIM.</string>
@@ -896,7 +896,7 @@ Daha çox məlumat üçün toxunun"</string>
     <string name="keyguard_unlock_to_customize_ls">Kilid ekranını özəlləşdirmək üçün kilidi açın</string>
     <string name="kg_enter_confirm_pin_hint">İstədiyiniz PIN kodu təsdiqləyin</string>
     <string name="kg_face_not_recognized">Tanınmır</string>
-    <string name="kg_face_sensor_privacy_enabled">Face Unlock istifadə etmək üçün Qurğularda kamera girişini açın</string>
+    <string name="kg_face_sensor_privacy_enabled">Üzlə kilid açmanı istifadə etmək üçün Ayarlarda kamera müraciətini açın</string>
     <string name="kg_failed_attempts_almost_at_erase_profile">Telefonun kilidini açmaq üçün %1$d dəfə yanlış cəhd etdiniz. Daha %2$d uğursuz cəhddən sonra, iş profili silinəcək və bütün profil datası silinəcək.</string>
     <string name="kg_failed_attempts_almost_at_erase_user">Telefonun kilidini açmaq üçün %1$d dəfə yanlış cəhd etdiniz. Daha %2$d uğursuz cəhddən sonra, bu istifadəçi silinəcək və bütün istifadəçi datası silinəcək.</string>
     <string name="kg_failed_attempts_almost_at_wipe">Telefonun kilidini açmaq üçün %1$d dəfə yanlış cəhd etdiniz. Daha %2$d uğursuz cəhddən sonra, bu telefon sıfırlanacaq və bütün dataları silinəcək.</string>
@@ -905,9 +905,9 @@ Daha çox məlumat üçün toxunun"</string>
     <string name="kg_failed_attempts_now_wiping">Telefonun kilidini açmaq üçün %d dəfə yanlış cəhd etdiniz. Bu telefon sıfırlanacaq və bütün dataları silinəcək.</string>
     <string name="kg_invalid_confirm_pin_hint">PIN kodlar uyuşmur</string>
     <string name="kg_invalid_sim_pin_hint">4-8 rəqəmli PIN daxil edin.</string>
-    <string name="kg_invalid_sim_puk_hint">PUK kodu 8 ədəd və ya daha çox olmalıdır.</string>
-    <string name="kg_password_default_pin_message">{count, plural, =1 {SIM PIN daxil olun. Cihazınızın kilidini açmaq üçün daşıyıcınızla əlaqə saxlamaq məcburiyyətində qalmamış # qalan cəhdiniz var.} other {SIM PIN daxil olun. Sizin # qalan cəhdləriniz var.} }</string>
-    <string name="kg_password_default_puk_message">{count, plural, =1 {SIM hal-hazırda əlildir. Davam etmək üçün PUK kodunu daxil edin. SIM daimi istifadə edilə bilməyəndən əvvəl # qalan cəhdiniz var. Ətraflı məlumat üçün daşıyıcı ilə əlaqə saxlayın.} other {SIM hal-hazırda əlildir. Davam etmək üçün PUK kodunu daxil edin. SIM daimi istifadə edilə bilməyəndən əvvəl # qalan cəhdləriniz var. Ətraflı məlumat üçün daşıyıcı ilə əlaqə saxlayın.} }</string>
+    <string name="kg_invalid_sim_puk_hint">PUK kodu 8 və ya daha çox rəqəmli olmalıdır.</string>
+    <string name="kg_password_default_pin_message">{count, plural, one {}=1 {SIM PIN-ini daxil edin. Cihazınızın kilidini açmaq üçün operatorunuzla əlaqə saxlamazdan əvvəl # cəhdiniz qaldı.} other {SIM PIN-ini daxil edin. # cəhdiniz qaldı.} }</string>
+    <string name="kg_password_default_puk_message">{count, plural, one {}=1 {SIM artıq sıradan çıxarılıb. Davam etmək üçün PUK kodu daxil edin. SIM həmişəlik yararsız olana qədər # cəhdiniz qaldı. Detallar üçün operatorunuzla əlaqə saxlayın.} other {SIM artıq sıradan çıxarılıb. Davam etmək üçün PUK kodu daxil edin. SIM həmişəlik yararsız olana qədər # cəhdiniz qaldı. Detallar üçün operatorunuzla əlaqə saxlayın.} }</string>
     <string name="kg_password_pin_failed">SIM PIN əməliyyatı alınmadı!</string>
     <string name="kg_password_puk_failed">SIM PUK əməliyyatı alınmadı!</string>
     <string name="kg_password_wrong_pin_code">{count, plural, =1 {Səhv SIM PIN kodu, cihazınızın kilidini açmaq üçün daşıyıcınızla əlaqə saxlamadan əvvəl # qalan cəhdiniz var.} other {Səhv SIM PIN kodu, siz # qalan cəhd var. } }</string>
@@ -916,14 +916,14 @@ Daha çox məlumat üçün toxunun"</string>
     <string name="kg_password_wrong_puk_code_dead">SIM istifadə edilə bilmir. Operatorunuzla əlaqə saxlayın.</string>
     <string name="kg_prompt_after_update_password">Cihaz güncəlləndi. Davam etmək üçün parolu daxil edin.</string>
     <string name="kg_prompt_after_update_pin">Cihaz güncəlləndi. Davam etmək üçün PIN-i daxil edin.</string>
-    <string name="kg_prompt_after_user_lockdown_password">Qıfıllamadan sonra şifrə tələb olunur</string>
-    <string name="kg_prompt_after_user_lockdown_pin">Qıfıllamadan sonra PIN tələb olunur</string>
+    <string name="kg_prompt_after_user_lockdown_password">Kilidləndikdən sonra parol tələb olunur</string>
+    <string name="kg_prompt_after_user_lockdown_pin">Kilidləndikdən sonra PIN tələb olunur</string>
     <string name="kg_prompt_reason_device_admin">Cihaz, admin tərəfindən kilidlənib</string>
-    <string name="kg_prompt_reason_restart_password">Qurğu yenidən başladılandan sonra şifrə tələb olunur</string>
-    <string name="kg_prompt_reason_restart_pin">Avadanlıq yenidən başladılandan sonra PIN tələb olunur</string>
-    <string name="kg_prompt_reason_timeout_password">Əlavə təhlükəsizlik üçün onun yerinə paroldan istifadə edin</string>
+    <string name="kg_prompt_reason_restart_password">Cihaz yenidən başladıldıqdan sonra parol tələb olunur</string>
+    <string name="kg_prompt_reason_restart_pin">Cihaz yeniden başladıldıqdan sonra PIN tələb olunur</string>
+    <string name="kg_prompt_reason_timeout_password">Əlavə güvənlik üçün bunun əvəzinə parol istifadə edin</string>
     <string name="kg_prompt_reason_timeout_pattern">Əlavə güvənlik üçün bunun əvəzinə naxış istifadə edin</string>
-    <string name="kg_prompt_reason_timeout_pin">Əlavə təhlükəsizlik üçün onun əvəzinə PIN istifadə edin</string>
+    <string name="kg_prompt_reason_timeout_pin">Əlavə güvənlik üçün bunun əvəzinə PIN istifadə edin</string>
     <string name="kg_prompt_reason_user_request">Cihaz əllə kilidlənib</string>
     <string name="kg_prompt_unattended_update_password">Güncəlləməni daha sonra quraşdırmaq üçün parolu daxil edin</string>
     <string name="kg_prompt_unattended_update_pin">Güncəlləməni daha sonra quraşdırmaq üçün PIN-i daxil edin</string>
@@ -949,7 +949,7 @@ Daha çox məlumat üçün toxunun"</string>
     <string name="left_nav_bar_button_type">Əlavə sol düymə növü</string>
     <string name="letterbox_education_dialog_title">Daha çoxunu görün və edin</string>
     <string name="letterbox_education_got_it">Anladım</string>
-    <string name="letterbox_education_reposition_text">Onu yenidən tərtib etmək üçün proqramdan kənarda ikiqat tap</string>
+    <string name="letterbox_education_reposition_text">Yerini dəyişdirmək üçün tətbiqin xaricinə cüt toxunun</string>
     <string name="letterbox_education_split_screen_text">Bölünmüş ekran üçün başqa bir tətbiqi sürükləyin</string>
     <string name="letterbox_reachability_reposition_text">"Bu tətbiqi daşımaq
 üçün iki dəfə toxunun"</string>
