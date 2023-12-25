@@ -636,7 +636,7 @@ Söndürmək üçün https://appleid.apple.com/#!&amp;page=signin ünvanını zi
 - Anbar"</string>
     <string name="request_all_permission_title">İcazələr tələb olunur</string>
     <string name="request_permission">İcazə ver</string>
-    <string name="require_permission">Əşyaların köçürülməsinə icazə vermək üçün tap</string>
+    <string name="require_permission">Elementləri köçürməyə icazə vermək üçün toxunun</string>
     <string name="restore_data_to_device_content">"Elementləriniz Xiaomi Cloud ilə sinxronizasiya edildi.
 Onları bərpa etmək üçün Xiaomi Hesabınıza daxil olun."</string>
     <string name="restore_data_to_device_title">Elementləri bu cihaza geri yüklə</string>
@@ -665,7 +665,7 @@ Daxilə köçürülməyən data yenidən daxilə köçürülməlidir."</string>
     <string name="scanner_send_dialog_btn">Anladım</string>
     <string name="scanner_send_dialog_message">"Köçürmə əsnasında Wi-Fi-ı söndürməyin və ya başqa bir şəbəkəyə keçməyin."</string>
     <string name="scanner_size_selected">Seçildi: %s</string>
-    <string name="scanner_subtitle_prd">Hər bir əşyanı yoxlamazdan və köçürmə prosesinə başlamazdan əvvəl aşağıdakı məlumatları diqqətlə oxuyun.</string>
+    <string name="scanner_subtitle_prd">Hər bir elementi yoxlamazdan və köçürmə prosesinə başlamazdan əvvəl aşağıdakı məlumatları diqqətlə oxuyun.</string>
     <string name="scanner_time_remained">Təxmini köçürmə vaxtı: %s</string>
     <string name="scanner_title_prd">Vacib məlumat</string>
     <string name="scanner_title_tip">Köçürüləcək elementləri seçin</string>
