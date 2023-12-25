@@ -1103,8 +1103,8 @@ Yenə də, bəzi əməliyyatlarınız hələ tamamlanmayıb. Razılığı geri g
     <string name="blur_external_storage">Xarici anbar</string>
     <string name="blur_key_words_oaid">OAID</string>
     <string name="blur_key_words_permission_records">Tətbiq davranış yazıları</string>
-    <string name="blur_location_off">Təqribi məkanı yalnız artıq istifadə edən proqramlar üçün əlçatan saxlamaq üçün söndürün</string>
-    <string name="blur_location_on">Bütün proqramlar üçün təqribi yerləşmə variantının əlçatan olması üçün turn on</string>
+    <string name="blur_location_off">Təxmini yerləşmənin yalnız onu artıq istifadə etmiş tətbiqlərə əlçatanlığını təmin etmək üçün söndür</string>
+    <string name="blur_location_on">Təxmini yerləşmə seçiminin bütün tətbiqlərə əlçatanlığını təmin etmək üçün işə sal</string>
     <string name="blur_location_title">Təxmini yerləşmə</string>
     <string name="blur_message">Mesajlar</string>
     <string name="blur_multiple_device_permissions">Çoxlu cihazlar üçün icazələr</string>
@@ -1420,7 +1420,7 @@ Yenə də, bəzi əməliyyatlarınız hələ tamamlanmayıb. Razılığı geri g
     <string name="daily_card_setting_fragment_daily_card_brand">Operator</string>
     <string name="daily_card_setting_fragment_daily_card_brand_value">Operator seç</string>
     <string name="daily_card_setting_fragment_daily_card_setting">Gündəlik internet planı ayarları</string>
-    <string name="daily_card_setting_fragment_daily_card_summary">"Seçdiyiniz daşıyıcıya əsasən, limitsiz məlumatlarla məlumat limitləri və proqramları təyin edəcəyik. Əgər daşıyıcınız siyahıya salınmırsa, \"Digər\" seçin və gündəlik məlumat planınızı əl ilə qurun."</string>
+    <string name="daily_card_setting_fragment_daily_card_summary">"Seçdiyiniz operatora görə internet limitini və limitsiz internetə sahib tətbiqləri təyin edəcəyik. Operatorunuz siyahıda yoxdursa, \"Digər\"i seçin və gündəlik internet planınızı əllə quraşdırın."</string>
     <string name="daily_card_setting_fragment_daily_package">Gündəlik internet limiti</string>
     <string name="daily_card_setting_fragment_month_package">Aylıq internet paketi</string>
     <string name="daily_card_setting_fragment_package_summary">Gündəlik internet planınıza aylıq internet paketi daxildirsə, gündəlik paketdən əvvəl istifadə olunacaq.</string>
@@ -2272,8 +2272,8 @@ könüllüsü"</string>
     <string name="gb_collimator_size">Ölçü</string>
     <string name="gb_collimator_style">Növ</string>
     <string name="gb_collimator_toast">Görmə qabiliyyəti, nişan almağı daha rahat edir</string>
-    <string name="gb_cooler_device_toast">"Artırılmış vizual təcrübə
-Xiaomi Gaming Cooler"</string>
+    <string name="gb_cooler_device_toast">"Xiaomi Gaming Cooler tərəfindən
+təkmilləşdirilmiş vizual təcrübə"</string>
     <string name="gb_create_icon_summary">Əsas ekran qısayolu yarat</string>
     <string name="gb_description_image_button_answer">Cavabla</string>
     <string name="gb_description_image_button_reject">Rədd et</string>
@@ -3742,7 +3742,7 @@ Ruterinizi bağlamaq üçün başqa bir Ethernet kabeli istifadə etməyə çal�
     <string name="permission_action_reject">Rədd et</string>
     <string name="permission_action_tag">Gizlilik qoruması</string>
     <string name="permission_action_virtual">Boş mesaj qaytar</string>
-    <string name="permission_action_virtual_phone_summary">"Müvafiq icazələri qrant edin, lakin Sİm-kartın real telefon nömrəsinə daxil olmağa imkan verməyin"</string>
+    <string name="permission_action_virtual_phone_summary">"Tətbiqlərə müvafiq icazələri verin, ancaq tətbiqlərin SIM kartdakı real telefon nömrələrinə müraciət etməsinə icazə verməyin"</string>
     <string name="permission_close_permission_control_dialog_msg">"İcazə meneceri bağlı olduqda, tətbiqlər kontaktlarınızı oxumazdan, zəng tarixçənizə baxmazdan, sistem ayarlarını dəyişdirməzdən və ya kamera və digər cihaz resurslarına müraciət etməzdən əvvəl icazənizi istəməyəcək."</string>
     <string name="permission_close_permission_control_dialog_title">Söndürülsün?</string>
     <string name="permission_exception_title">Tətbiqlər üçün məhdud bağlantı</string>
@@ -3802,7 +3802,7 @@ Ruterinizi bağlamaq üçün başqa bir Ethernet kabeli istifadə etməyə çal�
     <string name="permission_instruction_read_write_calendar">Bu icazə, tətbiqlərin təqvim tədbirlərinə müraciət etməsinə imkan verir.</string>
     <string name="permission_instruction_receive_mms">Bu icazə, tətbiqlərin cihazınızda və ya SIM kartınızda saxlanılan bütün multimedia mesajlarını oxumasına imkan verir. Belə mesajlara parollar, bank hesab detalları və digər şəxsi məlumatlar daxil ola bilər.</string>
     <string name="permission_instruction_receive_sms">SMS və MMS al</string>
-    <string name="permission_instruction_receive_sms_mms">Bu icazə proqramlara bütün SMS və MMS-i oxumağa imkan verir. Bu mesajlarda parollar, bank hesabının təfsilatları və digər şəxsi məlumatlar ola bilər.</string>
+    <string name="permission_instruction_receive_sms_mms">Bu icazə tətbiqlərin bütün SMS və MMS-ləri oxumasına imkan verir. Bu mesajlar parolları, bank hesabı məlumatlarını və digər şəxsi məlumatları ehtiva edə bilər.</string>
     <string name="permission_instruction_record_audio">"Bu icazə, tətbiqlərin səs yazması üçün mikrofonu istifadə etməsinə imkan verir. Unutmayın ki, bu icazə, tətbiqin başqaları ilə edilən söhbətlər daxil olmaqla, hər şeyi yazmasına imkan verir. Ən yaxşısı, tətbiqlərin bu icazəni siz yalnız tətbiqləri istifadə edərkən istifadə etməsinə imkan verməkdir."</string>
     <string name="permission_instruction_record_screen">Ekran məzmununa müraciət</string>
     <string name="permission_instruction_running_background">Bu icazə, tətbiqlərin arxaplanda işləməsinə imkan verir. Bunu edərkən, tətbiqlər datanı yığa və xidmətlər göstərə bilər. Unutmayın ki, belə fəaliyyətlər enerji sərfiyyatını artırır.</string>
@@ -3811,18 +3811,18 @@ Ruterinizi bağlamaq üçün başqa bir Ethernet kabeli istifadə etməyə çal�
     <string name="permission_instruction_send_mms">Bu icazə tətbiqlərin əlavə xərclərə səbəb ola biləcək multimedia mesajlarını göndərməsinə icazə verir. Zərərli tətbiqlər razılığınız olmadan ödənişli mesajlar göndərmək üçün bu icazədən yararlana bilər.</string>
     <string name="permission_instruction_send_payment_sms">Bu icazə, tətbiqlərin ödənişli mətn mesajlarını göndərməsinə imkan verir.</string>
     <string name="permission_instruction_send_sms">Bu icazə tətbiqlərin əlavə xərclərə səbəb ola biləcək mətn mesajlarını göndərməsinə icazə verir. Zərərli tətbiqlər razılığınız olmadan ödənişli mesajlar göndərmək üçün bu icazədən yararlana bilər.</string>
-    <string name="permission_instruction_shake">"Bu icazə proqramlara cihazın fəzada yerini müəyyən etməyə, titrəməni tanımağa və ekran oriyentasiyasını müəyyən etməyə imkan verir."</string>
+    <string name="permission_instruction_shake">"Bu icazə, tətbiqlərə cihazın kosmosdakı mövqeyini aşkarlamaq, silkələməni tanımaq və ekran istiqamətini müəyyən etmək imkanı verir."</string>
     <string name="permission_instruction_show_locked">Bu icazə, tətbiqlərin Kilid ekranınızda elementlər göstərməsinə imkan verir. Zərərli tətbiqlər bu icazəni reklamlar göstərmək üçün istifadə edə bilər.</string>
-    <string name="permission_instruction_sociality">"Əgər siz proqramlara öz qovluqlarında fayllara daxil olmağa icazə verirsinizsə, sistem sizə bu proqramların şəxsi məlumatlarınızı qorumaq məqsədilə sosial media proqramlarında yaranan fayllara da daxil olmasını istəyib-istəmədiyinizə qərar verməyə imkan verir. Android API səviyyəsi 29 və ya daha yüksək olan proqramlar artıq saxlama bölümlərini dəstəklədiyi kimi, bu keçid onlar üçün təmin olunmayacaq."</string>
-    <string name="permission_instruction_storage">"Əgər siz proqramlara öz qovluqlarında fayllara daxil olmağa icazə verirsinizsə, sistem sizə şəxsi məlumatlarınızı qorumaq məqsədilə bu proqramların sizin Qalereyanızdakı əşyalara və sosial media proqramlarında yaranan fayllara da daxil olmasını istəyib-istəmədiyinizə qərar verməyə imkan verir. Android API səviyyəsi 29 və ya daha yüksək olan proqramlar artıq saxlama bölümlərini dəstəklədiyi kimi, bu keçid onlar üçün təmin olunmayacaq."</string>
+    <string name="permission_instruction_sociality">"Tətbiqlərin öz qovluqlarındakı fayllara müraciət etməsinə icazə versəniz, sistem, gizliliyinizi qorumaq məqsədilə bu tətbiqlərin sosial media tətbiqlərində yaradılan fayllara müraciət etməsinə icazə vermək istəyib-istəmədiyinizə qərar verməyinizə imkan verəcək. Android API səviyyəsi 29 və ya daha yüksək olan tətbiqlər artıq anbar bölmələrini dəstəklədiyi üçün bu keçid onlar üçün təmin edilməyəcək."</string>
+    <string name="permission_instruction_storage">"Tətbiqlərin öz qovluqlarındakı fayllara müraciət etməsinə icazə versəniz, sistem, gizliliyinizi qorumaq məqsədilə bu tətbiqlərin Qalereyanızdakı elementlərə və sosial media tətbiqlərində yaradılan fayllara müraciətinə icazə vermək istəyib-istəmədiyinizə qərar verməyinizə imkan verəcək. Android API səviyyəsi 29 və ya daha yüksək olan tətbiqlər artıq anbar bölmələrini dəstəklədiyi üçün bu keçid onlar üçün təmin edilməyəcək."</string>
     <string name="permission_instruction_touch_pay">Bu icazə, tətbiqlərin təmassız ödənişlər etməsinə imkan verir.</string>
     <string name="permission_instruction_transfer_data_to_other_devices">Datanı digər cihazlara köçür</string>
     <string name="permission_instruction_use_sip">Bu icazə, tətbiqlərin SIP video xidmətlərini istifadə etməsinə imkan verir.</string>
     <string name="permission_instruction_vr_assistant">Bu icazə, tətbiqlərin VR köməkçi xidmətlərini istifadə etməsinə imkan verir.</string>
     <string name="permission_instruction_wall_paper">Tətbiqlərin ilkin dinamik divar kağızı xidmətlərini dəyişdirməsinə və arxaplanda işləməyə davam etməsinə imkan vermək üçün bu icazəni verin.</string>
-    <string name="permission_instruction_write_calllog">Bu icazə proqramlara zəng keçmişi qeydləri əlavə etməyə və ya silməyə imkan verir.</string>
+    <string name="permission_instruction_write_calllog">Bu icazə, tətbiqlərin zəng tarixçəsi qeydlərini əlavə etməsinə və ya silməsinə imkan verir.</string>
     <string name="permission_instruction_write_clipboard">Bu icazə, tətbiqlərin elementləri lövhədə saxlamasına imkan verir. Spam mesajlar lövhənin normal istifadənizə təsir göstərə bilər.</string>
-    <string name="permission_instruction_write_contacts">Bu icazə proqramlara kontaktları əlavə etməyə, silməyə və redaktə etməyə imkan verir.</string>
+    <string name="permission_instruction_write_contacts">Bu icazə, tətbiqlərin kontaktları əlavə etməsinə, silməsinə və onlara düzəliş etməsinə imkan verir.</string>
     <string name="permission_instruction_write_settings">Bu icazə, tətbiqlərin sistem ayarlarını dəyişdirməsinə imkan verir. Zərərli tətbiqlər, sistem ayarlarınızla bu icazəni istifadə edə və cihazınızın normal istifadəsinə təsir göstərə bilər.</string>
     <string name="permission_legacy_storage">Foto, video, səs və fayllara müraciət</string>
     <string name="permission_permission_control_closed_desc_dialog_msg">"Tətbiqlər kontaktlarınızı oxumazdan, zəng tarixçənizə baxmazdan, sistem ayarlarını dəyişdirməzdən və ya kamera və digər cihaz resurslarına müraciət etməzdən əvvəl icazə istəməyəcək. İcazə ayarlarında bu özəlliyi işə sala bilərsiniz."</string>
@@ -4095,7 +4095,7 @@ Ruterinizi bağlamaq üçün başqa bir Ethernet kabeli istifadə etməyə çal�
     <string name="power_customize_giveup_change">Dəyişikliklər ləğv edilsin?</string>
     <string name="power_dailog_night_charge_protection_done">Anladım</string>
     <string name="power_dailog_night_charge_protection_summary">Deyəsən, batareyanız çox vaxt tam doldurulur, bu da onun köhnəlməsini sürətləndirə bilər. Belə problemləri önləmək üçün optimallaşdırılmış doldurma artıq işə salındı.</string>
-    <string name="power_dailog_night_charge_protection_summary_new">"Görünür, siz tez-tez bu cihazın batareyasını tam şarla saxlayırsınız, bu da onun qocalmasını sürətləndirə bilər. Gecə şarj müdafiəsi avtomatik olaraq şarj müddətini düzəltmək və batareya uzunömürlülüyü qorumaq üçün söndürülüb."</string>
+    <string name="power_dailog_night_charge_protection_summary_new">"Deyəsən, bu cihazın batareyasını tez-tez tam dolu saxlayırsınız, bu da batareyanın köhnəlməsini sürətləndirə bilər. Doldurma müddətini avtomatik ayarlamaq və batareyanın uzunömürlülüyünü qorumaq məqsədilə gecə doldurma qoruması işə salındı."</string>
     <string name="power_dialog_cancel">İmtina</string>
     <string name="power_dialog_ok">Oldu</string>
     <string name="power_dialog_performance_mode_checkbox">%d Hz yeniləmə sürətinə keç</string>
@@ -4334,7 +4334,7 @@ Ruterinizi bağlamaq üçün başqa bir Ethernet kabeli istifadə etməyə çal�
     <string name="precise_location_title">Dəqiq yerləşmə</string>
     <string name="pref_about_traffic_title">İnternet istifadə ayarları</string>
     <string name="pref_adjust_data_usage">Operator mesaj şablonu</string>
-    <string name="pref_adjust_data_usage_summary">Kalibrləmə şablonunu dəyişdikdən sonra Xiaomi, daşıyıcınızdan məlumat istifadə statistikalarını əldə etmək üçün istifadə edəcək</string>
+    <string name="pref_adjust_data_usage_summary">Kalibrləmə şablonunu dəyişdirdiyinizdən sonra Xiaomi, operatorunuzdan data istifadə statistikalarını almaq üçün bunu istifadə edəcək</string>
     <string name="pref_adjust_traffic_data">İnternet istifadəsini ayarla</string>
     <string name="pref_allow_connect_network_title">Ölkəxarici data rouminqi</string>
     <string name="pref_auto_adjust_traffic">İnternet istifadə statistikasını avto-ayarla</string>
@@ -4383,7 +4383,7 @@ Ruterinizi bağlamaq üçün başqa bir Ethernet kabeli istifadə etməyə çal�
     <string name="pref_roaming_setting_gategory">Ayarlar</string>
     <string name="pref_special_package_setting">Özəl internet planı</string>
     <string name="pref_special_package_setting_summary">Qeyri-pik interneti, artırma paketlərini və təyin edilmiş interneti idarə edin</string>
-    <string name="pref_summary_upload_data_usage">Bizim məhsul və xidmətlərimizi təkmilləşdirməkdə bizə kömək etmək üçün məlumat istifadə məlumatlarınızı məlumatlaşdırın. Hesabat prosesi bizim Məxfilik Siyasətimizə uyğun olaraq həyata keçiriləcək.</string>
+    <string name="pref_summary_upload_data_usage">Məhsul və xidmətlərimizi təkmilləşdirməyimizə kömək etmək üçün internet istifadəsi məlumatlarınızı bildirin. Bildirmə prosesi, Gizlilik Siyasətimizə uyğun olaraq həyata keçiriləcək.</string>
     <string name="pref_title_declaration">Vacib məsuliyyətdən imtina</string>
     <string name="pref_title_diagnostics_show_float_notification">Üzən bildirişlər</string>
     <string name="pref_title_manual_check_virus_db_update">Güncəlləmələri yoxla</string>
@@ -5686,7 +5686,7 @@ Format zamanı ^2 daxilindəki mövcud məzmun silinəcək. Məzmunu itirməmək
     <string name="tc_sms_report_notify_get_timeout_body">Prosesin vaxtı bitdi. Daxil etdiyiniz SMS sorğu kodunun doğru olduğunu operatorunuzla təsdiqləyin.</string>
     <string name="tc_sms_report_notify_get_timeout_title">"Data istifadəsi SMS-i alına bilmədi"</string>
     <string name="tc_sms_report_receive_content">Data istifadəsi hesabatı SMS məzmunu (Data istifadə statistikalarını təsdiqlə)</string>
-    <string name="tc_sms_report_receive_content_null">"Bu xüsusiyyətimizi yaxşılaşdırmağa bizə kömək edin!&lt;br/&gt;Bu barədə belə məlumat var:&lt;br/&gt;1. \"Check command SMS\" və \"Recipient number\" daxil olun.&lt;br/&gt;2. \"SMS şablonu əldə et\" düyməsinə.&lt;br/&gt;3. Daşıyıcıdan SMS mesajı alana qədər gözləyin.&lt;br/&gt;4. \"Yüklə\" düyməsinə."</string>
+    <string name="tc_sms_report_receive_content_null">"Bu özəlliklə təkmilləşməyimizə kömək edin!&lt;br/&gt;Necə:&lt;br/&gt;1. \"SMS əmrini yoxla\" və \"Alıcı nömrəsi\"nə get&lt;br/&gt;2. \"SMS şablonunu al\"a toxun&lt;br/&gt;3. Operatorunuzdan SMS mesajının gəlməsini gözləyin&lt;br/&gt;4. \"Yüklə\"yə toxunun."</string>
     <string name="tc_sms_report_receive_num">Alıcı nömrəsi</string>
     <string name="tc_sms_report_send_num">Operator telefonu #</string>
     <string name="tc_sms_report_summary">Data istifadəsi məlumatlarınız yanlış olduqda və ya güncəllənə bilmədikdə bir hesabat göndərərək bu özəlliyi təkmilləşdirməyimizə kömək edin.</string>
@@ -6222,9 +6222,9 @@ Dəqiqliyi artırmağa çalışın!"</string>
     <string name="wakepath_confirm_start_activity">%1$s üçün %2$s açma icazəsi verilsin?</string>
     <string name="wakepath_delete">İcazəni sil</string>
     <string name="wakepath_delete_all">Bütün icazələri sil</string>
-    <string name="wakepath_delete_all_tips">"Əgər davam etsəniz, digər proqramları açmaq üçün hər bir proqrama icazə vermək məcburiyyətində qalacaqsınız. Hər halda davam edin?"</string>
-    <string name="wakepath_delete_app_start_all">"Davam etsəniz, gərək qrant verəsiniz %s hər hansı digər apps açmaq üçün yenidən icazə. Hər halda davam?"</string>
-    <string name="wakepath_delete_app_start_other_app">"Davam etsəniz, gərək qrant verəsiniz %1$s yenidən açmaq üçün icazə %2$s. Hər nə olursa olsun davam edin?"</string>
+    <string name="wakepath_delete_all_tips">"Davam etsəniz, hər bir tətbiqə digər tətbiqləri açmaq üçün icazə verməli olacaqsınız. Yenə də davam edilsin?"</string>
+    <string name="wakepath_delete_app_start_all">"Davam etsəniz, digər tətbiqləri açmaq üçün yenidən %s icazəsini verməli olacaqsınız. Yenə də davam edilsin?"</string>
+    <string name="wakepath_delete_app_start_other_app">"Davam etsəniz, %2$s açmaq üçün %1$s icazəsini verməli olacaqsınız. Yenə də davam edilsin?"</string>
     <string name="wakepath_manager_title">Zəncir başlanğıcını idarə et</string>
     <string name="warningcenter_action_check">Bax</string>
     <string name="warningcenter_alert_home">Yerləşmə</string>
