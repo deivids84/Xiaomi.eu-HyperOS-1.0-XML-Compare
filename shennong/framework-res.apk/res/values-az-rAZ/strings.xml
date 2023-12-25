@@ -1304,7 +1304,7 @@ Təkmil bildirişlər, kontakt adları və mesajlar kimi şəxsi məlumatlar dax
     <string name="permdesc_getPackageSize">Tətbiqin kodu, data və keş ölçüsünü almasına icazə verir</string>
     <string name="permdesc_getTasks">Tətbiqin, hazırda və təzəlikcə işləyən tapşırıqlar haqqında məlumat almasına icazə verir. Bu, tətbiqin cihazda hansı tətbiqlərin istifadə edildiyi barədə məlumatları kəşf etməsinə icazə verir.</string>
     <string name="permdesc_handoverStatus">Bu tətbiqə, hazırkı Android Beam köçürmələri haqqında məlumat əldə etməyə icazə verir</string>
-    <string name="permdesc_hideOverlayWindows">Bu proqram sistemin proqramlardan qaynaqlanaraq yaranan overlays-ları üstündə göstərilməsini xahiş edə bilər.</string>
+    <string name="permdesc_hideOverlayWindows">Bu tətbiq, sistemin tətbiqlərdən qaynaqlanan örtükləri gizlətməsini tələb edə bilər.</string>
     <string name="permdesc_highSamplingRateSensors">Tətbiqin, 200 Hz-dən yuxarı bir tezlikdə sensor datasını nümunələməyinə icazə verir</string>
     <string name="permdesc_imagesWrite">Tətbiqə, foto kolleksiyanızı dəyişdirmə icazəsi verir.</string>
     <string name="permdesc_install_shortcut">Tətbiqin, istifadəçi müdaxiləsi olmadan Əsas ekrana qısayol əlavə etməsinə icazə verir.</string>
@@ -1503,7 +1503,7 @@ icazə tələb olundu"</string>
     <string name="permlab_getPackageSize">tətbiqin anbardakı sahəsini ölç</string>
     <string name="permlab_getTasks">işləyən tətbiqləri al</string>
     <string name="permlab_handoverStatus">Android Beam transfer statusunu al</string>
-    <string name="permlab_hideOverlayWindows">gizlət digər apps overlays</string>
+    <string name="permlab_hideOverlayWindows">digər tətbiq örtüklərini gizlət</string>
     <string name="permlab_highSamplingRateSensors">senson datasına yüksək nümunələmə sürətində müraciət</string>
     <string name="permlab_imagesWrite">foto kolleksiyasını dəyişdir</string>
     <string name="permlab_install_shortcut">qısayolları quraşdır</string>
