@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="accept">Qəbul et</string>
-    <string name="apm_enabled_first_time_message">"Cihazınız təyyarə rejimində Wi‑Fi-ı aktiv saxlamağı xatırlayır. Aktiv qalmasını istəmirsinizsə, Wi‑Fi-ı söndürün."</string>
-    <string name="apm_enabled_first_time_title">Wi‑Fi aktiv qalır</string>
+    <string name="apm_enabled_first_time_message">"Cihazınız təyyarə rejimində Wi‑Fi-ı açıq saxlamağı xatırlayır. Açıq qalmasını istəmirsinizsə Wi‑Fi-ı söndürün."</string>
+    <string name="apm_enabled_first_time_title">Wi‑Fi açıq qalır</string>
     <string name="config_wifiCertInstallationHelpLink">https://support.google.com/pixelphone/answer/2844832</string>
     <string name="config_wifiDriverWorldModeCountryCode">00</string>
     <string name="decline">Rədd et</string>
@@ -91,7 +91,7 @@ Bu dəyişiklik, cihazın yerləşməsini yaxınlıqdakı cihazlardan tərəfind
     <string name="wifi_enable_request_dialog_negative_button">"İcazə vermə"</string>
     <string name="wifi_enable_request_dialog_positive_button">İcazə ver</string>
     <string name="wifi_enable_request_dialog_title">%1$s üçün Wi‑Fi-ı açma icazəsi verilsin?</string>
-    <string name="wifi_enabled_apm_first_time_message">"Wi‑Fi-ı aktiv saxlasanız, cihazınız növbəti dəfə təyyarə rejimində olanda onu aktiv saxlamağı xatırlayacaq"</string>
+    <string name="wifi_enabled_apm_first_time_message">"Wi‑Fi-ı açıq saxlasanız, cihazınız növbəti dəfə təyyarə rejimində olarkən onu açıq saxlamağı xatırlayacaq"</string>
     <string name="wifi_enabled_apm_first_time_title">Təyyarə rejimində Wi‑Fi açıqdır</string>
     <string name="wifi_interface_priority_approve">İcazə ver</string>
     <string name="wifi_interface_priority_interface_name_ap">Wi‑Fi Hotspot</string>
