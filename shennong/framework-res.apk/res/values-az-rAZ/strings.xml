@@ -1275,11 +1275,11 @@ Təkmil bildirişlər, kontakt adları və mesajlar kimi şəxsi məlumatlar dax
     <string name="permdesc_changeWifiMulticastState">Tətbiqin, çoxlu yayım ünvanlarını istifadə edərək sadəcə telefona yox, Wi-Fi şəbəkəsindəki bütün cihazlara göndərilən paketləri almasına icazə verir. Çoxlu olmayan yayım rejiminə görə daha çox enerji sərf edir.</string>
     <string name="permdesc_changeWifiState">Tətbiqin, Wi-Fi müraciət nöqtələri ilə bağlantı qurmasına və kəsməsinə və Wi-Fi şəbəkələri üçün cihaz konfiqurasiyasında dəyişikliklər etməsinə icazə verir.</string>
     <string name="permdesc_changeWimaxState">Tətbiqin, telefonun WiMAX şəbəkələri ilə bağlantı qurmasına və bu bağlantıları kəsməsinə icazə verir.</string>
-    <string name="permdesc_companionProfileWatch">Saatları idarə etmək üçün yoldaş proqramına imkan verir.</string>
+    <string name="permdesc_companionProfileWatch">Tamamlayıcı tətbiqin saatları idarə etməsinə imkan verir.</string>
     <string name="permdesc_connection_manager">Tətbiqin, telekom bağlantılarını idarə etməsinə icazə verir.</string>
     <string name="permdesc_control_incall_experience">Tətbiqin, zəng daxili istifadəçi təcrübəsini təmin etməsinə icazə verir.</string>
     <string name="permdesc_createNetworkSockets">Tətbiqin, şəbəkə yuvalarını yaratmasına və özəl şəbəkə protokollarını istifadə etməsinə icazə verir. Brauzer və digər tətbiqlər, internetə data göndərmək üçün alətlər təmin edir, buna görə də, internetə data göndərmək üçün bu icazə tələb olunmur.</string>
-    <string name="permdesc_deliverCompanionMessages">Yoldaşı proqram digər cihazlara müşayiət mesajları çatdırmaq üçün imkan verir.</string>
+    <string name="permdesc_deliverCompanionMessages">Tamamlayıcı bir tətbiqin digər cihazlara tamamlayıcı mesajlar çatdırmasına imkan verir.</string>
     <string name="permdesc_detectScreenCapture">Bu tətbiq, tətbiq istifadə edilərkən ekran şəkli çəkildikdə bildiriş alacaq.</string>
     <string name="permdesc_disableKeyguard">Tətbiqə, düymə kilidini və əlaqələndirilmiş parol güvənliyini sıradan çıxartmasına verir. Nümunə üçün, telefon, bir zəng alanda düymə kilidini sıradan çıxardır, zəng bitədnə düymə kilidini yenidən fəallaşdırır.</string>
     <string name="permdesc_enableCarMode">Tətbiqin, avtomobil rejimini fəallaşdırmasına icazə verir.</string>
@@ -1320,7 +1320,7 @@ Təkmil bildirişlər, kontakt adları və mesajlar kimi şəxsi məlumatlar dax
     <string name="permdesc_modifyNetworkAccounting">Tətbiqə, şəbəkə istifadəsinin tətbiqlərə qarşı necə hesablandığını dəyişdirmə icazəsi verir. Normal tətbiqlər tərəfindən istifadə olunmur.</string>
     <string name="permdesc_nearby_wifi_devices">Tətbiqin yaxınlıqdakı Wi‑Fi cihazlarının reklamını etmək, onlara bağlanmaq və nisbi mövqeyini müəyyən etməyinə imkan verir</string>
     <string name="permdesc_nfc">Tətbiqə, Yaxın Sahə Rabitəsi (NFC) etiketləri, kartları və oxuyucuları ilə əlaqə qurma icazəsi verir.</string>
-    <string name="permdesc_observeCompanionDevicePresence">Cihazlar yaxın və ya uzaq zaman companion cihaz iştirakı müşahidə etmək üçün imkan verir.</string>
+    <string name="permdesc_observeCompanionDevicePresence">Cihazlar yaxında və ya uzaqda olduqda tamamlayıcı tətbiqin tamamlayıcı cihazın mövcudluğunu müşahidə etməsinə imkan verir.</string>
     <string name="permdesc_persistentActivity">Tətbiqə, yaddaşda öz hissələrini qalıcı etmə icazəsi verir. Bu, telefonu yavaşlandıran digər tətbiqlər üçün əlçatan olan yaddaşı məhdudlaşdıra bilər.</string>
     <string name="permdesc_postNotification">Tətbiqin bildirişləri göstərməsinə icazə verir</string>
     <string name="permdesc_preferredPaymentInfo">Tətbiqə, qeydiyyatlı köməkçilər və marşrut təyinatı kimi tərcih edilmiş nfc ödəniş xidməti məlumatlarını əldə etmə icazəsi verir.</string>
@@ -1368,7 +1368,7 @@ Təkmil bildirişlər, kontakt adları və mesajlar kimi şəxsi məlumatlar dax
     <string name="permdesc_setWallpaper">Tətbiqin sistem divar kağızını ayarlamasına icazə verir.</string>
     <string name="permdesc_setWallpaperHints">Tətbiqin sistem divar kağızı üçün ölçü ipucularını ayarlamasına icazə verir.</string>
     <string name="permdesc_sim_communication">Tətbiqə, SIM-ə əmr göndərmə icazəsi verir. Bu, çox təhlükəlidir.</string>
-    <string name="permdesc_startForegroundServicesFromBackground">Bir tərəfdaş proqram arxa plandan ön plan xidmətləri başlamaq üçün imkan verir.</string>
+    <string name="permdesc_startForegroundServicesFromBackground">Tamamlayıcı tətbiqin, önplan xidmətlərini arxaplanda başlatmasına imkan verir.</string>
     <string name="permdesc_startReviewPermissionDecisions">Sahibin, icazə qərarlarını incələməsi üçün ekran başlatmasına icazə verir. Normal tətbiqlər, heç vaxt bu icazəyə ehtiyac duymur.</string>
     <string name="permdesc_startViewAppFeatures">Sahibin, bir tətbiq üçün özəllik məlumatlarına baxmağa başlamasına icazə verir.</string>
     <string name="permdesc_startViewPermissionUsage">Sahibin, bir tətbiq üçün icazə istifadəsini başlatmasına imkan verir. Normal tətbiqlər, heç vaxt bu icazəyə ehtiyac duymur.</string>
@@ -1474,11 +1474,11 @@ icazə tələb olundu"</string>
     <string name="permlab_changeWifiMulticastState">Wi-Fi Multicast alışına icazə ver</string>
     <string name="permlab_changeWifiState">Wi-Fi ilə bağlantı qur və bağlantını kəs</string>
     <string name="permlab_changeWimaxState">WiMAX statusunu dəyişdir</string>
-    <string name="permlab_companionProfileWatch">Saatların idarə etmək üçün \"Companion Watch\" profil icazəsi</string>
+    <string name="permlab_companionProfileWatch">Saatları idarə etmək üçün Companion Watch profil icazəsi</string>
     <string name="permlab_connection_manager">telekom bağlantılarını idarə et</string>
     <string name="permlab_control_incall_experience">zəngdə istifadəçi təcrübəsini təmin et</string>
     <string name="permlab_createNetworkSockets">şəbəkəyə tam müraciət var</string>
-    <string name="permlab_deliverCompanionMessages">İsmarışları göndər</string>
+    <string name="permlab_deliverCompanionMessages">Tamamlayıcı mesajları çatdırın</string>
     <string name="permlab_detectScreenCapture">tətbiq pəncərələrinin ekran şəkillərini aşkarla</string>
     <string name="permlab_disableKeyguard">ekran kilidini sıradan çıxart</string>
     <string name="permlab_enableCarMode">avtomobil rejimini fəallaşdır</string>
@@ -1519,7 +1519,7 @@ icazə tələb olundu"</string>
     <string name="permlab_modifyNetworkAccounting">şəbəkə istifadə hesablamasını dəyişdir</string>
     <string name="permlab_nearby_wifi_devices">yaxınlıqdakı Wi‑Fi cihazları ilə qarşılıqlı əlaqə</string>
     <string name="permlab_nfc">Yaxın Sahə Rabitəsinə (NFC) nəzarət et</string>
-    <string name="permlab_observeCompanionDevicePresence">Yoldaş avadanlığının mövcudluğunu müşahidə et</string>
+    <string name="permlab_observeCompanionDevicePresence">Tamamlayıcı cihazın mövcudluğunu müşahidə edin</string>
     <string name="permlab_persistentActivity">tətbiqi həmişə işə sal</string>
     <string name="permlab_postNotification">bildirişləri göstər</string>
     <string name="permlab_preferredPaymentInfo">Tərcih edilən NFC Ödəniş Xidməti Məlumatları</string>
