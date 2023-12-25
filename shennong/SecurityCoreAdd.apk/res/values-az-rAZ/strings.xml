@@ -464,7 +464,7 @@ Onları ayrı-ayrı endirə bilərsiniz."</string>
     <string name="laser_guide_page_summary">Səhifələri çevirmək üçün yazı və ekran şəkli düymələrinə basın</string>
     <string name="laser_guide_page_title">Səhifələri çevir</string>
     <string name="laser_guide_remote_summary">Foto çəkmək və ya video yazmaq üçün Kamera tətbiqində olarkən spotlight düyməsinə basın</string>
-    <string name="laser_guide_remote_title">Uzaq şkaf</string>
+    <string name="laser_guide_remote_title">Uzaqdan sürgü</string>
     <string name="launch_accessibility_environmental_speech_recognition">Mühit səsi tanıma</string>
     <string name="launch_accessibility_hear_sound">Mi Ditto</string>
     <string name="launch_accessibility_hear_sound_subtitle">Mi Ditto altyazıları</string>
@@ -880,7 +880,7 @@ Sonuncuları açmaq üçün cüt toxunun."</string>
     <string name="stylus_language_summary">İngiliscə və daha bir seçilmiş dildə rəqəmləri və əllə yazılmış mətni tanıyın</string>
     <string name="stylus_laser_key_name">Spotlight</string>
     <string name="stylus_laser_summary">Fokus sahələrini dairəyə almaq üçün spotlight düyməsini basılı tutun</string>
-    <string name="stylus_laser_title">Işıqlandır</string>
+    <string name="stylus_laser_title">Sahələri vurğula</string>
     <string name="stylus_not_connect_message">"Qələmlə bağlantı qurulmadı"</string>
     <string name="stylus_not_connect_message_new">Cütləşdirmək üçün qələminizi taxın</string>
     <string name="stylus_ota_check_failed_battery">"Yoxlanıla bilmədi. Qələminizin batareyası tükənir."</string>
@@ -988,7 +988,7 @@ Sonuncuları açmaq üçün cüt toxunun."</string>
     <string name="tof_learn_wave_right">\"Sağa yellə\" jestini öyrən</string>
     <string name="tof_learn_wave_right_tip">Mahnıları dəyişdirmək üçün əlinizi sağa yelləyin</string>
     <string name="tof_learn_wave_up">\"Yuxarı yellə\" jestini öyrən</string>
-    <string name="tof_learn_wave_up_tip">Növbəti səhifəyə getmək üçün əlinizi yuxarı yelləyin</string>
+    <string name="tof_learn_wave_up_tip">Növbəti səhifəyə keçmək üçün əlinizi yuxarı yelləyin</string>
     <string name="tomorrow">Sabah</string>
     <string name="touchpad_back">Geri qayıt</string>
     <string name="touchpad_back_summary">İki barmağınızla trekpadın sol və ya sağ kənarından içəri sürüşdürün</string>
@@ -1005,9 +1005,9 @@ Sonuncuları açmaq üçün cüt toxunun."</string>
     <string name="touchpad_screen_shot_summary">Üç barmaqla aşağı sürüşdür</string>
     <string name="touchpad_switch_recent_task">Sonuncuları aç</string>
     <string name="touchpad_switch_recent_task_summary">Üç barmaqla yuxarı sürüşdür və fasilə ver</string>
-    <string name="touchpad_title">Track pad</string>
-    <string name="touchpad_touch_click_title">Basmaq üçün touch track pad</string>
-    <string name="trackball_wake_title">Trackball oyanışı</string>
+    <string name="touchpad_title">Trekpad</string>
+    <string name="touchpad_touch_click_title">Klikləmək üçün trekpada toxunun</string>
+    <string name="trackball_wake_title">Trackball oyandırma</string>
     <string name="transferApp">İkinci sahədə quraşdırılmış tətbiqlər Birinci sahəyə daşınacaq. Lakin, bütün tətbiq datası itəcək.</string>
     <string name="transferContact">Kontaktlar İkinci sahədən Birinci sahəyə daşınacaq</string>
     <string name="transferDataConfirm">Qalan elementlər silinəcək</string>
@@ -1021,9 +1021,9 @@ Sonuncuları açmaq üçün cüt toxunun."</string>
     <string name="tuesday_short">Ç.a.</string>
     <string name="tuesday_shortest">Ç.a.</string>
     <string name="turn_on_torch">Fənəri yandır</string>
-    <string name="tutorial_music_singer">Sara Proctor</string>
-    <string name="tutorial_music_song_title_next">The Breaks(Joey Pecoraro Remix)</string>
-    <string name="tutorial_music_song_title_pre">Röyanı təcrid etmək</string>
+    <string name="tutorial_music_singer">Sarah Proctor</string>
+    <string name="tutorial_music_song_title_next">The Breaks (Joey Pecoraro Remix)</string>
+    <string name="tutorial_music_song_title_pre">Isolating Dream</string>
     <string name="under_keyguard">Ekran sönülü</string>
     <string name="undo_activated_dialog_message">"Səlahiyyətin ləğv edilməsi, Müəssisə rejimini deaktiv edəcək və cihazınızda fabrik datasına sıfırlanma icra ediləcək. Bütün əlaqəli özəlliklər artıq əlçatmaz olacaq. Bundan əlavə, Xiaomi, Müəssisə rejimi üçün tələb olunan məlumatların (IMEI, Cihaz kimliyi, sistem versiyası, bölgə və s.) yığılmasını dayandıracaq. Xatırlatmaq istərdik ki, Xiaomi, Müəssisə rejimi üçün yığılmış dataları idarə etmir. Bütün əlaqəli tərəfləri xəbərdar etmək üçün əlimizdən gələni edəcəyik, ancaq bu ləğvin təsdiqlənməsi üçün şirkətinizdəki idarəçilərlə əlaqə saxlamağınızı tövsiyə edirik. Səlahiyyət ləğv edilib fabrik datasına sıfırlama icra edilsin?"</string>
     <string name="undo_activated_dialog_ok">Ləğv et</string>
