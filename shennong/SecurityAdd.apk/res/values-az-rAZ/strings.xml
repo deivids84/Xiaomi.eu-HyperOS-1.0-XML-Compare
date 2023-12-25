@@ -194,7 +194,7 @@ proqramımıza qoşulun"</string>
     <string name="gb_gputuner_lod_deviation">Mipmap LOD bias</string>
     <string name="gb_gputuner_multi_render">Multithreaded renderləmə</string>
     <string name="gb_not_support_on_device">"Bu tətbiq xarici ekranda istifadə edilə bilməz"</string>
-    <string name="gb_pannel_control_frame_rate_dialog_message">Bu funksiyadan istifadə etmək üçün Parametrlərdə ekran ayırdetmə qabiliyyətini WQHD+ olaraq dəyişin.</string>
+    <string name="gb_pannel_control_frame_rate_dialog_message">Bu özəlliyi istifadə edə bilmək üçün Ayarlarda ekran dəqiqliyini WQHD+ olaraq dəyişdirin.</string>
     <string name="gb_pannel_control_frame_rate_dialog_positive">Ayarlar</string>
     <string name="gb_pannel_control_frame_rate_dialog_title">Ekran dəqiqliyini dəyişdir</string>
     <string name="gb_pannel_control_mode_balance">Tarazlı</string>
