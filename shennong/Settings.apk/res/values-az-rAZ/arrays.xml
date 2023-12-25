@@ -769,7 +769,7 @@ Qeyd: Yalnız Ubuntu 8.04 üçün!"</item>
         <item>Daşınır…</item>
     </string-array>
     <string-array name="nfc_notification_mode_summaries">
-        <item>Ödəniş, giriş və smart ev kartları</item>
+        <item>Ödəniş, müraciət və ağıllı ev kartları</item>
         <item>Bluetooth cütləşməsi, naqilsiz bağlantı və ağıllı ev kartları</item>
     </string-array>
     <string-array name="nfc_notification_mode_titles">
