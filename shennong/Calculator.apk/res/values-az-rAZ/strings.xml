@@ -41,7 +41,7 @@
     <string name="bmi_input_error">"Daxil etdiyiniz məlumatlar doğru deyil"</string>
     <string name="bmi_label">BKİ haqqında</string>
     <string name="bmi_result_label">Bədən kütlə indeksi</string>
-    <string name="bmi_tips">"Bədən kütləsi indeksi (BMI) — insanın metrlərlə hündürlüyün kvadratına bölünən kiloqramda çəkisi. BMI çəki kateqoriyası üçün asan müayinə metodudur."</string>
+    <string name="bmi_tips">"Bədən kütlə indeksi (BKİ) insanın kkiloqramla olan çəkisinin metrlə olan boy kvadratına bölünməsidir. BKİ, çəki kateqoriyası üçün ən asan ölçmə üsuludur."</string>
     <string name="cal_convert_to_word_figure">Maliyyə simvollarına çevir</string>
     <string name="cal_copy">Kopyala</string>
     <string name="cal_paste">Yapışdır</string>
