@@ -77,11 +77,11 @@ Cihazı zəng edirmiş kimi tutun, arxa mikrofona danışın, qəbuledicidən s�
 
 Cihazı zəng edirmiş kimi tutun, üst mikrofona danışın, qəbuledicidən səs eşitməlisiniz"</string>
     <string name="cit_audio_lb_topmic_to_earpiece_title">Üst mikrofon dinamik əks-əlaqə testi</string>
-    <string name="cit_btn_security_test_summary">"1.Lütfən düyməni basın və bir müddət gözləyin. Şəbəkə vəziyyətini yoxlamaq üçün diqqət edin
-2.Update Success-in pop-up-u varsa, bu o deməkdir ki, genişzolaqlı sertifikat uğurla yenilənmişdir.
-3.Əgər Certificate Update Failed pops up, bu o deməkdir ki, genişzolaqlı sertifikatın yenilənməsi Uğursuz oldu.
-4.Bu alətdən müntəzəm test kimi istifadə olunmur.
-5.Bu alət hal-hazırda yalnız XiaoMi Pad 6 ilə işləyir"</string>
+    <string name="cit_btn_security_test_summary">"1. Lütfən düyməyə basın və bir az gözləyin, şəbəkə statusunu yoxlayın.
+2. \"Güncəlləmə uğurludur\" pəncərəsi açılsa, bu, widevine sertifikatının uğurla güncəlləndiyini bildirir.
+3. \"Güncəlləmə uğursuz oldu\" pəncərəsi açılsa, bu, widevine sertifikatının güncəllənməsinin uğursuz olduğunu bildirir.
+4. Bu alət, normal test üçün istifadə edilmir.
+5. Bu alət hazırda yalnız XiaoMi Pad 6 ilə işləyir."</string>
     <string name="cit_btn_security_test_text">Uğurla güncəlləndi</string>
     <string name="cit_btn_security_text">Widevine Sertifikat Güncəlləməsi</string>
     <string name="cit_btn_security_text_title">Güvənlik Sertifikatları Güncəlləməsi</string>
@@ -107,7 +107,7 @@ Cihazı zəng edirmiş kimi tutun, üst mikrofona danışın, qəbuledicidən s�
     <string name="cit_front_sub_camera_check_title_fold">Alt ekran ön kamerası</string>
     <string name="cit_horn_motor_test">Siqnal mühərrik testi</string>
     <string name="cit_lcdlight_title">Arxa işıq testi</string>
-    <string name="cit_led_change">Cərgəni seçin</string>
+    <string name="cit_led_change">LED sayrışan rejimini seçin</string>
     <string name="cit_led_interval">gözəl</string>
     <string name="cit_led_negative">mənfi</string>
     <string name="cit_modem_hardware_title">Modem Avandanlıq Testi</string>
