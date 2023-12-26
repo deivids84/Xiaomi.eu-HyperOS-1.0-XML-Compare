@@ -110,7 +110,7 @@
     <string name="record_stack_samples_summary">Zəng yığınının nümunələnməsi, \"cpu\" kateqoriyası yoxlanaraq izlərdə fəallaşdırıla bilər</string>
     <string name="record_system_activity">Performansı yaxşılaşdırmaq üçün sistem fəaliyyətinizi qeyd edin və daha sonra təhlil edin</string>
     <string name="record_trace">İzi qeyd edin</string>
-    <string name="record_trace_summary">\"İz qurğuları\"ndakı konfiqurasiyadan istifadə edərək sistem izini çəkir</string>
+    <string name="record_trace_summary">\"İz ayarları\"nda ayarlanan konfiqurasiyanı istifadə edərək bir sistem izi yaxalayır</string>
     <string name="restore_default_categories">İlkin kateqoriyaları bərpa et</string>
     <string name="saving_stack_samples">Yığın nümunələrinin saxlanılması</string>
     <string name="saving_trace">İzlər saxlanılır</string>
