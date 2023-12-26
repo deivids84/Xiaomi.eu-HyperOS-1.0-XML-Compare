@@ -109,8 +109,8 @@
         <item quantity="one">"%1$d tətbiq tərəfindən həyata keçirilən həssas əməliyyatlar haqqında bildiriş alacaqsınız"</item>
     </plurals>
     <plurals name="app_behavior_record_close_content_text">
-        <item quantity="other">"Tətbiq davranış qeydləri bu cihazda %d gün saxlanılacaq. Bu funksiyanın söndürülməsi bütün tətbiq davranış qeydlərini siləcək və tövsiyə edilmir."</item>
-        <item quantity="one">"Tətbiq davranış qeydləri bu cihazda %d gün saxlanılacaq. Bu funksiyanın söndürülməsi bütün tətbiq davranış qeydlərini siləcək və tövsiyə edilmir."</item>
+        <item quantity="other">"Tətbiq davranış qeydləri %d gün ərzində bu cihazda saxlanılacaq. Bu özəlliyin söndürülməsi, bütün tətbiq davranış qeydlərini silir və tövsiyə edilmir."</item>
+        <item quantity="one">"Tətbiq davranış qeydləri %d gün ərzində bu cihazda saxlanılacaq. Bu özəlliyin söndürülməsi, bütün tətbiq davranış qeydlərini silir və tövsiyə edilmir."</item>
     </plurals>
     <plurals name="app_behavior_wakepath_multiple">
         <item quantity="other">%1$1s, %2$d tətbiqi başlatdı</item>
