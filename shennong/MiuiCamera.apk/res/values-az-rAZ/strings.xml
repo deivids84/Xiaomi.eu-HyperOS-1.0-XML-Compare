@@ -1739,18 +1739,18 @@ göstərmək üçün Makro rejimi istifadə edin"</string>
     <string name="parameter_log_format_title">LOG formatı</string>
     <string name="parameter_log_lut_format_description">Video önizləmələri üçün özəlləşdirilmiş LUT-ları daxilə köçürmək məqsədilə LOG-u işə salın. Videolar LOG fayllarında yazılacaq.</string>
     <string name="parameter_manual_picturestyle_description">Doydurma, rənglərin dərinliyini və intensivliyini idarə etməyinizə imkan verir, kontrastın ayarlanması açıq və qaranlıq arasındakı fərqi ortaya çıxarır və ya minimuma endirir, kəskinlik isə detalları konturlar boyunca emal edir.</string>
-    <string name="parameter_manual_picturestyle_description_new">Kontrastı artırmaq və ya aşağı salmaq və şəkli daha da qatlamaq üçün tonal düzəlişlərdən istifadə edin. Fotolarınıza daha isti və ya sərin görünüş vermək üçün müxtəlif hueslərlə eksperiment edin. Daha həssas hiss üçün xırda detalları, yoxsa itiliyi aşağı salmaq istədiyinizə qərar verin.</string>
+    <string name="parameter_manual_picturestyle_description_new">Kontrastı artırmaq və ya azaltmaq və təsviri daha laylı etmək üçün tonal ayarları istifadə edin. Fotolarınıza daha isti və ya daha soyuq görünüş vermək üçün müxtəlif çalarlarla sınaqlar keçirin. Daha zərif hisslər üçün daha dəqiq detallar, yoxsa daha azaldılmış kəskinlik istədiyinizə qərar verin.</string>
     <string name="parameter_metering_description">Ortalama ölçmə, təsvirinizin bütün sahələrini nəzərə alır, bərabər işıqlandırılmış səhnələr üçün ən yaxşı nəticəni verir. Mərkəz ağırlıqlı ölçmə, əsasən kadrın mərkəzi sahəsinə fokuslanır və ətraf ərazinin parlaqlığına lazımi diqqət yetirir, bu da obyektləri kadrın mərkəzində çəkmək üçün uyğundur. Nöqtə ölçmə, yalnız bir nöqtədəki ərazini əhatə edərək sizə ekspozisiya üzərində dəqiq nəzarət imkan verir.</string>
     <string name="parameter_metering_title">Ölçmə rejimləri</string>
     <string name="parameter_peak_focus_description">"Əllə fokuslandığınız zaman, fokuslanan sahəyə qırmızı bir vurğu yerləşdirmək üçün fokus zirvəsini istifadə edin."</string>
-    <string name="parameter_peak_focus_description_v2">Fokusun zirvəsini əllə fokusladıqda diqqət mərkəzində olan sahəyə yaşıl diqqətəlayiq məqamları yerləşdirmək üçün istifadə edin.</string>
+    <string name="parameter_peak_focus_description_v2">Əllə fokuslama edərkən fokuslanan sahəyə yaşıl vurğular yerləşdirmək üçün fokus zirvəsini istifadə edin.</string>
     <string name="parameter_peak_focus_title">Fokus zirvəsi</string>
     <string name="parameter_peak_raw_description">Bu təsvir formatı, foto çəkdikdə sensor tərəfindən yazılan bütün təsvir datasını yaxalayır. Sıxılmamış data, emal sonrasında sizə daha çox seçim verir.</string>
-    <string name="parameter_peak_raw_description_mm">RAW faylları sıkıştırılmamış məlumatları tutur və daha çox şəkil redaktəsi seçimləri təklif edir.</string>
+    <string name="parameter_peak_raw_description_mm">RAW faylları sıxışdırılmamış datanı yaxalayır və daha çox təsvir redaktə seçimi təklif edir.</string>
     <string name="parameter_peak_raw_title">RAW formatı</string>
     <string name="parameter_peak_raw_title_mm">Təsvir formatı</string>
-    <string name="parameter_peak_ultra_raw_description_mm">"RAW faylları sıkıştırılmamış məlumatları tutur və daha çox şəkil redaktəsi seçimləri təklif edir.
-Ultra RAW şəkillərinə qənaət edin %d bir az daha ətraflı məlumat saxlayın."</string>
+    <string name="parameter_peak_ultra_raw_description_mm">"RAW faylları sıxışdırılmamış datanı yaxalayır və daha çox təsvir redaktə seçimi təklif edir.
+Ultra RAW təsvirlər, daha çox detalı qoruyaraq %d bit dataya qənaət edir."</string>
     <string name="parameter_videos_title">Film effektləri</string>
     <string name="parameter_waveform_title">Dalğa</string>
     <string name="parameter_wb_description">Ağ balansının ön ayarlarından (közərmə, gündüz işığı, flüoresan, buludlu) başqa, həmçinin ağ balansını %1$d-%2$d Kelvin aralığında özəl bir dəyərə ayarlaya bilərsiniz.</string>
