@@ -284,8 +284,8 @@ basılı tutun, sonra sürükləyin"</string>
     <string name="operation_guide_title">Təlimlər</string>
     <string name="other_advanced_settings">Əlavə ayarlar</string>
     <string name="other_operations_title">Digər təlimlər</string>
-    <string name="pin_toast">Bu proqramı səpəd edin və basın</string>
-    <string name="pin_toast_nav">Bas &amp; bu proqram unpin etmək üçün geri və preview düymələri saxlamaq</string>
+    <string name="pin_toast">Bu tətbiqin sancağını götürmək üçün yuxarı sürüşdürüb basın</string>
+    <string name="pin_toast_nav">Bu tətbiqin sancağını götürmək üçün geri və önizləmə düymələrini basılı tutun</string>
     <string name="preference_copied">\"%1$s\" lövhəyə kopyalandı.</string>
     <string name="saturday">Şənbə</string>
     <string name="saturday_short">Şәn</string>
