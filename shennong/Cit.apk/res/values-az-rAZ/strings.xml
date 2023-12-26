@@ -131,7 +131,7 @@ Cihazı zəng edirmiş kimi tutun, üst mikrofona danışın, qəbuledicidən s�
     <string name="enrollment_error_tip">Barmaq izi giriş kartı kontrol strategiyası tətikləndi, lütfən barmaq izlərinin aydın və təmiz olduğuna əmin olun və ya hazırkı test elementindən çıxıb testi yenidən başladın.</string>
     <string name="headset_plug_check_tip">İndi lenti oxudun, qulaqlığı dinləyin, lütfən testi bağlayarkən qulaqlığı çıxarın</string>
     <string name="main_mic_check_record_tip">Yazılır, lütfən cihazın altındakı mikrofona nəsə deyin</string>
-    <string name="mic_reopen_tip">Zəhmət olmasa, sınaq üçün bu test əşyasını yenidən daxil edin</string>
+    <string name="mic_reopen_tip">Lütfən test üçün bu test elementini yenidən daxil edin</string>
     <string name="miui_sar_nv_ota">Sar NV OTA</string>
     <string name="mtb_tool_modem_cdma_manager">CDMA Cap Meneceri</string>
     <string name="password_enroll_error">Telefonunuzda parol var, barmaq izi məlumatları yazıla bilmir</string>
