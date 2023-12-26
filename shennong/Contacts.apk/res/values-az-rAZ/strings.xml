@@ -123,7 +123,7 @@
     <string name="bh_express_number">Paket nömrəsi</string>
     <string name="bh_fetch_balance">Balansı yoxla</string>
     <string name="bh_flow_exceed">Limit aşıldı</string>
-    <string name="bh_funtion_desc">Mi Carrier Xidmətlərinə xoş gəlmisiniz! Siz telefon balansınızı yoxlamaq, zəng dəqiqələri və mobil data almaq və s. üçün bu proqramdan istifadə edə bilərsiniz.</string>
+    <string name="bh_funtion_desc">Mi Carrier Xidmətlərinə xoş gəlmisiniz! Telefon balansınızı yoxlamaq, zəng dəqiqələri və mobil internet almaq və daha çoxu üçün bu tətbiqi istifadə edə bilərsiniz.</string>
     <string name="bh_get_balance_success">Uğurla yoxlanıldı. Burada məlumatlar gecikmə ilə güncəllənə bilər.</string>
     <string name="bh_get_charge_phone_number">Kontaktlardan seçin</string>
     <string name="bh_goto_granted">İcazə vermə</string>
