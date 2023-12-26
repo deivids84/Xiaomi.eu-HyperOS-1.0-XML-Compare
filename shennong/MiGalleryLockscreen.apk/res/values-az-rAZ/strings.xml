@@ -785,7 +785,7 @@ mm"</string>
     <string name="setting_about_item_title">Divar kağızı Karuseli haqqında</string>
     <string name="setting_des">Slayd şou xidmətləri, Divar kağızı Karuseli tərəfindən təqdim edilir. Bütün mövcud seçimlərə baxmaq üçün Ayarlarda \"Divar kağızı Karuseli\"ni axtarın.</string>
     <string name="setting_des_custom_only">Slayd şou özəlliyimiz artıq tamamilə özəlləşdirilə bilər. Divar kağızlarınızın hansı tezlikdə dəyişəcəyini Ayarlar &gt; Kilid ekranı &gt; Divar kağızı Karuseli ayarlarında ayarlaya bilərsiniz.</string>
-    <string name="setting_des_recommend_selected">"Slayd şousu xüsusiyyətimiz indi tamamilə fərdiləşdirilə bilər. Bəyəndiyiniz şəkillərə dair tövsiyələr alın və öz şəkillərinizi əlavə edin. Siz Parametrlər &gt; Kilid ekranı &gt; Divar kağızı Karusel parametrlərində divar kağızınızın nə qədər tez-tez dəyişdiyini tənzimləyə bilərsiniz."</string>
+    <string name="setting_des_recommend_selected">"Slayd şou özəlliyimiz artıq tamamilə özəlləşdirilə bilər. Bəyəndiyiniz şəkillərə dair tövsiyələr alın və öz şəkillərini əlavə edin. Divar kağızlarınızın hansı tezlikdə dəyişəcəyini Ayarlar &gt; Kilid ekranı &gt; Divar kağızı Karuseli ayarlarında ayarlaya bilərsiniz."</string>
     <string name="setting_head">Ayarlar</string>
     <string name="setting_ok">Ayarlar</string>
     <string name="setting_tip">"Təkrar göstərmə"</string>
@@ -989,7 +989,7 @@ mm"</string>
     <string name="tuesday_short">Ç.a.</string>
     <string name="tuesday_shortest">Ç.a.</string>
     <string name="understand_band_story">Daha ətraflı</string>
-    <string name="uninstall_introducation_text_desc">Wallpaper Carousel yeni, yüksək keyfiyyətli şəkilləri birbaşa Kilid ekranınıza çatdırır. Proqramı silməzdən əvvəl onun xüsusiyyətləri olmadan edə bildiyinizə əmin olun.</string>
+    <string name="uninstall_introducation_text_desc">Divar kağızı Karuseli, yüksək keyfiyyətli şəkilləri birbaşa Kilid ekranınıza göndərir. Tətbiqi silməzdən əvvəl bu özəlliklər olmadan edə biləcəyinizə əmin olun.</string>
     <string name="uninstall_introduction_text_title">Divar kağızı Karuseli haqqında</string>
     <string name="uninstall_warning_text_desc">"\"Divar kağızı Karuseli\" olmadan, müntəzəm olaraq yeni Kilid ekranı divar kağızları ala bilməyəcəksiniz. Ancaq, tətbiqi yenidən endirib quraşdıra biləcəksiniz. \"Divar kağızı Karuseli\" silinsin?"</string>
     <string name="uninstall_warning_text_title">Divar kağızı Karuseli silinir</string>
