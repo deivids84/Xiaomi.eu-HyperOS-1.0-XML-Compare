@@ -732,7 +732,7 @@ Onlar silindikdən sonra, telefonunuzun kilidini açmaq və siz olduğunuzu doğ
     <string name="gxzw_quick_open_xiaoai_title2">İstifadə etmək istədiyiniz özəlliyin adını deyin</string>
     <string name="gxzw_quick_tip_press">Basmağa davam et…</string>
     <string name="gxzw_quick_tip_slide">"Barmağınızı qaldırmayın. Seçmək üçün sürüşdürün."</string>
-    <string name="handle_text">Əllə</string>
+    <string name="handle_text">İdarə et</string>
     <string name="hdmi_cec_set_menu_language_accept">Dili dəyişdir</string>
     <string name="hdmi_cec_set_menu_language_decline">Hazırkı dili saxla</string>
     <string name="hdmi_cec_set_menu_language_description">Sistem dilinin dəyişdirilməsi başqa cihaz tərəfindən tələb olunur</string>
@@ -779,7 +779,7 @@ Daha çox məlumat üçün toxunun"</string>
     <string name="input_password_after_boot_msg">Cihaz yenidən başladıldıqda parolu daxil etməyiniz tələb olunur</string>
     <string name="input_password_after_boot_msg_can_not_switch_when_calling">"Zəng əsnasında sahələr dəyişdirilə bilmir"</string>
     <string name="input_password_after_boot_msg_can_not_switch_when_desktop_mode_active">"İş stansiyası rejimində olarkən sahələr arasında keçid edilə bilmir"</string>
-    <string name="input_password_after_boot_msg_can_not_switch_when_extrememode_active">"Hibernation modunda ikinci boşluqdan istifadə edilə bilmir"</string>
+    <string name="input_password_after_boot_msg_can_not_switch_when_extrememode_active">"İkinci sahə, Yuxu rejimində istifadə edilə bilmir"</string>
     <string name="input_password_after_boot_msg_can_not_switch_when_extrememode_endurance_battery_zero_active">"Zəif batareyaya görə İkinci sahə istifadə edilə bilmir"</string>
     <string name="input_password_after_boot_msg_can_not_switch_when_greenkid_active">"Valideyn nəzarəti açıqkən, sahələr arasında dəyişiklik edilə bilmir"</string>
     <string name="input_password_after_boot_msg_can_not_switch_when_superpower_active">"Ultra batareya qənaəti açıq olduqda sahələr dəyişdirilə bilmir"</string>
@@ -910,9 +910,9 @@ Daha çox məlumat üçün toxunun"</string>
     <string name="kg_password_default_puk_message">{count, plural, one {}=1 {SIM artıq sıradan çıxarılıb. Davam etmək üçün PUK kodu daxil edin. SIM həmişəlik yararsız olana qədər # cəhdiniz qaldı. Detallar üçün operatorunuzla əlaqə saxlayın.} other {SIM artıq sıradan çıxarılıb. Davam etmək üçün PUK kodu daxil edin. SIM həmişəlik yararsız olana qədər # cəhdiniz qaldı. Detallar üçün operatorunuzla əlaqə saxlayın.} }</string>
     <string name="kg_password_pin_failed">SIM PIN əməliyyatı alınmadı!</string>
     <string name="kg_password_puk_failed">SIM PUK əməliyyatı alınmadı!</string>
-    <string name="kg_password_wrong_pin_code">{count, plural, =1 {Səhv SIM PIN kodu, cihazınızın kilidini açmaq üçün daşıyıcınızla əlaqə saxlamadan əvvəl # qalan cəhdiniz var.} other {Səhv SIM PIN kodu, siz # qalan cəhd var. } }</string>
+    <string name="kg_password_wrong_pin_code">{count, plural, one {}=1 {Yanlış SIM PIN kodu, cihazınızın kilidini açmaq üçün operatorunuzla əlaqə saxlamazdan əvvəl # cəhdiniz qalıb.} other {Yanlış SIM PIN kodu, # cəhdiniz qalıb. } }</string>
     <string name="kg_password_wrong_pin_code_pukked">Yanlış SIM PIN kodu. Cihazın kilidinin açılması üçün artıq operatorunuzla əlaqə saxlamalısınız.</string>
-    <string name="kg_password_wrong_puk_code">{count, plural, =1 {Səhv SIM PUK kodu, siz # qalan cəhd var ki, SIM daimi istifadə edilə bilər.} other {Səhv SIM PUK kodu, Siz # qalan cəhd var ki, SIM daimi istifadə edilə bilər.} }</string>
+    <string name="kg_password_wrong_puk_code">{count, plural, one {}=1 {Yanlış SIM PUK kodu, SIM həmişəlik yararsız olana qədər # cəhdiniz qaldı.} other {Yanlış SIM PUK kodu, SIM həmişəlik yararsız olana qədər # cəhdiniz qaldı.} }</string>
     <string name="kg_password_wrong_puk_code_dead">SIM istifadə edilə bilmir. Operatorunuzla əlaqə saxlayın.</string>
     <string name="kg_prompt_after_update_password">Cihaz güncəlləndi. Davam etmək üçün parolu daxil edin.</string>
     <string name="kg_prompt_after_update_pin">Cihaz güncəlləndi. Davam etmək üçün PIN-i daxil edin.</string>
