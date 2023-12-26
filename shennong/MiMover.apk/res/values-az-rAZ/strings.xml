@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="PRD_summary_1">Əgər bu proqramlardan məlumatları köhnə cihazdan yenisinə köçürsəniz, yeni cihazdakı məlumatların (söhbət tarixçəsi də daxil olmaqla) üzərindən yazılacaq.</string>
-    <string name="PRD_summary_4">Transfer prosesi zamanı Wi-Fi və ya Wi-Fi şəbəkələrinin söndürülməsi transfer prosesinin iflasa uğramalarına səbəb ola bilər.</string>
-    <string name="PRD_summary_4_china">Transfer prosesi zamanı Wi-Fi və ya Wi-Fi şəbəkələrinin söndürülməsi transfer prosesinin iflasa uğramalarına səbəb ola bilər.</string>
-    <string name="PRD_summary_5">Yüksək sürət transferi cihazınızın normaldan daha isti olmasına səbəb ola bilər. Əmin olun ki, transfer bitdikdə cihazınız soyuyacaq.</string>
-    <string name="PRD_title_1">1. Yeni cihazınız haqqında artıq aşağıdakı proqramlarda məlumat var:</string>
+    <string name="PRD_summary_1">Bu tətbiqlərdəki datanı köhnə cihazınızdan yenisinə köçürsəniz, yeni cihazdakı dataların (söhbət tarixçəsi daxil olmaqla) üzərinə yazılacaq.</string>
+    <string name="PRD_summary_4">Köçürmə prosesi zamanı Wi-Fi-ı söndürmək və ya Wi-Fi şəbəkələrini dəyişmək köçürmə prosesinin uğusuz olmasına səbəb ola bilər.</string>
+    <string name="PRD_summary_4_china">Köçürmə prosesi zamanı Wi-Fi-ı söndürmək və ya Wi-Fi şəbəkələrini dəyişmək köçürmə prosesinin uğusuz olmasına səbəb ola bilər.</string>
+    <string name="PRD_summary_5">Yüksək sürətli köçürmələr, cihazınızın normaldan daha çox isinməsinə səbəb ola bilər. Köçürmə bitdikdə cihazınızın soyuyacağına əmin olun.</string>
+    <string name="PRD_title_1">1. Yeni cihazınızda aşağıdakı tətbiqlərin datası mövcuddur:</string>
     <string name="PRD_title_2">WeChat</string>
     <string name="PRD_title_3">QQ</string>
-    <string name="PRD_title_4">2. Köçürmə prosesi zamanı qayğı ilə fəaliyyət göstərmək</string>
-    <string name="PRD_title_5">3. Transfer prosesi zamanı cihazınız isti ola bilər</string>
+    <string name="PRD_title_4">2. Köçürmə prosesi zamanı diqqətli olun</string>
+    <string name="PRD_title_5">3. Köçürmə prosesi zamanı cihazınız isinə bilər</string>
     <string name="abc_action_bar_home_description">Əsas ekrana keç</string>
     <string name="abc_action_bar_up_description">Yuxarı keç</string>
     <string name="abc_action_menu_overflow_description">Daha çox seçim</string>
