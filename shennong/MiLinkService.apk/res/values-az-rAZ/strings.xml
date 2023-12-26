@@ -123,7 +123,7 @@
     <string name="circulate_back_button_content_description">Geri</string>
     <string name="circulate_card_disconnect">Bağlantını kəs</string>
     <string name="circulate_card_loading_title_audio_stereo">Stereo sistem</string>
-    <string name="circulate_card_loading_title_band">Dəstə</string>
+    <string name="circulate_card_loading_title_band">Bant</string>
     <string name="circulate_card_loading_title_bluetooth">Bluetooth cihazı</string>
     <string name="circulate_card_loading_title_headset">Qulaqlıqlar</string>
     <string name="circulate_card_loading_title_screen_sound">Xiaomi Ağıllı Dinamik</string>
@@ -303,7 +303,7 @@ və Xiaomi Hesabınıza daxil olun"</string>
     <string name="circulate_ringfind_error_hint_stop">"Səs oxudulması dayandırıla bilmədi. Yenidən sınayın."</string>
     <string name="circulate_ringfind_title">Səs oxut</string>
     <string name="circulate_ringfind_title_stop">Səs oxutmanı dayandır</string>
-    <string name="circulate_sport_device_find_band">Bu dəstəni tap</string>
+    <string name="circulate_sport_device_find_band">Bu bantı tap</string>
     <string name="circulate_sport_device_find_start">Bu cihaz axtarılır…</string>
     <string name="circulate_sport_device_find_start_failed">"Bu cihaz tapıla bilmədi. Yenidən sınayın."</string>
     <string name="circulate_sport_device_find_stop">Dayandır</string>
@@ -326,8 +326,8 @@ və Xiaomi Hesabınıza daxil olun"</string>
     <string name="clipboard_cancel_sync">İmtina</string>
     <string name="clipboard_loading">%1$s dan yapışdırılır</string>
     <string name="close">Bağla</string>
-    <string name="close_auxiliary_wifi_hint">Yayım edə bilmək üçün \"İki zolaqlı Wi-Fi sürətinin artırılması\"nı söndürün</string>
-    <string name="close_auxiliary_wifi_hint_china">Yayım edə bilmək üçün \"İki zolaqlı Wi-Fi sürətinin artırılması\"nı söndürün</string>
+    <string name="close_auxiliary_wifi_hint">Yayımlaya bilmək üçün \"Cüt bantlı Wi-Fi sürətini artırma\"nı söndür</string>
+    <string name="close_auxiliary_wifi_hint_china">Yayımlaya bilmək üçün \"Cüt bantlı Wi-Fi sürətini artırma\"nı söndür</string>
     <string name="close_dp_casting_hint">Kabeli ayırıb yenidən sınayın</string>
     <string name="close_hotspot_hint">Yayımdan əvvəl portativ hotspot-u söndürün</string>
     <string name="close_hotspot_hint_DFS">Elementləri televizora köçürmək üçün əvvəlcə hotspot-u söndürün.</string>
@@ -422,8 +422,8 @@ Bağlantı qurma probleminiz varsa, kömək üçün baxın."</string>
     <string name="dialog_scan_message_china">"%1$d. Həm mobil cihazınızı, həm də TV-ni eyni Wi-Fi şəbəkəsinə bağlayın.
 
 %2$d. Daha ətraflı \"Kömək\" bölməsində."</string>
-    <string name="dialog_scanning_close_dual_wifi_china">Yayım edə bilmək üçün \"İki zolaqlı Wi-Fi sürətinin artırılması\"nı söndürün. Bu funksiya indi deaktiv edilsin?</string>
-    <string name="dialog_scanning_close_dual_wifi_global">Yayım edə bilmək üçün \"İki zolaqlı Wi-Fi sürətinin artırılması\"nı söndürün. Bu funksiya indi deaktiv edilsin?</string>
+    <string name="dialog_scanning_close_dual_wifi_china">Yayımlaya bilmək üçün \"Cüt bantlı Wi-Fi sürətini artırma\"nı söndür. Bu özəllik indi söndürülsün?</string>
+    <string name="dialog_scanning_close_dual_wifi_global">Yayımlaya bilmək üçün \"Cüt bantlı Wi-Fi sürətini artırma\"nı söndür. Bu özəllik indi söndürülsün?</string>
     <string name="dialog_scanning_close_tethering">Yayım edə bilmək üçün hotspotu söndürün. Hotspot indi deaktiv edilsin?</string>
     <string name="dialog_scanning_device">Yaxınlıqdakı cihazlar axtarılır…</string>
     <string name="dialog_scanning_precondition">Naqilsiz Ekranı istifadə etmək üçün telefonunuzdakı Wi-Fi və Bluetooth-u açın.</string>
