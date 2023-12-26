@@ -340,7 +340,7 @@ proqramımıza qoşulun"</string>
     <string name="pc_extreme_exit_and_power_off">Çıx</string>
     <string name="pc_extreme_mode_bg_toast">"Yuxu rejimində, tətbiqlər arxaplanda işləyir, ancaq bildirişlər göndərmir"</string>
     <string name="pc_extreme_mode_exit_risk_title">Diqqət</string>
-    <string name="pc_extreme_mode_exit_risk_title_summary">Cihazınızın batareyası tükənib. Yuxu rejimində çıxsanız, cihazınız sönəcək.</string>
+    <string name="pc_extreme_mode_exit_risk_title_summary">Cihazınızın batareyası tükənib. Yuxu rejimindən çıxsanız, cihazınız sönəcək.</string>
     <string name="pc_extreme_mode_find_charger">Cihazınızı mümkün qədər tez doldurun.</string>
     <string name="pc_extreme_mode_runtime">Yuxu rejimi açıqdır: %1$s %2$s.</string>
     <string name="pc_extreme_mode_title">Yuxu rejimi</string>
