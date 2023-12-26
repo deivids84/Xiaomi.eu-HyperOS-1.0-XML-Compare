@@ -168,7 +168,7 @@
     <string name="add_done">Uğurla əlavə edildi</string>
     <string name="add_game">Oyun əlavə et</string>
     <string name="add_game_notification_summary">Başlatmaq və sürəti artırmaq üçün toxunun</string>
-    <string name="add_miservice_dialog_content">%s istisnalara Xiaomi xidmət çərçivəsini əlavə etməyinizi tələb edir. Siz bizim built-in apps və digər üçüncü tərəf apps-dən bildiriş ala bilərsiniz.</string>
+    <string name="add_miservice_dialog_content">%s, istisnalara Xiaomi xidmət çərçivəsini əlavə etməyinizi tələb edir. Daxili tətbiqlərimizdən və digər üçüncü tərəf tətbiqlərdən bildirişlər ala bilərsiniz.</string>
     <string name="add_miservice_dialog_title">Xiaomi xidmət çərçivəsi</string>
     <string name="add_to_whitelist_button">İnternet rouminq istisnaları</string>
     <string name="add_whitelist">İstisnalara əlavə et</string>
@@ -577,7 +577,7 @@ Heç bir tətbiq məlumatını iitirməyəcəksiniz."</string>
     <string name="app_manager_uninstall">Sil</string>
     <string name="app_manager_uninstall_button_text">Sil</string>
     <string name="app_manager_uninstall_notify_title">Nadir hallarda istifadə olunan tətbiqləri sil</string>
-    <string name="app_manager_uninstall_protected_dlg_msg">Uninstalling sistem proqramları bəzi sistem komponentlərinin düzgün işləməsinin qarşısını ala bilər. Hər halda yenidən yükləmək lazımdır?</string>
+    <string name="app_manager_uninstall_protected_dlg_msg">Sistem tətbiqlərini silmək bəzi sistem komponentlərinin düzgün işləməsini önləyə bilər. Yenə də silinsin?</string>
     <string name="app_manager_uninstall_protected_dlg_title">Sistem tətbiqlərini silmə</string>
     <string name="app_manager_uninstall_with_xspace_app_dlg_msg">Müvafiq ikili tətbiqlər, tətbiq dataları ilə birgə silinəcək.</string>
     <string name="app_manager_uninstall_xspace_app_dlg_msg">İkili tətbiqi silsəniz, bütün tətbiq məlumatları silinəcək.</string>
@@ -750,7 +750,7 @@ Heç bir tətbiq məlumatını iitirməyəcəksiniz."</string>
     <string name="apps_item_sms_default_set_success">Uğurla ayarlandı</string>
     <string name="apps_item_sms_reset_button_text">İlkin halına qaytar</string>
     <string name="apps_item_sms_title">İlkin mesajlaşma tətbiqi dəyişdirildi</string>
-    <string name="apps_item_summary_sms">%s sms-lərinizi indi idarə edir. Daha sabit və təhlükəsiz təcrübə üçün onun əvəzinə sistem proqramından istifadə edin.</string>
+    <string name="apps_item_summary_sms">%s, artıq SMS-lərinizi idarə edir. Daha sabit və güvənli təcrübə üçün, bunun əvəzinə sistem tətbiqini istifadə edin.</string>
     <string name="apps_item_summary_system_rooted">Root müraciətinə icazə verildi. Güvənlik risklərindən qaçınmaq üçün ilkin ayarları bərpa edin.</string>
     <string name="apps_item_summary_system_update">Ödənişləri daha güvənli etmək üçün yeni versiyadakı bəzi xətalar düzəltildi.</string>
     <string name="apps_item_title_system">Sistem güncəlləməsi</string>
@@ -777,7 +777,7 @@ Heç bir tətbiq məlumatını iitirməyəcəksiniz."</string>
     <string name="auto_start_cancel">İmtina</string>
     <string name="auto_start_close">Məhdudlaşdır</string>
     <string name="auto_start_hint">Diqqət</string>
-    <string name="auto_start_hint_desc">"%1$s avtostart-nı söndürsəniz, gələn mesajları real vaxt ərzində ala bilməyəcəksiniz. Hər halda söndürün?"</string>
+    <string name="auto_start_hint_desc">"Avto-başlatmanı söndürsəniz, %1$s gələn mesajları real vaxtda ala bilməyəcək. Yenə də söndürülsün?"</string>
     <string name="auto_start_tips">"Bu özəllik, cihazın performansını yaxşılaşdırmaq üçün tez-tez istifadə etmədiyiniz tətbiqlərin avto-başlatma icazələrini optimallaşdırır."</string>
     <string name="auto_task_allow_suggestion">Ağıllı tapşırıq təklifləri</string>
     <string name="auto_task_available_device">Mövcud cihazlar</string>
@@ -1325,7 +1325,7 @@ Yenə də, bəzi əməliyyatlarınız hələ tamamlanmayıb. Razılığı geri g
     <string name="connect_internet_by_mobiledata">Mobil internet bağlantısı</string>
     <string name="connect_internet_by_usbshare">USB üzərindən paylaşılan internet</string>
     <string name="connect_internet_by_wifi">Wi-Fi</string>
-    <string name="connected_device_application_flow_permission">App handoff icazələri</string>
+    <string name="connected_device_application_flow_permission">Tətbiq köçürmə icazələri</string>
     <string name="connected_device_camera_collaboration_permission">Bağlantılı kamera icazələri</string>
     <string name="connected_device_camera_permission">Kamera icazələri</string>
     <string name="connected_device_notification_permission">Bildiriş icazələri</string>
@@ -6225,7 +6225,7 @@ Dəqiqliyi artırmağa çalışın!"</string>
     <string name="wakepath_delete_all_tips">"Davam etsəniz, hər bir tətbiqə digər tətbiqləri açmaq üçün icazə verməli olacaqsınız. Yenə də davam edilsin?"</string>
     <string name="wakepath_delete_app_start_all">"Davam etsəniz, digər tətbiqləri açmaq üçün yenidən %s icazəsini verməli olacaqsınız. Yenə də davam edilsin?"</string>
     <string name="wakepath_delete_app_start_other_app">"Davam etsəniz, %2$s açmaq üçün %1$s icazəsini verməli olacaqsınız. Yenə də davam edilsin?"</string>
-    <string name="wakepath_manager_title">Zəncir başlanğıcını idarə et</string>
+    <string name="wakepath_manager_title">Zəncirvari başlatmanı idarə et</string>
     <string name="warningcenter_action_check">Bax</string>
     <string name="warningcenter_alert_home">Yerləşmə</string>
     <string name="warningcenter_alert_room">Otaq</string>
