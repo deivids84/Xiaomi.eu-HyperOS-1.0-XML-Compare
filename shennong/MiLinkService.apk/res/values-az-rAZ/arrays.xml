@@ -21,9 +21,9 @@
         <item>Ara bağlantı xidmətləri</item>
     </string-array>
     <string-array name="settings_search_relay_app">
-        <item>App handoff</item>
-        <item>İnterconnectivity/App handoff</item>
-        <item>Transfer proqramları, handoff, transfer</item>
+        <item>Tətbiq köçürmə</item>
+        <item>Ara bağlantı/Tətbiq köçürmə</item>
+        <item>Tətbiqləri köçür, ötür, transfer et</item>
     </string-array>
     <string-array name="settings_search_relay_call">
         <item>Zənglər</item>
