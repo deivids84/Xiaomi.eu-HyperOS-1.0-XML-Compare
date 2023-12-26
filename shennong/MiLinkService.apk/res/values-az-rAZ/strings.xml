@@ -209,7 +209,7 @@ başqa cihaza sürüklə"</string>
     <string name="circulate_cta_premission_sound_subtitle">Yayım zamanı və ekranın əks etdirərkən yerli səsin yazılması üçün</string>
     <string name="circulate_cta_premission_sound_title">Səsyazma</string>
     <string name="circulate_cta_premission_storage_pad_title">Elementlərə müraciət etmə və onları anbarda saxlama</string>
-    <string name="circulate_cta_premission_storage_subtitle">Bu cihazdan məzmunu qovmaq və ötürmək üçün</string>
+    <string name="circulate_cta_premission_storage_subtitle">Bu cihazdan məzmun yayımlamaq və ötürmək üçün</string>
     <string name="circulate_cta_premission_storage_title">Elementlərə müraciət etmə və onları anbarda saxlama</string>
     <string name="circulate_cta_premission_transferring_data_subtitle">Bağlantılı cihazlar arasında data köçürmək üçün</string>
     <string name="circulate_cta_premission_wlan_subtitle_china">Wi-Fi ilə elementləri köçürmək və cihazlar arasında bağlantı qurmaq üçün</string>
@@ -424,7 +424,7 @@ Bağlantı qurma probleminiz varsa, kömək üçün baxın."</string>
 %2$d. Daha ətraflı \"Kömək\" bölməsində."</string>
     <string name="dialog_scanning_close_dual_wifi_china">Yayımlaya bilmək üçün \"Cüt bantlı Wi-Fi sürətini artırma\"nı söndür. Bu özəllik indi söndürülsün?</string>
     <string name="dialog_scanning_close_dual_wifi_global">Yayımlaya bilmək üçün \"Cüt bantlı Wi-Fi sürətini artırma\"nı söndür. Bu özəllik indi söndürülsün?</string>
-    <string name="dialog_scanning_close_tethering">Yayım edə bilmək üçün hotspotu söndürün. Hotspot indi deaktiv edilsin?</string>
+    <string name="dialog_scanning_close_tethering">Yayımlaya bilmək üçün hotspot-u söndürün. Hotspot indi söndürülsün?</string>
     <string name="dialog_scanning_device">Yaxınlıqdakı cihazlar axtarılır…</string>
     <string name="dialog_scanning_precondition">Naqilsiz Ekranı istifadə etmək üçün telefonunuzdakı Wi-Fi və Bluetooth-u açın.</string>
     <string name="dialog_scanning_precondition_new_china">Yayımlaya bilmək üçün Wi-Fi, Bluetooth və yerləşmə xidmətlərini açın. İndi açılsın?</string>
@@ -634,7 +634,7 @@ Cihaz nə qədər çox istifadə edilərsə, vərdiş öyrənmə bir o qədər d
     <string name="hyper_mind">HyperMind</string>
     <string name="hyper_mind_close_warning">Diqqət</string>
     <string name="hyper_mind_close_warning_checkbox">"Təkrar göstərmə"</string>
-    <string name="hyper_mind_close_warning_content">Siz onu söndürdükdən sonra HyperMind məlumat toplamağı və istifadə qaydalarınızı öyrənməyi dayandıracaq. Əgər artıq toplanmış məlumatları silmək lazımdırsa, &lt;a href=%1$s&gt;bura toxunun&lt;/a&gt;.</string>
+    <string name="hyper_mind_close_warning_content">HyperMind, söndürüldükdən sonra dataları yığmağı və istifadə vərdişlərinizi öyrənməyi dayandıracaq. Artıq yığılmış datanı silməyiniz lazımdırsa, &lt;a href=%1$s&gt;bura toxunun&lt;/a&gt;.</string>
     <string name="hyper_mind_close_warning_ok">Anladım</string>
     <string name="hyper_mind_xiaomi">Xiaomi</string>
     <string name="icon_content_description">Dialoq nişanı</string>
