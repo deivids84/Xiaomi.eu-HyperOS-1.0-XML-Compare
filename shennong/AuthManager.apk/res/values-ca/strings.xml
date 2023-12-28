@@ -5,7 +5,7 @@
     <string name="HIPS_Action_Accept_This">Permetre un cop</string>
     <string name="HIPS_Action_Reject">Denega</string>
     <string name="HIPS_Action_Reject_Once">Denega-ho una vegada</string>
-    <string name="HIPS_Perm_Access_Gallery">Accediu a fotos i vídeos fets per la càmera</string>
+    <string name="HIPS_Perm_Access_Gallery">Accedir a fotos i vídeos fets per la càmera</string>
     <string name="HIPS_Perm_Access_Gallery_Desc">Permet que aquesta aplicació accedeixi a fotos i vídeos fets per l\'aplicació Càmera del sistema</string>
     <string name="HIPS_Perm_AudioRecorder">Enregistra àudio</string>
     <string name="HIPS_Perm_AudioRecorder_Desc">enregistrar àudio</string>
@@ -15,8 +15,8 @@
     <string name="HIPS_Perm_Bluetooth_Connectivity_Desc">activa o desactiva el Bluetooth</string>
     <string name="HIPS_Perm_Body_Sensors">Sensors corporals</string>
     <string name="HIPS_Perm_Body_Sensors_Desc">sensors corporals (p. ex., sensor de ritme cardíac)</string>
-    <string name="HIPS_Perm_Calendar">Edita el calendari</string>
-    <string name="HIPS_Perm_Calendar_Desc">Edita els esdeveniments del calendari</string>
+    <string name="HIPS_Perm_Calendar">Editar el calendari</string>
+    <string name="HIPS_Perm_Calendar_Desc">Editar esdeveniments del calendari</string>
     <string name="HIPS_Perm_Call">Fer trucades telefòniques</string>
     <string name="HIPS_Perm_CallLog">Escriu i suprimeix l\'historial de trucades</string>
     <string name="HIPS_Perm_CallLog_Desc">editant historial de trucada</string>
@@ -24,7 +24,7 @@
     <string name="HIPS_Perm_Contact">Modifica i suprimeix contactes</string>
     <string name="HIPS_Perm_Contact_Desc">editant contactes</string>
     <string name="HIPS_Perm_External_Storage">Accedir i canviar fitxers en l\'emmagatzematge intern</string>
-    <string name="HIPS_Perm_External_Storage_Desc">Accediu i deseu fotos, vídeos, àudio i fitxers al vostre dispositiu</string>
+    <string name="HIPS_Perm_External_Storage_Desc">Accedir i desar fotos, vídeos, àudio i fitxers al vostre dispositiu</string>
     <string name="HIPS_Perm_Intl_group_name_calendar">Calendari</string>
     <string name="HIPS_Perm_Intl_group_name_call_log">Historial de trucades</string>
     <string name="HIPS_Perm_Intl_group_name_camera">Càmera</string>
