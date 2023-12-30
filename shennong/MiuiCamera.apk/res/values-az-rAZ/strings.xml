@@ -364,7 +364,7 @@ və tərcihləri avtomatik ayarlayın"</string>
     <string name="am">GƏ</string>
     <string name="ambient_lighting_need_flash_on_tip">Sürgü düyməsinə toxunduğunuz zaman doldurma işığı işə salınacaq</string>
     <string name="ambient_lighting_not_adjust_ambient">"Bu effekt fləşlə istifadə edilə bilmir"</string>
-    <string name="ambient_lighting_type_blue">Səfər</string>
+    <string name="ambient_lighting_type_blue">Tünd göy</string>
     <string name="ambient_lighting_type_purple">Solğun bənövşəyi</string>
     <string name="ambient_lighting_type_sun">Şüa</string>
     <string name="ambient_lighting_type_warm">Məşəl</string>
@@ -412,7 +412,7 @@ və tərcihləri avtomatik ayarlayın"</string>
     <string name="auxiliary_close_status">Əlavə effektlər bağlıdır</string>
     <string name="auxiliary_exposure_feedback_status">Ekspozisiya doğrulaması açıqdır</string>
     <string name="auxiliary_focus_peak_status">Fokus zirvəsi açıqdır</string>
-    <string name="auxiliary_lens_identifies_weak_light">Köməkçi linza aşağı işığı tanıyır</string>
+    <string name="auxiliary_lens_identifies_weak_light">Köməkçi linza zəif işığı tanıyır</string>
     <string name="back_bokeh_use_hint">Ən yaxşı effekt üçün obyektinizi 1,5 metr məsafədə tutun</string>
     <string name="background">Arxaplan</string>
     <string name="beauty_body">Fiqur</string>
@@ -753,8 +753,8 @@ Altıncı nəsil standartı dəstəkləyən %s GHz Wi-Fi şəbəkələrinə bağ
     <string name="connect_view_toast_start_success_camera">Kamera açıqdır</string>
     <string name="connect_view_toast_start_success_monitor">Monitor açıqdır</string>
     <string name="copy">Kopyala</string>
-    <string name="cosmetic_mirror_instructions_hint">"Kameraya baxın və ekrana iki dəfə toxunun ki, yaxınlaşsın və mərkəz üzünüzə uyğunlaşsın
-(Çərçivədə yalnız bir nəfərlə işləyir)"</string>
+    <string name="cosmetic_mirror_instructions_hint">"Kameraya baxın, yaxınlaşdırmaq və üzünüzü mərkəzə hizalamaq üçün ekrana iki dəfə toxunun
+(Kadrda yalnız bir şəxs olduqda işləyir)"</string>
     <string name="cosmetic_mirror_shortcut_short">Cib güzgüsü</string>
     <string name="cosmetic_mirror_title">Cib güzgüsü</string>
     <string name="cta_mimoji_msg">\"Fun Cam\"a xoş gəldiniz! Foto və video çəkmək üçün bu tətbiqi istifadə edə bilərsiniz. Normal işləyə bilməsi üçün, bu tətbiqin internetə bağlanması və şəxsi məlumatlarınızı yığması üçün aşağıdakı icazələrə sahib olması lazımdır:</string>
@@ -802,7 +802,7 @@ Altıncı nəsil standartı dəstəkləyən %s GHz Wi-Fi şəbəkələrinə bağ
     <string name="cv_lens_msg">Ana linza sistemi ilə heyrətamiz fotolar çək</string>
     <string name="cv_lens_none">İlkin</string>
     <string name="cv_lens_portrait">Portret</string>
-    <string name="cv_lens_rotary_focus">Swirly bokeh</string>
+    <string name="cv_lens_rotary_focus">Girdablı bokeh</string>
     <string name="cv_lens_soft_focus">Yumşaq fokus</string>
     <string name="cv_lens_standard">Standard</string>
     <string name="cv_lens_title">Ana linza sistemi</string>
@@ -1752,7 +1752,7 @@ göstərmək üçün Makro rejimi istifadə edin"</string>
     <string name="parameter_peak_ultra_raw_description_mm">"RAW faylları sıxışdırılmamış datanı yaxalayır və daha çox təsvir redaktə seçimi təklif edir.
 Ultra RAW təsvirlər, daha çox detalı qoruyaraq %d bit dataya qənaət edir."</string>
     <string name="parameter_videos_title">Film effektləri</string>
-    <string name="parameter_waveform_title">Dalğa</string>
+    <string name="parameter_waveform_title">Dalğa forması</string>
     <string name="parameter_wb_description">Ağ balansının ön ayarlarından (közərmə, gündüz işığı, flüoresan, buludlu) başqa, həmçinin ağ balansını %1$d-%2$d Kelvin aralığında özəl bir dəyərə ayarlaya bilərsiniz.</string>
     <string name="parameter_wb_title">Ağ balansı</string>
     <string name="parameter_zoom_slider_description">Çəkişinizi uzun plandan yaxın plana daha yumşaq dəyişdirmək üçün yaxınlaşdırma diyircəyini üfüqi şəkildə sürükləyin.</string>
