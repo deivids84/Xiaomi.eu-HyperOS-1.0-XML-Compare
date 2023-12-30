@@ -181,7 +181,7 @@
     <string name="accessibility_found_all_devices">Eşitmə cihazınızı görmürsünüz?</string>
     <string name="accessibility_found_hearing_devices">Mövcud eşitmə cihazları</string>
     <string name="accessibility_global_gesture_preference_title">Səs düyməsi qısayolu</string>
-    <string name="accessibility_hac_mode_summary">Telekoillərlə uyğunluğu yaxşılaşdırır və arzuolunmaz səs-küyün azalmasına səbəb olur</string>
+    <string name="accessibility_hac_mode_summary">\"Telecoil\"lərlə uyumluluğu artırır və arzuolunmaz səs-küyü azaldır</string>
     <string name="accessibility_hac_mode_title">Eşitmə cihazı uyumluluğu</string>
     <string name="accessibility_haptic">Əlçatımlılıq</string>
     <string name="accessibility_hearing_device_about_title">Eşitmə cihazları haqqında</string>
@@ -195,7 +195,7 @@
     <string name="accessibility_hearingaid_active_device_summary">%1$s aktivdir</string>
     <string name="accessibility_hearingaid_adding_summary">Eşitmə cihazı əlavə et</string>
     <string name="accessibility_hearingaid_instruction_continue_button">Davam et</string>
-    <string name="accessibility_hearingaid_intro">Siz telefonunuzla eşitmə aparatları, koxlear implantlar və digər amplifikasiya qurğularından istifadə edə bilərsiniz</string>
+    <string name="accessibility_hearingaid_intro">Telefonunuzla eşitmə cihazlarını, koklear implantları və digər gücləndirici cihazları istifadə edə bilərsiniz</string>
     <string name="accessibility_hearingaid_left_and_right_side_device_summary">%1$s, sol və sağ</string>
     <string name="accessibility_hearingaid_left_side_device_summary">%1$s, yalnız sol</string>
     <string name="accessibility_hearingaid_more_device_summary">%1$s daha +1</string>
@@ -806,7 +806,7 @@ Ayarlar indi dəyişdirilsin?"</string>
     <string name="app_launch_verified_links_message">{count, plural, one {}=1 {Bu keçid doğrulandı və avtomatik olaraq bu tətbiqdə açıldı.} other {Bu keçidlər doğrulandı və avtomatik olaraq bu tətbiqdə açıldı.} }</string>
     <string name="app_launch_verified_links_title">{count, plural, one {}=1 {# doğrulanmış keçid} other {# doğrulanmış keçid} }</string>
     <string name="app_link_open_always">Aç</string>
-    <string name="app_link_open_always_summary">{count, plural, =1 {App # linki ələ keçirmək iddia edir} other {App iddia edir ki, # linklər öhdəsindən gəlir} }</string>
+    <string name="app_link_open_always_summary">{count, plural, one {}=1 {Tətbiq # keçidi idarə edə biləcəyini iddia edir} other {Tətbiq # keçidi idarə edə biləcəyini iddia edir} }</string>
     <string name="app_link_open_ask">Həmişə soruş</string>
     <string name="app_link_open_never">"Açmayın"</string>
     <string name="app_link_title">Tətbiqdəki əlavə ayarlar</string>
@@ -1046,7 +1046,7 @@ Tətbiqi məhdudlaşdırmaq üçün əvvəlcə batareya optimallaşdırmasını 
     <string name="background_activity_warning_dialog_text">Tətbiq üçün arxaplan fəaliyyətini məhdudlaşdırsanız, xətalı davrana bilər</string>
     <string name="background_activity_warning_dialog_title">Arxaplan fəaliyyəti məhdudlaşdırılsın?</string>
     <string name="background_blur_enable">Qabaqcıl teksturalar</string>
-    <string name="background_blur_enable_summary">Artırılmış vizual təcrübəni təmin etmək üçün sistemdə bulanıqlıq kimi render effektləri əlavə edir</string>
+    <string name="background_blur_enable_summary">Təkmil vizual təcrübəni təmin etmək üçün sistem üzrə bulanıqlaşdırma kimi render effektlərini əlavə edir</string>
     <string name="background_blur_message">Bu özəlliyi işə salmaq daha çox enerji sərfiyyatına və cihazın isinməsinə səbəb ola bilər. Yenə də işə salınsın?</string>
     <string name="background_blur_title">Qabaqcıl teksturaları işə sal</string>
     <string name="background_check_pref">Arxaplan yoxlaması</string>
@@ -1068,7 +1068,7 @@ Cihazınızın normal işləməsi üçün burada sadalanan tətbiqlərin heç bi
     <string name="background_traffic">Arxaplan %s</string>
     <string name="backtouch_enable_title">Səsi arxada ayarla</string>
     <string name="backup_at_once">Nüsxələ</string>
-    <string name="backup_calling_enable_dialog_incompatible_nw_type">Voice Over Cellular Internet-i söndürmək üçün, lütfən, üstünlük verilən şəbəkə tipini LTE, NR və ya Global daxil olmaqla birinə təyin edin.</string>
+    <string name="backup_calling_enable_dialog_incompatible_nw_type">\"Mobil İnternet üzərindən Səs\"i işə salmaq üçün, lütfən tərcih edilən şəbəkə növünü LTE, NR və ya Qlobal daxil olmaqla birinə ayarlayın.</string>
     <string name="backup_calling_setting_summary">%1$s əlçatan deyilsə və ya rouminqdədirsə, %1$s zəngləri üçün mobil internet SIM-inizi istifadə edin.</string>
     <string name="backup_calling_settings_title">Nüsxə zəngi</string>
     <string name="backup_configure_account_default_summary">Hazırda heç bir hesab nüsxələnmiş məlumatları saxlamır</string>
@@ -1539,7 +1539,7 @@ Daha öncə %2$s cihazına bağlanmamısınız."</string>
     <string name="bluetooth_dock_settings_remember">Ayarları xatırla</string>
     <string name="bluetooth_dock_settings_title">Səs üçün yuvanı istifadə et</string>
     <string name="bluetooth_dun_profile_summary_connected">DUN serverinə bağlandı</string>
-    <string name="bluetooth_dun_profile_summary_use_for">Dial-up şəbəkəyə giriş üçün istifadə olunur</string>
+    <string name="bluetooth_dun_profile_summary_use_for">Dial-up şəbəkə müraciəti üçün istifadə olunur</string>
     <string name="bluetooth_empty_list_bluetooth_off">Bluetooth açılanda, cihazınız yaxınlıqdakı digər Bluetooth cihazları ilə əlaqə qura bilər.</string>
     <string name="bluetooth_empty_list_user_restricted">"Bluetooth ayarlarını dəyişdirmə icazəniz yoxdur."</string>
     <string name="bluetooth_enable">Bluetooth</string>
@@ -1585,7 +1585,7 @@ Daha öncə %2$s cihazına bağlanmamısınız."</string>
     <string name="bluetooth_hearingaid_right_pairing_message">Sağ eşitmə cihazı cütləşdirilir…</string>
     <string name="bluetooth_hid_profile_summary_connected">Giriş cihazına bağlandı</string>
     <string name="bluetooth_hid_profile_summary_use_for">Giriş üçün istifadə edilir</string>
-    <string name="bluetooth_inband_ringing">Dəstə içində rinqə icazə ver</string>
+    <string name="bluetooth_inband_ringing">Bant daxili zəng səslərinə icazə ver</string>
     <string name="bluetooth_inband_ringing_summary">Telefon zəng səslərinin Bluetooth qulaqlıqları vasitəsilə oxudulmasına icazə verin. Bu özəllik, yalnız tək bir cihaz bağlantılı olduqda istifadə edilə bilər və bəzi cihazlarla uyumlu olmaya bilər.</string>
     <string name="bluetooth_inform_messgae">"%1$s ilə bağlantı qurula bilmədi.
 Səhv ola biləcək hallar:
@@ -2500,7 +2500,7 @@ Açılan paneli açmaq üçün ekranın yuxarısından aşağı sürüşdürün,
     <string name="credentials_settings_not_available">Kimlik məlumatları bu istifadəçi üçün əlçatan deyil</string>
     <string name="credentials_title">Kimlik məlumatları anbarı</string>
     <string name="credentials_title_verification">Sertifikasiya</string>
-    <string name="credman_autofill_confirmation_message">"&lt;b&gt;istifadə et &lt;xliff:g id=app_name example=Provider&gt;%1$s&lt;/xliff:g&gt;?&lt;/b&gt; &lt;br/&gt; &lt;br/&gt; &lt;xliff:g id=app_name example=Provider&gt;%1$s&lt;/xliff:g&gt; ekranınızda olanlardan istifadə edərək nəyin avtomatlaşdırılmış ola biləcəyini müəyyən edir. Bu gündən etibarən burada yeni parollar, keçidlər və digər infolar xilas ediləcək."</string>
+    <string name="credman_autofill_confirmation_message">"&lt;b&gt;İstifadə edilsin&lt;xliff:g id=app_name example=Provider&gt;%1$s&lt;/xliff:g&gt;?&lt;/b&gt; &lt;br/&gt; &lt;br/&gt; &lt;xliff:g id=app_name example=Provider&gt;%1$s&lt;/xliff:g&gt; avto-doldurula bilənləri müəyyən etmək üçün ekranınızdakıları istifadə edir. Yeni parollar, keçid açarları və digər məlumatları bundan sonra burada ssaxlanılacaq."</string>
     <string name="credman_autofill_keywords">avto, doldur, avto-doldur, data, keçid açarı, parol</string>
     <string name="credman_chosen_app_title">Parollar, keçid açarı və data xidmətləri</string>
     <string name="credman_confirmation_message">"&lt;b&gt;Bu xidmət söndürülsün?&lt;/b&gt; &lt;br/&gt; &lt;br/&gt; Parollar, keçid açarları, ödəniş üsulları və digərləri kimi saxlanılmış məlumatlar siz giriş etdikdə doldurulmayacaq. Saxlanılmış məlumatlarınızı istifadə etmək üçün bir parol, keçid açarı və ya data xidməti seçin."</string>
@@ -2583,9 +2583,9 @@ Dolu bir batareya ilə başlamalı və proses ərzində cihazınız doldurulmal�
     <string name="dark_mode_auto_time_title">Özəl</string>
     <string name="dark_mode_contrast">Kontrastı avto-ayarla</string>
     <string name="dark_mode_contrast_hint">Parlaqlıq azalanda rəngləri avtomatik ayarla və kontrastı azalt</string>
-    <string name="dark_mode_day_night_mode_summary">Cihazınız günbatandan sonra Qaranlıq rejiminə keçəcək və gün doğanda yenidən İşıq rejiminə qayıdacaq. Ən dəqiq nəticələr üçün məkan xidmətlərini aç.</string>
+    <string name="dark_mode_day_night_mode_summary">Cihazınız gün batanda Qaranlıq rejimə, gün çıxanda İşıqlı rejimə keçəcək. Ən dəqiq nəticələr üçün yerləşmə xidmətlərini işə salın.</string>
     <string name="dark_mode_day_night_mode_title">Gün batımından gün doğumuna qədər</string>
-    <string name="dark_mode_display_enable_summary">Əsasən qaranlıq səthləri nümayiş etdirən aşağı işıqlı UI-yə keçid</string>
+    <string name="dark_mode_display_enable_summary">Əsasən qaranlıq səthləri göstərən zəif işıqlı interfeysə keçin</string>
     <string name="dark_mode_font_background_title">Mətni və arxaplanları avtomatik ayarla</string>
     <string name="dark_mode_power_save_alert_dialog_confirm">Anladım</string>
     <string name="dark_mode_power_save_alert_dialog_message">"Sistem optimallaşdırmasını söndürüb Batareya qənaətini işə salsanız, Qaranlıq rejim avtomatik olaraq işə salınacaq. Qaranlıq rejimi söndürmək üçün Batareya qənaətini söndürün və ya Ayarlar &gt; Tərtibatçı seçimləri &gt; \"Sistem optimallaşdırmasını işə sal\" bölməsindən sistem optimallaşdırmanı işə salın."</string>
@@ -2636,7 +2636,7 @@ Dolu bir batareya ilə başlamalı və proses ərzində cihazınız doldurulmal�
     <string name="data_saver_on">Açıq</string>
     <string name="data_saver_switch_title">\"İnternetə qənaət\"i istifadə et</string>
     <string name="data_saver_title">İnternetə qənaət</string>
-    <string name="data_saver_unrestricted_summary">{count, plural, =1 {Data Saver-də olduğu zaman məhdudiyyətsiz məlumatlardan istifadə etməyə icazə verilən 1 proqram} other {# apps Data Saver-də olduğu halda məhdudiyyətsiz məlumatlardan istifadə etməyə icazə verilir} }</string>
+    <string name="data_saver_unrestricted_summary">{count, plural, one {}=1 {İnternetə Qənaət açıq olduqda 1 tətbiqin interneti məhdudiyyətsiz istifadə etməsinə icazə verildi} other {İnternetə Qənaət açıq olduqda # tətbiqin interneti məhdudiyyətsiz istifadə etməsinə icazə verildi} }</string>
     <string name="data_size_label">İstifadəçi datası</string>
     <string name="data_summary_format">%2$s tarixindən bəri %1$s istifadə edildi</string>
     <string name="data_switch_started">İnternet SIM-i dəyişdirilir, bu bir dəqiqəyə qədər çəkə bilər…</string>
@@ -2788,7 +2788,7 @@ Bu ayar, bu cihazın bütün istifadəçilərinə təsir edir."</string>
     <string name="default_camera_app_title">{count, plural, one {}=1 {Kamera tətbiqi} other {Kamera tətbiqləri} }</string>
     <string name="default_contacts_app_title">Kontaktlar tətbiqi</string>
     <string name="default_digital_assistant_title">İlkin rəqəmsal köməkçi tətbiq</string>
-    <string name="default_email_app_title">{count, plural, =1 {E-poçt client app} other {E-poçt client apps} }</string>
+    <string name="default_email_app_title">{count, plural, one {}=1 {E-poçt müştəri tətbiqi} other {E-poçt müştəri tətbiqləri} }</string>
     <string name="default_emergency_app">Fövqəladə hal tətbiqi</string>
     <string name="default_error_message">Yararsız giriş</string>
     <string name="default_font_title_global">İlkin</string>
@@ -2803,7 +2803,7 @@ Bu ayar, bu cihazın bütün istifadəçilərinə təsir edir."</string>
     <string name="default_launcher_set_system_message">İlkin başladıcını bərpa etmək üçün Əsas ekran düyməsinə basın</string>
     <string name="default_launcher_title">İlkin Başladıcı</string>
     <string name="default_map_app_title">Xəritə tətbiqi</string>
-    <string name="default_phone_app_title">{count, plural, =1 {Telefon proqramı} other {Telefon proqramları} }</string>
+    <string name="default_phone_app_title">{count, plural, =1 {Telefon tətbiqi} other {Telefon tətbiqləri} }</string>
     <string name="default_phone_title">Zəng etmə</string>
     <string name="default_popup_window_title">Açılan pəncərə</string>
     <string name="default_print_service_main_switch_title">Çap xidmətini istifadə et</string>
@@ -2831,7 +2831,7 @@ Bu ayar, bu cihazın bütün istifadəçilərinə təsir edir."</string>
     <string name="delete_saved_network">Saxlanılmış şəbəkələri sil</string>
     <string name="delete_sound_effect">Elementlər silinərkən səs oxut</string>
     <string name="deleted_apps">Silinmiş tətbiqlər</string>
-    <string name="deleted_channels">{count, plural, =1 {# kateqoriya silindi} other {# kateqoriyalar silindi} }</string>
+    <string name="deleted_channels">{count, plural, one {}=1 {# kateqoriya silindi} other {# kateqoriya silindi} }</string>
     <string name="demo_mode">Demo rejimi</string>
     <string name="demo_mode_summary">Status çubuğunda demo nişanını göstər</string>
     <string name="demote_conversation_summary">Danışıq bölməsindən sil</string>
@@ -2839,8 +2839,8 @@ Bu ayar, bu cihazın bütün istifadəçilərinə təsir edir."</string>
     <string name="deny">Rədd et</string>
     <string name="desc_app_locale_disclaimer">Dil, tətbiqdə mövcud olan dillərdən fərqli ola bilər. Bəzi tətbiqlər bu ayarı dəstəkləməyə bilər.</string>
     <string name="desc_app_locale_selection_supported">Hər tətbiq üçün dili ayarla.</string>
-    <string name="desc_cloneable_app_list_text">Klonlana bilən proqramlar.</string>
-    <string name="desc_cloned_apps_intro_text">İki hesabdan eyni anda istifadə edə bilməniz üçün proqramın ikinci bir misalı yaradın.</string>
+    <string name="desc_cloneable_app_list_text">Klonlana bilən tətbiqlər.</string>
+    <string name="desc_cloned_apps_intro_text">Eyni anda iki hesabı istifadə edə bilmək üçün tətbiqin ikinci bir nümunəsini yaradın.</string>
     <string name="desc_current_default_language">Sistem dili</string>
     <string name="desc_introduction_of_language_picker">Sisteminiz, tətbiqləriniz və veb saytlarınız tərcih etdiyiniz dillərin arasından dəstəklənən ilk dili istifadə edir.</string>
     <string name="desc_locale_helper_footer_general">Tətbiq dilləri haqqında daha ətraflı</string>
@@ -2848,7 +2848,7 @@ Bu ayar, bu cihazın bütün istifadəçilərinə təsir edir."</string>
     <string name="desc_notice_device_locale_settings_change">Cihaz ayarlarınız və bölgə tərcihiniz dəyişəcək.</string>
     <string name="desc_notice_of_language_picker">Hər bir tətbiq üçün dil seçimini etmək məqsədilə tətbiq dil ayarlarına gedin.</string>
     <string name="desc_regional_pref_footer_learn_more">Dil tərcihləri haqqında daha ətraflı.</string>
-    <string name="desc_unavailable_locale">Bu dil sistem dili kimi istifadə edilə bilməz, amma proqramlara və veb saytlara bu dilə üstünlük verdiyini bildirmisiniz.</string>
+    <string name="desc_unavailable_locale">Bu dil, sistem dili kimi istifadə edilə bilməz, ancaq tətbiqlərə və veb saytlara bu dili tərcih etdiyinizi bildirmisiniz.</string>
     <string name="desktop_mode">Masaüstü rejimi</string>
     <string name="detail_app_button">Tətbiq məlumatı</string>
     <string name="detail_question">Detallar</string>
@@ -2864,13 +2864,13 @@ Bu ayar, bu cihazın bütün istifadəçilərinə təsir edir."</string>
     <string name="developer_options_main_switch_title">Tərtibatçı seçimlərini istifadə et</string>
     <string name="developer_smallest_width">Ən kiçik en</string>
     <string name="development_enable">Tərtibatçı seçimləri</string>
-    <string name="development_memtag_footer">MTE-ni işə salmaq cihazın performansının yavaş olmasına səbəb ola bilər.</string>
-    <string name="development_memtag_intro">Memory Tagging Extension (MTE) proqramınızda yaddaş təhlükəsizliyi ilə bağlı məsələləri tapmaq və onda olan yerli kodu daha təhlükəsiz etmək üçün asanlaşdırır.</string>
+    <string name="development_memtag_footer">MTE-ni işə salmaq cihaz performansının azalmasına səbəb ola bilər.</string>
+    <string name="development_memtag_intro">Yaddaş Etiketləmə Uzantısı (MTE - Memory Tagging Extension), tətbiqinizdəki yaddaş güvənliyi problemlərini tapmağı asanlaşdırır və tətbiqinizdəki yerli kodu daha güvənli edir.</string>
     <string name="development_memtag_learn_more">MTE haqqında daha ətraflı</string>
     <string name="development_memtag_page_title">Memory Tagging Extension</string>
-    <string name="development_memtag_reboot_message_off">"MTE-ni söndürmək üçün cihazınızı yenidən başlatmanız lazım gələcək."</string>
-    <string name="development_memtag_reboot_message_on">"MTE-ni söndürmək üçün cihazınızı yenidən başlatmanız lazım gələcək."</string>
-    <string name="development_memtag_toggle">Söndürənə qədər MTE-ni fəallaşdır</string>
+    <string name="development_memtag_reboot_message_off">"MTE-ni söndürmək üçün cihazınızı yenidən başlatmalısınız."</string>
+    <string name="development_memtag_reboot_message_on">"MTE-ni işə salmaq üçün cihazınızı yenidən başlatmalısınız."</string>
+    <string name="development_memtag_toggle">Siz söndürənə qədər MTE-ni fəallaşdır</string>
     <string name="development_settings_enable">Tərtibatçı seçimlərini fəallaşdır</string>
     <string name="development_settings_not_available">"Tərtibatçı seçimləri bu istifadəçi üçün əlçatmazdır"</string>
     <string name="development_settings_summary">Tətbiq inkişafı üçün seçimləri ayarla</string>
@@ -3131,7 +3131,7 @@ Lütfən bu kodu texniki mütəxəssisə göndərin."</string>
     <string name="double_tap_power_for_camera_title">Kameranı cəld aç</string>
     <string name="double_twist_for_camera_mode_title">Selfi üçün kameranı çevir</string>
     <string name="doublepress_summary">Oxut və fasilə ver</string>
-    <string name="doublepress_title">İkiqat press hərəkətini icra etmək</string>
+    <string name="doublepress_title">Cüt basma hərəkətini icra et</string>
     <string name="download_current_rom">Ən son versiyanı əldə et</string>
     <string name="downloaded_sim_category_title">eSIM</string>
     <string name="downloaded_sims_category_title">eSIM-lər</string>
@@ -3285,8 +3285,8 @@ Lütfən bu kodu texniki mütəxəssisə göndərin."</string>
     <string name="enable_mobile_data_when_opening_hotspot">Mobil internet bağlantısı da işə salınsın?</string>
     <string name="enable_non_resizable_multi_window">Çoxlu pəncərədə təkrar ölçüləndirilə bilməyənləri fəallaşdır</string>
     <string name="enable_non_resizable_multi_window_summary">Təkrar ölçüləndirilə bilməyən tətbiqlərin çoxlu pəncərədə olmasına icazə verir</string>
-    <string name="enable_notes_role_summary">Notes rolu vasitəsilə note-taking sistem inteqrasiyalarını fəallaşdır. Notes rolu artıq fəaldırsa, heç bir şey etmir.</string>
-    <string name="enable_notes_role_title">Qeydlər rolunu fəallaşdır</string>
+    <string name="enable_notes_role_summary">Notes rolu vasitəsilə not alma sistemi inteqrasiyalarını fəallaşdır. Notes rolu artıq fəaldırsa, heç nə etmə.</string>
+    <string name="enable_notes_role_title">Notes rolunu məcburi fəallaşdır</string>
     <string name="enable_opengl_traces_title">OpenGL izlərini fəallaşdır</string>
     <string name="enable_preferred_network_type_summary">Şəbəkə növünü Ayarlar &gt; SIM kartlar və mobil şəbəkələr &gt; SIM kart bölməsində görün və ayarlayın</string>
     <string name="enable_preferred_network_type_title">Tərcih edilən şəbəkə növü menyusunu göstər</string>
@@ -3491,11 +3491,11 @@ Cihazınızı yenidən başladıb bir daha sınayın."</string>
     <string name="external_source_untrusted">İcazə verilmədi</string>
     <string name="extreme_threats_summary">Həyata və mülkiyyətə yönəlmiş fövqəladə təhdidlər üçün xəbərdarlıq alın</string>
     <string name="extreme_threats_title">Həddindən artıq təhdid</string>
-    <string name="eye_gaze_dialog_message">"Detect baxış-nı işə saldıqda cihaz ekrana baxdığınızı aşkar etdikdə kilidləməyəcək. Üz xüsusiyyətləriniz təhlil olunmayacaq. Üz məlumatlarınız cihazınızda saxlanılmayacaq və ya buluda yüklənməyəcək. İndimi?"</string>
+    <string name="eye_gaze_dialog_message">"\"Baxışı aşkar\"nı işə salsanız, ekrana baxdığınızı aşkarladıqda cihaz kilidlənməyəcək. Üz xüsusiyyətləriniz təhlil edilməyəcək və üz məlumatlarınız cihazınızda saxlanılmayacaq və ya buluda yüklənməyəcək. İndi işə salınsın?"</string>
     <string name="eye_gaze_dialog_title">Güvənlik bildirişi</string>
     <string name="eye_gaze_summary">"Ekrana baxdığınızı aşkarladıqda cihaz kilidləməyəcək"</string>
     <string name="eye_gaze_summary_fold_device">"Cihaz, xarici ekrana baxdığınızı aşkarladıqda kilidləməyəcək"</string>
-    <string name="eye_gaze_title">Baxışları aşkarla</string>
+    <string name="eye_gaze_title">Baxışı aşkarla</string>
     <string name="face_data_apply_for_category_title">Üz məlumatı istifadə edərək kilidi aç</string>
     <string name="face_data_apply_for_keyguard_title">Kilid ekranı</string>
     <string name="face_data_input_camera_fail">"Kamera yüklənə bilmədi"</string>
@@ -3722,7 +3722,7 @@ Daha ətraflı öyrənmək üçün kredit provayderinizlə əlaqə saxlayın."</
     <string name="firmware_version">Android versiyası</string>
     <string name="first_day_of_week_preferences_title">Həftənin ilk günü</string>
     <string name="fiveg_nrca_switch_summary">Test mühitləri üçün 5G bağlantısını təkmilləşdirin</string>
-    <string name="fiveg_nrca_switch_title">5G operator birləşdirmə</string>
+    <string name="fiveg_nrca_switch_title">5G operator yığma</string>
     <string name="fiveg_sa_switch_summary">İkinci SIM-də SA şəbəkəsini istifadə et (yalnız test üçün)</string>
     <string name="fiveg_sa_vice_switch_title">İkinci SIM-də SA</string>
     <string name="fiveg_vonr_switch_summary">5G şəbəkə mühitində zəng təcrübəsini artırmaq üçün VoNR istifadə edin. Bu özəllik yalnız test məqsədləri üçün təqdim olunur.</string>
@@ -3737,14 +3737,14 @@ Daha ətraflı öyrənmək üçün kredit provayderinizlə əlaqə saxlayın."</
     <string name="flash_notifications_intro">Bildiriş aldıqda və ya zəngli saat səsləndikdə kamera işığını və ya ekranı yandırıb söndür</string>
     <string name="flash_notifications_intro_without_camera_flash">Bildiriş aldıqda və ya zəngli saat səsləndikdə ekranı yandırıb söndür</string>
     <string name="flash_notifications_keywords">fləş, işıq, eşitmə çətinliyi, eşitmə qabiliyyətinin itirilməsi</string>
-    <string name="flash_notifications_note">"\"Beam for notifications\" kamera flaş və ekran vasitəsilə bildiriş səslərini və rinq səslərini vizuallaşdırır. Əgər işığa qarşı həssassınızsa, bu xüsusiyyəti ehtiyatla istifadə edin."</string>
+    <string name="flash_notifications_note">"\"Bildirişlər üçün şüa\", kamera fləşi və ekranı istifadə edərək bildiriş səslərini və zəng səslərini vizuallaşdırır. İşığa qarşı həssassınızsa, bu özəlliyi diqqətlə istifadə edin."</string>
     <string name="flash_notifications_preview">Önizləmə</string>
-    <string name="flash_notifications_summary">Bildirişlər gələndə və ya cihaz zəng edərkən kamera flaş və ya ekranda rəng parıltılarını nümayiş etdir</string>
+    <string name="flash_notifications_summary">Bildiriş gəldikdə və ya cihaz çağırdıqda ekranda kamera fləşini istifadə edin və ya rəngli şüalar göstərin</string>
     <string name="flash_notifications_summary_off">Bağlı</string>
     <string name="flash_notifications_summary_on_camera">Açıq / Kamera fənəri</string>
     <string name="flash_notifications_summary_on_camera_and_screen">Açıq / Kamera fənəri üzrə və ekranda yanıb sönmə</string>
     <string name="flash_notifications_summary_on_screen">Açıq / Ekranda yanıb sönmə</string>
-    <string name="flash_notifications_title">Bildirişlər üçün işarə</string>
+    <string name="flash_notifications_title">Bildirişlər üçün şüa</string>
     <string name="flashback_background_start_switch_summary">Tətbiqlər arxaplanda işləyərkən əsas məlumatları ehtiva edən məlumat kartlarını avtomatik yarat</string>
     <string name="flashback_background_start_switch_title">Məlumat kartlarını avto-yarat</string>
     <string name="flashback_baidu_map_summary">Marşrutu göstər</string>
@@ -3772,7 +3772,7 @@ Daha ətraflı öyrənmək üçün kredit provayderinizlə əlaqə saxlayın."</
     <string name="fmt_date_short_year_month_day">d MMM, yyyy</string>
     <string name="fmt_time_12hour">"hh"</string>
     <string name="fmt_time_24hour">"HH"</string>
-    <string name="focus_summary">Xüsusi bildiriş formatını vacib info qeyd etmək üçün istifadə edin</string>
+    <string name="focus_summary">Vacib məlumatları vurğulamaq üçün özəl bildiriş formatını istifadə et</string>
     <string name="focus_title">Bildiriş spotlight-ı</string>
     <string name="fold_application_mode_name">Tətbiq düzümləri</string>
     <string name="fold_game_adaptation">Oyun düzümləri</string>
@@ -3807,7 +3807,7 @@ Daha ətraflı öyrənmək üçün kredit provayderinizlə əlaqə saxlayın."</
 "</string>
     <string name="font_size_summary1">"Sisteminizin mətni hələ də çox kiçikdirsə, sınayın "</string>
     <string name="font_size_summary2">Lite rejimi</string>
-    <string name="footer_description_full_screen_intent">Bu proqramın, cihazın kilidli olduğu zaman tam ekrana çıxan bildirişləri göstərməsinə icazə verin. Proqramlar bu məlumatlardan səsləndirmək, gələn zəngləri və ya digər təcili bildirişləri çatdırmaq üçün istifadə edə bilər.</string>
+    <string name="footer_description_full_screen_intent">Bu tətbiqin, cihaz kilidli olduqda tam ekranı tutan bildirişləri göstərməsinə icazə verin. Tətbiqlər zəngləri saatları, gələn zəngləri və ya digər fövqəladə bildirişləri vurğulamaq üçün bunları istifadə edə bilər.</string>
     <string name="footer_learn_more_content_description">%1$s haqqında daha ətraflı</string>
     <string name="for_diagnosis_usage_only">Bu məlumatı yalnız diaqnoz üçün istifadə edin.</string>
     <string name="forbidden_network">(yasaqlanıb)</string>
@@ -3879,15 +3879,15 @@ Daha ətraflı öyrənmək üçün kredit provayderinizlə əlaqə saxlayın."</
     <string name="free_xiaomi_wifi_connect_summary">%1$s ilə bağlantı qurmaq üçün toxunun.</string>
     <string name="freeform_guide_drop_down_to_fullscreen_summary">Üzən pəncərənin hərəkət çubuğunu basılı tutun və sonra aşağı çəkin</string>
     <string name="freeform_guide_drop_down_to_fullscreen_title">Üzən pəncərəyə tam ekran rejimində baxma</string>
-    <string name="freeform_guide_free_drag_summary">Mətni, şəkilləri və ya faylları dəstəklənən proqramların müxtəlif pəncərələri arasında sürükleyin.</string>
-    <string name="freeform_guide_free_drag_title">Əşyaları pəncərələrə sürüklə</string>
+    <string name="freeform_guide_free_drag_summary">Mətnləri, təsvirləri və ya faylları dəstəklənən tətbiqlərin fərqli pəncərələri arasında sürükləyin.</string>
+    <string name="freeform_guide_free_drag_title">Elementləri pəncərələr arasında sürüklə</string>
     <string name="freeform_guide_move_summary">Sürükləmək üçün üzən bir pəncərənin hərəkət çubuğunu basılı tutun</string>
     <string name="freeform_guide_move_title">Üzən pəncərələri daşıma</string>
     <string name="freeform_guide_move_to_small_freeform_window_summary">Üzən pəncərəni ekranın küncünə sürükləyin</string>
     <string name="freeform_guide_move_to_small_freeform_window_title">Üzən pəncərəni kiçiltmə</string>
     <string name="freeform_guide_multi_window">Çoxlu tapşırıq</string>
-    <string name="freeform_guide_multiple_window_summary">"Yeni pəncərəni açmaq üçün məkdə app ikonası basın və saxlayın.
-*Bu xüsusiyyət Notes, Mail, Browser və WPS ilə işləyir."</string>
+    <string name="freeform_guide_multiple_window_summary">"Yeni bir pəncərə açmaq üçün yuvadakı bir tətbiq nişanını basılı tutun.
+*Bu özəllik Notlar, Poçt, Brauzer və WPS ilə işləyir."</string>
     <string name="freeform_guide_multiple_window_title">Çoxlu pəncərələr aç</string>
     <string name="freeform_guide_notification_drop_down_summary">Bir bildirişin hərəkət çubuğunu basılı tutun və sonra aşağı çəkin</string>
     <string name="freeform_guide_notification_drop_down_title">Üzən pəncərəni açma</string>
@@ -3908,7 +3908,7 @@ Bu özəllik yalnız sistem naviqasiyası jestlərə ayarlandıqda işləyir."</
     <string name="freeform_guide_to_sidehide_summary">Tətbiqi gizlətmək üçün onu sürətlə ekranın yan tərəfində sürükləyin</string>
     <string name="freeform_guide_to_sidehide_title">Üzən pəncərəni gizlətmə</string>
     <string name="freeform_guide_vedio_description">Üzən pəncərədə açmaq üçün yan çubuqdakı bir tətbiqə toxun</string>
-    <string name="freeform_recommend_open_switch_summary">Split ekranında və ya istifadə ssenariləri əsasında üzən pəncərələrdə proqramları açmaq üçün təkliflər alın</string>
+    <string name="freeform_recommend_open_switch_summary">İstifadə sssenarilərinə görə tətbiqləri Bölünmüş ekranda və ya üzən pəncərələrdə açmaq üçün təkliflər alın</string>
     <string name="freeform_recommend_open_switch_title">Ağıllı təkliflər</string>
     <string name="freeform_vedio_description">"·Bu bildirişi üzən bir pəncərədə açmaq üçün basılı tutun və sonra aşağı çəkin.
 ·Tətbiqləri seçmək üçün Sonuncularda \"Üzən pəncərələr\"ə toxunun."</string>
@@ -4105,7 +4105,7 @@ Ekran kilidinizi təsdiq edə biləcəyiniz sahə sağa keçəcək."</string>
     <string name="gxzw_quick_open_title">Qısayollar</string>
     <string name="gxzw_vibrate_summary">"Heç bir barmaq izi animasiyası seçilmədikdə titrəmə olmayacaq"</string>
     <string name="gxzw_vibrate_title">Kilidi açılarkən titrət</string>
-    <string name="handle_ota_connect_first">Bağlan</string>
+    <string name="handle_ota_connect_first">Tutuşu birləşdir</string>
     <string name="handle_ota_finish_fw">Uğurla güncəlləndi</string>
     <string name="handle_ota_update_failed">"Güncəllənə bilmədi"</string>
     <string name="handle_ota_update_title">Firmware güncəlləmələri</string>
@@ -4260,19 +4260,19 @@ b) Elementləri nüsxələmək üçün Mi PC Suite istifadə edirsinizsə, orada
 
 Qeyd: Şifrələnmiş nüsxələr üçün təyin etdiyiniz parolu unutmayın! Unutsanız, nüsxələrinizin şifrəsini aça bilməyəcəksiniz."</string>
     <string name="how_encrypt_title">Nüsxələrimi necə şifrələyə bilərəm?</string>
-    <string name="how_restore_backup_content">"Müxtəlif üsullardan istifadə edərək arxa plana alınan əşyaları aşağıdakı kimi bərpa edə bilərsiniz:
+    <string name="how_restore_backup_content">"Fərqli üsullar istifadə edərək nüsxələnmiş elementləri belə bərpa edə bilərsiniz:
 
-Mobil qurğu
-\"Mobil cihaz\"a toxunun, əşyaları bərpa etmək variantını tapın və davam etmək üçün backup-i seçin.
+Mobil cihaz
+Elementləri bərpa etmə seçimi tapmaq üçün \"Mobil cihaz\"a toxunun və davam etmək üçün nüsxələməyi seçin.
 
 Kompüter
-Kompüterinizdən backup-nu USB kabel vasitəsilə MIUI-backup-AllBackup-a köçürün və mobil cihazınızdan olan əşyaları bərpa edin.
+Nüsxəni kompüterinizdən USB naqillə MIUI-backup-AllBackup-a kopyalayın, sonra mobil cihazınızdan elementləri bərpa edin.
 
 USB sürücü
-Usb sürücünüzdən backup-i MIUI-backup-AllBackup-a kopyalayın və davam etmək üçün USB sürücüsündən olan əşyaları geri qaytarmaq variantını seçin.
+Nüsxəni USB sürücünüzdən MIUI-backup-AllBackup-a kopyalayın, sonra davam etmək üçün elementləri bir USB sürücüsündən bərpa etməyi variantını seçin.
 
-Xiaomi Buludu
-Xiaomi Cloud açın və oradan əşyaları bərpa edin."</string>
+Xiaomi Cloud
+Xiaomi Cloud-u açın, elementləri oradan bərpa edin."</string>
     <string name="how_restore_backup_title">Nüsxələnmiş elementləri necə bərpa edə bilərəm?</string>
     <string name="http_invoke_app">Veb tətbiqlər</string>
     <string name="http_invoke_app_summary">Tətbiqləri quraşdırmadan daha sürətli açın</string>
@@ -4506,7 +4506,7 @@ Xiaomi Cloud açın və oradan əşyaları bərpa edin."</string>
     <string name="keywords_alarm_vibration">toxunuş əks-əlaqəsi, titrəmə, həssaslıq, siqnal</string>
     <string name="keywords_alarms_and_reminders">cədvəl, zəngli saat, xatırladıcı, saat</string>
     <string name="keywords_all_apps">tətbiq, endir, tətbiqlər, sistem</string>
-    <string name="keywords_always_show_time_info">həmişə ambient display, AOD</string>
+    <string name="keywords_always_show_time_info">həmişə mühit ekranında, AOD</string>
     <string name="keywords_ambient_display">gələn bildiriş</string>
     <string name="keywords_ambient_display_screen">Mühit ekranı, Kilid ekranı nümayişi</string>
     <string name="keywords_android_version">android güvənlik yamaq səviyyəsi, baseband versiyası, kernel versiyası</string>
@@ -4569,7 +4569,7 @@ Xiaomi Cloud açın və oradan əşyaları bərpa edin."</string>
     <string name="keywords_gesture">jestlər</string>
     <string name="keywords_gesture_navigation_settings">jest naviqasiyası, geri həssaslıq, geri jest</string>
     <string name="keywords_gps">GPS;Yerləşmə;Yerləşmə xidmətləri;Peyk</string>
-    <string name="keywords_hearing_aids">eşitmə aparatları, eşitmənin çətinləşməsi, eşitmə qabiliyyətinin itməsi, koxlear implantlar, amplifikasiya cihazları, səs prosessorları</string>
+    <string name="keywords_hearing_aids">eşitmə cihazları, eşitmə çətinliyi, eşitmə qabiliyyətinin itirilməsi, koklear implantlar, gücləndirici cihazlar, səs prosessorları</string>
     <string name="keywords_hotspot">Hotspot;İnternet paylaşımı;İnternet paylaşılır;Şəxsi hotspot;Portativ hotspot</string>
     <string name="keywords_hotspot_tethering">usb internet paylaşımı, bluetooth internet paylaşımı, wifi hotspot</string>
     <string name="keywords_ignore_optimizations">optimallaşdırmaları yox sayma, mürgüləmə, tətbiqin gözləmə rejimi</string>
@@ -4710,7 +4710,7 @@ Xiaomi Cloud açın və oradan əşyaları bərpa edin."</string>
     <string name="layout_size_small_text">Ekstra kiçik</string>
     <string name="le_audio_title">LE Səs</string>
     <string name="learn_more">Daha ətraflı</string>
-    <string name="leave_loclscreen_summary">Cihazınızdan müəyyən məsafədə gəzdikdə ekran avtomatik olaraq kilidlənəcək</string>
+    <string name="leave_loclscreen_summary">Cihazınızdan müəyyən məsafə uzaqlaşdıqda ekran avtomatik olaraq kilidlənəcək</string>
     <string name="leave_loclscreen_title">Tərk edərkən ekranı kilidlə</string>
     <string name="led_colors_summary">Bildiriş işığı rəngi</string>
     <string name="led_frequence_summary">LED işığı üçün yanıb sönmə intervalını ayarla</string>
@@ -4842,7 +4842,7 @@ Xiaomi Cloud açın və oradan əşyaları bərpa edin."</string>
     <string name="location_settings_loading_app_permission_stats">Yüklənir…</string>
     <string name="location_settings_primary_switch_title">Yerləşməni istifadə et</string>
     <string name="location_settings_summary_location_off">Bağlı</string>
-    <string name="location_settings_summary_location_on">{count, plural, =1 {On - # proqramı məkan əldə etmək imkanı var} other {On - # apps məkanına giriş imkanı var} }</string>
+    <string name="location_settings_summary_location_on">{count, plural, one {}=1 {Açıq - # tətbiq yerləşməyə müraciət edir} other {Açıq - # tətbiq yerləşməyə müraciət edir} }</string>
     <string name="location_settings_title">Yerləşmə</string>
     <string name="location_time_zone_detection_auto_is_off">Avtomatik saat qurşağı bağlıdır</string>
     <string name="location_time_zone_detection_auto_is_on">Yerləşmə, saat qurşağını ayarlamaq üçün istifadə edilə bilər</string>
@@ -4879,7 +4879,7 @@ Xiaomi Cloud açın və oradan əşyaları bərpa edin."</string>
     <string name="lock_screen_action">Aşağı sürüşdürdükdən sonra Kilid ekranında göstərilən elementlər</string>
     <string name="lock_screen_after_fold_screen_summary">"Ön kameranı və ya dinamiki istifadə etdiyiniz hallar istisna olmaqla, cihaz qatlandıqdan sonra kilidlənəcək."</string>
     <string name="lock_screen_after_fold_screen_title">Kilidləmək üçün qatlayın</string>
-    <string name="lock_screen_auto_pin_confirm_summary">6 ədəd və ya daha çox düzgün PIN daxil edirsinizsə, avtomatik kilidi açın. Bu, təsdiqləmək üçün Enter-ə təpik salmaqdan bir az daha təhlükəsizdir.</string>
+    <string name="lock_screen_auto_pin_confirm_summary">6 və ya daha çox rəqəmli PIN kodu doğru daxil etdikdə kilidi avtomatik aç. Bu, təsdiqləmək üçün Enter düyməsinə toxunmaqdan bir az daha az güvənlidir.</string>
     <string name="lock_screen_auto_pin_confirm_title">Kilid açmanı avto-təsdiqlə</string>
     <string name="lock_screen_display_category_name">Kilid ekranı</string>
     <string name="lock_screen_intro_skip_dialog_text">Cihaz qoruma özəllikləri işə salınmayacaq. İtsə və ya oğurlansa, başqasının bu telefonu istifadə etməsini önləyə bilməyəcəksiniz.</string>
@@ -5048,8 +5048,8 @@ Birinci sahə PIN-i ilə eyni uzunluqda olmalıdır."</string>
     <string name="lockpassword_password_recently_used">"Cihaz admini son parolu istifadə etməyə icazə vermir"</string>
     <string name="lockpassword_password_requires_letters">{count, plural, =1 {Ən azı 1 hərf olmalıdır} other {Ən azı # hərf olmalıdır} }</string>
     <string name="lockpassword_password_requires_lowercase">{count, plural, =1 {Ən azı 1 kiçik hərf olmalıdır} other {Ən azı # kiçik hərf olmalıdır} }</string>
-    <string name="lockpassword_password_requires_nonletter">{count, plural, =1 {Ən azı 1 hərf olmayan xarakter olmalıdır} other {Ən azı # qeyri-hərfi heroqlif olmalıdır} }</string>
-    <string name="lockpassword_password_requires_nonnumerical">{count, plural, =1 {Ən azı 1 ədəd qeyri-numerik xarakter ehtiva etməlidir} other {Ən azı # qeyri-numerik heroqlif olmalıdır} }</string>
+    <string name="lockpassword_password_requires_nonletter">{count, plural, =1 {Ən azı 1 hərf olmayan simvol olmalıdır} other {Ən azı # hərf olmayan simvol olmalıdır} }</string>
+    <string name="lockpassword_password_requires_nonnumerical">{count, plural, =1 {Ən azı 1 rəqəm olmayan simvol olmalıdır} other {Ən azı # rəqəm olmayan simvol olmalıdır} }</string>
     <string name="lockpassword_password_requires_numeric">{count, plural, one {}=1 {Ən azı 1 rəqəmdən ibarət olmalıdır} other {Ən azı # rəqəmdən ibarət olmalıdır} }</string>
     <string name="lockpassword_password_requires_symbols">{count, plural, one {}=1 {Ən azı 1 xüsusi simvoldan ibarət olmalıdır} other {Ən azı # xüsusi simvoldan ibarət olmalıdır} }</string>
     <string name="lockpassword_password_requires_uppercase">{count, plural, one {}=1 {Ən azı 1 böyük hərfdən ibarət olmalıdır} other {Ən azı # böyük hərfdən ibarət olmalıdır} }</string>
@@ -5108,7 +5108,7 @@ Birinci sahə PIN-i ilə eyni uzunluqda olmalıdır."</string>
     <string name="lockpattern_settings_enable_visible_pattern_title">Naxışı görünən et</string>
     <string name="lockpattern_settings_enable_visible_pattern_title_profile">Profil naxışını görünən et</string>
     <string name="lockpattern_settings_enhanced_pin_privacy_summary">PIN-i daxil edərkən animasiyaları sıradan çıxart</string>
-    <string name="lockpattern_settings_enhanced_pin_privacy_title">Gücləndirilmiş PIN gizlilik</string>
+    <string name="lockpattern_settings_enhanced_pin_privacy_title">Təkmilləşdirilmiş PIN gizliliyi</string>
     <string name="lockpattern_settings_help_how_to_record">Kilid açma naxışı necə çəkilir</string>
     <string name="lockpattern_settings_power_button_instantly_locks_summary">%1$s tərəfindən kilidin açıq olduğu hallar istisna</string>
     <string name="lockpattern_settings_title">Kilid açma naxışı</string>
@@ -5148,9 +5148,9 @@ Birinci sahə PIN-i ilə eyni uzunluqda olmalıdır."</string>
     <string name="login_account_summary">Hesabları, bulud xidmətlərini, ödənişləri və daha çoxunu idarə et</string>
     <string name="login_account_summary_temp">Hesabları, bulud xidmətlərini və daha çoxunu idarə et</string>
     <string name="login_action">Daxil ol</string>
-    <string name="long_background_tasks_footer_title">"Bu proqramın uzun arxa plan işlərini icra etməsinə icazə ver. Bu, proqramın bitməsi bir neçə dəqiqədən çox çəkə biləcək tapşırıqları yerinə yetirməyə imkan verir. Məsələn, yükləmə və yükləmə. 
+    <string name="long_background_tasks_footer_title">"Bu tətbiqin uzunmüddətli arxaplan tapşırıqlarını icra etməsinə icazə verin. Bu, tətbiqin endirmə və yükləmə kimi tamamlanması bir neçə dəqiqədən çox çəkə biləcək tapşırıqları icra etməsinə imkan verir. 
 
-Əgər bu icazə rədd edilərsə, sistem proqramın arxa planda bu cür tapşırıqları nə qədər yerinə yetirə biləcəyini məhdudlaşdıracaq."</string>
+Bu icazəyə rədd cavabı verilsə, sistem, tətbiqin bu cür tapşırıqları arxaplanda nə qədər müddətə yerinə yetirə biləcəyini məhdudlaşdıracaq."</string>
     <string name="long_background_tasks_label">Uzun müddətli arxaplan tapşırıqları</string>
     <string name="long_background_tasks_switch_title">Uzun müddət işləyən arxaplan tapşırıqlarına icazə ver</string>
     <string name="long_background_tasks_title">Uzun müddətli arxaplan tapşırıqları</string>
@@ -5712,14 +5712,14 @@ Bu əməliyyatın geri dönüşü yoxdur."</string>
     <string name="miui_tof_screen_on_close_switch_dialog_msg">Bu özəlliyi normal istifadə edə bilmək üçün \"%s\" özəlliyini işə salın. Bu özəlliyi Ayarlarda işə sala bilərsiniz.</string>
     <string name="miui_tof_screen_on_close_switch_dialog_positive">Ayarlar</string>
     <string name="miui_tof_screen_on_close_switch_dialog_title">\"%s\" - işə sal</string>
-    <string name="miui_tof_screen_on_close_tip_dialog_msg">\"%1$s\" üstündədir. Cihazınız üzünüzü tanıdıqda dərhal Ev ekranınızı və ya proqram məzmunununuzu göstərməmək üçün, biz saxlamağı məsləhət görürük \"%2$s\" həmçinin.</string>
+    <string name="miui_tof_screen_on_close_tip_dialog_msg">\"%1$s\" açıqdır. Cihazınızın üzünüzü tanıdığı zaman Əsas ekranınızın və ya tətbiq məzmununuzun dərhal göstərilməsini önləmək üçün \"%2$s\" seçimini də açıq saxlamağı tövsiyə edirik.</string>
     <string name="miui_tof_screen_on_close_tip_dialog_negative">Söndür</string>
     <string name="miui_tof_screen_on_close_tip_dialog_positive">Açıq saxla</string>
     <string name="miui_tof_screen_on_close_tip_dialog_title">Gizlilik bildirişi</string>
     <string name="miui_tof_screen_on_msg">Cihazın yaxınlığında bir şəxs aşkarlandıqda, ekranı açılacaq, üzü tanımağa çalışacaq, uğurlu olarsa kilidi açılacaq</string>
-    <string name="miui_tof_screen_on_open_dialog_msg">Dön »%s\" cihazınızın üzünüzü tanıdığı zaman dərhal Ev ekranınızı və ya proqram məzmunununuzu göstərməməsi üçün.</string>
+    <string name="miui_tof_screen_on_open_dialog_msg">Cihazınızın üzünüzü tanıdığı zaman Əsas ekranınızın və ya tətbiq məzmununuzun dərhal göstərilməsini önləmək üçün \"%s\" seçimini işə salın.</string>
     <string name="miui_tof_screen_on_open_dialog_title">\"%s\" - işə sal</string>
-    <string name="miui_tof_screen_on_success_toast">«Cihaza yaxın olanda üz tanıyın» (ing.). Məxfiliyiniz üçün \"Kilidi açdıqdan sonra kilid ekranında qalın\" adlı ekranı da açın.</string>
+    <string name="miui_tof_screen_on_success_toast">\"Cihazın yanında olduqda üzü tanı\" açıqdır. Gizliliyiniz üçün \"Kilidi açdıqdan sonra Kilid ekranında qal\" seçimini də işə salın.</string>
     <string name="miui_tof_screen_on_title">Cihazın yanında olduqda üzü tanı</string>
     <string name="miui_touch_filtered_touchassistant_warning">İcazələr dialoqu, Cəld top əhatəsindədir. \"Cəld top\"u daşıyın və ya bu özəlliyi söndürün.</string>
     <string name="miui_touch_filtered_warning">Əgər bir tətbiq icazələr dialoqunu əngəlləyirsə, üst-üstə düşən elementi kənara sürükləyin və ya tətbiqi bağlayın.</string>
@@ -5817,11 +5817,11 @@ Bu əməliyyatın geri dönüşü yoxdur."</string>
     <string name="modifier_keys_ctrl">Ctrl</string>
     <string name="modifier_keys_default_summary">İlkin</string>
     <string name="modifier_keys_done">Hazırdır</string>
-    <string name="modifier_keys_meta">Hərəkət açarı</string>
-    <string name="modifier_keys_picker_summary">Yeni açar seç %1$s:</string>
-    <string name="modifier_keys_picker_title">Dəyişdirici açarı seç</string>
+    <string name="modifier_keys_meta">Fəaliyyət düyməsi</string>
+    <string name="modifier_keys_picker_summary">%1$s üçün yeni bir düymə seçin:</string>
+    <string name="modifier_keys_picker_title">Dəyişdirici düyməni seç</string>
     <string name="modifier_keys_reset">Sıfırla</string>
-    <string name="modifier_keys_reset_message">Əminsinizmi ki, bütün dəyişdirici açarları öz əsaslarına sıfırlamaq istəyirsiniz?</string>
+    <string name="modifier_keys_reset_message">Bütün dəyişdirici düymələri ilkin dəyərlərinə sıfırlamaq istədiyinizə əminsiniz?</string>
     <string name="modifier_keys_reset_title">Hamısını sıfırla</string>
     <string name="modifier_keys_settings">Dəyişdirici düymələr</string>
     <string name="modifier_keys_settings_summary">Düymələrin davranışını dəyişdir</string>
@@ -5994,7 +5994,7 @@ Bu əməliyyatın geri dönüşü yoxdur."</string>
     <string name="multi_window_cvw_summary_global">Üzən pəncərəyə keçmək və ölçüsünü ayarlamaq üçün küncü sürükləyin</string>
     <string name="multi_window_cvw_title">Üzən pəncərə</string>
     <string name="multifunction_keyboard">Çox funksiyalı</string>
-    <string name="multiple_users_main_switch_keywords">icazə, çox, istifadəçi, icazə, çox</string>
+    <string name="multiple_users_main_switch_keywords">icazə ver, çoxlu, istifadəçi, izin, çox</string>
     <string name="multiple_users_main_switch_title">Çoxlu istifadəçiyə icazə ver</string>
     <string name="music_equalizer">Tarazlayıcı</string>
     <string name="music_playback_control_cross_device_flow">Səs oxudulmasını cihazlar arasında ötürün</string>
@@ -6152,7 +6152,7 @@ Bu əməliyyatın geri dönüşü yoxdur."</string>
     <string name="nfc_main_switch_title">NFC istifadə et</string>
     <string name="nfc_more_details">Daha ətraflı</string>
     <string name="nfc_more_title">Daha çox…</string>
-    <string name="nfc_notification_mode_title">NFC kart oxu xatırlatmaları</string>
+    <string name="nfc_notification_mode_title">NFC kart oxuma xatırladıcıları</string>
     <string name="nfc_payment_btn_text_set_deault">İlkin olaraq ayarla</string>
     <string name="nfc_payment_btn_text_update">Güncəllə</string>
     <string name="nfc_payment_default">İlkin ödəniş</string>
@@ -6174,7 +6174,7 @@ Bu, ilkin ödəniş tətbiqi kimi %2$s əvəz edir."</string>
     <string name="nfc_quick_toggle_summary">Bu cihaz digərinə toxunduqda data mübadiləsinə icazə ver</string>
     <string name="nfc_quick_toggle_title">NFC</string>
     <string name="nfc_reboot_dialog_confirm">Yenidən başlat</string>
-    <string name="nfc_reboot_dialog_message">Ətraflı NFC logging yalnız inkişaf məqsədləri üçün nəzərdə tutulmuşdur. Əlavə NFC məlumatları xəta hesabatlarında daxil edilir. Bu məlumatlarda şəxsi məlumatlar ola bilər. Bu qurğunu dəyişmək üçün cihazınızı yenidən başlatın.</string>
+    <string name="nfc_reboot_dialog_message">Detallı NFC jurnalı, yalnız inkişaf məqsədləri üçün nəzərdə tutulub. Əlavə NFC datası, şəxsi məlumatlar ehtiva edə bilən xəta hesabatlarına daxil edilir. Bu ayarı dəyişdirdikdən sonra cihazınızı yenidən başladın.</string>
     <string name="nfc_reboot_dialog_title">Cihaz yenidən başladılsın?</string>
     <string name="nfc_repair_action_btn">Bərpa et</string>
     <string name="nfc_repair_action_desc">NFC özəlliklərini istifadə etməyinizi önləyən problemləri həll etmək üçün \"<b>Bərpa et</b>\"\" seçiminə toxunun. NFC funksionallığı bərpa edilərkən hazırkı səhifəni tərk etməyin. Dəyişiklikləri tətbiq etmək üçün cihazınızı yenidən başladın.\"</string>
@@ -6200,12 +6200,12 @@ Bu, ilkin ödəniş tətbiqi kimi %2$s əvəz edir."</string>
     <string name="nfc_secure_toggle_summary">NFC istifadəsinə yalnız ekran kilidi açıldıqdan sonra icazə ver</string>
     <string name="nfc_setting_off">Bağlı</string>
     <string name="nfc_setting_on">Açıq</string>
-    <string name="nfc_snoop_log_summary">NFC paketlərini tut. Bu paketlərdə şəxsi məlumatlar ola bilər.</string>
-    <string name="nfc_snoop_log_title">NFC NCIfilter edilməmiş log</string>
+    <string name="nfc_snoop_log_summary">Şəxsi məlumatları ehtiva edə bilən detallı NFC paketlərini yaxalayın.</string>
+    <string name="nfc_snoop_log_title">NFC NCI filtrlənməmiş jurnal</string>
     <string name="nfc_stack_debuglog_summary">NFC yığın jurnalı səviyyəsini artır</string>
     <string name="nfc_stack_debuglog_title">NFC yığını sazlama jurnalı</string>
-    <string name="nfc_verbose_vendor_log_summary">Bugreports əlavə cihaz xüsusi satıcı logs daxil edin. Bu, şəxsi məlumat ola bilər.</string>
-    <string name="nfc_verbose_vendor_log_title">NFC verbose satıcı debug log</string>
+    <string name="nfc_verbose_vendor_log_summary">Xəta hesabatlarına əlavə cihaza xas satıcı jurnallarını daxil edin. Bu jurnallar şəxsi məlumatları ehtiva edə bilər.</string>
+    <string name="nfc_verbose_vendor_log_title">NFC detallı satıcı sazlama jurnalı</string>
     <string name="nfc_work_text">İş</string>
     <string name="night">Axşam</string>
     <string name="night_display_auto_mode_custom">Seçilmiş vaxtda açılır</string>
@@ -6434,26 +6434,26 @@ Bu, həm də tətbiqə Narahat Etməyin rejimini işə salma və ya söndürmə 
     <string name="notification_vibrate_title">Titrəmə</string>
     <string name="notification_volume_control">Bildiriş səslərini idarə et</string>
     <string name="notification_volume_control_note">Bildiriş səslərinin səs səviyyələrini ayrıca ayarla</string>
-    <string name="notification_volume_disabled_summary">Üzük mutasiya olunduğu üçün əlçatmazdır</string>
+    <string name="notification_volume_disabled_summary">Zəng səsi səssizdə olduğu üçün əlçatmazdır</string>
     <string name="notification_volume_option_title">Bildiriş səs səviyyəsi</string>
-    <string name="notification_volume_sync_ring">Bildirişlərin həcmi sizin rinqinizlə eyni olacaq</string>
+    <string name="notification_volume_sync_ring">Bildirişlərin səs səviyyəsi zəngin səs səviyyəsi ilə eyni olacaq</string>
     <string name="notifications_bubble_setting_description">Bəzi danışıqlar, digər tətbiqlərin üzərində üzən nişanlar olaraq görünəcək</string>
     <string name="notifications_bubble_setting_on_summary">Açıq / Danışıqlar üzən nişanlar olaraq görünə bilər</string>
     <string name="notifications_bubble_setting_title">Tətbiqlərin qabarcıqları göstərməsinə icazə ver</string>
-    <string name="notifications_categories_off">{count, plural, =1 {# kateqoriya söndürdü} other {# kateqoriyaları söndürdü} }</string>
+    <string name="notifications_categories_off">{count, plural, one {}=1 {# kateqoriya söndürüldü} other {# kateqoriya söndürüldü} }</string>
     <string name="notifications_disabled">Bağlı</string>
     <string name="notifications_enabled">Açıq</string>
     <string name="notifications_label">Bildirişlər</string>
-    <string name="notifications_sent_daily">{count, plural, =1 {Gün ərzində təxminən # bildiriş} other {Gündəlik # bildiriş haqqında} }</string>
+    <string name="notifications_sent_daily">{count, plural, one {}=1 {Gündə təxminən # bildiriş} other {Gündə təxminən # bildiriş} }</string>
     <string name="notifications_sent_never">Heç vaxt</string>
-    <string name="notifications_sent_weekly">{count, plural, =1 {Həftədə təxminən # bildiriş} other {Həftədə təxminən # bildiriş} }</string>
+    <string name="notifications_sent_weekly">{count, plural, one {}=1 {Həftədə təxminən # bildiriş} other {Həftədə təxminən # bildiriş} }</string>
     <string name="notifications_title">Bildirişlər</string>
     <string name="now">İndi yenidən başlat</string>
     <string name="nr_advanced_calling_summary">Səsli zənglər üçün 5G istifadə et</string>
     <string name="nrca_need_reset">Dəyişiklikləri tətbiq etmək üçün cihazınızı yenidən başladın</string>
     <string name="nrca_registered">Qeydiyyatlı</string>
-    <string name="nrca_switch_title">5G operator birləşdirmə istifadə et</string>
-    <string name="nrca_type_title">Daşıyıcı aqreqasiya vəziyyəti</string>
+    <string name="nrca_switch_title">5G operator yığmanı istifadə et</string>
+    <string name="nrca_type_title">Operator yığma statusu</string>
     <string name="nrca_unregistered">Qeydiyyatsız</string>
     <string name="number_of_device_admins_none">Aktiv tətbiq yoxdur</string>
     <string name="number_of_urls">{count, plural, one {}=1 {# URL} other {# URL} }</string>
@@ -6884,7 +6884,7 @@ Güc düyməsinə və səs artırma düyməsinə eyni anda basın"</string>
     <string name="preferred_network_mode_wcdma_perf_summary">Tərcih edilən şəbəkə rejimi: WCDMA tərcih edilir</string>
     <string name="preferred_network_type_summary">LTE (tövsiyə edilən)</string>
     <string name="preferred_network_type_title">Tərcih edilən şəbəkə növü</string>
-    <string name="preferred_nw_incompatible_ciwlan_nw_mode_dialog_body">LTE, NR və ya Global ehtiva etməyən şəbəkə tipini seçmək üçün zəhmət olmasa Səs Cellular internet üzərindən söndürün.</string>
+    <string name="preferred_nw_incompatible_ciwlan_nw_mode_dialog_body">LTE, NR və ya Qlobal ehtiva etməyən bir şəbəkə növü seçmək üçün lütfən \"Mobil İnternet üzərindən Səs\"i söndürün.</string>
     <string name="preferred_nw_incompatible_ciwlan_nw_mode_dialog_title">Uyumsuz şəbəkə növü</string>
     <string name="preferred_sms_settings">Bu tətbiq mətn mesajlarını oxumaq və yazmaq üçün ilkin tətbiqiniz olaraq ayarlanacaq.</string>
     <string name="preferred_sms_title">İlkin mesajlaşma tətbiqi</string>
@@ -6896,7 +6896,7 @@ Güc düyməsinə və səs artırma düyməsinə eyni anda basın"</string>
     <string name="prevent_ringing_main_switch_title">Zəng səsini əngəlləməyi istifadə et</string>
     <string name="prevent_ringing_option_mute">Səsi kəs</string>
     <string name="prevent_ringing_option_mute_summary">Səsi kəs</string>
-    <string name="prevent_ringing_option_unavailable_lpp_summary">Fəal etmək üçün əvvəlcə \"Press &amp; power button\" power menu-a saxlayın.</string>
+    <string name="prevent_ringing_option_unavailable_lpp_summary">Fəallaşdırmaq üçün əvvəlcə \"Güc düyməsini basılı tutun\"u güc menyusuna dəyişdirin.</string>
     <string name="prevent_ringing_option_vibrate">Titrəmə</string>
     <string name="prevent_ringing_option_vibrate_summary">Titrəmə</string>
     <string name="preview_pager_content_description">Önizləmə</string>
@@ -7303,7 +7303,7 @@ Cihazınızı yenidən başladıb bir daha sınayın."</string>
     <string name="restrict_bg_app">Məhdudlaşdır</string>
     <string name="restrict_max_aspect_ratio_title">"Bu tətbiqlər tam ekran rejimində yaxşı işləmir"</string>
     <string name="restricted_app_detail_footer">Bu tətbiqlərin arxaplanda batareya istifadəsi məhdudlaşdırılıb. Onlar gözlənildiyi kimi işləməyə bilər və bildirişlər gecikə bilər.</string>
-    <string name="restricted_app_summary">{count, plural, =1 {# proqram üçün batareya istifadə məhdudlaşdırmaq} other {# apps üçün batareya istifadə məhdudlaşdırmaq} }</string>
+    <string name="restricted_app_summary">{count, plural, one {}=1 {# tətbiqin batareya istifadəsi məhdudlaşdırılır} other {# tətbiqin batareya istifadəsi məhdudlaşdırılır} }</string>
     <string name="restricted_app_time_summary">%1$s məhdudlaşdırıldı</string>
     <string name="restricted_app_title">Məhdudlaşdırılmış tətbiqlər</string>
     <string name="restriction_bluetooth_config_summary">Bluetooth cütləşmələrinin və ayarlarının dəyişdirilməsinə icazə verin</string>
@@ -7321,7 +7321,7 @@ Cihazınızı yenidən başladıb bir daha sınayın."</string>
     <string name="retry">Yenidən sına</string>
     <string name="rgb_face_data_manage_delete_msg">2D üz datasını sil</string>
     <string name="rgb_manage_facerecoginition_text">2D üz datasını idarə et</string>
-    <string name="rhythmic_mode_enable_summary">App növləri və günvurma/günbatma vaxtları əsasında rəngləri avtomatik olaraq sazlayaraq optimal komforta nail olmaq</string>
+    <string name="rhythmic_mode_enable_summary">Tətbiq növlərinə və günəşin doğuş/qürub vaxtlarına görə rəngləri avtomatik ayarlayaraq optimal rahatlığı əldə edin</string>
     <string name="rhythmic_mode_enable_title">Dövr</string>
     <string name="right_edge">Sağ kənar</string>
     <string name="right_function_key">Sağ qısayolu</string>
@@ -7909,10 +7909,10 @@ Silindikdən sonra, telefonunuzun kilidini açmaq və ya tətbiqlərdə kimliyi 
     <string name="security_settings_face_enroll_introduction_agree">Razıyam</string>
     <string name="security_settings_face_enroll_introduction_cancel">İmtina</string>
     <string name="security_settings_face_enroll_introduction_consent_message">Telefonunuzun kilidini açmaq üçün uşağınızın üzünü istifadə etmək, güclü bir naxış və ya PIN-ə nisbətən daha az güvənli ola bilər.</string>
-    <string name="security_settings_face_enroll_introduction_consent_message_0">Uşağınızın telefonunun kilidini açmaq üçün üzündən istifadə etməsinə icazə verin</string>
+    <string name="security_settings_face_enroll_introduction_consent_message_0">Öz telefonunun kilidini açmaq üçün övladınıza üzlərini istifadə etməsinə icazə verin</string>
     <string name="security_settings_face_enroll_introduction_consent_message_0_class3">Övladınızın, öz telefonunun kilidini açmaq və ya öz kimliyini doğrulamaq üçün üzünü istifadə etməsinə icazə verin. Bu, tətbiqlərdə hesaba daxil olduqda, alışı təsdiqlədikdə və ya daha çoxunda baş verir.</string>
     <string name="security_settings_face_enroll_introduction_message">Telefonunuzun kildini açmaq, satınalmaları təsdiqləmək və ya tətbiqlərə giriş etmək üçün üzünüzü istifadə edin.</string>
-    <string name="security_settings_face_enroll_introduction_message_class3">Telefonunuzu açmaq və ya proqramlarda autentifikasiya üçün üzünüzdən istifadə edin. Məsələn, proqramlara imza atdığınız və ya alış-verişi qəbul etdiyiniz zaman.</string>
+    <string name="security_settings_face_enroll_introduction_message_class3">Telefonunuzun kilidini açmaq və ya tətbiqlərdə kimlik doğrulaması (məsələn, tətbiqlərdə giriş etmək və ya bir alışı təsdiqləmək) etmək üçün üzünüzü istifadə edin.</string>
     <string name="security_settings_face_enroll_introduction_message_setup">Telefonunuzun kildini açmaq, satınalmaları təsdiqləmək və ya tətbiqlərə giriş etmək üçün üzünüzü istifadə edin</string>
     <string name="security_settings_face_enroll_introduction_message_unlock_disabled">"Telefonunuzun kildini açmaq və ya satın almaları təsdiqləmək üçün üzünüzü istifadə edin.
 
@@ -7952,26 +7952,26 @@ Telefona baxmaq istəmədiyiniz zaman onun kilidini aça bilərsiniz.
 Telefonunuzu üzünüzə tutduqda, gözləriniz bağlı olsa belə başqa birisi onun kilidini aça bilər.
 
 Telefonunuzun kilidi sizə çox bənzəyən, eynilə qardaşınız kimi biri tərəfindən açıla bilər."</string>
-    <string name="security_settings_face_settings_footer_class3">"Telefonunuzu açmaq və ya sizin olduğunuzu yoxlamaq üçün üzünüzdən istifadə edin. Proqramlara imza atdığınız və ya alış-verişi qəbul etdiyiniz zaman olduğu kimi.
+    <string name="security_settings_face_settings_footer_class3">"Telefonunuzun kilidini açmaq və ya siz olduğunuzu doğrulamaq (məsələn, tətbiqlərdə giriş edərkən və ya bir alışı təsdiqləyərkən) üçün üzünüzü istifadə edin.
 
 Yadda saxlayın:
-Bir dəfəyə yalnız bir üz qurula bilər. Başqa üz əlavə etmək üçün carini silin.
+Eyni anda yalnız bir üz quraşdıra bilərsiniz. Başqa bir üz əlavə etmək üçün mövcud üzü silin.
 
-Telefona baxmaq niyyətiniz olmadıqda kilidini aça bilər.
+Telefona baxmaq istəmədiyiniz zaman onun kilidini aça bilərsiniz.
 
-Telefonunuz üzünüzə qədər tutulubsa, başqası tərəfindən kilidini aça bilər.
+Telefonunuzu üzünüzə tutduqda başqa birisi onun kilidini aça bilər.
 
-Telefonunuzu sizə çox oxşayan, eyni bacı-qardaş kimi olan biri aça bilər."</string>
-    <string name="security_settings_face_settings_footer_class3_attention_not_supported">"Telefonunuzu açmaq və ya sizin olduğunuzu yoxlamaq üçün üzünüzdən istifadə edin. Proqramlara imza atdığınız və ya alış-verişi qəbul etdiyiniz zaman olduğu kimi.
+Telefonunuzun kilidi sizə çox bənzəyən, eynilə qardaşınız kimi biri tərəfindən açıla bilər."</string>
+    <string name="security_settings_face_settings_footer_class3_attention_not_supported">"Telefonunuzun kilidini açmaq və ya siz olduğunuzu doğrulamaq (məsələn, tətbiqlərdə giriş edərkən və ya bir alışı təsdiqləyərkən) üçün üzünüzü istifadə edin.
 
 Yadda saxlayın:
-Bir dəfəyə yalnız bir üz qurula bilər. Başqa üz əlavə etmək üçün carini silin.
+Eyni anda yalnız bir üz quraşdıra bilərsiniz. Başqa bir üz əlavə etmək üçün mövcud üzü silin.
 
-Telefona baxmaq niyyətiniz olmadıqda kilidini aça bilər.
+Telefona baxmaq istəmədiyiniz zaman onun kilidini aça bilərsiniz.
 
-Telefonunuz gözünüz bağlı olsa belə, üzünüzə qədər tutulsa, başqası tərəfindən açıla bilər.
+Telefonunuzu üzünüzə tutduqda, gözləriniz bağlı olsa belə başqa birisi onun kilidini aça bilər.
 
-Telefonunuzu sizə çox oxşayan, eyni bacı-qardaş kimi olan biri aça bilər."</string>
+Telefonunuzun kilidi sizə çox bənzəyən, eynilə qardaşınız kimi biri tərəfindən açıla bilər."</string>
     <string name="security_settings_face_settings_preferences_category">Üzlə kilid açmanı istifadə edərkən</string>
     <string name="security_settings_face_settings_remove_dialog_details">"Üz modeliniz birdəfəlik və güvənli olaraq silinəcək.
 
@@ -7986,10 +7986,10 @@ Sildikdən sonra, telefonunuzun kilidini açmaq üçün PIN, naxış və ya paro
     <string name="security_settings_face_settings_require_confirmation">Həmişə təsdiq tələb edilir</string>
     <string name="security_settings_face_settings_require_confirmation_details">Tətbiqlərdə Üzlə kilid açma istifadə edərkən, həmişə təsdiq addımı tələb edilsin</string>
     <string name="security_settings_face_settings_use_face_category">Üzlə kilid açmanı istifadə et</string>
-    <string name="security_settings_face_watch_preference_summary">Üz və %s əlavə etdi</string>
+    <string name="security_settings_face_watch_preference_summary">Üz və %s əlavə edildi</string>
     <string name="security_settings_fingerprint">Barmaq izi</string>
-    <string name="security_settings_fingerprint_bad_calibration">Təmir edənə baş çəkin.</string>
-    <string name="security_settings_fingerprint_bad_calibration_title">Barmaq izi sensordan istifadə edə bilmir</string>
+    <string name="security_settings_fingerprint_bad_calibration">Təmir xidmətini ziyarət edin.</string>
+    <string name="security_settings_fingerprint_bad_calibration_title">Barmaq izi sensoru istifadə edilə bilmir</string>
     <string name="security_settings_fingerprint_enroll_consent_introduction_title">Barmaq izi ilə kilid açmaya icazə ver</string>
     <string name="security_settings_fingerprint_enroll_dialog_delete">Sil</string>
     <string name="security_settings_fingerprint_enroll_dialog_name_label">Ad</string>
@@ -8009,10 +8009,10 @@ Sildikdən sonra, telefonunuzun kilidini açmaq üçün PIN, naxış və ya paro
     <string name="security_settings_fingerprint_enroll_find_sensor_message">Telefonunuzun arxasındadır. Şəhadət barmağınızı istifadə edin.</string>
     <string name="security_settings_fingerprint_enroll_find_sensor_title">Sensora toxunun</string>
     <string name="security_settings_fingerprint_enroll_finish_title">Barmaq izi əlavə edildi</string>
-    <string name="security_settings_fingerprint_enroll_finish_v2_add_fingerprint_message">"İndi siz telefonunuzun kilidini açmaq və ya sizin olduğunu yoxlamaq üçün barmaq izinizi istifadə edə bilərsiniz. Proqramlara imza atdığınız və ya alış-verişi qəbul etdiyiniz zaman olduğu kimi.
+    <string name="security_settings_fingerprint_enroll_finish_v2_add_fingerprint_message">"Artıq telefonunuzun kilidini açmaq və ya siz olduğunuzu doğrulamaq (məsələn, tətbiqlərə giriş edərkən və ya bir alış təsdiqləyərkən) üçün barmaq izinizi istifadə edə bilərsiniz.
 
-Başqa barmaq izi əlavə edin ki, telefonunuzu müxtəlif üsullarla tutduğunuz zaman kilidini açmaq daha asan olsun."</string>
-    <string name="security_settings_fingerprint_enroll_finish_v2_message">İndi telefonunuzun kilidini açmaq və ya sizin olduğunuzu yoxlamaq üçün barmaq izinizi istifadə edə bilərsiniz. Proqramlara imza atarkən və ya alış-verişi qəbul edərkən olduğu kimi</string>
+Telefonunuzu fərqli üsullarla tutduqda kilidini açmağı asanlaşdırmaq üçün başqa bir barmaq izi əlavə edin."</string>
+    <string name="security_settings_fingerprint_enroll_finish_v2_message">Artıq telefonunuzun kilidini açmaq və ya siz olduğunuzu doğrulamaq (məsələn, tətbiqlərə giriş edərkən və ya bir alış təsdiqləyərkən) üçün barmaq izinizi istifadə edə bilərsiniz</string>
     <string name="security_settings_fingerprint_enroll_introduction_agree">Razıyam</string>
     <string name="security_settings_fingerprint_enroll_introduction_cancel">İmtina</string>
     <string name="security_settings_fingerprint_enroll_introduction_consent_message">Övladınızın, öz telefonunun kilidini açmaq və ya öz kimliyini doğrulamaq üçün barmaq izini istifadə etməsinə icazə verin. Bu, tətbiqlərdə hesaba daxil olduqda, alışı təsdiqlədikdə və ya daha çoxunda baş verir.</string>
@@ -8493,7 +8493,7 @@ Sonuncuları açmaq üçün cüt toxunun."</string>
     <string name="snooze_options_title">Bildiriş ertələməyə icazə ver</string>
     <string name="softbank_apn_lock_toast">APN kilidlidir. Düzəliş edilə bilmir.</string>
     <string name="software_cursor_trigger_hints_enabled_title">Jest aşkarlama sahəsi ipucuları</string>
-    <string name="software_cursor_trigger_keyboard_shift_enabled_title">Klaviaturanın üstündə jesti aşkar etmə bölgəsini dəyişin</string>
+    <string name="software_cursor_trigger_keyboard_shift_enabled_title">Klaviaturanın üzərindəki jest aşkarlama bölgəsini dəyişdir</string>
     <string name="software_version">Proqram təminatı versiyası</string>
     <string name="solid_text">Möhkəm, güclü jest təcrübəsi yaratmaq üçün aşağı tezlikli toxunaqlı əks-əlaqə və müvafiq vizual keçidləri istifadə edir</string>
     <string name="sometimes_running">Bəzən işləyir (%s)</string>
@@ -8709,17 +8709,17 @@ Alternativ olaraq, cihaz əlçatan deyilsə, bu anbar vahidini unutmağı seçə
 Unutmağı seçsəniz, cihazda olan bütün data həmişəlik silinəcək. 
 
 Tətbiqi sonra yenidən quraşdıra bilərsiniz, amma bu cihazda saxlanılan data itiriləcək."</string>
-    <string name="storage_internal_format_details">"Siz bu SD kartı format edərək foto, video, musiqi, və daha çox saxlamaq və digər cihazlarda onlara daxil ola bilərsiniz. 
+    <string name="storage_internal_format_details">"Foto, video, musiqi və daha çoxunu saxlamaq və onlara başqa cihazdan müraciət etmək üçün SD kartı format edə bilərsiniz. 
 
-\"<b>Bu SD kartda olan bütün məlumatlar silinəcək.</b>\" 
+\"<b>Bu SD kartdakı bütün data silinəcək.</b>\" 
 
-\"<b>Formatlamadan əvvəl</b>\" 
+\"<b>Formatdan əvvəl</b>\" 
 
-\"<b>Şəkilləri arxa plana çək &amp; digər media</b>\" 
-Media fayllarınızı bu cihazda alternativ anbara daşın və ya USB kabeli ilə kompüterə keçirin. 
+\"<b>Fotoları və digər medianı nüsxələyin</b>\" 
+Media fayllarınızı bu cihazdakı alternativ anbara daşıyın və ya bir USB kabel istifadə edərək onları kompüterə köçürün. 
 
-\"<b>Back up proqramlar</b>\" 
-Bu ^1-də saxlanılan bütün proqramlar silinəcək və onların məlumatları silinəcək. Bu proqramları saxlamaq üçün onları bu cihazda alternativ anbara köçürun."</string>
+\"<b>Tətbiqləri nüsxələyin</b>\" 
+Bu ^1 daxilindəki bütün saxlanılmış tətbiqlər və onların dataları silinəcək. Bu tətbiqləri saxlamaq üçün onları bu cihazdakı alternativ anbara daşıyın."</string>
     <string name="storage_internal_title">Sistemdən kənar anbar sahəsi</string>
     <string name="storage_internal_unmount_details"><b>Bu ^1 ayırdıqdan sonra, onda saxlanılan tətbiqlər işləməyi dayandıracaq və geri taxılana qdərə onda saxlanılan media fayllar əlçatmaz olacaq.</b>\"
 
@@ -9342,13 +9342,13 @@ Daha sürətli ^3 istifadə etməyə çalışın və ya bunun əvəzinə portati
     <string name="trackpad_pointer_speed">Kursor sürəti</string>
     <string name="trackpad_recent_apps_summary">Üç barmaqla sola və ya sağa sürüşdür, basılı tut</string>
     <string name="trackpad_recent_apps_title">Son tətbiqlər</string>
-    <string name="trackpad_reverse_scrolling_summary">Məzmun aşağı enəndə yuxarı doğru hərəkət edir</string>
-    <string name="trackpad_reverse_scrolling_title">Tərs tərs</string>
+    <string name="trackpad_reverse_scrolling_summary">Aşağı sürüşdürdükdə məzmun yuxarı doğru hərəkət edir</string>
+    <string name="trackpad_reverse_scrolling_title">Tərsinə sürüşdür</string>
     <string name="trackpad_settings">Toxunuş paneli</string>
     <string name="trackpad_settings_summary">Kursor sürəti, jestlər</string>
-    <string name="trackpad_switch_apps_summary">Dörd barmaqla sola və ya sağa sürtmək</string>
-    <string name="trackpad_switch_apps_title">Keçid proqramları</string>
-    <string name="trackpad_tap_to_click">Tıklamaq üçün tap</string>
+    <string name="trackpad_switch_apps_summary">Dörd barmaqla sola və ya sağa sürüşdürün</string>
+    <string name="trackpad_switch_apps_title">Tətbiqləri dəyişdir</string>
+    <string name="trackpad_tap_to_click">Klikləmək üçün toxunun</string>
     <string name="trackpad_touch_gesture">Toxunuş paneli jestlərini öyrən</string>
     <string name="trackpad_touchpad_gesture_summary">Fərdi toxunuş paneli naviqasiya jestlərini özəlləşdir</string>
     <string name="trackpad_touchpad_gesture_title">Toxunuş panli jestləri</string>
@@ -9359,12 +9359,12 @@ Daha sürətli ^3 istifadə etməyə çalışın və ya bunun əvəzinə portati
     <string name="transcode_notification">Transkodlaşdırma bildirişlərini göstər</string>
     <string name="transcode_settings_title">Media transkodlaşdırma ayarları</string>
     <string name="transcode_user_control">Transkodlaşdırma ilkin seçimlərini yararsız et</string>
-    <string name="transfer_esim_to_another_device_title">eSIM-i başqa qurğuya köçür</string>
+    <string name="transfer_esim_to_another_device_title">eSIM-i başqa cihaza köçür</string>
     <string name="transition_animation_scale_title">Keçid animasiya miqyası</string>
     <string name="transparent_human_voice">Səs</string>
     <string name="transparent_human_voice_plus">Səs+</string>
     <string name="transparent_navigation_bar">Şəffaf naviqasiya çubuğu</string>
-    <string name="transparent_navigation_bar_summary">Ön qurğulu olaraq naviqasiya çubuğu arxa plan rəngi şəffaf olsun</string>
+    <string name="transparent_navigation_bar_summary">Naviqasiya çubuğunun arxaplan rəngini ilkin olaraq şəffaf et</string>
     <string name="transparent_normal">Müntəzəm</string>
     <string name="transparent_surroundings">Mühit</string>
     <string name="truetone_summary">Rəngləri mühit işığına görə ayarla</string>
@@ -9459,7 +9459,7 @@ Daha sürətli ^3 istifadə etməyə çalışın və ya bunun əvəzinə portati
     <string name="uninstall_device_admin">Tətbiqi sil</string>
     <string name="uninstall_dlg_msg">Silmə prosesi ilə bütün tətbiq məlumatları silinəcək.</string>
     <string name="uninstall_dlg_title">İndi silinsin?</string>
-    <string name="uninstall_protected_dlg_msg">Uninstalling sistem proqramları bəzi sistem komponentlərinin düzgün işləməsinin qarşısını ala bilər. Hər halda yenidən yükləmək lazımdır?</string>
+    <string name="uninstall_protected_dlg_msg">Sistem tətbiqlərini silmək bəzi sistem komponentlərinin düzgün işləməsini önləyə bilər. Yenə də silinsin?</string>
     <string name="uninstall_protected_dlg_title">Sistem tətbiqlərini silmə</string>
     <string name="uninstall_text">Sil</string>
     <string name="uninstall_with_xspace_app_dlg_msg">Müvafiq ikili tətbiqlər, tətbiq dataları ilə birgə silinəcək.</string>
@@ -9551,7 +9551,7 @@ Bu, cihazınızda saxlanılan barmaq izi modelini də silir. Tətbiqlərdə kiml
     <string name="unrestricted_app_summary">Dataya qənaət açıq olduqda məhdudiyyətsiz data müraciətinə icazə ver</string>
     <string name="unrestricted_app_title">Məhdudiyyətsiz internet istifadəsi</string>
     <string name="unrestricted_data_saver">Məhdudiyyətsiz internet</string>
-    <string name="unseen_notifs_lock_screen">Qıfıllı ekranda yalnız yeni bildirişləri göstər</string>
+    <string name="unseen_notifs_lock_screen">Kilid ekranında yalnız yeni bildirişləri göstər</string>
     <string name="unseen_notifs_lock_screen_summary">Daha əvvəl baxılmış bildirişləri kilid ekranında avtomatik silin</string>
     <string name="unused_apps">İstfdə edlmyn tətbiqlər</string>
     <string name="unused_apps_category">İstifadə edilməyən tətbiq ayarları</string>
