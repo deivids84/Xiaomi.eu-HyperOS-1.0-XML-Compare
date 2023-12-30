@@ -1782,7 +1782,7 @@ Bu icazəni yalnız axtardığınız videoları tapmaq üçün istifadə edəcə
     <string name="tt_error_ad_type">Qeyri-qanuni reklam növü</string>
     <string name="tt_error_adtype_differ">Reklam növü xətası</string>
     <string name="tt_error_apk_sign_check_error">Qeyri-qanuni apk sha1 dəyəri</string>
-    <string name="tt_error_bidding_type">Yerləşdirmə təklif növü deyil, lütfən, yerləşdirmə təklifinin növünü yoxlayın</string>
+    <string name="tt_error_bidding_type">Yerləşdirmə, təklif növü deyil, lütfən yerləşdirmə təklif növünü yoxlayın</string>
     <string name="tt_error_code_adcount_error">Yanlış reklam sayı</string>
     <string name="tt_error_code_click_event_error">Klikləmə hadisə xətası</string>
     <string name="tt_error_device_ip">Lütfən xidmət ölkəsində reklam tələb edən cihazın IP-sinin ölkəsini yoxlayın</string>
@@ -1830,7 +1830,7 @@ Bu icazəni yalnız axtardığınız videoları tapmaq üçün istifadə edəcə
     <string name="tt_no_network">Şəbəkə əlçatmazdır, lütfən daha sonra yenidən sınayın.</string>
     <string name="tt_no_thank_you">Xeyr, təşəkkürlər</string>
     <string name="tt_parse_fail">Təhlil xətası</string>
-    <string name="tt_permission_denied">Əməliyyata icazə verməyi qadağan etmisiniz, lütfən, icazə verin</string>
+    <string name="tt_permission_denied">Əməliyyata icazə verməyi yasaqlamısınız, lütfən icazə verin</string>
     <string name="tt_playable_btn_play">indi təcrübədən keçir</string>
     <string name="tt_postiveBtnText">Davam etdir</string>
     <string name="tt_postiveBtnTextPlayable">Oxutmağa davam et</string>
@@ -1850,7 +1850,7 @@ Bu icazəni yalnız axtardığınız videoları tapmaq üçün istifadə edəcə
     <string name="tt_reward_full_skip">%1$s s sonra ötür</string>
     <string name="tt_reward_msg">Mükafatınızı almaq üçün videonun tamamına bax</string>
     <string name="tt_reward_screen_skip_tx">Ötür</string>
-    <string name="tt_reward_video_show_error">OnMükafatlandırılmışVideoReklamGöstərilmədi</string>
+    <string name="tt_reward_video_show_error">Mükafatlı video reklam göstərilmədi</string>
     <string name="tt_ror_code_show_event_error">Tədbir açma xətası</string>
     <string name="tt_skip_ad_time_text">%d s sonra ötür</string>
     <string name="tt_slide_up_3d">yuxarı sürüşdür</string>
