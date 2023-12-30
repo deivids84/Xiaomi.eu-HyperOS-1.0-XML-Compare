@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="action_abort">Geri</string>
-    <string name="action_bar_label">Şəbəkədə imza</string>
-    <string name="action_bar_title">İşlə %1$s</string>
-    <string name="action_continue">Davam Et</string>
-    <string name="action_do_not_use_network">Bu şəbəkədən istifadə etmə</string>
-    <string name="action_use_network">Bu şəbəkədən olduğu kimi istifadə edin</string>
-    <string name="app_name">Əsarət Portal Giriş</string>
+    <string name="action_bar_label">Şəbəkəyə daxil ol</string>
+    <string name="action_bar_title">Daxil olun: %1$s</string>
+    <string name="action_continue">Davam</string>
+    <string name="action_do_not_use_network">Bu şəbəkəni istifadə et</string>
+    <string name="action_use_network">Bu şəbəkəni olduğu kimi istifadə et</string>
+    <string name="app_name">Captive Portal Girişi</string>
     <string name="call_notification_answer_action">Cavabla</string>
     <string name="call_notification_answer_video_action">Görüntülü</string>
     <string name="call_notification_decline_action">Rədd et</string>
@@ -15,12 +15,12 @@
     <string name="call_notification_ongoing_text">Davam edən zəng</string>
     <string name="call_notification_screening_text">Gələn bir zəngin filtrlənməsi</string>
     <string name="cancel_pending_downloads">Endirmə ləğv edildi</string>
-    <string name="channel_description_download_progress">Fayl yükləmələrinin gedişatını göstərən bildirişlər</string>
-    <string name="channel_description_downloads">Bitmiş və ya ləğv edilmiş endirimləri göstərən bildirişlər</string>
-    <string name="channel_name_download_progress">Yükləmə gedişatı</string>
+    <string name="channel_description_download_progress">Fayl endirmə irəliləyişini göstərən bildirişlər</string>
+    <string name="channel_description_downloads">Tamamlanan və ya ləğv edilən endirmələri göstərən bildirişlər</string>
+    <string name="channel_name_download_progress">Endirmə irəliləyişi</string>
     <string name="channel_name_downloads">Endirilənlər</string>
-    <string name="custom_scheme_example">Məsələn, giriş səhifəsi autentifikasiya üçün konkret müraciət tələb edə bilər</string>
-    <string name="custom_scheme_warning">Qoşulmağa çalışdığınız şəbəkə başqa bir tətbiq açmağı xahiş edir.</string>
+    <string name="custom_scheme_example">Məsələn, giriş səhifəsi, kimlik doğrulama üçün müəyyən bir tətbiqi tələb edə bilər</string>
+    <string name="custom_scheme_warning">Qoşulmağa çalışdığınız şəbəkə başqa bir tətbiqin açılmasını tələb edir.</string>
     <string name="download_completed">Endirmə tamamlandı</string>
     <string name="downloading_paramfile">%1$s endirilir</string>
     <string name="error_continue_via_browser">Yenə də brauzer ilə davam et</string>
