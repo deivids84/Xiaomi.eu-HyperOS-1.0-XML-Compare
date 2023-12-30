@@ -198,8 +198,8 @@ başqa cihaza sürüklə"</string>
     <string name="circulate_controlphone_title">Cihazı idarə et</string>
     <string name="circulate_cta_agree">Razıyam</string>
     <string name="circulate_cta_app_name">Xiaomi Ara bağlantı</string>
-    <string name="circulate_cta_desc_lite_phone">Xiaomi Ara bağlantı Xidmətləri cihazların bir-biri ilə naqilsiz ünsiyyət qurmasına imkan verir. Normal işləyə bilməsi üçün bu xidmətlərin internetə bağlanması və aşağıdakı xidmətləri tələb etməsi lazımdır:</string>
-    <string name="circulate_cta_desc_phone">Xiaomi Ara bağlantı Xidmətləri cihazların bir-biri ilə naqilsiz ünsiyyət qurmasına imkan verir. Normal işləyə bilməsi üçün bu xidmətlərin internetə bağlanması və aşağıdakı xidmətləri tələb etməsi lazımdır:</string>
+    <string name="circulate_cta_desc_lite_phone">Xiaomi Ara bağlantı Xidmətləri, cihazların bir-biri ilə naqilsiz ünsiyyət qurmasına imkan verir. Normal işləyə bilməsi üçün bu xidmətlərin internetə bağlanması və aşağıdakı xidmətləri tələb etməsi lazımdır:</string>
+    <string name="circulate_cta_desc_phone">Xiaomi Ara bağlantı Xidmətləri, cihazların bir-biri ilə naqilsiz ünsiyyət qurmasına imkan verir. Normal işləyə bilməsi üçün bu xidmətlərin internetə bağlanması və aşağıdakı xidmətləri tələb etməsi lazımdır:</string>
     <string name="circulate_cta_exit">"Razı deyiləm"</string>
     <string name="circulate_cta_premission_bluetooth_subtitle">Cihazları bir-birinə bağlamaq və aralarında data köçürmək üçün</string>
     <string name="circulate_cta_premission_get_installed_apps_subtitle">Mobil cihazda quraşdırılmış tətbiqlərin siyahısına müraciət etmək və kompüterlərdə ekranı əks etdirmək üçün</string>
