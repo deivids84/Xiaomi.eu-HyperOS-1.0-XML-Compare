@@ -105,11 +105,11 @@
     <string name="app_label">Endirilənlər</string>
     <string name="app_name">podcast</string>
     <string name="app_notify_dialog_btn_desc">Ayarlar</string>
-    <string name="app_notify_dialog_check_desc">"Bildiriş kölgəsi widget-ni çevir, ancaq daimi bildirişlərə icazə vermə"</string>
-    <string name="app_notify_dialog_path">Qurğular &gt; Bildirişlər &amp; vəziyyət çubuğu &gt; App bildirişləri &gt; Musiqi</string>
-    <string name="app_notify_dialog_path_10">Qurğular &gt; Bildirişlər &amp; vəziyyət çubuğu &gt; App bildirişləri &gt; Musiqi</string>
-    <string name="app_notify_dialog_path_8">Qurğular &gt; Bildirişlər &amp; vəziyyət çubuğu &gt; App bildirişləri &gt; Musiqi</string>
-    <string name="app_notify_dialog_subtitle">Notification kölgəsində musiqi çalmasını idarə edə bilmək üçün Mi Music üçün bildirişləri söndürün.</string>
+    <string name="app_notify_dialog_check_desc">"Bildiriş paneli vicetini işə salın, ancaq daimi bildirişlərə icazə verməyin"</string>
+    <string name="app_notify_dialog_path">Ayarlar &gt; Bildirişlər və status çubuğu &gt; Tətbiq bildirişləri &gt; Musiqi</string>
+    <string name="app_notify_dialog_path_10">Ayarlar &gt; Bildirişlər və status çubuğu &gt; Tətbiq bildirişləri &gt; Musiqi</string>
+    <string name="app_notify_dialog_path_8">Ayarlar &gt; Bildirişlər və status çubuğu &gt; Tətbiq bildirişləri &gt; Musiqi</string>
+    <string name="app_notify_dialog_subtitle">Bildiriş panelində musiqi oxudulmasına nəzarət edə bilmək üçün Mi Musiqi bildirişlərini işə salın.</string>
     <string name="app_notify_dialog_title">İcazələr tələb olunur</string>
     <string name="app_permission_confirm">Anladım</string>
     <string name="app_permission_optional">İxtiyari icazələr</string>
@@ -122,7 +122,7 @@
     <string name="app_permission_use_group_storage">Anbar</string>
     <string name="app_permission_use_group_storage_desc">Cihazda saxlanılan mahnıları tapmaq və oxutmaq üçün</string>
     <string name="app_resident_push_switch">Daimi bildirişlərə icazə ver</string>
-    <string name="app_third_privacy">Üçüncü tərəfin məxfilik siyasəti</string>
+    <string name="app_third_privacy">Üçüncü tərəf gizlilik siyasətləri</string>
     <string name="apply_permissions_greater_than_pie">Ayarlar &gt; Tətbiqlər &gt; İcazələr &gt; İcazələr &gt; Fayllar və media &gt; \"Musiqi\"də bu icazəni verə bilərsiniz.</string>
     <string name="apply_permissions_greater_than_tiramisu">Ayarlar &gt; Tətbiqlər &gt; İcazələr &gt; Musiqi və video/Fotolar və videolar &gt; \"Musiqi\"də bu icazəni verə bilərsiniz.</string>
     <string name="apply_permissions_less_than_pie">Ayarlar &gt; Tətbiqlər &gt; İcazələr &gt; İcazələr &gt; Daxili anbardakı fayllara müraciət et və onları dəyişdir &gt; \"Musiqi\"də bu icazəni verə bilərsiniz.</string>
@@ -1544,7 +1544,7 @@ Xoşbəxt ol"</string>
     <string name="tt_error_ad_type">Qeyri-qanuni reklam növü</string>
     <string name="tt_error_adtype_differ">Reklam növü xətası</string>
     <string name="tt_error_apk_sign_check_error">Qeyri-qanuni apk sha1 dəyəri</string>
-    <string name="tt_error_bidding_type">Yerləşdirmə bidət növü deyil, lütfən yerləşdirmə bidət növünü yoxlayın</string>
+    <string name="tt_error_bidding_type">Yerləşdirmə, təklif növü deyil, lütfən yerləşdirmə təklif növünü yoxlayın</string>
     <string name="tt_error_code_adcount_error">Yanlış reklam sayı</string>
     <string name="tt_error_code_click_event_error">Klikləmə hadisə xətası</string>
     <string name="tt_error_device_ip">Lütfən xidmət ölkəsində reklam tələb edən cihazın IP-sinin ölkəsini yoxlayın</string>
@@ -1592,7 +1592,7 @@ Xoşbəxt ol"</string>
     <string name="tt_no_network">Şəbəkə əlçatmazdır, lütfən daha sonra yenidən sınayın.</string>
     <string name="tt_no_thank_you">Xeyr, təşəkkürlər</string>
     <string name="tt_parse_fail">Təhlil xətası</string>
-    <string name="tt_permission_denied">Siz əməliyyatın icazəsini qadağan etdiniz, xahiş edirəm, icazə verin</string>
+    <string name="tt_permission_denied">Əməliyyata icazə verməyi yasaqlamısınız, lütfən icazə verin</string>
     <string name="tt_playable_btn_play">indi təcrübədən keçir</string>
     <string name="tt_postiveBtnText">Davam etdir</string>
     <string name="tt_postiveBtnTextPlayable">Oxutmağa davam et</string>
