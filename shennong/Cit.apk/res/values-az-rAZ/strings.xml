@@ -108,7 +108,7 @@ Cihazı zəng edirmiş kimi tutun, üst mikrofona danışın, qəbuledicidən s�
     <string name="cit_horn_motor_test">Siqnal mühərrik testi</string>
     <string name="cit_lcdlight_title">Arxa işıq testi</string>
     <string name="cit_led_change">LED sayrışan rejimini seçin</string>
-    <string name="cit_led_interval">gözəl</string>
+    <string name="cit_led_interval">cazibədar</string>
     <string name="cit_led_negative">mənfi</string>
     <string name="cit_modem_hardware_title">Modem Avandanlıq Testi</string>
     <string name="cit_pixeworks_chip_check_title">Pixeworks Iris 7 çip yoxlanışı</string>
