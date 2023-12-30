@@ -151,12 +151,12 @@
     <string name="ai_confirm_delete_image_title">AI şəkli silinsin?</string>
     <string name="ai_continue_create_btn">Davam</string>
     <string name="ai_continue_update_image_btn">Davam</string>
-    <string name="ai_continue_upload_photo">Davam Et</string>
+    <string name="ai_continue_upload_photo">Davam</string>
     <string name="ai_create_ai_image">AI şəklini yarat</string>
     <string name="ai_create_image_fail">"Server xətasına görə AI şəkli yaradıla bilmədi. Yenidən sınayın."</string>
-    <string name="ai_create_image_fail_by_illegal_photo">"Elə bil yüklədiyiniz fotolar bizim icma standartlarını pozur.
-Müxtəlif şəkillər ilə Aİ surəti yaratmaq cəhd edin."</string>
-    <string name="ai_create_image_fail_by_net">"AI rəsmi yaradıla bilmədi: %s Serverlərimiz indi çox məşğuldur. Bir də cəhd edin."</string>
+    <string name="ai_create_image_fail_by_illegal_photo">"Deyəsən, yüklədiyiniz fotolar cəmiyyət standartlarımızı pozur.
+AI şəklini fərqli fotolarla yaratmağa çalışın."</string>
+    <string name="ai_create_image_fail_by_net">"AI şəkli yaradıla bilmədi. Serverlərimiz indi çox məşğuldur. Yenidən sınayın."</string>
     <string name="ai_create_image_photo_tip">AI şəkli yaradıldıqdan sonra fotolar serverlərimizdən silinəcək</string>
     <string name="ai_create_image_tip">AI şəkli yaradıldıqdan sonra fotolar serverlərimizdən silinəcək</string>
     <string name="ai_create_remain_time" formatted="false">Gözləmə vaxtı: %1s %2s</string>
@@ -172,10 +172,10 @@ Müxtəlif şəkillər ilə Aİ surəti yaratmaq cəhd edin."</string>
     <string name="ai_creation_save_failed_msg">"Saxlanıla bilmədi. Yenidən sınayın."</string>
     <string name="ai_creation_save_success_msg">Uğurla saxlanıldı</string>
     <string name="ai_creation_wait_message">Yaradılır… | %1$s | %2$s</string>
-    <string name="ai_cta_agree_btn">İcazə Ver</string>
-    <string name="ai_cta_dialog_message">Aİ portretləri yarada bilmək üçün Gallery internetə qoşulmağa icazə verin.</string>
+    <string name="ai_cta_agree_btn">İcazə ver</string>
+    <string name="ai_cta_dialog_message">AI portretləri yarada bilmək üçün \"Qalereya\"nın internetə bağlanmasına icazə verin.</string>
     <string name="ai_cta_dialog_title">İcazələr tələb olunur</string>
-    <string name="ai_cta_refuse_btn">Xeyr təşəkkürlər</string>
+    <string name="ai_cta_refuse_btn">Xeyr, təşəkkürlər</string>
     <string name="ai_deal_file_tip">"Bu səhifəni tərk etməyin"</string>
     <string name="ai_deal_file_title">Fotolar emal olunur…</string>
     <string name="ai_deal_tile_text">Tələb olunan vaxt hesablanır…</string>
@@ -183,10 +183,10 @@ Müxtəlif şəkillər ilə Aİ surəti yaratmaq cəhd edin."</string>
     <string name="ai_delete_image_progress_message">Silinir…</string>
     <string name="ai_delete_image_success">AI şəkli uğurla silindi</string>
     <string name="ai_download_filter_photo_so_confirm_btn">Endir</string>
-    <string name="ai_download_filter_photo_so_downloading">Plug-in yüklənməsi…</string>
-    <string name="ai_download_filter_photo_so_message">Bütün Aİ portret xüsusiyyətlərindən istifadə edə bilmək üçün, ilk növbədə plug-ini yükləyin.</string>
-    <string name="ai_download_filter_photo_so_title">Plug-ini yüklə</string>
-    <string name="ai_download_filter_so_fail_toast">"Plug-in yüklənə bilmədi: %s Bir də cəhd edin."</string>
+    <string name="ai_download_filter_photo_so_downloading">Qoşma endirilir…</string>
+    <string name="ai_download_filter_photo_so_message">Bütün AI portret özəlliklərini istifadə edə bilmək üçün əvvəlcə qoşmanı endirin.</string>
+    <string name="ai_download_filter_photo_so_title">Qoşmanı endir</string>
+    <string name="ai_download_filter_so_fail_toast">"Qoşma endirilə bilmədi. Yenidən sınayın."</string>
     <string name="ai_enhance_bar_default">HD şəkil yarat</string>
     <string name="ai_enhance_bar_failed">"HD şəkil yaradıla bilmədi"</string>
     <string name="ai_ensure_exit_select_message">"Növbəti dəfə fotoları yenidən seçməli olacaqsınız."</string>
@@ -198,9 +198,9 @@ Müxtəlif şəkillər ilə Aİ surəti yaratmaq cəhd edin."</string>
     <string name="ai_free_creation_button">Yarat</string>
     <string name="ai_free_creation_container_msg">Məsələn: Sahildə gəzinti</string>
     <string name="ai_free_creation_container_title">Açıqlama daxil edin</string>
-    <string name="ai_free_creation_illegal_text_toast">Bu ayə bizim ictimai normalarımıza ziddir. Mesajınızı yenidən yaz.</string>
+    <string name="ai_free_creation_illegal_text_toast">Bu mətn, cəmiyyət standartlarımızı pozur. Mesajınızı yenidən yazın.</string>
     <string name="ai_free_creation_random_button">Təsadüfi</string>
-    <string name="ai_free_creation_text_container_tips">"Bizim Aİ image generator daim yaxşılaşır. Nəticələr sizi qane etmirsə, bir az sonra həmişə yenidən cəhd edə bilərsiniz!"</string>
+    <string name="ai_free_creation_text_container_tips">"Süni zəka şəkil generatorumuz davamlı inkişaf edir. Nəticələr sizi qane etmirsə, bir müddət sonra yenidən sınaya bilərsiniz!"</string>
     <string name="ai_free_creation_text_count_exceed_limit">Daxil etdiyiniz mətn çox uzundur</string>
     <string name="ai_free_creation_text_illage">Bu açıqlama cəmiyyət standartlarımızı pozur</string>
     <string name="ai_free_theme_subtitle">Açıqlamalar əsasında</string>
@@ -220,18 +220,18 @@ Bunun əvəzində başqa fotolar seçin və yenidən sınayın."</string>
     <string name="ai_image_over_limit_button_cancel">Anladım</string>
     <string name="ai_image_over_limit_button_create">Davam</string>
     <string name="ai_image_over_limit_title">"AI şəkli yaradıla bilmir"</string>
-    <string name="ai_image_privacy_message"><Data>\"Aİ portretlərinə xoş gəlmisiniz!&lt;br/&gt;Sizə xidmət göstərə bilmək üçün lazımi şəxsi məlumatları toplamalıyıq:&lt;br/&gt;&lt;xliff:g refersto=1 id=INDEX_1&gt;%1$s&lt;/xliff:g&gt;. Aİ portretləri yaratmaq üçün, siz yükləməli olacaqsınız &lt;b&gt;insanların şəkilləri&lt;/b&gt; serverlərimizə. Onların haqqında məlumatları toplayıb, edəcəyik &lt;b&gt;üzlər&lt;/b&gt; Aİ modelinin yaranmasına səbəb ola bilər.&lt;br/&gt;&lt;xliff:g refersto=2 id=INDEX_2&gt;%2$s&lt;/xliff:g&gt;. Yükləyəndə &lt;b&gt;insanların şəkilləri&lt;/b&gt;, biz sinxron &lt;b&gt;adları və profil şəkilləri&lt;/b&gt; uyğun albomlardan və bu məlumatı Aİ şəkilləri ilə əlaqələndirin.&lt;br/&gt;&lt;xliff:g refersto=3 id=INDEX_3&gt;%3$s&lt;/xliff:g&gt;. Mətn əsasında Aİ şəkilləri yaratdığınız zaman, biz &lt;b&gt;təsvir&lt;/b&gt; şəkil yaratmaq məqsədi ilə təmin edirsiniz.&lt;br/&gt;Biz yalnız sizin istifadə etdiyiniz məhsul və xidmətlərimizin spesifik xüsusiyyətləri üçün zəruri olan şəxsi məlumatları toplayırıq. Şəxsi məlumatları necə topladığımızı və necə istifadə etdiyimizi öyrənə bilərsiniz &lt;a href=\"%4$s\"&gt;Aİ Portretləri Məxfilik Siyasəti&lt;/a&gt;.&lt;br/&gt;Oxuyun və razılaşın &lt;a href=\"%5$s\"&gt;AI Portretlər İstifadəçi Sazişi&lt;/a&gt; və &lt;a href=\"%6$s\"&gt;Aİ Portretləri Məxfilik Siyasəti&lt;/a&gt; davam etməzdən əvvəl\".</Data></string>
-    <string name="ai_input_name_hint">Ad daxil edin</string>
+    <string name="ai_image_privacy_message"><Data>\"\"Süni zəka portretləri\"nə xoş gəlmisiniz!&lt;br/&gt;Sizə xidmətləri təqdim edə bilmək üçün lazımi şəxsi məlumatları yığmalıyıq:&lt;br/&gt;&lt;xliff:g refersto=1 id=INDEX_1&gt;%1$s&lt;/xliff:g&gt;. Süni zəka portretlərini yaratmaq üçün, &lt;b&gt;insanların fotolarını&lt;/b&gt; serverlərimizə yükləməlisiniz. Bir süni zəka modeli yaratmaq üçün onların &lt;b&gt;üzləri&lt;/b&gt; haqqındakı məlumatları yığıb emal edəcəyik.&lt;br/&gt;&lt;xliff:g refersto=2 id=INDEX_2&gt;%2$s&lt;/xliff:g&gt;. Siz &lt;b&gt;insanların fotolarını&lt;/b&gt; yüklədikcə, biz müvafiq albomlardan &lt;b&gt;onların adlarını və fotolarını&lt;/b&gt; sinxronlaşdıracağıq və bu məlumatları süni zəka təsvirləri ilə əlaqələndirəcəyik.&lt;br/&gt;&lt;xliff:g refersto=3 id=INDEX_3&gt;%3$s&lt;/xliff:g&gt;. Mətn əsaslı süni zəka şəkilləri yaratdıqda, şəkilləri yaratmaq üçün verdiyiniz &lt;b&gt;açıqlamanı&lt;/b&gt; yığırıq.&lt;br/&gt;Yalnız istifadə etdiyiniz məhsul və xidmətlərin xüsusi özəllikləri üçün zəruri olan şəxsi məlumatları yığırıq. Şəxsi məlumatları necə yığdığımızı və emal etdiyimizi &lt;a href=\"%4$s\"&gt;Süni Zəka Portretləri Gizlilik Siyasətində&lt;/a&gt; öyrənə bilərsiniz.&lt;br/&gt;Davam etməzdən əvvəl &lt;a href=\"%5$s\"&gt;Süni Zəka Portretləri İstifadəçi Razılaşmasını&lt;/a&gt; və &lt;a href=\"%6$s\"&gt;Süni Zəka Portretləri Gizlilik Siyasətini&lt;/a&gt; oxuyun və bunlarla razılaşın.\"</Data></string>
+    <string name="ai_input_name_hint">Adı daxil edin</string>
     <string name="ai_loading">Bir saniyə…</string>
     <string name="ai_multi_window_tip">"Bu səhifəyə bölünmüş ekranda baxıla bilmir"</string>
     <string name="ai_network_failed">"Şəbəkəyə bağlana bilmədi. Bir və ya iki dəqiqə gözləyib yenidən sınayın."</string>
     <string name="ai_new_name_title">Bu AI təsvirinə ad verin</string>
-    <string name="ai_no_access_message">"Deyəsən, siz indi Beta testçisi deyilsiniz. AI istifadə edərək portretlər yaratmağa başlamaq üçün Xiaomi Community-də müraciət edin!"</string>
+    <string name="ai_no_access_message">"Deyəsən, artıq Beta tester deyilsiniz. Süni zəka istifadə edərək portretlər yaratmağa başlamaq üçün Xiaomi Cəmiyyətinə müraciət edin!"</string>
     <string name="ai_no_access_title">Beta tester icazələri tələb olunur</string>
     <string name="ai_no_net_toast">"Şəbəkəyə bağlana bilmədi. Yenidən sınayın."</string>
     <string name="ai_normal_theme_button">Yarat</string>
     <string name="ai_photo_upload_fail">"Yüklənə bilmədi. Yenidən sınayın."</string>
-    <string name="ai_photos_upload_fail_tip">"%s''nin şəkilləri hələ yüklənib- yüklənməyib. Şəkilləri indi yükləməyə davam edə bilərsiniz."</string>
+    <string name="ai_photos_upload_fail_tip">"%s - fotoları hələ yüklənməyib. İndi foto yükləməyə davam edə bilərsiniz."</string>
     <string name="ai_preview_failed_retry_button">Yenidən sına</string>
     <string name="ai_privacy_tip_1">Kimlik fotosu</string>
     <string name="ai_privacy_tip_2">Doğum günü portreti</string>
@@ -239,10 +239,10 @@ Bunun əvəzində başqa fotolar seçin və yenidən sınayın."</string>
     <string name="ai_privacy_title">Gizlilik bəyanatı</string>
     <string name="ai_re_create_image">Yenidən sına</string>
     <string name="ai_ready_to_have_try">Başla</string>
-    <string name="ai_recreate_image_cancel_text_btn">Davam Et</string>
+    <string name="ai_recreate_image_cancel_text_btn">Davam</string>
     <string name="ai_recreate_image_confirm_text_btn">Seç</string>
-    <string name="ai_recreate_image_dialog_msg">Şəkilləri yükləməyə davam edə və ya yenilərini seçə bilərsiniz.</string>
-    <string name="ai_recreate_image_dialog_title">"%s''nin şəkilləri yüklənməyib"</string>
+    <string name="ai_recreate_image_dialog_msg">Foto yükləməyə davam edə və ya yenilərini seçə bilərsiniz.</string>
+    <string name="ai_recreate_image_dialog_title">"%s - fotoları yüklənməyib"</string>
     <string name="ai_refuse_update_toast">Bu AI şəklini güncəlləyə bilmək üçün yeni fotolar seçin</string>
     <string name="ai_select_people_sub_title" formatted="false">%1d–%2d ən yaxşı fotolar avtomatik olaraq seçiləcək</string>
     <string name="ai_select_people_title">Süni zəka şəklini yaratmaq üçün bir şəxs seçin</string>
@@ -260,7 +260,7 @@ Bunun əvəzində başqa fotolar seçin və yenidən sınayın."</string>
     <string name="ai_select_photo_manual">Əllə seçin</string>
     <string name="ai_select_photo_need_select_manual">Yetərsiz foto. Daha çox əlavə edin.</string>
     <string name="ai_select_photo_next_step">Növbəti</string>
-    <string name="ai_select_photo_no_result_toast">"Bu şəkillər əsasında Aİ rəsmisi yaradıla bilmir. Bunun yerinə digər şəkilləri də seçin."</string>
+    <string name="ai_select_photo_no_result_toast">"Bu fotolar əsasında AI şəkli yaradıla bilmir. Əvəzində başqa fotoları seçin."</string>
     <string name="ai_select_photo_over_time_toast">Ən yaxşı çəkilişlər avtomatik seçildi. Daha çox fotonu əllə əlavə edin.</string>
     <string name="ai_select_photo_right_guide_face">Önə baxan</string>
     <string name="ai_select_photo_right_guide_multi_bg">Fərqli arxaplanlar</string>
@@ -536,7 +536,7 @@ Xatirələrin görünməsi üçün doldurma cihazını taxıb və ekranı sönd�
     <string name="btn_sure">Oldu</string>
     <string name="burst_image_download_item_title" formatted="false">Orijinalı endir (%s|%s)</string>
     <string name="burst_photo_enter">Ardıcıl</string>
-    <string name="burst_photo_preview_thumbnail_content_description">Şəkil %d</string>
+    <string name="burst_photo_preview_thumbnail_content_description">Foto %d</string>
     <string name="burst_preview_title">Ardıcıl çəkiliş</string>
     <string name="burst_save_all">Bütün fotoları saxla</string>
     <string name="burst_save_choice_title">%1$d/%2$d seçildi</string>
