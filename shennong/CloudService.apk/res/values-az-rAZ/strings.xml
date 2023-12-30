@@ -91,8 +91,8 @@
     <string name="creation_dialog_title">Diqqət</string>
     <string name="creation_sync_settings_only_in_wifi">Yalnız Wi-Fi ilə sinxr et</string>
     <string name="creation_sync_settings_only_in_wifi_summary">Mobil internetə qənaət üçün tövsiyə olunur</string>
-    <string name="creation_sync_settings_preference">Kətanları sinxronlaşdırın</string>
-    <string name="creation_sync_settings_summary">Kətanlar yaradılmışdır</string>
+    <string name="creation_sync_settings_preference">Kətanları sinxronlaşdır</string>
+    <string name="creation_sync_settings_summary">Yaradılmış kətanlar</string>
     <string name="cta_notification_content_text">%s tətbiqinin elementləri bərpa edə bilmək üçün internetə bağlanmasına icazə verin</string>
     <string name="cta_notification_content_title">"Elementlər buradan bərpa edilə bilmir: %s"</string>
     <string name="customize_notification_btn_text">Yüksəlt</string>
