@@ -87,7 +87,6 @@
     <string name="afternoon">Tarda</string>
     <string name="agree">D\'acord</string>
     <string name="agree_and_continue">D\'acord</string>
-    <string name="agree_label">Acordar</string>
     <string name="ai_animation_music_text">Banda sonora d\'AI</string>
     <string name="ai_music_save_cancel">Cancel·la</string>
     <string name="ai_music_save_dialog_title">Desar</string>
@@ -205,6 +204,8 @@
     <string name="columbus_player_speed_video">Omet VIDEO</string>
     <string name="columbus_player_unit_sec">seg</string>
     <string name="columbus_skip_ad">Omet</string>
+    <string name="com.crashlytics.android.build_id">7370b57ad8c142aea1ada02f18aeec0e</string>
+    <string name="com.miapm.build_id">1d82e4e8fee144f48a7860a311d8fccc</string>
     <string name="com_permission_desc">"Mi Vídeo no pot accedir als vídeos del teu dispositiu. Permet l'accés a Configuració."</string>
     <string name="com_permission_title">Permisos necessaris</string>
     <string name="comment_model_add_comment">Afegir un comentari</string>
@@ -263,8 +264,6 @@
     <string name="date_picker_lunar">Calendari tradicional xinès</string>
     <string name="date_time_picker_dialog_title">Estableix la data i l’hora</string>
     <string name="day">Una vegada al dia</string>
-    <string name="default_message_body">Cos del missatge</string>
-    <string name="default_title">Títol</string>
     <string name="default_upgrade_hint">"Hola!
 Mi Video està llest per actualitzar-se.
 Actualitzeu l'aplicació ara per veure les nostres noves funcions interessants.
@@ -1472,7 +1471,6 @@ Només utilitzarem aquest permís per trobar els vídeos que cerqueu i no accedi
     <string name="recommend_slide_to_more">Feu lliscar el dit per obtenir més informació</string>
     <string name="recommend_switch_alert">Per a eliminar aquesta secció, ves als ajustaments de Mi Video</string>
     <string name="recommend_to_you">Recomanat per a tu</string>
-    <string name="reject_all_label">Rebutja-ho tot</string>
     <string name="reload_sub_title">Prem per a provar-ho de nou.</string>
     <string name="reload_title">"No s'ha pogut connectar a la xarxa."</string>
     <string name="remaining_space">Disponible: %s</string>
@@ -1550,7 +1548,6 @@ Només utilitzarem aquest permís per trobar els vídeos que cerqueu i no accedi
     <string name="share_ugc_join">Uniu-vos</string>
     <string name="share_ugc_waitting">Generació d\'enllaços…</string>
     <string name="shorts_assemble_ad_recommend">Recomanable</string>
-    <string name="show_options_label">Mostra les opcions</string>
     <string name="show_the_location">Tipus de notificacions</string>
     <string name="sign_in">S\'està iniciant sessió</string>
     <string name="sign_in_google_account">Inicia la sessió amb Google</string>
