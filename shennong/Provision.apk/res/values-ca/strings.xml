@@ -173,6 +173,8 @@ A efectes de prevenció de riscos, estadístiques i processament analític, nece
     <string name="install_preinstall_app">S\'estan carregant les aplicacions&#8230;</string>
     <string name="intent_filter_verification_service">Servei de comprovació de filtratge</string>
     <string name="interconnection_communication_introduction">Els serveis de comunicació d\'Internet Xiaomi us permeten descobrir, connectar-vos i comunicar-vos amb altres dispositius.</string>
+    <string name="interconnection_service_global_item_title">Interconnectivitat Xiaomi</string>
+    <string name="interconnection_service_global_label">"&lt;Data&gt;La interconnectivitat Xiaomi permet que els vostres dispositius interactuïn entre ells sense fils. En activar aquest interruptor, accepteu la política de privadesa &lt;a href=%1$s&gt;de Xiaomi Interconnectivity&lt;/a &gt;.&lt;/Data&gt;"</string>
     <string name="interconnection_service_summary_china">"Els serveis d'interconnectivitat de Xiaomi permeten als vostres dispositius interactuar entre ells sense fils. Aquests serveis inclouen Mi Smart Play, càsting, lliurament d'aplicacions, pantalla d'inici +, portapapers compartit, captura d'imatges multidispositiu, assistència de xarxa, teclats i ratolins compartits, càmera compartida i Mi Smart Hub.To poder funcionar normalment, els serveis d'interconnectivitat de Xiaomi necessiten connectar-se a Internet i requereixen els permisos següents:
 \u0009\u0009El meu Smart Play i càsting:
 \u0009\u0009Activar o desactivar el Bluetooth
@@ -235,6 +237,7 @@ A efectes de prevenció de riscos, estadístiques i processament analític, nece
 \u0009\u0009Per a l'enviament i recepció de continguts transferits
 Si no accepteu concedir aquests permisos, no podreu utilitzar aquests serveis.
 Els serveis d'interconnectivitat Avavailable poden variar en funció de la versió del sistema i del model del dispositiu. Troba més informació a %s."</string>
+    <string name="interconnection_service_summary_global">"Les funcions d'interconnectivitat de Xiaomi poden variar segons el model del dispositiu i la versió del sistema. Visiteu el lloc web oficial del sistema per obtenir més informació."</string>
     <string name="interconnection_service_title">Serveis d\'interconnectivitat Xiaomi</string>
     <string name="item_contents_wwarning">"Si el dispositiu desapareix, no podreu evitar que altres persones l’utilitzin i no accedeixin a les vostres dades tret que establiu un bloqueig de pantalla. Ometre igualment?"</string>
     <string name="item_facerecognition">Desbloqueig facial</string>
