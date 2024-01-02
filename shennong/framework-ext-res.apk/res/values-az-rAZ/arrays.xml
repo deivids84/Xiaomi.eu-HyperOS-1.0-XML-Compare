@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="app_javaheap_list">
+        <item>com.example.memleaktesttool,256000</item>
+        <item>com.miui.miwallpaper,150000</item>
+        <item>com.android.phone,100000</item>
+        <item>com.miui.personalassistant,400000</item>
+        <item>com.xiaomi.mirror,100000</item>
+        <item>com.xiaomi.bluetooth,100000</item>
+        <item>com.android.bluetooth,100000</item>
+        <item>com.miui.daemon,50000</item>
+        <item>mqsasd,1000</item>
+        <item>com.miui.powerkeeper,40000</item>
+        <item>com.miui.greenguard,30000</item>
+        <item>com.miui.face,160000</item>
+        <item>com.xiaomi.mircs,35000</item>
+        <item>com.miui.securitycenter.remote,60000</item>
+        <item>com.miui.securitycore.remote,50000</item>
+        <item>com.android.systemui,380000</item>
+    </string-array>
+    <string-array name="app_nativeheap_list">
+        <item>com.example.memleaktesttool,3072000</item>
+        <item>com.example.nativeapp,1000000</item>
+        <item>com.miui.miwallpaper,60000</item>
+        <item>com.android.phone,50000</item>
+        <item>com.miui.personalassistant,30000</item>
+        <item>com.xiaomi.mirror,70000</item>
+        <item>com.xiaomi.bluetooth,20000</item>
+        <item>com.android.bluetooth,2000</item>
+        <item>com.miui.daemon,30000</item>
+        <item>mqsasd,30000</item>
+        <item>com.miui.powerkeeper,30000</item>
+        <item>com.miui.greenguard,30000</item>
+        <item>com.miui.face,80000</item>
+        <item>com.xiaomi.mircs,35000</item>
+        <item>com.miui.securitycenter.remote,30000</item>
+        <item>com.miui.securitycore.remote,30000</item>
+        <item>com.android.systemui,100000</item>
+        <item>zygote,30000</item>
+        <item>zygote64,25000</item>
+        <item>surfaceflinger,300000</item>
+        <item>displayfeature,30000</item>
+        <item>vendor.qti.hardware.display.composer-service,30000</item>
+        <item>vendor.xiaomi.hardware.displayfeature@1.0-service,30000</item>
+        <item>netd,10000</item>
+        <item>android.hardware.audio.service_64,36000</item>
+        <item>mediaserver,65000</item>
+        <item>android.process.media,65000</item>
+        <item>drmserver,30000</item>
+        <item>media.codec,36000</item>
+        <item>media.audio.qc.code,36000</item>
+    </string-array>
+    <string-array name="config_notification_interceptchannel">
+        <item>com.xiaomi.aicr:aicr_service_notification</item>
+        <item>com.miui.gallery:com.miui.gallery.hide</item>
+        <item>com.miui.securitycenter:securitycenter_resident_notification_hide</item>
+        <item>com.android.mtp:device_notification_channel</item>
+        <item>com.android.mms:Channel_Foreground_Service</item>
+        <item>com.xiaomi.mipicks:com.xiaomi.mipicks_hide</item>
+        <item>com.xiaomi.discover:com.xiaomi.discover_hide</item>
+        <item>com.xiaomi.discover:com.xiaomi.discover_hide_unique</item>
+        <item>com.miui.mishare.connectivity:MiShare</item>
+        <item>com.mfashiongallery.emag:gallery_overlay_windows</item>
+        <item>com.miui.misound:misound_sound</item>
+        <item>com.miui.misound:misound_assist</item>
+        <item>com.miui.misound:misound_protect</item>
+        <item>com.xiaomi.mirror:foreground</item>
+        <item>com.miui.screenshot:SCN</item>
+        <item>com.miui.screenshot:AITSCN</item>
+        <item>com.xiaomi.simactivate.service:com.xiaomi.simactivate.service.CHANNEL_ID</item>
+        <item>com.milink.service:hide_foreground</item>
+        <item>com.xiaomi.smarthome:ön planı gizlət</item>
+        <item>com.xiaomi.mi_connect_service:ön planı gizlət</item>
+        <item>com.xiaomi.mi_connect_service:Şəbəkə</item>
+        <item>com.xiaomi.mi_connect_service:davamlı</item>
+    </string-array>
+</resources>
