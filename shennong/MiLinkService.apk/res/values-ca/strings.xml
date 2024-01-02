@@ -338,6 +338,24 @@ Els teus dispositius?"</string>
     <string name="close_invisible_mode_dialog_message">"No puc utilitzar Mi Smart Play ara. Desactiveu el mode d'incògnit a la Configuració per poder utilitzar aquesta funció."</string>
     <string name="close_invisible_mode_dialog_ok">Configuració</string>
     <string name="close_invisible_mode_dialog_title">"Ets d'incògnit"</string>
+    <string name="common_google_play_services_enable_button">Activa</string>
+    <string name="common_google_play_services_enable_text">"%1$s no funcionarà tret que activeu els serveis de Google Play."</string>
+    <string name="common_google_play_services_enable_title">Activa els serveis de Google Play</string>
+    <string name="common_google_play_services_install_button">Instal·lar</string>
+    <string name="common_google_play_services_install_text">"%1$s no funcionarà sense els serveis de Google Play, que falten al dispositiu."</string>
+    <string name="common_google_play_services_install_title">Obteniu els serveis de Google Play</string>
+    <string name="common_google_play_services_notification_channel_name">Disponibilitat dels serveis de Google Play</string>
+    <string name="common_google_play_services_notification_ticker">Error dels serveis de Google Play</string>
+    <string name="common_google_play_services_unknown_issue">%1$s té problemes amb els serveis de Google Play. Siusplau torna-ho a provar.</string>
+    <string name="common_google_play_services_unsupported_text">"%1$s no funcionarà sense els serveis de Google Play, que no són compatibles amb el vostre dispositiu."</string>
+    <string name="common_google_play_services_update_button">Actualització</string>
+    <string name="common_google_play_services_update_text">"%1$s no s'executarà tret que actualitzeu els serveis de Google Play."</string>
+    <string name="common_google_play_services_update_title">Actualitza els serveis de Google Play</string>
+    <string name="common_google_play_services_updating_text">"%1$s no funcionarà sense els serveis de Google Play, que s'estan actualitzant."</string>
+    <string name="common_google_play_services_wear_update_text">Necessita una nova versió dels serveis de Google Play. En breu s\'actualitzarà.</string>
+    <string name="common_open_on_phone">Obre al telèfon</string>
+    <string name="common_signin_button_text">Inicieu la sessió</string>
+    <string name="common_signin_button_text_long">Inicieu la sessió amb Google</string>
     <string name="config_wifi_label_china">Xiaomi Conference Tapcast WLAN</string>
     <string name="config_wifi_label_global">Conferència Xiaomi Tapcast Wi-Fi</string>
     <string name="connect_device_fail">"No s'ha pogut connectar al dispositiu"</string>
@@ -381,6 +399,7 @@ Els teus dispositius?"</string>
     <string name="controller_auth_cancel">Cancel·lar</string>
     <string name="controller_auth_title">Verifiqueu el comandament a distància</string>
     <string name="copy">Copia</string>
+    <string name="copy_toast_msg">S\'ha copiat l\'enllaç al porta-retalls</string>
     <string name="current_wifi_tv">Xarxa actual</string>
     <string name="date_picker_lunar">Calendari tradicional xinès</string>
     <string name="date_time_picker_dialog_title">Configura la data i l\'hora</string>
@@ -456,6 +475,9 @@ Consulta l'ajuda si tens problemes per a connectar-t'hi."</string>
     <string name="evening">Tarda</string>
     <string name="expand_button_title">Opcions avançades</string>
     <string name="exposed_dropdown_menu_content_description">Mostra el menú desplegable</string>
+    <string name="fallback_menu_item_copy_link">Copia l\'enllaç</string>
+    <string name="fallback_menu_item_open_in_browser">Oberta al navegador</string>
+    <string name="fallback_menu_item_share_link">Compartir Enllaç</string>
     <string name="file_read_des">Per mostrar fotografies i altres fitxers en monitors externs</string>
     <string name="find_device_close">Ho tinc</string>
     <string name="find_device_notification_content_phone">%1$s està buscant aquest dispositiu utilitzant %2$s. Desbloqueja\'l per deixar de reproduir so.</string>
@@ -600,6 +622,32 @@ Si necessites activar Miracast, prem el botó [MENU] i selecciona Les meves apps
     <string name="help_page_text_55_global">"Si no et pots connectar a la xarxa, assegura't que el monitor extern sigui compatible amb la funcionalitat de Miracast i que estigui activada. En alguns models, aquesta funció s'anomena Pantalla sense fils, Rèplica de la pantalla o Pantalles múltiples.
 %1$d. Si tens problemes, pots informar-te mitjançant l'aplicació \"Serveis i comentaris\"."</string>
     <string name="help_page_text_end">"Si la marca del teu dispositiu no apareix aquí, posa't en contacte amb el fabricant per obtenir més informació sobre les funcions d'emissió."</string>
+    <string name="hm_always">Recordeu</string>
+    <string name="hm_conflict_title">Patró en pausa: %1$s</string>
+    <string name="hm_conflict_toast">Teniu una escena o automatització de casa intel·ligent conflictiva. Editeu-lo primer a l\'aplicació.</string>
+    <string name="hm_go_to_help">Veure ajuda</string>
+    <string name="hm_go_to_login">Inicieu la sessió</string>
+    <string name="hm_go_to_open_setting">Encendre</string>
+    <string name="hm_habit_info_describe">"Deixa que els dispositius s'adaptin a les teves necessitats
+aprenent com els fas servir"</string>
+    <string name="hm_habit_info_empty_describe">"Continueu utilitzant els vostres dispositius
+perquè Xiaomi HyperMind pugui aprendre i perfeccionar patrons"</string>
+    <string name="hm_habit_info_list_empty">Patrons d\'aprenentatge…</string>
+    <string name="hm_help">Ajuda</string>
+    <string name="hm_knew">Ho tinc</string>
+    <string name="hm_pause_habit">Pausa</string>
+    <string name="hm_please_login_mi_account">Inicieu la sessió al vostre compte Xiaomi per començar</string>
+    <string name="hm_remember">Recordeu</string>
+    <string name="hm_resume_habit">Resum</string>
+    <string name="hm_setup">Configuració</string>
+    <string name="hm_time_has_paused">En pausa</string>
+    <string name="hm_time_just_remembered">S\'ha après ara</string>
+    <string name="hm_time_long_ago">Fa molt temps</string>
+    <string name="hm_time_not_executed">Encara no s\'utilitza</string>
+    <string name="hm_time_recent_week">Aquesta setmana</string>
+    <string name="hm_time_today">Avui</string>
+    <string name="hm_time_yesterday">Ahir</string>
+    <string name="hm_toast_log_in">Inicieu la sessió al vostre compte Xiaomi primer</string>
     <string name="hm_xiaomi_hyper_mind">Xiaomi HyperMind</string>
     <string name="hyper_mind">Hiperment</string>
     <string name="hyper_mind_close_warning">Atenció</string>
@@ -1076,6 +1124,7 @@ Assegureu-vos que hàgiu activat Game Turbo abans d'emetre jocs."</string>
     <string name="trust_device_manager">Gestioneu els dispositius de confiança</string>
     <string name="trust_device_none">Aquí no hi ha dispositius de confiança</string>
     <string name="trust_device_title">Dispositius fiables</string>
+    <string name="try_multipurpose_equipment">Segueix utilitzant dispositius per adaptar-los a les teves necessitats</string>
     <string name="tuesday">dimarts</string>
     <string name="tuesday_short">dm.</string>
     <string name="tuesday_shortest">dm.</string>
