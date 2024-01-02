@@ -87,7 +87,6 @@
     <string name="afternoon">Günortadan sonra</string>
     <string name="agree">Razıyam</string>
     <string name="agree_and_continue">Razıyam</string>
-    <string name="agree_label">Razıyam</string>
     <string name="ai_animation_music_text">AI film musiqisi</string>
     <string name="ai_music_save_cancel">İmtina</string>
     <string name="ai_music_save_dialog_title">Saxla</string>
@@ -204,6 +203,8 @@
     <string name="columbus_player_speed_video">VİDEONU ötür</string>
     <string name="columbus_player_unit_sec">san</string>
     <string name="columbus_skip_ad">Ötür</string>
+    <string name="com.crashlytics.android.build_id">7370b57ad8c142aea1ada02f18aeec0e</string>
+    <string name="com.miapm.build_id">1d82e4e8fee144f48a7860a311d8fccc</string>
     <string name="com_permission_desc">"Mi Video cihazınızdakı videolara müraciət edə bilmir. Ayarlarda müraciətə icazə verin."</string>
     <string name="com_permission_title">İcazələr tələb olunur</string>
     <string name="comment_model_add_comment">Bir rəy əlavə et</string>
@@ -262,8 +263,6 @@
     <string name="date_picker_lunar">Ənənəvi Çin Təqvimi</string>
     <string name="date_time_picker_dialog_title">Tarix və saatı ayarla</string>
     <string name="day">gün</string>
-    <string name="default_message_body">mesaj gövdəsi</string>
-    <string name="default_title">Başlıq</string>
     <string name="default_upgrade_hint">"Salam!
 Mi Video güncəllənmək üçün hazırdır.
 Yeni gözəl özəlliklərimizə nəzər salmaq üçün tətbiqi indi güncəlləyin!
@@ -1467,7 +1466,6 @@ Bu icazəni yalnız axtardığınız videoları tapmaq üçün istifadə edəcə
     <string name="recommend_slide_to_more">Daha çoxu üçün sürüşdür</string>
     <string name="recommend_switch_alert">Bu bölməni silmək üçün, Mi Video-da ayarlara gedin</string>
     <string name="recommend_to_you">Sizə tövsiyə edilir</string>
-    <string name="reject_all_label">Hamısını rədd et</string>
     <string name="reload_sub_title">Yenidən sınamaq üçün toxunun.</string>
     <string name="reload_title">"Şəbəkəyə bağlana bilmədi."</string>
     <string name="remaining_space">Mövcud: %s</string>
@@ -1545,7 +1543,6 @@ Bu icazəni yalnız axtardığınız videoları tapmaq üçün istifadə edəcə
     <string name="share_ugc_join">Qoşul</string>
     <string name="share_ugc_waitting">Keçid yaradılır…</string>
     <string name="shorts_assemble_ad_recommend">Tövsiyə edilən</string>
-    <string name="show_options_label">Seçimləri göstər</string>
     <string name="show_the_location">Bildiriş növləri</string>
     <string name="sign_in">Daxil olunur</string>
     <string name="sign_in_google_account">Google ilə daxil olun</string>
