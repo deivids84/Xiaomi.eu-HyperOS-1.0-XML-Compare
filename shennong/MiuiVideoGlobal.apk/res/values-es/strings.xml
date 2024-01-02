@@ -87,7 +87,6 @@
     <string name="afternoon">Tarde</string>
     <string name="agree">Aceptar</string>
     <string name="agree_and_continue">Aceptar</string>
-    <string name="agree_label">De acuerdo</string>
     <string name="ai_animation_music_text">Banda sonora IA</string>
     <string name="ai_music_save_cancel">Cancelar</string>
     <string name="ai_music_save_dialog_title">Guardar</string>
@@ -204,6 +203,8 @@
     <string name="columbus_player_speed_video">Saltar VIDEO</string>
     <string name="columbus_player_unit_sec">seg</string>
     <string name="columbus_skip_ad">Saltar</string>
+    <string name="com.crashlytics.android.build_id">7370b57ad8c142aea1ada02f18aeec0e</string>
+    <string name="com.miapm.build_id">1d82e4e8fee144f48a7860a311d8fccc</string>
     <string name="com_permission_desc">"Mi Vídeo no puede acceder a los vídeos en tu dispositivo. Permite el acceso en Ajustes."</string>
     <string name="com_permission_title">Permisos requeridos</string>
     <string name="comment_model_add_comment">Añadir comentario</string>
@@ -262,8 +263,6 @@
     <string name="date_picker_lunar">Calendario Chino Tradicional</string>
     <string name="date_time_picker_dialog_title">Establecer fecha y hora</string>
     <string name="day">día</string>
-    <string name="default_message_body">Cuerpo del mensaje</string>
-    <string name="default_title">Título</string>
     <string name="default_upgrade_hint">"¡Hola!
 Mi Video está listo para una actualización.
 ¡Actualice la aplicación ahora para ver nuestras nuevas funcionalidades!
@@ -1468,7 +1467,6 @@ Solo usaremos este permiso para encontrar los videos que buscas, y no accederemo
     <string name="recommend_slide_to_more">Desliza para más</string>
     <string name="recommend_switch_alert">Para eliminar esta sección ve a los ajustes en Mi Vídeo</string>
     <string name="recommend_to_you">Recomendado para ti</string>
-    <string name="reject_all_label">Rechazar todo</string>
     <string name="reload_sub_title">Pulsa para intentarlo otra vez.</string>
     <string name="reload_title">"No se pudo conectar a la red."</string>
     <string name="remaining_space">Disponible: %s</string>
@@ -1546,7 +1544,6 @@ Solo usaremos este permiso para encontrar los videos que buscas, y no accederemo
     <string name="share_ugc_join">Unirse</string>
     <string name="share_ugc_waitting">Generando enlace…</string>
     <string name="shorts_assemble_ad_recommend">Recomendado</string>
-    <string name="show_options_label">Mostrar opciones</string>
     <string name="show_the_location">Tipos de notificaciones</string>
     <string name="sign_in">Iniciando sesión</string>
     <string name="sign_in_google_account">Inicia sesión con Google</string>
