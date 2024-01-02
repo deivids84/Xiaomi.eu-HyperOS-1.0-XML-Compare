@@ -204,6 +204,8 @@
     <string name="columbus_player_speed_video">Omet VIDEO</string>
     <string name="columbus_player_unit_sec">seg</string>
     <string name="columbus_skip_ad">Omet</string>
+    <string name="com.google.firebase.crashlytics.mapping_file_id">4262d6346a4e43ee83cf44ed8be9c431</string>
+    <string name="com.miapm.build_id">dfd22e1a880b41bf8dcfc3e385fb78ad</string>
     <string name="common_google_play_services_enable_button">Activa</string>
     <string name="common_google_play_services_enable_text">"%1$s no funcionarà si no actives Serveis de Google Play."</string>
     <string name="common_google_play_services_enable_title">Activa Serveis de Google Play</string>
@@ -695,6 +697,7 @@
     <string name="loading_hint">Un moment…</string>
     <string name="loading_reached_the_bottom">"Això és tot per ara."</string>
     <string name="loading_text">Un moment…</string>
+    <string name="local_ad_title">Promoció</string>
     <string name="local_download_download">Descarregar</string>
     <string name="local_download_hint">Activar la Wi-Fi abans de baixar-la</string>
     <string name="local_download_item">Descàrrega gratuïta</string>
@@ -1513,6 +1516,7 @@ Sigues Feliç"</string>
     <string name="toast_will_play_list_when_ad_pause">La llista començarà a reproduir-se després dels anuncis</string>
     <string name="toast_will_play_song_when_ad_pause">Aquesta cançó començarà a reproduir-se després dels anuncis</string>
     <string name="today">Avui</string>
+    <string name="today_hot_playlist">"La millor llista de reproducció d'avui"</string>
     <string name="tomorrow">Demà</string>
     <string name="top_chart_title">Gràfics</string>
     <string name="track_play_history_after_login">Inicia sessió per a veure l\'historial de reproducció</string>
