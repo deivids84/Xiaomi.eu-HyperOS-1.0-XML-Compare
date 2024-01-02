@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="AI_diwbkiad_dekete_model">Esborra el model</string>
+    <string name="AI_download_delete_message">"Si suprimiu el model Mi AI Image Creator, ja no podreu utilitzar-ne les funcions. Suprimir de totes maneres?"</string>
+    <string name="AI_download_delete_neg">Cancel · lar</string>
+    <string name="AI_download_delete_pos">Suprimeix</string>
+    <string name="AI_download_delete_title">Vols suprimir el model?</string>
+    <string name="AI_download_file_message">Admet Mi AI Image Creator, ≈%.1f GB</string>
+    <string name="AI_download_function_message">Instal·leu Mi AI Image Creator perquè Mi AI generi imatges a partir de les vostres descripcions.</string>
+    <string name="AI_download_title">Model Mi AI Image Creator</string>
     <string name="abc_action_bar_home_description">Navega per casa</string>
     <string name="abc_action_bar_up_description">Navega amunt</string>
     <string name="abc_action_menu_overflow_description">Més opcions</string>
@@ -97,13 +105,34 @@
     <string name="cognition_func_detail_msg">Reconeix i prediu situacions i proporciona serveis personalitzats</string>
     <string name="cognition_func_name">Motor de cognició al dispositiu</string>
     <string name="cognition_func_open">Motor de cognició al dispositiu</string>
+    <string name="cognition_permission_comma">", "</string>
     <string name="cognition_permission_declaration">Detalls dels permisos</string>
+    <string name="cognition_permission_guidance_message">HyperMind només pot funcionar amb normalitat quan es concedeixen els permisos següents i es defineixen com a \"Permetre sempre\": %s</string>
+    <string name="cognition_permission_guidance_title">Es requereixen permisos</string>
     <string name="cognition_permission_location">Informació d\'ubicació</string>
     <string name="cognition_permission_location_msg">Per accedir a la vostra ubicació actual</string>
+    <string name="cognition_permission_location_name">\"Accediu a una ubicació precisa\"</string>
+    <string name="cognition_permission_nearby_device_name">\"Descobriu dispositius propers\"</string>
+    <string name="cognition_permission_phone_state_name">\"Accés a la informació relacionada amb la trucada\"</string>
     <string name="cognition_permission_related">Permisos</string>
     <string name="cognition_permission_runtime_msg">Per accedir a la informació d\'ubicació anterior emmagatzemada al dispositiu per proporcionar serveis més precisos i personalitzats</string>
     <string name="cognition_permission_storage">Accedir als fitxers emmagatzemats al dispositiu</string>
     <string name="cognition_permission_storage_msg">Per accedir a la informació d\'ubicació anterior emmagatzemada al dispositiu</string>
+    <string name="cognition_privacy_cta_all_purpose">Xiaomi HyperMind funciona amb Mi AI Engine. Mi AI Engine pot reconèixer escenaris, aprendre els vostres patrons i oferir-vos serveis precisos i personalitzats.</string>
+    <string name="cognition_privacy_dialog_get_background_loc_permission_message">Permet que Xiaomi HyperMind accedeixi a la teva ubicació mentre s\'executa en segon pla perquè pugui utilitzar patrons. Pots concedir aquest permís a Configuració.</string>
+    <string name="cognition_privacy_dialog_get_background_loc_permission_title">Es requereixen permisos</string>
+    <string name="cognition_privacy_dialog_get_mijia_cta_message">Mi AI Engine necessita recopilar informació sobre els vostres dispositius domèstics intel·ligents per conèixer els vostres patrons. Inicia la sessió a Mi Home/Xiaomi Home per començar. Obre l\'aplicació ara?</string>
+    <string name="cognition_privacy_dialog_get_mijia_cta_title">Inicieu la sessió a Mi Home/Xiaomi Home</string>
+    <string name="cognition_privacy_dialog_get_mijia_data_message">"Mi AI Engine ha de recopilar informació sobre els vostres dispositius i escenes domèstiques intel·ligents a Mi Home/Xiaomi Home per ajudar-lo a aprendre i utilitzar patrons. Confirmeu que hàgiu iniciat la sessió a l'aplicació amb el vostre compte (%s) i, a continuació, toqueu \"D'acord\" per permetre la recollida d'aquesta informació."</string>
+    <string name="cognition_privacy_dialog_get_mijia_data_title">Es requereixen permisos</string>
+    <string name="cognition_privacy_dialog_get_noti_permission_message">Aquest és un permís obligatori. Pots concedir aquest permís a Configuració.</string>
+    <string name="cognition_privacy_dialog_get_noti_permission_title">Permet que Xiaomi HyperMind enviï notificacions</string>
+    <string name="cognition_privacy_dialog_negative_button_mijia_text">esquena</string>
+    <string name="cognition_privacy_dialog_permission_desc_location">Per reconèixer les relacions entre ubicacions específiques i l\'ús de dispositius domèstics intel·ligents</string>
+    <string name="cognition_privacy_dialog_permission_desc_phone_state">Per aprendre com s\'utilitzen els dispositius domèstics intel·ligents per rebre trucades</string>
+    <string name="cognition_privacy_dialog_permission_desc_surround_device">Per reconèixer si hi ha a prop els dispositius domèstics intel·ligents d\'ús freqüent</string>
+    <string name="cognition_privacy_dialog_positive_button_mijia_text">Obert</string>
+    <string name="cognition_privacy_dialog_reject_button_text">"No estic d'acord"</string>
     <string name="cognition_privacy_request">Autorització</string>
     <string name="cognition_privacy_revoke">Retirada del consentiment</string>
     <string name="cognition_privacy_revoke_and">Si retireu el vostre consentiment, es desactivarà aquesta funció</string>
@@ -120,6 +149,8 @@
     <string name="copywriting_audioProject_description_island">Reproducció d\'àudio transferida</string>
     <string name="copywriting_closeAirConditioner_description_hmind">Aire condicionat apagat</string>
     <string name="copywriting_closeAirConditioner_description_island">Aire condicionat apagat</string>
+    <string name="copywriting_closeAirFresh_description_hmind">Sistema d\'aire fresc apagat</string>
+    <string name="copywriting_closeAirFresh_description_island">Sistema d\'aire fresc apagat</string>
     <string name="copywriting_closeAirPurifier_description_hmind">Purificador d\'aire apagat</string>
     <string name="copywriting_closeAirPurifier_description_island">Purificador d\'aire apagat</string>
     <string name="copywriting_closeCurtain_description_hmind">Cortines tancades</string>
@@ -155,6 +186,8 @@
     <string name="copywriting_notify_title_once">Suggeriment</string>
     <string name="copywriting_openAirConditioner_description_hmind">Encès l\'aire condicionat</string>
     <string name="copywriting_openAirConditioner_description_island">Encès l\'aire condicionat</string>
+    <string name="copywriting_openAirFresh_description_hmind">Sistema d\'aire fresc encès</string>
+    <string name="copywriting_openAirFresh_description_island">Sistema d\'aire fresc encès</string>
     <string name="copywriting_openAirPurifier_description_hmind">Encès el purificador d\'aire</string>
     <string name="copywriting_openAirPurifier_description_island">Encès el purificador d\'aire</string>
     <string name="copywriting_openCurtain_description_hmind">Cortines obertes</string>
@@ -188,6 +221,10 @@
     <string name="custom_define_permission_desc_android.permission_group.STORAGE">Per accedir a la informació d\'ubicació anterior emmagatzemada al dispositiu</string>
     <string name="date_picker_lunar">Calendari tradicional xinès</string>
     <string name="date_time_picker_dialog_title">Establir data i hora</string>
+    <string name="download_complete">Descarregat</string>
+    <string name="download_paused">Resum</string>
+    <string name="download_start">descarregar</string>
+    <string name="download_updata">Actualització</string>
     <string name="early_morning">Matí</string>
     <string name="eras_ad">CE</string>
     <string name="eras_bc">AC</string>
