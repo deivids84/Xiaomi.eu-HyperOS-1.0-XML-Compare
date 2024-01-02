@@ -1648,6 +1648,7 @@ mövcuddur"</string>
     <string name="mark_operation_succeeded">Uğurla əlavə edildi</string>
     <string name="mark_people_ignore_info_message">İnsanları qruplara əlavə etmək üçün fotolarını basılı tutun</string>
     <string name="media_type_burst_photo">Ardıcıl</string>
+    <string name="media_type_cinematic">Kino rejimi</string>
     <string name="media_type_clone_photo">Klonlar</string>
     <string name="media_type_doc_photo">Sənədlər</string>
     <string name="media_type_fast_motion_video">Sürətləndirilmiş</string>
@@ -2668,7 +2669,6 @@ Bu özəlliyi ilk dəfə istifadə etdikdə transkodlaşdırma bir qədər vaxt 
     <string name="select_origin_tip">Orijinal fayl (%s)</string>
     <string name="send">Göndər</string>
     <string name="send_diagnosis_log">Jurnalları göndər</string>
-    <string name="send_dolby_vision_duration_more_than_40s">4 dəqiqədən uzun Dolby Vision videoları yalnız alıcı cihaz tərəfindən dəstəklənməyə biləcək orijinal video formatında paylaşıla bilər. Yenə də davam edilsin?</string>
     <string name="send_dolby_vision_video_continue">Davam et</string>
     <string name="send_email_activate_message">Doğrulama kodu uğurla göndərildi</string>
     <string name="send_file_beautify_failed">"Paylaşıla bilmədi"</string>
@@ -2680,6 +2680,7 @@ Bu özəlliyi ilk dəfə istifadə etdikdə transkodlaşdırma bir qədər vaxt 
     <string name="send_public_url">Albom URL-sini göndər</string>
     <string name="send_secret_file_failed">"Paylaşıla bilmədi"</string>
     <string name="send_secret_file_space_low">Yetərsiz anbar sahəsi</string>
+    <string name="send_special_video_duration_more_than_40s">%d dəqiqədən uzun işlənmiş videolar yalnız orijinal formatında paylaşıla bilər, bu da qəbul edən cihazla uyğun olmaya bilər. Hər halda davam edilsin?</string>
     <string name="service_error">Server xətası</string>
     <string name="service_is_provided_by_miui_cloud_service">Bu xidmət Xiaomi Cloud tərəfindən təmin edilir</string>
     <string name="set_as_baby_lock_wallpaper">Kilid ekranı divar kağızı olaraq ayarla</string>
@@ -3201,6 +3202,8 @@ Bu özəlliyi ilk dəfə istifadə etdikdə transkodlaşdırma bir qədər vaxt 
     <string name="tip_capture_time">Çəkiliş tarixi:</string>
     <string name="tip_file_info">Fayl məlumatı:</string>
     <string name="tip_file_path">Yerli kataloq:</string>
+    <string name="tip_leica_authentic">Orijinal Leica</string>
+    <string name="tip_leica_vibrant">Leica Canlı</string>
     <string name="tip_not_download">Cihazda deyil. Oynadılarkən Xiaomi Cloud-dan endiriləcək.</string>
     <string name="tip_screenshot_package_info">Tətbiq adı:</string>
     <string name="tips_for_photo_page_selection">Elementlərə baxmaq üçün toxuna bilərsiniz</string>
