@@ -335,6 +335,24 @@ və Xiaomi Hesabınıza daxil olun"</string>
     <string name="close_invisible_mode_dialog_message">"\"Mi Smart Play\", indi istifadə edilə bilmir. Bu özəlliyi istifadə edə bilmək üçün Ayarlarda Gizli rejimi söndürün."</string>
     <string name="close_invisible_mode_dialog_ok">Ayarlar</string>
     <string name="close_invisible_mode_dialog_title">"Gizlisiniz"</string>
+    <string name="common_google_play_services_enable_button">Aktivləşdirin</string>
+    <string name="common_google_play_services_enable_text">"Google Play xidmətlərini aktiv etməsəniz, %1$s işləməyəcək."</string>
+    <string name="common_google_play_services_enable_title">Google Play xidmətlərini aktivləşdirin</string>
+    <string name="common_google_play_services_install_button">Yüklemek</string>
+    <string name="common_google_play_services_install_text">"%1$s cihazınızda olmayan Google Play xidmətləri olmadan işləməyəcək."</string>
+    <string name="common_google_play_services_install_title">Google Play xidmətləri əldə edin</string>
+    <string name="common_google_play_services_notification_channel_name">Google Play xidmətlərinin mövcudluğu</string>
+    <string name="common_google_play_services_notification_ticker">Google Play xidmətləri xətası</string>
+    <string name="common_google_play_services_unknown_issue">%1$s Google Play xidmətlərində problem yaşayır. Zəhmət olmasa bir daha cəhd edin.</string>
+    <string name="common_google_play_services_unsupported_text">"%1$s , cihazınız tərəfindən dəstəklənməyən Google Play xidmətləri olmadan işləməyəcək."</string>
+    <string name="common_google_play_services_update_button">Yeniləyin</string>
+    <string name="common_google_play_services_update_text">"Google Play xidmətlərini güncəlləmədikcə %1$s işləməyəcək."</string>
+    <string name="common_google_play_services_update_title">Google Play xidmətlərini yeniləyin</string>
+    <string name="common_google_play_services_updating_text">"%1$s hazırda yenilənən Google Play xidmətləri olmadan işləməyəcək."</string>
+    <string name="common_google_play_services_wear_update_text">Google Play xidmətlərinin yeni versiyası tələb olunur. Tezliklə özünü yeniləyəcək.</string>
+    <string name="common_open_on_phone">Telefonda açın</string>
+    <string name="common_signin_button_text">Daxil olun</string>
+    <string name="common_signin_button_text_long">Google ilə daxil olun</string>
     <string name="config_wifi_label_china">Xiaomi Conference Tapcast Wi-Fi</string>
     <string name="config_wifi_label_global">Xiaomi Conference Tapcast Wi-Fi</string>
     <string name="connect_device_fail">"Cihaza bağlana bilmədi"</string>
@@ -378,6 +396,7 @@ və Xiaomi Hesabınıza daxil olun"</string>
     <string name="controller_auth_cancel">İmtina</string>
     <string name="controller_auth_title">Pultu doğrula</string>
     <string name="copy">Kopyala</string>
+    <string name="copy_toast_msg">Link buferə kopyalandı</string>
     <string name="current_wifi_tv">Hazırkı şəbəkə</string>
     <string name="date_picker_lunar">Ənənəvi Çin Təqvimi</string>
     <string name="date_time_picker_dialog_title">Tarix və saatı ayarla</string>
@@ -453,6 +472,9 @@ Bağlantı qurma probleminiz varsa, kömək üçün baxın."</string>
     <string name="evening">Günortadan sonra</string>
     <string name="expand_button_title">Qabaqcıl</string>
     <string name="exposed_dropdown_menu_content_description">Açılan menyunu göstər</string>
+    <string name="fallback_menu_item_copy_link">Linki kopyalayın</string>
+    <string name="fallback_menu_item_open_in_browser">Brauzerdə açın</string>
+    <string name="fallback_menu_item_share_link">Linki paylaşın</string>
     <string name="file_read_des">Xarici monitorlarda fotoları və digər faylları göstərmək üçün</string>
     <string name="find_device_close">Anladım</string>
     <string name="find_device_notification_content_phone">%1$s, %2$s istifadə edərək bu cihazı axtarır. Səs oxutmanı dayandırmaq üçün kilidi açın.</string>
@@ -596,24 +618,24 @@ Miracast-ı işə salsanız, [MENU] düyməsinə basın və Tətbiqlərim &gt; Y
     <string name="help_page_text_55_global">"Şəbəkəyə bağlana bilmirsinizsə, xarici monitorunuzun Miracast funksionallığını dəstəklədiyinə və bu funksiyanın açıq olduğuna əmin olun. Bəzi modellərdə, bu özəllik \"Naqilsiz ekran\", \"Ekranı əks etdir\" və ya \"Çoxlu ekran\" olaraq adlandırılır.
 %1$d. Hər hansısa problemlə üzləşsəniz, \"Xidmətlər və əks-əlaqə\" tətbiqimizi istifadə edərək onları bildirə bilərsiniz."</string>
     <string name="help_page_text_end">"Cihazınızın markası bu siyahıda yoxdursa, yayım funksionallığı haqqında daha ətraflı öyrənmək üçün istehsalçı ilə əlaqə saxlayın."</string>
-    <string name="hm_always">Vərdiş olaraq saxla</string>
-    <string name="hm_conflict_title">\"%1$s\" dayandırıldı</string>
-    <string name="hm_conflict_toast">Mijia - tapşırıqları avtomatlaşdırmaqla bağlı ziddiyyətlər var, tapşırıqları güncəlləmək üçün Mijia-a keçin</string>
-    <string name="hm_go_to_help">Köməyə bax</string>
-    <string name="hm_go_to_login">Giriş bölməsinə get</string>
-    <string name="hm_go_to_open_setting">Ayarları aç</string>
-    <string name="hm_habit_info_describe">"Cihazların vərdişlərinizə əsasən işləməsinə icazə verin
-Cihaz nə qədər çox istifadə edilərsə, vərdiş öyrənmə bir o qədər dəqiq olur"</string>
-    <string name="hm_habit_info_empty_describe">"Davranışınızı davamlı olaraq hiss edin və cihazın vərdişlərinizə uyğun işləməsinə icazə verin
-Cihaz nə qədər çox istifadə edilərsə, vərdiş öyrənmə bir o qədər dəqiq olur"</string>
-    <string name="hm_habit_info_list_empty">Vərdişləri öyrən</string>
-    <string name="hm_help">Kömək</string>
-    <string name="hm_knew">Bilirəm</string>
+    <string name="hm_always">Yadda saxla</string>
+    <string name="hm_conflict_title">Pauza edilmiş model: %1$s</string>
+    <string name="hm_conflict_toast">Sizdə ziddiyyətli ağıllı ev səhnəsi və ya avtomatlaşdırma var. Əvvəlcə proqramda redaktə edin.</string>
+    <string name="hm_go_to_help">Yardıma baxın</string>
+    <string name="hm_go_to_login">Daxil olun</string>
+    <string name="hm_go_to_open_setting">Yandır</string>
+    <string name="hm_habit_info_describe">"
+necə istifadə etdiyinizi öyrənməklə cihazların ehtiyaclarınıza uyğunlaşmasına icazə verin"</string>
+    <string name="hm_habit_info_empty_describe">"Xiaomi HyperMind nümunələri öyrənə və dəqiqləşdirə bilməsi üçün cihazlarınızı
+istifadə etməyə davam edin"</string>
+    <string name="hm_habit_info_list_empty">Öyrənmə nümunələri…</string>
+    <string name="hm_help">Kömək edin</string>
+    <string name="hm_knew">Anladım</string>
     <string name="hm_more">Daha çox</string>
-    <string name="hm_pause_habit">Vərdişə fasilə ver</string>
-    <string name="hm_please_login_mi_account">Lütfən əvvəlcə Xiaomi hesabınıza giriş edin</string>
-    <string name="hm_remember">Xatırla</string>
-    <string name="hm_resume_habit">Vərdişləri bərpa et</string>
+    <string name="hm_pause_habit">Fasilə</string>
+    <string name="hm_please_login_mi_account">Başlamaq üçün Xiaomi Hesabınıza daxil olun</string>
+    <string name="hm_remember">Yadda saxla</string>
+    <string name="hm_resume_habit">Xülasə</string>
     <string name="hm_setting_mode">Sürətli rejim</string>
     <string name="hm_setting_mode_subtitle">İşə salınsa, vərdişlər daha sürətli yaradıla bilər, ancaq enerji sərfiyyatını artırır.</string>
     <string name="hm_setting_mode_title">Aşırı sürət təcrübəsi rejimi</string>
@@ -621,15 +643,15 @@ Cihaz nə qədər çox istifadə edilərsə, vərdiş öyrənmə bir o qədər d
     <string name="hm_setting_subtitle_on">İşə salınsa, öyrənilən bütün vərdişlər silinəcək.</string>
     <string name="hm_setting_title_off">Sürətli təcrübə rejimini söndürmək istədiyinizə əminsiniz?</string>
     <string name="hm_setting_title_on">Sürətli təcrübə rejimini işə salmaq istədiyinizə əminsiniz?</string>
-    <string name="hm_setup">Qur</string>
+    <string name="hm_setup">Parametrlər</string>
     <string name="hm_time_has_paused">Fasilə verildi</string>
-    <string name="hm_time_just_remembered">İndicə xatırladım</string>
+    <string name="hm_time_just_remembered">İndicə öyrəndim</string>
     <string name="hm_time_long_ago">Çoxdan</string>
-    <string name="hm_time_not_executed">İcra edilmədi</string>
-    <string name="hm_time_recent_week">təxminən bir həftə</string>
+    <string name="hm_time_not_executed">Hələ istifadə olunmayıb</string>
+    <string name="hm_time_recent_week">Bu həftə</string>
     <string name="hm_time_today">Bu gün</string>
     <string name="hm_time_yesterday">Dünən</string>
-    <string name="hm_toast_log_in">Lütfən əvvəlcə Xiaomi hesabınıza giriş edin</string>
+    <string name="hm_toast_log_in">Əvvəlcə Xiaomi Hesabınıza daxil olun</string>
     <string name="hm_xiaomi_hyper_mind">Xiaomi HyperMind</string>
     <string name="hyper_mind">HyperMind</string>
     <string name="hyper_mind_close_warning">Diqqət</string>
@@ -1107,7 +1129,7 @@ Oyunları yayımlamazdan əvvəl \"Game Turbo\"nu işə saldığınıza əmin ol
     <string name="trust_device_manager">Güvənilən cihazları idarə et</string>
     <string name="trust_device_none">Burada güvənli cihaz yoxdur</string>
     <string name="trust_device_title">Güvənli cihazlar</string>
-    <string name="try_multipurpose_equipment">Bir neçə cihazı istifadə etməyə çalışın, onda sizi daha yaxşı anlaya bilərəm</string>
+    <string name="try_multipurpose_equipment">Cihazları ehtiyaclarınıza uyğunlaşdırmaq üçün istifadə etməyə davam edin</string>
     <string name="tuesday">Çərşənbə axşamı</string>
     <string name="tuesday_short">Ç.a.</string>
     <string name="tuesday_shortest">Ç.a.</string>
