@@ -1629,6 +1629,7 @@ per personalitzar Galeria"</string>
     <string name="mark_operation_succeeded">Afegit correctament</string>
     <string name="mark_people_ignore_info_message">Prem i manté fotos de persones per afegir-les als grups</string>
     <string name="media_type_burst_photo">Explosió</string>
+    <string name="media_type_cinematic">Mode pel·lícula</string>
     <string name="media_type_clone_photo">Clons</string>
     <string name="media_type_doc_photo">Documents</string>
     <string name="media_type_fast_motion_video">Càmera ràpida</string>
@@ -2649,7 +2650,6 @@ per personalitzar Galeria"</string>
     <string name="select_origin_tip">Fitxer original (%s)</string>
     <string name="send">Envia</string>
     <string name="send_diagnosis_log">Enviar registres</string>
-    <string name="send_dolby_vision_duration_more_than_40s">Els vídeos de Dolby Vision de més de 4 minuts només es poden compartir en el seu format de vídeo original, que pot ser que el dispositiu receptor no admeti. Voleu continuar igualment?</string>
     <string name="send_dolby_vision_video_continue">Continuar</string>
     <string name="send_email_activate_message">S\'ha enviat un correu electrònic de verificació correctament</string>
     <string name="send_file_beautify_failed">"No s'ha pogut compartir"</string>
@@ -2661,6 +2661,7 @@ per personalitzar Galeria"</string>
     <string name="send_public_url">Envia la URL de l\'àlbum</string>
     <string name="send_secret_file_failed">"No s'ha pogut compartir"</string>
     <string name="send_secret_file_space_low">No hi ha prou espai d\'emmagatzematge</string>
+    <string name="send_special_video_duration_more_than_40s">Els vídeos processats que durin més de %d minuts només es poden compartir en el seu format original, que pot ser que no sigui compatible amb el dispositiu receptor. Continuar igualment?</string>
     <string name="service_error">Error del servidor</string>
     <string name="service_is_provided_by_miui_cloud_service">Aquest servei és a càrrec de Xiaomi Cloud</string>
     <string name="set_as_baby_lock_wallpaper">Estableix-la com a fons de pantalla de bloqueig</string>
@@ -3208,6 +3209,8 @@ Fins %1$s, pots moure els elements a Google Fotos o visitar i.mi.com per baixar-
     <string name="tip_capture_time">Presa el:</string>
     <string name="tip_file_info">Informació del fitxer:</string>
     <string name="tip_file_path">Ruta local:</string>
+    <string name="tip_leica_authentic">Leica autèntic</string>
+    <string name="tip_leica_vibrant">Leica Vibrant</string>
     <string name="tip_not_download">No es troba al dispositiu. Es baixarà de Núvol Xiaomi mentre es reprodueix.</string>
     <string name="tip_screenshot_package_info">Nom de l\'aplicació:</string>
     <string name="tips_for_photo_page_selection">Pots tocar ítems per veure\'ls</string>
