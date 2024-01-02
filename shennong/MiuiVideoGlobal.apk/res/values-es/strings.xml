@@ -203,8 +203,6 @@
     <string name="columbus_player_speed_video">Saltar VIDEO</string>
     <string name="columbus_player_unit_sec">seg</string>
     <string name="columbus_skip_ad">Saltar</string>
-    <string name="com.crashlytics.android.build_id">7370b57ad8c142aea1ada02f18aeec0e</string>
-    <string name="com.miapm.build_id">1d82e4e8fee144f48a7860a311d8fccc</string>
     <string name="com_permission_desc">"Mi Vídeo no puede acceder a los vídeos en tu dispositivo. Permite el acceso en Ajustes."</string>
     <string name="com_permission_title">Permisos requeridos</string>
     <string name="comment_model_add_comment">Añadir comentario</string>
