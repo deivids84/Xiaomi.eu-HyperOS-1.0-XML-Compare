@@ -2680,7 +2680,7 @@ Bu özəlliyi ilk dəfə istifadə etdikdə transkodlaşdırma bir qədər vaxt 
     <string name="send_public_url">Albom URL-sini göndər</string>
     <string name="send_secret_file_failed">"Paylaşıla bilmədi"</string>
     <string name="send_secret_file_space_low">Yetərsiz anbar sahəsi</string>
-    <string name="send_special_video_duration_more_than_40s">%d dəqiqədən uzun işlənmiş videolar yalnız orijinal formatında paylaşıla bilər, bu da qəbul edən cihazla uyğun olmaya bilər. Hər halda davam edilsin?</string>
+    <string name="send_special_video_duration_more_than_40s">%d dəqiqədən uzun olan emal edilmiş videolar yalnız orijinal formatında paylaşıla bilər, bu alıcı cihazla uyumlu olmaya bilər. Yenə də davam edilsin?</string>
     <string name="service_error">Server xətası</string>
     <string name="service_is_provided_by_miui_cloud_service">Bu xidmət Xiaomi Cloud tərəfindən təmin edilir</string>
     <string name="set_as_baby_lock_wallpaper">Kilid ekranı divar kağızı olaraq ayarla</string>
