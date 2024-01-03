@@ -1648,7 +1648,7 @@ mövcuddur"</string>
     <string name="mark_operation_succeeded">Uğurla əlavə edildi</string>
     <string name="mark_people_ignore_info_message">İnsanları qruplara əlavə etmək üçün fotolarını basılı tutun</string>
     <string name="media_type_burst_photo">Ardıcıl</string>
-    <string name="media_type_cinematic">Kino rejimi</string>
+    <string name="media_type_cinematic">Film rejimi</string>
     <string name="media_type_clone_photo">Klonlar</string>
     <string name="media_type_doc_photo">Sənədlər</string>
     <string name="media_type_fast_motion_video">Sürətləndirilmiş</string>
@@ -3202,7 +3202,7 @@ Bu özəlliyi ilk dəfə istifadə etdikdə transkodlaşdırma bir qədər vaxt 
     <string name="tip_capture_time">Çəkiliş tarixi:</string>
     <string name="tip_file_info">Fayl məlumatı:</string>
     <string name="tip_file_path">Yerli kataloq:</string>
-    <string name="tip_leica_authentic">Orijinal Leica</string>
+    <string name="tip_leica_authentic">Leica Authentic</string>
     <string name="tip_leica_vibrant">Leica Canlı</string>
     <string name="tip_not_download">Cihazda deyil. Oynadılarkən Xiaomi Cloud-dan endiriləcək.</string>
     <string name="tip_screenshot_package_info">Tətbiq adı:</string>
