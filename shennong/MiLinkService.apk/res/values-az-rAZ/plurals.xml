@@ -105,7 +105,7 @@
         <item quantity="one">1 dəqiqə əvvəl</item>
     </plurals>
     <plurals name="remember_number_habit">
-        <item quantity="other">%1$d nümunə yadda qaldı</item>
-        <item quantity="one">%1$d nümunəsi yadda qaldı</item>
+        <item quantity="other">%1$d model xatırlandı</item>
+        <item quantity="one">%1$d model xatırlandı</item>
     </plurals>
 </resources>
