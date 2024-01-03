@@ -1513,7 +1513,7 @@ Xoşbəxt ol"</string>
     <string name="toast_will_play_list_when_ad_pause">Pleylist reklamlardan sonra oynadılmağa başlayacaq</string>
     <string name="toast_will_play_song_when_ad_pause">Bu mahnı reklamlardan sonra oxudulmağa başlayacaq</string>
     <string name="today">Bu gün</string>
-    <string name="today_hot_playlist">"Bugünkü ən yaxşı pleylist"</string>
+    <string name="today_hot_playlist">"Bugünün başlıca pleylisti"</string>
     <string name="tomorrow">Sabah</string>
     <string name="top_chart_title">Siyahılar</string>
     <string name="track_play_history_after_login">Oxutma tarixçəsinə baxmaq üçün daxil olun</string>
