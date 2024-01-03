@@ -174,7 +174,7 @@ Risk önləmə, statistika və analitik emal məqsədləri üçün şəbəkəyə
     <string name="intent_filter_verification_service">Niyyət Filtr Doğrulama Xidməti</string>
     <string name="interconnection_communication_introduction">Xiaomi İnternet Rabitə Xidmətləri, digər cihazları kəşf etməyinizə, onlara bağlanmağınıza və onlarla ünsiyyət qurmağınıza imkan verir.</string>
     <string name="interconnection_service_global_item_title">Xiaomi Ara bağlantı</string>
-    <string name="interconnection_service_global_label">"&lt;Data&gt;Xiaomi Interconnectivity cihazlarınızın bir-biri ilə simsiz əlaqə saxlamasına imkan verir. Bu açarı yandırmaqla siz Xiaomi Interconnectivity-nin &lt;a href=%1$s&gt;Məxfilik Siyasəti&lt;/a &gt;ilə razılaşırsınız.&lt;/Data&gt;"</string>
+    <string name="interconnection_service_global_label">"&lt;Data&gt;Xiaomi Ara bağlantısı, cihazların bir-biri ilə naqilsiz əlaqə qurmasına imkan verir. Bunu açaraq \"Xiaomi Ara bağlantısı\"nın &lt;a href=%1$s&gt;Gizlilik Siyasəti&lt;/a &gt; ilə razılaşırsınız.&lt;/Data&gt;"</string>
     <string name="interconnection_service_summary_china">"Xiaomi Ara bağlantı Xidmətləri, cihazların bir-biri ilə naqilsiz ünsiyyət qurmasına imkan verir. Bu xidmətlərə Mi Smart Play, yayım, tətbiq köçürmə, Əsas ekran+, paylaşılan lövhə, cihazlar arasında təsvir yaxalama, şəbəkə köməkçisi, paylaşılan klaviatura və maus, paylaşılan kamera və Mi Smart Hub daxildir. Normal işləyə bilməsi üçün \"Xiaomi Ara bağlantı Xidmətləri\"nin internetə bağlanması və aşağıdakı xidmətləri tələb etməsi lazımdır:
 \u0009\u0009Mi Smart Play və yayım:
 \u0009\u0009Bluetooth-u aç və ya bağla
@@ -236,7 +236,7 @@ Risk önləmə, statistika və analitik emal məqsədləri üçün şəbəkəyə
 \u0009\u0009Cihazda saxlanılan foto, video və səslərə müraciət
 \u0009\u0009Ötürülən məzmunu göndərmək və almaq üçün.
 Bu icazələrin verilməsi ilə razılaşmasanız, bu xidmətləri istifadə edə bilməyəcəksiniz. Mövcud ara bağlantı xidmətləri cihazınızın sistem versiyasına və cihaz modelinə görə fərqlənə bilər. Daha çox məlumatı burada tapa bilərsiniz: %s."</string>
-    <string name="interconnection_service_summary_global">"Xiaomi Interconnectivity xüsusiyyətləri cihaz modelindən və sistem versiyasından asılı olaraq dəyişə bilər. Ətraflı məlumat üçün sistemin rəsmi saytına daxil olun."</string>
+    <string name="interconnection_service_summary_global">"Xiaomi Ara bağlantısı özəllikləri cihaz modelinə və sistem versiyasına görə dəyişə bilər. Daha ətraflı məlumat üçün sistemin rəsmi veb saytını ziyarət edin."</string>
     <string name="interconnection_service_title">Xiaomi Interconnectivity Services</string>
     <string name="item_contents_wwarning">"Cihazınız itsə, ekran kilidi təyin etmədiyiniz etmədiyiniz halda başqalarının cihazı istifadə etməsini və datanıza müraciət etməsini önləyə bilməyəcəksiniz. Yenə də ötürülsün?"</string>
     <string name="item_facerecognition">Üz tanıma</string>
