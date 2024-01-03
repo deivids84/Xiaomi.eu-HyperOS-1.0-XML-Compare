@@ -173,7 +173,7 @@ Risk önləmə, statistika və analitik emal məqsədləri üçün şəbəkəyə
     <string name="install_preinstall_app">Tətbiqlər yüklənir…</string>
     <string name="intent_filter_verification_service">Niyyət Filtr Doğrulama Xidməti</string>
     <string name="interconnection_communication_introduction">Xiaomi İnternet Rabitə Xidmətləri, digər cihazları kəşf etməyinizə, onlara bağlanmağınıza və onlarla ünsiyyət qurmağınıza imkan verir.</string>
-    <string name="interconnection_service_global_item_title">Xiaomi qarşılıqlı əlaqəsi</string>
+    <string name="interconnection_service_global_item_title">Xiaomi Ara bağlantı</string>
     <string name="interconnection_service_global_label">"&lt;Data&gt;Xiaomi Interconnectivity cihazlarınızın bir-biri ilə simsiz əlaqə saxlamasına imkan verir. Bu açarı yandırmaqla siz Xiaomi Interconnectivity-nin &lt;a href=%1$s&gt;Məxfilik Siyasəti&lt;/a &gt;ilə razılaşırsınız.&lt;/Data&gt;"</string>
     <string name="interconnection_service_summary_china">"Xiaomi Ara bağlantı Xidmətləri, cihazların bir-biri ilə naqilsiz ünsiyyət qurmasına imkan verir. Bu xidmətlərə Mi Smart Play, yayım, tətbiq köçürmə, Əsas ekran+, paylaşılan lövhə, cihazlar arasında təsvir yaxalama, şəbəkə köməkçisi, paylaşılan klaviatura və maus, paylaşılan kamera və Mi Smart Hub daxildir. Normal işləyə bilməsi üçün \"Xiaomi Ara bağlantı Xidmətləri\"nin internetə bağlanması və aşağıdakı xidmətləri tələb etməsi lazımdır:
 \u0009\u0009Mi Smart Play və yayım:
