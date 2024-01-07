@@ -138,7 +138,7 @@
     <string name="RestrictedOnNormalTitle">Səs xidməti yoxdur</string>
     <string name="RestrictedStateContent">Operatorunuz tərəfindən müvəqqəti olaraq söndürüldü</string>
     <string name="RestrictedStateContentMsimTemplate">SIM %d üçün operatorunuz tərəfindən müvəqqəti olaraq söndürüldü</string>
-    <string name="RuacMmi">İstənməyən bezdirici zənglərin rədd edilməsi</string>
+    <string name="RuacMmi">İstənməyən bezdirici zənglərə rədd cavabı ver</string>
     <string name="SetupCallDefault">Zəng qəbul edilsin?</string>
     <string name="ThreeWCMmi">Üç tərəfli zəng</string>
     <string name="VideoView_error_button">Oldu</string>
