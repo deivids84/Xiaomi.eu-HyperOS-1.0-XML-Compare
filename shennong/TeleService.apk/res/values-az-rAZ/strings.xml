@@ -261,7 +261,7 @@
     <string name="callFailed_bearer_capability_not_authorized">Daşıyıcı qabiliyyəti səlahiyyətli deyil</string>
     <string name="callFailed_bearer_capability_unavailable">Daşıyıcı qabiliyyəti hazırda mövcud deyil</string>
     <string name="callFailed_bearer_service_not_implemented">Daşıyıcı xidməti tətbiq edilmədi</string>
-    <string name="callFailed_call_rejected">Zəng rədd edildi</string>
+    <string name="callFailed_call_rejected">Zəngə rədd cavabı verildi</string>
     <string name="callFailed_calling_disabled">ro.telephony.disable-call sistem xüsusiyyəti istifadə edilərək zəng etmə sıradan çıxarıldığı üçün zəng edilə bilmir.</string>
     <string name="callFailed_cb_enabled">"Zəng qadağası açıq olarkən gedən zənglər edilə bilmir."</string>
     <string name="callFailed_cdma_activation">"SIM kart, xidmətinizi aktivləşdirdi və telefonunuzun rominq imkanlarını güncəlləşdirildi."</string>
@@ -515,7 +515,7 @@
     <string name="clh_callFailed_bearer_capability_not_authorized_txt">"Zəng tamamlana bilmədi. Xəta kodu: 57."</string>
     <string name="clh_callFailed_bearer_capability_not_presently_available_txt">"Zəng tamamlana bilmədi. Xəta kodu: 58."</string>
     <string name="clh_callFailed_bearer_service_not_implemented_txt">"Zəng tamamlana bilmədi. Xəta kodu: 65."</string>
-    <string name="clh_callFailed_call_rejected_txt">Zəng rədd edildi</string>
+    <string name="clh_callFailed_call_rejected_txt">Zəngə rədd cavabı verildi</string>
     <string name="clh_callFailed_channel_unacceptable_txt">"Zəng tamamlana bilmədi. Xəta kodu: 6."</string>
     <string name="clh_callFailed_conditional_IE_error_txt">"Zəng tamamlana bilmədi. Xəta kodu: 100."</string>
     <string name="clh_callFailed_destination_out_of_order_txt">"Zəng tamamlana bilmədi. Xəta kodu: 27."</string>
@@ -934,7 +934,7 @@ Hələ də fövqəladə hal zəngləri edə bilərsiniz.\"</string>
     <string name="incall_error_supp_service_conference">Zənglər birləşdirilə bilmir.</string>
     <string name="incall_error_supp_service_hangup">"Zənglər buraxıla bilmir."</string>
     <string name="incall_error_supp_service_hold">"Zənglər gözlədilə bilmir."</string>
-    <string name="incall_error_supp_service_reject">"Zəng rədd edilə bilmir."</string>
+    <string name="incall_error_supp_service_reject">"Zəngə rədd cavabı verilə bilmir."</string>
     <string name="incall_error_supp_service_resume">"Zəngə davam edilə bilmir."</string>
     <string name="incall_error_supp_service_separate">"Zəng bölünə bilmir."</string>
     <string name="incall_error_supp_service_switch">"Zənglər dəyişdirilə bilmir."</string>
