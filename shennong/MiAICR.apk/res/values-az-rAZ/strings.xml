@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="AI_diwbkiad_dekete_model">Modeli sil</string>
-    <string name="AI_download_delete_message">"Mi AI Image Creator modelini silsəniz, daha onun xüsusiyyətlərindən istifadə edə bilməyəcəksiniz. Hər halda silinsin?"</string>
+    <string name="AI_download_delete_message">"Mi AI Image Creator modelini silsəniz, artıq onun özəlliklərini istifadə edə bilməyəcəksiniz. Yenə də silinsin?"</string>
     <string name="AI_download_delete_neg">İmtina</string>
     <string name="AI_download_delete_pos">Sil</string>
     <string name="AI_download_delete_title">Model silinsin?</string>
     <string name="AI_download_file_message">Mi AI Image Creator dəstəkləyir, ≈%.1f GB</string>
-    <string name="AI_download_function_message">Mi AI-nin təsvirlərinizdən şəkillər yaratması üçün Mi AI Image Creator quraşdırın.</string>
+    <string name="AI_download_function_message">Mi AI-nin açıqlamalarınızdan şəkillər yaratması üçün \"Mi AI Image Creator\"u quraşdırın.</string>
     <string name="AI_download_title">Mi AI Image Creator modeli</string>
     <string name="abc_action_bar_home_description">Əsas ekrana keç</string>
     <string name="abc_action_bar_up_description">Yuxarı keç</string>
