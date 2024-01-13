@@ -284,6 +284,9 @@ Els teus dispositius?"</string>
     <string name="circulate_open_in_tv">Obert a la TV</string>
     <string name="circulate_pad_app_continuity">"Ús del telèfon %1$s"</string>
     <string name="circulate_pad_card_being_used_camera">"Ús de la càmera del telèfon a la tauleta"</string>
+    <string name="circulate_pad_card_being_used_cellular">La tauleta utilitza dades mòbils</string>
+    <string name="circulate_pad_card_being_used_cellular_wifi">Senyal Wi-Fi compartit amb la tauleta</string>
+    <string name="circulate_pad_card_being_used_cellular_wifi_china">Senyal Wi-Fi compartit amb la tauleta</string>
     <string name="circulate_pad_card_use_camera">"Utilitzar la càmera de la tauleta"</string>
     <string name="circulate_pad_card_use_desktop">Compartir la pantalla d\'inici a la tauleta</string>
     <string name="circulate_pad_card_using_camera">"Ús de la càmera de la tauleta"</string>
@@ -296,8 +299,12 @@ Els teus dispositius?"</string>
     <string name="circulate_phone_app_continuity">Utilitzant %1$s a la tauleta</string>
     <string name="circulate_phone_card_being_used_camera">"Ús de la càmera de la tauleta al telèfon"</string>
     <string name="circulate_phone_card_use_camera">"Utilitzar la càmera del telèfon"</string>
+    <string name="circulate_phone_card_use_cellular">"Utilitzeu les dades mòbils del telèfon"</string>
     <string name="circulate_phone_card_use_desktop">"Veure la pantalla d'inici del telèfon"</string>
     <string name="circulate_phone_card_using_camera">"Ús de la càmera del telèfon…"</string>
+    <string name="circulate_phone_card_using_cellular">"Ús de les dades mòbils del telèfon"</string>
+    <string name="circulate_phone_card_using_cellular_wifi">"Utilitzant el senyal Wi-Fi del telèfon"</string>
+    <string name="circulate_phone_card_using_cellular_wifi_china">"Utilitzant el senyal Wi-Fi del telèfon"</string>
     <string name="circulate_phone_card_using_desktop">"Visualització de la pantalla d'inici del telèfon…"</string>
     <string name="circulate_ringfind_button_hint_play">Reprodueix so</string>
     <string name="circulate_ringfind_button_hint_stop">Deixar de reproduir so</string>
@@ -365,6 +372,7 @@ Els teus dispositius?"</string>
     <string name="connect_settings_category_connection_car">Característiques del cotxe</string>
     <string name="connect_settings_category_hyper_mind">Hiperment</string>
     <string name="connect_settings_category_personal_device">Dispositius personals</string>
+    <string name="connect_settings_communication_sharing">Anclatge sense fil</string>
     <string name="connect_settings_connect_permission">Interconnectivitat i permisos</string>
     <string name="connect_settings_connect_privacy">Privacitat</string>
     <string name="connect_settings_connection_service">Interconnectivitat Xiaomi</string>
@@ -382,7 +390,7 @@ Els teus dispositius?"</string>
     <string name="connect_settings_summary"><Data>Descobriu automàticament els dispositius propers que han iniciat la sessió al vostre compte Xiaomi i connecteu-los entre ells per realitzar diverses tasques en diversos dispositius. &lt;a href=%1$s&gt;Aprèn més&lt;/a&gt;</Data></string>
     <string name="connect_settings_summary_connection_service">Permet que els teus dispositius interactuïn entre ells sense fil</string>
     <string name="connect_settings_summary_corp_phone">Respon trucades des de tauletes o ordinadors propers que hagin iniciat la sessió al teu compte Xiaomi</string>
-    <string name="connect_settings_summary_hyper_mind">Adapta automàticament els dispositius propers a les teves necessitats en funció dels teus patrons d\'ús. Aquesta característica és impulsada per Mi AI.</string>
+    <string name="connect_settings_summary_hyper_mind">Aquesta funció aprèn els vostres patrons i els utilitza per controlar els vostres dispositius domèstics intel·ligents. Desenvolupat per Mi AI.</string>
     <string name="connect_settings_summary_relay_app">Continuar les tasques a la mateixa app en un altre dispositiu</string>
     <string name="connect_settings_summary_share_clipboard">Enganxeu text i imatges a altres dispositius dins %d minuts després de copiar-los en aquest dispositiu</string>
     <string name="connect_settings_summary_share_launcher_pad">Veure i interactuar amb les pantalles d\'inici dels telèfons propers han iniciat la sessió al vostre compte Xiaomi</string>
@@ -652,7 +660,7 @@ perquè Xiaomi HyperMind pugui aprendre i perfeccionar patrons"</string>
     <string name="hyper_mind">Hiperment</string>
     <string name="hyper_mind_close_warning">Atenció</string>
     <string name="hyper_mind_close_warning_checkbox">"No es torni a mostrar"</string>
-    <string name="hyper_mind_close_warning_content">HyperMind deixarà de recopilar dades i aprendre els vostres patrons d\'ús després de desactivar-les. Si necessiteu eliminar les dades que ja s\'han recopilat, &lt;a href=%1$s&gt;Toqueu aquí&lt;/a&gt;.</string>
+    <string name="hyper_mind_close_warning_content">Si desactiveu aquesta funció, HyperMind ja no podrà aprendre ni utilitzar els vostres patrons. Si voleu retirar el vostre consentiment per a la recollida de les vostres dades, toqueu &lt;a href=%1$s&gt;aquí&lt;/a&gt;.</string>
     <string name="hyper_mind_close_warning_ok">Ho tinc</string>
     <string name="hyper_mind_xiaomi">Xiaomi</string>
     <string name="icon_content_description">Icona del quadre de diàleg</string>
