@@ -3897,7 +3897,7 @@ Per obtenir més informació, contacta amb l'entitat de crèdit."</string>
 "</string>
     <string name="font_size_summary1">"Si la mida de la lletra encara és massa petita, proveu "</string>
     <string name="font_size_summary2">Mode simplificat</string>
-    <string name="footer_description_full_screen_intent">Permet que aquesta aplicació mostri notificacions que ocupen la pantalla completa quan el dispositiu està bloquejat. Les aplicacions poden utilitzar-les per destacar alarmes, trucades entrants o altres notificacions urgents.</string>
+    <string name="footer_description_full_screen_intent">Permet que aquesta aplicació mostri notificacions que ocupen tota la pantalla quan el dispositiu està bloquejat. L\'aplicació pot utilitzar notificacions de pantalla completa per mostrar alarmes, trucades entrants o altres notificacions urgents. Aquesta configuració es basa en el permís per obrir finestres noves mentre s\'executa en segon pla i només es pot utilitzar quan es concedeix aquest permís.</string>
     <string name="footer_learn_more_content_description">Més informació sobre %1$s</string>
     <string name="for_diagnosis_usage_only">Utilitzeu aquesta informació només per al diagnòstic.</string>
     <string name="forbidden_network">(prohibida)</string>
