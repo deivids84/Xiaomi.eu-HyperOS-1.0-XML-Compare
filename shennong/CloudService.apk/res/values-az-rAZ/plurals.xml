@@ -173,8 +173,8 @@
         <item quantity="one">1 dəqiqə əvvəl</item>
     </plurals>
     <plurals name="provision_sync_items_status_off_title">
-        <item quantity="other">"%s element üçün sinxronizasiya aktiv deyil"</item>
-        <item quantity="one">"%s element üçün sinxronizasiya aktiv deyil"</item>
+        <item quantity="other">"%s element üçün sinxr işə salınmadı"</item>
+        <item quantity="one">"%s element üçün sinxr işə salınmadı"</item>
     </plurals>
     <plurals name="provision_sync_items_status_title">
         <item quantity="other">%s xidmət Xiaomi Cloud ilə sinxronlaşdırılacaq</item>
