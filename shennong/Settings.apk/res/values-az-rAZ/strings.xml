@@ -3807,7 +3807,7 @@ Daha ətraflı öyrənmək üçün kredit provayderinizlə əlaqə saxlayın."</
 "</string>
     <string name="font_size_summary1">"Sisteminizin mətni hələ də çox kiçikdirsə, sınayın "</string>
     <string name="font_size_summary2">Lite rejimi</string>
-    <string name="footer_description_full_screen_intent">Bu proqramın, cihazın kilidli olduğu zaman bütün ekranı götürən bildirişləri göstərməsinə icazə verin. Proqram alarmları, gələn zəngləri və ya digər təcili bildirişləri göstərmək üçün tam ekran bildirişlərindən istifadə edə bilər. Bu qurğu arxa planda çalışarkən yeni pəncərələrin açılmasına icazəyə əsaslanır və yalnız bu icazə verildikdə istifadə edilə bilər.</string>
+    <string name="footer_description_full_screen_intent">Bu tətbiqin, cihaz kilidli olduqda bütün ekranı tutan bildirişləri göstərməsinə icazə verin. Bu tətbiq, zəngli saatları, gələn zəngləri və ya təcili bildirişləri göstərmək üçün tam ekran bildirişlərini istifadə edə bilər. Bu ayar, arxaplanda işləyərkən yeni pəncərələri açma icazəsinə əsaslanır və yalnız bu icazə verildikdə istifadə edilə bilər.</string>
     <string name="footer_learn_more_content_description">%1$s haqqında daha ətraflı</string>
     <string name="for_diagnosis_usage_only">Bu məlumatı yalnız diaqnoz üçün istifadə edin.</string>
     <string name="forbidden_network">(yasaqlanıb)</string>
