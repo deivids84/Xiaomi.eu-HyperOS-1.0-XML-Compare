@@ -152,6 +152,10 @@
         <item quantity="one">Ara mateix</item>
         <item quantity="other">Ara mateix</item>
     </plurals>
+    <plurals name="mggc_ins_back_seconds_remaining">
+        <item quantity="other">Queden &lt;font color=#0D84FF&gt;%1$d&lt;/font&gt; segons</item>
+        <item quantity="one">Queden &lt;font color=#0D84FF&gt;%1$d&lt;/font&gt; segons</item>
+    </plurals>
     <plurals name="mins_ago">
         <item quantity="other">%1$d fa uns minuts</item>
         <item quantity="one">%1$d fa un minut</item>
@@ -311,5 +315,9 @@
     <plurals name="web_permission_protect_subtitle_time">
         <item quantity="other">%s vegades</item>
         <item quantity="one">%s vegada</item>
+    </plurals>
+    <plurals name="web_preload_hint_dialog_title">
+        <item quantity="other">La setmana passada, Mi Browser va augmentar la velocitat de càrrega de la pàgina web %d vegades!</item>
+        <item quantity="one">La setmana passada, Mi Browser va augmentar la velocitat de càrrega de la pàgina web %d vegades!</item>
     </plurals>
 </resources>
