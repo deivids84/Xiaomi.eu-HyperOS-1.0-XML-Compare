@@ -3796,7 +3796,7 @@ Para obtener más información, comuníquese con su proveedor de crédito."</str
 "</string>
     <string name="font_size_summary1">"Si el texto del sistema es demasiado pequeño, pruebe "</string>
     <string name="font_size_summary2">Modo lite</string>
-    <string name="footer_description_full_screen_intent">Permitir que esta aplicación muestre notificaciones que ocupan la pantalla completa cuando el dispositivo está bloqueado. Las aplicaciones pueden usarlas para resaltar alarmas, llamadas entrantes u otras notificaciones urgentes.</string>
+    <string name="footer_description_full_screen_intent">Permitir que esta aplicación muestre las notificaciones que ocupan toda la pantalla cuando el dispositivo está bloqueado. La aplicación puede usar notificaciones a pantalla completa para mostrar alarmas, llamadas entrantes u otras notificaciones urgentes. Esta configuración se basa en el permiso para abrir nuevas ventanas mientras se ejecuta en segundo plano y sólo puede utilizarse cuando se concede este permiso.</string>
     <string name="footer_learn_more_content_description">Más información sobre %1$s</string>
     <string name="for_diagnosis_usage_only">Usa esta información solo para diagnóstico.</string>
     <string name="forbidden_network">(prohibida)</string>
