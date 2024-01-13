@@ -46,6 +46,7 @@
     <string name="alarm_notify_snooze_label">%s ertələmə</string>
     <string name="alarm_permanent_alert">Zəng çalır</string>
     <string name="alarm_repeat">Təkrarla</string>
+    <string name="alarm_repeat_self_define">Özəlləşdirmək</string>
     <string name="alarm_repeat_self_define_button">Özəlləşdir</string>
     <string name="alarm_ringtone_picker">Zəngli saatlar</string>
     <string name="alarm_set_new">Zəngli saat %d dəqiqədən az vaxtda sönəcək.</string>
@@ -382,6 +383,7 @@
     <string name="privacy_policy_title">Gizlilik Siyasəti</string>
     <string name="privacy_settings_title">Gizlilik</string>
     <string name="query_privacy_policy">Gizlilik Siyasətinə bax</string>
+    <string name="read_device_internal_storage">Yaddaşa daxil olun</string>
     <string name="read_external_storage_permission_desc">Özəl zəng səsləri ayarlamaq üçün</string>
     <string name="read_internal_storage">Anbara müraciət</string>
     <string name="remark_hint">Etiket daxil edin</string>
