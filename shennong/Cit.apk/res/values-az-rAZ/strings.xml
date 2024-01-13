@@ -1,13 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="abc_action_bar_home_description">Evə naviqasiya et</string>
-    <string name="abc_action_bar_up_description">Yuxarı get</string>
-    <string name="abc_action_menu_overflow_description">Digər variantlar</string>
+    <string name="AudioOnOff">\u0009Səs açıq/bağlı</string>
+    <string name="AudioStatus">\u0009\u0009Səs statusu</string>
+    <string name="CloudControl">CloudControl</string>
+    <string name="CurrentDsi">\u0009\u0009CurrentDsi</string>
+    <string name="GPIO_Status">\u0009\u0009GPIO_Status</string>
+    <string name="HotspotStatus">\u0009\u0009Hotspot Statusu</string>
+    <string name="SAR">SAR</string>
+    <string name="SAROnOff">\u0009SAR açıq/bağlı</string>
+    <string name="Sensor1_Status">\u0009\u0009Sensor1 statusu</string>
+    <string name="Sensor2_Status">\u0009\u0009Sensor2 statusu</string>
+    <string name="SetDsi">\u0009SetDsi</string>
+    <string name="abc_action_bar_home_description">Əsas ekrana keç</string>
+    <string name="abc_action_bar_up_description">Yuxarı keç</string>
+    <string name="abc_action_menu_overflow_description">Daha çox seçim</string>
     <string name="abc_action_mode_done">Hazırdır</string>
-    <string name="abc_activity_chooser_view_see_all">Hamısına baxın</string>
-    <string name="abc_activitychooserview_choose_application">Tətbiq seçin</string>
-    <string name="abc_capital_off">DEAKTİV</string>
-    <string name="abc_capital_on">AKTİV</string>
+    <string name="abc_activity_chooser_view_see_all">Hamısına bax</string>
+    <string name="abc_activitychooserview_choose_application">Bir tətbiq seçin</string>
+    <string name="abc_capital_off">BAĞLI</string>
+    <string name="abc_capital_on">AÇIQ</string>
     <string name="abc_menu_alt_shortcut_label">Alt+</string>
     <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
     <string name="abc_menu_delete_shortcut_label">silin</string>
@@ -140,16 +151,16 @@ Cihazı zəng edirmiş kimi tutun, üst mikrofona danışın, qəbuledicidən s�
     <string name="remove_finger">barmaq qaldırma testi</string>
     <string name="sar_algo_data_check_description">Sar Algo məlumat yığma</string>
     <string name="sar_mtk_test_title">Sar Mtk Kimlik doğrulama testi</string>
-    <string name="sar_sensor_collect_data_self_cali">Öz-özünə kalibrləmə</string>
-    <string name="sar_sensor_collect_test_summary">"Cihazı döndərin, qurğuya qoyun
-Məlumat əldə etməyə başlayın düyməsini klikləyin
-Armaturu cihazdan yaxın və uzaqda idarə edin"</string>
+    <string name="sar_sensor_collect_data_self_cali">Avto-kalibrləmə</string>
+    <string name="sar_sensor_collect_test_summary">"Cihazı döndərin, avadanlığa qoyun
+Data yığılmasını başlat düyməsinə basın
+Avadanlığı cihaza yaxın və uzaq zonadan idarə edin"</string>
     <string name="sar_sensor_test_err_angle">Cihaz düzgün bucaq altında yerləşdirilməyib</string>
-    <string name="sar_sensor_test_next_step">Cihaza yaxın nəzarət çəngəl</string>
-    <string name="sar_sensor_test_summary">"Cihazı döndərin, qurğuya qoyun
-Kalibrləməyə Başla düyməsini klikləyin
-Kalibrləmə uğurlu olduqdan sonra armaturu cihazdan yaxın və uzaqda idarə edin"</string>
-    <string name="search_menu_title">Axtarış</string>
+    <string name="sar_sensor_test_next_step">Cihaza yaxın nəzarət bölməsi</string>
+    <string name="sar_sensor_test_summary">"Cihazı döndərin, avadanlığa qoyun
+Kalibrləməni başlat düyməsinə basın
+Kalibrləmə uğurlu olduqdan sonra avadanlığı cihaza yaxın və uzaq zonadan idarə edin"</string>
+    <string name="search_menu_title">Axtar</string>
     <string name="sidebottom_mic_check_record_tip">Səs yazılır, lütfən cihazın yan alt hissəsindəki mikrofona nəsə deyin</string>
     <string name="sidetop_mic_check_record_tip">Səs yazılır, lütfən cihazın yan üst hissəsindəki mikrofona nəsə deyin</string>
     <string name="soft_light_title">Yumşaq işıq</string>
@@ -166,9 +177,9 @@ Fərqli titrəmə şərtlərinə uyğun olaraq düzgün düyməni seçin"</strin
     <string name="test_sidetop_mic">Yan üst mikrofon</string>
     <string name="test_sub_front_camera">Alt ekran ön kamerası</string>
     <string name="tips_not_placed_right_angle">Cihaz düzgün bucaqda yerləşdirilməyib</string>
-    <string name="top_high_speaker_title">Ən yaxşı tweeter testi</string>
-    <string name="top_low_speaker_title">Üst woofer testi</string>
-    <string name="top_mic_check_record_tip">Səsyazma, lütfən, cihazın yuxarı hissəsindəki MIC-ə nəsə deyin</string>
+    <string name="top_high_speaker_title">Başlıca tweeter testi</string>
+    <string name="top_low_speaker_title">Başlıca woofer testi</string>
+    <string name="top_mic_check_record_tip">Səs yazılır, lütfən cihazın üst hissəsindəki mikrofona nəsə deyin</string>
     <string name="top_speaker_title">Üst dinamik testi</string>
     <string name="warm_light_title">İsti işıq</string>
     <string name="wifi_power_test_testing">Wifi Gücü test edilir...</string>
