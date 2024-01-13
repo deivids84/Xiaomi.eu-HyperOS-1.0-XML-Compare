@@ -178,6 +178,7 @@ de l'IMAP"</string>
     <string name="add_pre_message_attachments_yes">Afegeix</string>
     <string name="add_star">Destacar</string>
     <string name="afternoon">Tarda</string>
+    <string name="agreement_url" formatted="false">https://xiaomi.wpsmail.net/cn/agreement.html?region=%1s&amp;lang=%2s</string>
     <string name="all_purpose">Et donem la benvinguda a Correu, un client de correu exclusiu de Xiaomi dissenyat per Kingsoft. Pots fer servir aquesta aplicació per redactar, enviar i rebre correus electrònics.</string>
     <string name="allow_notify">Permet notificacions</string>
     <string name="always_bcc_myself">Fer sempre BCC a un mateix</string>
@@ -810,6 +811,7 @@ Aquest problema pot ser causat per l'autenticació de dos factors del compte. Pr
     <string name="notification_action_undo_delete">Suprimit</string>
     <string name="notification_action_undo_remove_label">Etiqueta eliminada</string>
     <string name="notification_message">Voleu rebre notificacions sobre els missatges nous només a les carpetes seleccionades?</string>
+    <string name="notification_mutli_message_content">点击查看</string>
     <string name="notification_off">Desactivat</string>
     <string name="notification_on">Encès</string>
     <string name="notify_channel_new_mail">Notifica sobre nous missatges</string>
@@ -930,6 +932,7 @@ Aquest problema pot ser causat per l'autenticació de dos factors del compte. Pr
     <string name="privacy_and_private_permission">Consentiment a l’acord d’usuari i a la política de privadesa</string>
     <string name="privacy_des">"Els registres contenen informació de depuració del client de correu i la informació del vostre dispositiu. Aquesta informació s'utilitza per localitzar els problemes més ràpidament. En tocar «%1$s» a continuació, esteu d'acord amb la nostra «%2$s»."</string>
     <string name="privacy_policy">Política de privadesa</string>
+    <string name="privacy_policy_url">https://xiaomi.wpsmail.net/policy.html</string>
     <string name="privacy_setting_agree">Accepto</string>
     <string name="progress">Progrés, progressar:</string>
     <string name="prompt_title">Indicador</string>
