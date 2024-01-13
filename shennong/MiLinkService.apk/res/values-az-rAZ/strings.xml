@@ -281,9 +281,9 @@ və Xiaomi Hesabınıza daxil olun"</string>
     <string name="circulate_open_in_tv">TV-də aç</string>
     <string name="circulate_pad_app_continuity">"Telefonun %1$s istifadə edir"</string>
     <string name="circulate_pad_card_being_used_camera">"Telefonun kamerasını planşetdə istifadə edir"</string>
-    <string name="circulate_pad_card_being_used_cellular">Planşet mobil datadan istifadə edir</string>
-    <string name="circulate_pad_card_being_used_cellular_wifi">Planşet ilə paylaşılan Wi-Fi siqnalı</string>
-    <string name="circulate_pad_card_being_used_cellular_wifi_china">Planşet ilə paylaşılan Wi-Fi siqnalı</string>
+    <string name="circulate_pad_card_being_used_cellular">Planşet mobil internet istifadə edir</string>
+    <string name="circulate_pad_card_being_used_cellular_wifi">Planşetlə paylaşılan Wi-Fi siqnalı</string>
+    <string name="circulate_pad_card_being_used_cellular_wifi_china">Planşetlə paylaşılan Wi-Fi siqnalı</string>
     <string name="circulate_pad_card_use_camera">"Planşetin kamerasını istifadə et"</string>
     <string name="circulate_pad_card_use_desktop">Əsas ekranı planşetdə paylaş</string>
     <string name="circulate_pad_card_using_camera">"Planşetin kamerası istifadə edilir"</string>
@@ -296,12 +296,12 @@ və Xiaomi Hesabınıza daxil olun"</string>
     <string name="circulate_phone_app_continuity">%1$s planşetdə istifadə edilir</string>
     <string name="circulate_phone_card_being_used_camera">"Planşetin kamerası telefonda istifadə edilir"</string>
     <string name="circulate_phone_card_use_camera">"Telefonun kamerasını istifadə et"</string>
-    <string name="circulate_phone_card_use_cellular">"Telefonun mobil məlumatlarından istifadə edin"</string>
+    <string name="circulate_phone_card_use_cellular">"Telefonun mobil internetini istifadə et"</string>
     <string name="circulate_phone_card_use_desktop">"Telefonun Əsas ekranına bax"</string>
     <string name="circulate_phone_card_using_camera">"Telefonun kamerası istifadə edilir…"</string>
-    <string name="circulate_phone_card_using_cellular">"Telefonun mobil məlumatlarından istifadə"</string>
-    <string name="circulate_phone_card_using_cellular_wifi">"Telefonun Wi-Fi siqnalından istifadə"</string>
-    <string name="circulate_phone_card_using_cellular_wifi_china">"Telefonun Wi-Fi siqnalından istifadə"</string>
+    <string name="circulate_phone_card_using_cellular">"Telefonun mobil interneti istifadə edilir"</string>
+    <string name="circulate_phone_card_using_cellular_wifi">"Telefonun Wi-Fi siqnalı istifadə edilir"</string>
+    <string name="circulate_phone_card_using_cellular_wifi_china">"Telefonun Wi-Fi siqnalı istifadə edilir"</string>
     <string name="circulate_phone_card_using_desktop">"Telefonun Əsas ekranına baxılır…"</string>
     <string name="circulate_ringfind_button_hint_play">Səs oxut</string>
     <string name="circulate_ringfind_button_hint_stop">Səs oxutmanı dayandır</string>
@@ -369,7 +369,7 @@ və Xiaomi Hesabınıza daxil olun"</string>
     <string name="connect_settings_category_connection_car">Avtomobil özəllikləri</string>
     <string name="connect_settings_category_hyper_mind">HyperMind</string>
     <string name="connect_settings_category_personal_device">Fərdi cihazlar</string>
-    <string name="connect_settings_communication_sharing">Simsiz əlaqə</string>
+    <string name="connect_settings_communication_sharing">Naqilsiz internet paylaşımı</string>
     <string name="connect_settings_connect_permission">Ara bağlantı və icazələr</string>
     <string name="connect_settings_connect_privacy">Gizlilik</string>
     <string name="connect_settings_connection_service">Xiaomi Ara bağlantı</string>
@@ -387,7 +387,7 @@ və Xiaomi Hesabınıza daxil olun"</string>
     <string name="connect_settings_summary"><Data>Xiaomi Hesabınıza daxil olmuş yaxınlıqdakı cihazları avtomatik kəşf edin və bir çox cihazda müxtəlif tapşırıqları icra etmək üçün onları bir-birinə bağlayın. &lt;a href=%1$s&gt;Daha ətraflı&lt;/a&gt;</Data></string>
     <string name="connect_settings_summary_connection_service">Cihazların bir-biri ilə naqilsiz olaraq ünsiyyət qurmasına icazə ver</string>
     <string name="connect_settings_summary_corp_phone">Zəngləri yaxınlıqdakı planşetlərdə və ya Xiaomi Hesabınıza daxil olmuş kompüterlərdə cavablandırın</string>
-    <string name="connect_settings_summary_hyper_mind">Bu funksiya nümunələrinizi öyrənir və onlardan ağıllı ev cihazlarınızı idarə etmək üçün istifadə edir. Mi AI ilə təchiz edilmişdir.</string>
+    <string name="connect_settings_summary_hyper_mind">Bu özəllik, modellərinizi öyrənir və onları ağıllı ev cihazlarınıza nəzarət etmək üçün istifadə edir. Mi AI tərəfindən təmin edilmişdir.</string>
     <string name="connect_settings_summary_relay_app">Tapşırıqlara başqa cihazdakı eyni tətbiqdə davam edin</string>
     <string name="connect_settings_summary_share_clipboard">Mətn və şəkilləri bu cihazda kopyaladıqdan sonra %d dəqiqə ərzində digər cihazlarda yapışdırın</string>
     <string name="connect_settings_summary_share_launcher_pad">Xiaomi Hesabınıza daxil olmuş yaxınlıqdakı telefonların Əsas ekranlarına baxın və onlarla qarşılıqlı əlaqə qurun</string>
@@ -663,7 +663,7 @@ bilməsi üçün cihazlarınızı istifadə etməyə davam edin"</string>
     <string name="hyper_mind">HyperMind</string>
     <string name="hyper_mind_close_warning">Diqqət</string>
     <string name="hyper_mind_close_warning_checkbox">"Təkrar göstərmə"</string>
-    <string name="hyper_mind_close_warning_content">Bu funksiyanı söndürsəniz, HyperMind artıq nümunələrinizi öyrənə və ya istifadə edə bilməyəcək. Əgər məlumatlarınızı toplamaq üçün verdiyiniz razılığı geri götürmək istəyirsinizsə, burada &lt;a href=%1$s&gt;üzərinə klikləyin&lt;/a&gt;.</string>
+    <string name="hyper_mind_close_warning_content">Bu özəlliyi söndürsəniz, HyperMind artıq modellərinizi öyrənə və ya istifadə edə bilməyəcək. Datanızı yığmamız üçün verdiyiniz razılığı geri götürmək istəyirsinizsə &lt;a href=%1$s&gt;bura&lt;/a&gt; toxunun.</string>
     <string name="hyper_mind_close_warning_ok">Anladım</string>
     <string name="hyper_mind_xiaomi">Xiaomi</string>
     <string name="icon_content_description">Dialoq nişanı</string>
