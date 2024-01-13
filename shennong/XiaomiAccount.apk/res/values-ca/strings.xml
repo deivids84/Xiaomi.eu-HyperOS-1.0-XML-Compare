@@ -31,6 +31,7 @@
     <string name="about_mi_account">Quant al compte Xiaomi</string>
     <string name="accept">Permet</string>
     <string name="account_and_password">Contrasenya</string>
+    <string name="account_auth_failed_message">"Compte Xiaomi %1$sLes credencials d'inici de sessió han caducat. Prova una altra vegada."</string>
     <string name="account_bind_devices">Dispositius</string>
     <string name="account_bind_secure_email_title">Afegeix una adreça de correu</string>
     <string name="account_bind_secure_phone_title">Afegeix un número de telèfon</string>
@@ -142,6 +143,7 @@ Podeu iniciar la sessió al vostre compte Xiaomi mitjançant %s ara."</string>
     <string name="date_time_picker_dialog_title">Estableix la data i l\'hora</string>
     <string name="default_error_message">Entrada no vàlida</string>
     <string name="default_popup_window_title">Finestra emergent</string>
+    <string name="default_web_client_id">630236635882-e9rqvpt2onbe87uramm8stt7v375of1e.apps.googleusercontent.com</string>
     <string name="delete_bank_card_message">Les targetes bancàries Mi Pay i les targetes NFC se suprimeixen un cop tanqueu la sessió.</string>
     <string name="delete_bank_card_title">Atenció</string>
     <string name="delete_device_btn">Elimina</string>
@@ -169,9 +171,27 @@ Podeu iniciar la sessió al vostre compte Xiaomi mitjançant %s ara."</string>
     <string name="expand_button_title">Avançat</string>
     <string name="exposed_dropdown_menu_content_description">Mostra el menú desplegable</string>
     <string name="facebook_login">Inicieu la sessió amb Facebook</string>
+    <string name="facets_path">[{\"include\": \"https://account.xiaomi.com/.well-known/assetlinks.json\"}]</string>
     <string name="failed_dup_secure_phone_number">Aquest número de telèfon ja està associat amb un altre compte Xiaomi</string>
     <string name="family_service">Serveis familiars</string>
     <string name="family_service_not_open">Convidar membres</string>
+    <string name="fido2_client_for_fingerprint_auth">Toqueu per verificar mitjançant l\'empremta digital</string>
+    <string name="fido2_close_fingerprint_auth">Apagar</string>
+    <string name="fido2_close_fingerprint_auth_desc">Desactivar ara la verificació de les empremtes digitals?</string>
+    <string name="fido2_err_already_registered">Aquest compte ja ha activat aquesta funció</string>
+    <string name="fido2_err_def">S\'ha produït un error. Espereu un minut o dos i torneu-ho a provar.</string>
+    <string name="fido2_err_not_regisetered">"Aquest compte encara no ha activat aquesta funció"</string>
+    <string name="fido2_err_not_support">"Aquesta funció no és compatible amb aquest dispositiu"</string>
+    <string name="fido2_err_security">"Riscos de seguretat detectats. No es pot utilitzar aquesta funció."</string>
+    <string name="fido2_err_service_exception">S\'ha produït un error del servidor. Espereu un minut o dos i torneu-ho a provar.</string>
+    <string name="fido2_err_timeout">La petició va caducar. Espereu un minut o dos i torneu-ho a provar.</string>
+    <string name="fido2_fingerprint_auth">Verificació de l\'empremta digital</string>
+    <string name="fido2_fingerprint_auth_desc"><Data>Utilitzeu l\'empremta digital per iniciar la sessió al vostre compte Xiaomi i verificar la vostra identitat &lt;a href=&gt;Aprèn més&lt;/a&gt;</Data></string>
+    <string name="fido2_fingerprint_changed_and_afresh_register">L\'empremta digital del dispositiu ha canviat. Torna a verificar el compte per poder activar la verificació d\'empremtes digitals.</string>
+    <string name="fido2_fingerprint_verify">Verificació de l\'empremta digital</string>
+    <string name="fido2_psw_changed_and_afresh_register">La contrasenya ha canviat. Torna a verificar l\'empremta digital.</string>
+    <string name="fido2_setting_ps_notify">"Hauràs d'establir una contrasenya de compte per poder utilitzar la verificació amb empremtes digitals. Podeu fer-ho a Configuració &gt; Compte Xiaomi &gt; Seguretat del compte &gt; Contrasenya."</string>
+    <string name="fido2_verify_fingerprint">Verificar l\'empremta digital</string>
     <string name="find_device">Troba el dispositiu</string>
     <string name="find_device_access_denied">"No es pot obtenir l'estat, s'ha denegat l'accés"</string>
     <string name="find_device_account_error">"No es pot obtenir l'estat per un error en el compte"</string>
@@ -213,12 +233,18 @@ Podeu iniciar la sessió al vostre compte Xiaomi mitjançant %s ara."</string>
     <string name="friday">Divendres</string>
     <string name="friday_short">Dv.</string>
     <string name="friday_shortest">dv.</string>
+    <string name="gcm_defaultSenderId">630236635882</string>
     <string name="get_back_password">Restablir la contrasenya</string>
     <string name="get_back_pwd">Restabliment de la contrasenya</string>
     <string name="get_identity_auth_url_failed">"No s'ha pogut verificar l'identificador"</string>
     <string name="get_phone_bind_exceed_limit">"Podeu associar-vos fins a %d Comptes Xiaomi amb un número de telèfon. No es poden afegir comptes nous."</string>
     <string name="get_phone_verifycode_exceed_limit">"No es poden enviar més codis de verificació a aquest número"</string>
+    <string name="go_to_setting">Configuració</string>
+    <string name="google_api_key">AIzaSyD0N3c1iN_Y93_Xslg5n_ZSN_HNTQxw7ew</string>
+    <string name="google_app_id">1:630236635882:Android:04E152F122E4397796Ed93</string>
+    <string name="google_crash_reporting_api_key">AIzaSyD0N3c1iN_Y93_Xslg5n_ZSN_HNTQxw7ew</string>
     <string name="google_login">Inicia la sessió amb Google</string>
+    <string name="google_storage_bucket">micloud-43705.appspot.com</string>
     <string name="has_no_new_version">Actualitzat</string>
     <string name="health_action_activate">Activa</string>
     <string name="health_action_install">Instal·la</string>
@@ -237,6 +263,7 @@ Podeu iniciar la sessió al vostre compte Xiaomi mitjançant %s ara."</string>
     <string name="indeterminate">Ni comprovat ni desmarcat</string>
     <string name="input_email_address_notice">"T'enviarem un correu electrònic amb un codi de verificació a l'adreça que ens proporcionis."</string>
     <string name="input_new_pwd">Introduïu una nova contrasenya</string>
+    <string name="input_ps">Introduïu la contrasenya</string>
     <string name="io_error_title">Confirmeu la vostra xarxa</string>
     <string name="item_view_role_description">Pestanya</string>
     <string name="just_a_second">Un moment…</string>
@@ -255,6 +282,7 @@ Podeu iniciar la sessió al vostre compte Xiaomi mitjançant %s ara."</string>
     <string name="login_notification_button_text">Inicia la sessió</string>
     <string name="login_notification_desc">Gaudiu dels serveis al núvol, de l\'espai d\'emmagatzematge familiar i molt més</string>
     <string name="login_notification_title">Inicia la sessió al teu compte Xiaomi</string>
+    <string name="login_or_register_by_other_way">Utilitzeu un altre mètode</string>
     <string name="login_with_other">Més opcions</string>
     <string name="logout_account">Tanca la sessió</string>
     <string name="logout_failed">"No s'ha pogut tancar la sessió"</string>
@@ -725,6 +753,7 @@ Podeu iniciar la sessió al vostre compte Xiaomi mitjançant %s ara."</string>
     <string name="privacy_policy_reject_confirm_title">"No es pot utilitzar el compte Xiaomi"</string>
     <string name="privacy_policy_update_msg">S\'ha actualitzat la política de privadesa del compte Xiaomi:&lt;br/&gt;%1$s&lt;br/&gt;Llegiu i accepteu la nova versió de &lt;a href=%2$s&gt;&lt;u&gt;Política de privadesa&lt;/u&gt;&lt;/a&gt; abans de continuar.</string>
     <string name="privacy_policy_update_title">Política de privadesa actualitzada</string>
+    <string name="project_id">Micloud-43705</string>
     <string name="provision_back">Enrere</string>
     <string name="provision_next">Següent</string>
     <string name="provision_skip_underline">Omet</string>
@@ -736,13 +765,14 @@ Podeu iniciar la sessió al vostre compte Xiaomi mitjançant %s ara."</string>
     <string name="qrcode_login_entry_text"><Data>Heu iniciat la sessió en un altre dispositiu? Utilitzar &lt;a href=&gt;Inici de sessió ràpid&lt;/a&gt;</Data></string>
     <string name="qrcode_login_load_refresh"><Data>Aquest codi QR ha caducat. Toqueu per &lt;a href=&gt;refrescar&lt;/a&gt;.</Data></string>
     <string name="qrcode_login_load_retry"><Data>\"No es podia carregar. &lt;a href=&gt;Prova una altra vegada&lt;/a&gt;.\"</Data></string>
-    <string name="qrcode_login_message">"Escaneja amb l'aplicació Escàner del telèfon o la tauleta Xiaomi, Mi Home o una altra aplicació Xiaomi per iniciar la sessió"</string>
+    <string name="qrcode_login_message">Escaneja amb Mi AI Scanner o una altra aplicació Xiaomi per iniciar la sessió al teu compte Xiaomi</string>
     <string name="qrcode_login_title">Escaneja per iniciar la sessió</string>
     <string name="range_end">Final de gamma</string>
     <string name="range_start">Inici de l\'autonomia</string>
     <string name="recycle_phone_notification_msg">Sembla que el vostre número de telèfon s’ha reciclat. Toqueu per actualitzar.</string>
     <string name="recycle_phone_notification_title">Risc de seguretat del compte Xiaomi</string>
     <string name="removing_account">S\'està tancant la sessió…</string>
+    <string name="reopen">Encendre</string>
     <string name="request_open_permission">Permisos necessaris</string>
     <string name="request_use_camera_message">"Voleu permetre que el compte Xiaomi accedeixi a la càmera del telèfon?"</string>
     <string name="request_use_camera_title">Accés a la càmera</string>
@@ -783,6 +813,7 @@ Podeu iniciar la sessió al vostre compte Xiaomi mitjançant %s ara."</string>
     <string name="send">Envia</string>
     <string name="service_error">Error del servei</string>
     <string name="set_success">S\'ha canviat correctament</string>
+    <string name="setting_ps">Configuració de contrasenya</string>
     <string name="sign_in">Iniciant la sessió</string>
     <string name="sim_card">Targeta SIM</string>
     <string name="sim_changed_notification_msg">Toqueu per actualitzar el telèfon de recuperació i mantenir el vostre compte més segur.</string>
