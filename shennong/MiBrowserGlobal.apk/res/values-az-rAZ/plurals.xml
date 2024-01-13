@@ -152,6 +152,10 @@
         <item quantity="one">İndicə</item>
         <item quantity="other">İndicə</item>
     </plurals>
+    <plurals name="mggc_ins_back_seconds_remaining">
+        <item quantity="other">&lt;font color=#0D84FF&gt;%1$d&lt;/font&gt; saniyə qalıb</item>
+        <item quantity="one">&lt;font color=#0D84FF&gt;%1$d&lt;/font&gt; saniyə qalıb</item>
+    </plurals>
     <plurals name="mins_ago">
         <item quantity="other">%1$d dəqiqə əvvəl</item>
         <item quantity="one">%1$d dəqiqə əvvəl</item>
@@ -311,5 +315,9 @@
     <plurals name="web_permission_protect_subtitle_time">
         <item quantity="other">%s dəfə</item>
         <item quantity="one">%s dəfə</item>
+    </plurals>
+    <plurals name="web_preload_hint_dialog_title">
+        <item quantity="other">Keçən həftə Mi Brauzer sizin üçün veb səhifənin yükləmə sürətini %d dəfə artırdı!</item>
+        <item quantity="one">Keçən həftə Mi Brauzer sizin üçün veb səhifənin yükləmə sürətini %d dəfə artırdı!</item>
     </plurals>
 </resources>
