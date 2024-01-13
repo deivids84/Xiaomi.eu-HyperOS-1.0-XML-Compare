@@ -58,7 +58,7 @@
     <string name="cta_agree_desc">Permeteu que aquesta aplicació es connecti a Internet i concediu els permisos obligatoris indicats anteriorment.</string>
     <string name="cta_btn_agree">D\'acord</string>
     <string name="cta_btn_disagree">"No estic d'acord"</string>
-    <string name="cta_main_purpose">Us donem la benvinguda a l\'Editor de captures de pantalla! Podeu utilitzar aquesta aplicació per retallar i editar les vostres captures de pantalla.</string>
+    <string name="cta_main_purpose"><string name="cta_main_purpose">Benvingut a l\'Editor de captures de pantalla! Podeu utilitzar aquesta aplicació per retallar i editar les vostres captures de pantalla. Aquesta aplicació ha de connectar-se a Internet i accedir als fitxers d\'àudio i vídeo del vostre dispositiu per poder oferir els serveis necessaris.</string></string>
     <string name="custom_define_permission_desc_android.permission_group.STORAGE">Per desar captures de pantalla</string>
     <string name="date_picker_lunar">Calendari tradicional xinès</string>
     <string name="date_time_picker_dialog_title">Estableix la data i l’hora</string>
@@ -274,6 +274,7 @@ una captura de pantalla de desplaçament"</string>
     <string name="screenshot_long_screenshot">Desplaça</string>
     <string name="screenshot_save">Desa</string>
     <string name="screenshot_send">Envia</string>
+    <string name="screenshot_succeed">S\'ha fet la captura de pantalla correctament</string>
     <string name="screenshot_thumbnail">Miniatura de la captura de pantalla</string>
     <string name="scroll_annotation">Desplaceu-vos i anoteu</string>
     <string name="scroll_annotation_btn_quit">Anotacions de sortida</string>
