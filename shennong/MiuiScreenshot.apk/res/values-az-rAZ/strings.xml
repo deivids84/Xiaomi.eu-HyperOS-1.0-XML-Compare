@@ -58,7 +58,7 @@
     <string name="cta_agree_desc">Bu tətbiqin internetə bağlanmağına icazə verin və yuxarıda sadalanan məcburi icazələri verin.</string>
     <string name="cta_btn_agree">Razıyam</string>
     <string name="cta_btn_disagree">"Razı deyiləm"</string>
-    <string name="cta_main_purpose"><string name="cta_main_purpose">Ekran Şot Redaktoruna xoş gəlmisiniz! Ekran görüntülərinizi kəsmək və redaktə etmək üçün bu proqramdan istifadə edə bilərsiniz. Lazımi xidmətləri təmin etmək üçün bu proqram internetə qoşulmalı və cihazınızda audio və video fayllarına daxil olmalıdır.</string></string>
+    <string name="cta_main_purpose"><string name="cta_main_purpose">\"Ekran şəkli Redaktoru\"na xoş gəlmisiniz! Ekran şəkillərinizi kəsmək və onlara düzəliş etmək üçün bu tətbiqi istifadə edə bilərsiniz. Bu tətbiqin, lazımi xidmətləri təmin edə bilməsi üçün internetə bağlanmasına və cihazınızdakı səs və video fayllarına müraciət etməsinə ehtiyacı var.</string></string>
     <string name="custom_define_permission_desc_android.permission_group.STORAGE">Ekran şəkillərini saxlamaq üçün</string>
     <string name="date_picker_lunar">Ənənəvi Çin Təqvimi</string>
     <string name="date_time_picker_dialog_title">Tarix və saatı ayarla</string>
@@ -274,7 +274,7 @@
     <string name="screenshot_long_screenshot">Sürüşdür</string>
     <string name="screenshot_save">Saxla</string>
     <string name="screenshot_send">Göndər</string>
-    <string name="screenshot_succeed">Skrinşot uğurla çəkildi</string>
+    <string name="screenshot_succeed">Ekran şəkli uğurla çəkildi</string>
     <string name="screenshot_thumbnail">Ekran şəklinin kiçik şəkli</string>
     <string name="scroll_annotation">Sürüşdür və açıqlama əlavə et</string>
     <string name="scroll_annotation_btn_quit">Açıqlamanı tərk et</string>
