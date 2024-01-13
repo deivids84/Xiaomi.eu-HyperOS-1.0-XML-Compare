@@ -46,6 +46,7 @@
     <string name="alarm_notify_snooze_label">%s postposar</string>
     <string name="alarm_permanent_alert">Sonant</string>
     <string name="alarm_repeat">Repetiu</string>
+    <string name="alarm_repeat_self_define">Personalitza</string>
     <string name="alarm_repeat_self_define_button">Personalitza</string>
     <string name="alarm_ringtone_picker">Alarmes</string>
     <string name="alarm_set_new">L\'alarma sonarà en menys de %d minut.</string>
@@ -385,6 +386,7 @@
     <string name="privacy_policy_title">Política de Privadesa</string>
     <string name="privacy_settings_title">Privadesa</string>
     <string name="query_privacy_policy">Mostra la Política de privadesa</string>
+    <string name="read_device_internal_storage">Accés a l\'emmagatzematge</string>
     <string name="read_external_storage_permission_desc">Per configurar tons de trucada personalitzats</string>
     <string name="read_internal_storage">Accedir a l\'emmagatzematge</string>
     <string name="remark_hint">Introduir etiqueta</string>
