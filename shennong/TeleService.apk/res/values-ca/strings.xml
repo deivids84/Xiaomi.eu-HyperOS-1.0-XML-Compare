@@ -2026,7 +2026,7 @@ Confirma la configuració predeterminada de trucades del teu compte."</string>
     <string name="t9_indexing_rebuilding_message">S\'està reconstruint índexs de T9…</string>
     <string name="technology_news_disable">Notícies de tecnologia desactivades</string>
     <string name="technology_news_enable">Notícies de tecnologia activades</string>
-    <string name="telephony_setting">Telèfon</string>
+    <string name="telephony_setting">Aplicacions/Altres configuracions/Configuració de l\'aplicació del sistema/Telèfon</string>
     <string name="telocation_auto_country_code">Afegeix codi de pais</string>
     <string name="telocation_auto_country_code_summary">Afegeix automàticament el codi de país abans de marcar</string>
     <string name="telocation_call_assistant">Assistent de marcatge</string>
