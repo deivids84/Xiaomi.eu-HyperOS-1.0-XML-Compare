@@ -27,6 +27,7 @@
     <string name="abc_shareactionprovider_share_with">Comparteix amb</string>
     <string name="abc_shareactionprovider_share_with_application">Comparteix amb %s</string>
     <string name="abc_toolbar_collapse_description">Redueix</string>
+    <string name="access_calendar">Calendari d\'accés</string>
     <string name="access_non_personal_data">Si retireu el consentiment per a l\'accés i l\'ús de dades no personals del vostre dispositiu, els serveis del Carrusel de fons de pantalla es desactivaran i totes les dades recollides s\'eliminaran dins del termini especificat a les lleis i regulacions aplicables.</string>
     <string name="accessibility_enabled">S\'ha activat l\'accessibilitat.</string>
     <string name="actionbar_button_up_description">Enrere</string>
@@ -55,6 +56,8 @@
     <string name="album_introduction">Podeu utilitzar aquesta aplicació per gestionar, editar i embellir fotos i vídeos.</string>
     <string name="am">AM</string>
     <string name="app_name">Disposició</string>
+    <string name="application_extension_service">Serveis d\'extensió d\'aplicacions</string>
+    <string name="application_extension_service_introduction">Els serveis d\'extensió d\'aplicacions us proporcionaran funcions d\'inici de sessió i de verificació. Per oferir serveis bàsics, aquesta aplicació necessita els permisos següents:</string>
     <string name="application_package_introduction">L\'instal·lador de paquets s\'utilitza per instal·lar aplicacions de tercers, inclosos els serveis d\'exploració prèvia a la instal·lació i els serveis de recomanació d\'aplicacions posteriors a la instal·lació.</string>
     <string name="application_permissions">Permisos de l\'aplicació</string>
     <string name="aquire_device_info">Accedir a la informació del dispositiu</string>
@@ -66,6 +69,7 @@
     <string name="boot_video_replay">Torna a reproduir</string>
     <string name="boot_video_skip">Omet</string>
     <string name="calculator_introduction">Podeu utilitzar aquesta aplicació per fer càlculs, convertir unitats i monedes i estimar els pagaments de la vostra hipoteca.</string>
+    <string name="calendar_storage">Emmagatzematge del calendari</string>
     <string name="camera_application_introduction">Podeu utilitzar aquesta aplicació per fer fotos i vídeos.</string>
     <string name="camera_introduction">Podeu utilitzar la Càmera per fer fotos i enregistrar vídeos.</string>
     <string name="carousel_cookies_content"><Data>Quan toqueu imatges i històries a Carrusel de fons de pantalla, s\'obriran les seves versions completes al navegador. A continuació, el nostre proveïdor de contingut extern de confiança us pot recomanar contingut i anuncis addicionals adaptats als vostres interessos. Si accepteu activar aquesta funció, col·locaran galetes al vostre navegador, tal com es descriu en aquest &lt;a href=\"%1$s\"&gt;Política de galetes&lt;/a&gt;. Si rebutgeu les galetes, Carrusel de fons de pantalla continuarà funcionant, però el seu contingut i recomanacions poden deixar de ser rellevants per a vosaltres. Sempre podeu canviar les vostres preferències a Configuració.</Data></string>
@@ -107,6 +111,7 @@
     <string name="diagnose_report">Envieu les dades de diagnòstic per localitzar i analitzar els problemes del sistema i millorar l’experiència d\'usuari. Aquestes dades poden incloure informació personal (per exemple, IP, ubicació, etc.)</string>
     <string name="disageement_abnormal_download">"Si no accepteu concedir aquests permisos o compartir i penjar la vostra informació personal, no podreu utilitzar aquest servei."</string>
     <string name="disagree">Cancel·la</string>
+    <string name="disagree_unable_serve">"Si no accepteu els permisos anteriors, no podreu utilitzar aquest servei."</string>
     <string name="disagreement_abnormal_running">"Si no accepteu concedir aquests permisos o compartir i penjar la vostra informació personal, no podreu utilitzar aquesta aplicació. Podeu optar per no utilitzar aquesta aplicació o restringir els permisos a la Configuració en aquests casos."</string>
     <string name="disagreement_abnormal_running_fast_pairing">"Si no accepteu concedir aquests permisos, no podreu utilitzar aquesta aplicació. Podeu optar per restringir els permisos i desactivar aquesta funció a la configuració."</string>
     <string name="disagreement_application_not_working_properly">"Si no accepteu concedir aquests permisos, no podreu utilitzar aquesta aplicació."</string>
@@ -446,6 +451,7 @@ Podeu controlar aquesta funció des de Configuració &gt; Contrasenyes &amp; seg
     <string name="permission_make_a_call_fast_application_summary">Per permetre que les aplicacions ràpides facin trucades;</string>
     <string name="permission_media_storage_summary">Per comprovar com les aplicacions utilitzen els permisos relacionats amb la privadesa mentre accedeixen als fitxers</string>
     <string name="permission_message_introduction">Per enviar missatges als contactes bloquejats</string>
+    <string name="permission_not_agree_service_not_working">"Si no esteu d'acord amb els permisos necessaris esmentats anteriorment, no podreu utilitzar aquest servei."</string>
     <string name="permission_number">Telèfon d\'accés</string>
     <string name="permission_number_introduction">Per establir connexió Bluetooth amb sistemes de cotxe i auriculars Bluetooth</string>
     <string name="permission_phone_imei_device">Per accedir a l\'IMEI per identificar els dispositius</string>
@@ -494,6 +500,7 @@ Podeu controlar aquesta funció des de Configuració &gt; Contrasenyes &amp; seg
     <string name="permission_recording_introduction">Per enregistrar l\'àudio durant la gravació de vídeo</string>
     <string name="permission_screen_shoot_introduction">Per accedir i desar als enregistraments de pantalla</string>
     <string name="permission_send_message">Enviar SMS</string>
+    <string name="permission_sms_verification_code_login">Per proporcionar verificació per SMS per iniciar sessió ràpidament</string>
     <string name="permission_uniquely_identifiable_information">Accedir a identificadors únics d\'aquest dispositiu</string>
     <string name="permission_uniquely_identifiable_information_summary">Accediu a l\'adreça MAC i a l\'OAID del dispositiu per descobrir, connectar-vos i comunicar-vos amb altres dispositius</string>
     <string name="permission_use_bluetooth">Utilitzar Bluetooth</string>
@@ -533,12 +540,14 @@ Podeu controlar aquesta funció des de Configuració &gt; Contrasenyes &amp; seg
     <string name="privacy_refuse">"No estic d’acord"</string>
     <string name="privacy_title">Termes i política de privadesa</string>
     <string name="protect_persoanl_info_statement">Protegirem la vostra informació personal d’acord amb les lleis, regulacions i polítiques de privadesa pertinents.</string>
+    <string name="provide_date_management_service">Aquest servei permet consultar la data i gestionar els esdeveniments.</string>
     <string name="provision_back">Enrere</string>
     <string name="provision_inputmethod_policy_description"><Data>Consulteu la &lt;a href=%1$s&gt;Política de privadesa&lt;/a &gt; del teclat seleccionat.</Data></string>
     <string name="provision_inputmethod_policy_description1">Política de privadesa</string>
     <string name="provision_next">Següent</string>
     <string name="provision_skip_underline">Omet</string>
     <string name="read_application_info">Accedir a la informació de l\'aplicació</string>
+    <string name="read_sms_and_mms">Accediu a SMS i MMS</string>
     <string name="recommend_font">MiSans</string>
     <string name="recommended_font_mark">Recomanable</string>
     <string name="recorder_introduction">Podeu utilitzar aquesta aplicació per enregistrar àudio i fer còpies de seguretat al núvol.</string>
@@ -553,6 +562,7 @@ Podeu controlar aquesta funció des de Configuració &gt; Contrasenyes &amp; seg
     <string name="require_network_and_authority_statement">Per poder funcionar amb normalitat, aquest servei necessita connectar-se a Internet i requereix els permisos següents:</string>
     <string name="require_network_authority_statement">Per poder funcionar amb normalitat, aquest servei necessita connectar-se a Internet i requereix els permisos següents:</string>
     <string name="require_network_authority_statement_dual">Per poder funcionar amb normalitat, aquest servei necessita connectar-se a Internet i requereix els permisos següents:</string>
+    <string name="require_statement">Per oferir els serveis bàsics, necessitem els permisos següents:</string>
     <string name="safe_open_service">Serveis oberts segurs</string>
     <string name="safe_open_service_introduction">Els serveis oberts segurs ajuden els desenvolupadors i proporcionen capacitats de seguretat a nivell de sistema per protegir els usuaris i la seva privadesa.</string>
     <string name="saturday">Dissabte</string>
@@ -774,6 +784,7 @@ Heu d’acceptar la Política de privadesa del teclat Mint Keyboard abans d’ut
     <string name="tuesday">Dimarts</string>
     <string name="tuesday_short">Dt.</string>
     <string name="tuesday_shortest">dt.</string>
+    <string name="used_date_viewing">Per comprovar la data</string>
     <string name="user_agreement">Condicions del servei</string>
     <string name="v7_preference_off">DESACTIVAT</string>
     <string name="v7_preference_on">ACTIVAT</string>
