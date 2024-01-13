@@ -182,6 +182,7 @@
     <string name="chromecast_playing">"Estàs veient aquest vídeo amb Chromecast"</string>
     <string name="clear_text_end_icon_content_description">Esborra el text</string>
     <string name="clearable_edittext_clear_description">Clar</string>
+    <string name="click_to_open_ad">Toca per obtenir més informació</string>
     <string name="click_to_open_pip">Toca per canviar a imatge en imatge</string>
     <string name="click_to_play_video_push_context">Toqueu per reproduir el vídeo</string>
     <string name="click_to_reload_more">Prem per a carregar més</string>
@@ -204,8 +205,8 @@
     <string name="columbus_player_speed_video">Omet VIDEO</string>
     <string name="columbus_player_unit_sec">seg</string>
     <string name="columbus_skip_ad">Omet</string>
-    <string name="com.crashlytics.android.build_id">7370b57ad8c142aea1ada02f18aeec0e</string>
-    <string name="com.miapm.build_id">1d82e4e8fee144f48a7860a311d8fccc</string>
+    <string name="com.crashlytics.android.build_id">845a269762414bf9886c34e8bad21d63</string>
+    <string name="com.miapm.build_id">3ec172aa994d4bf3aec4d1455d3c5f69</string>
     <string name="com_permission_desc">"Mi Vídeo no pot accedir als vídeos del teu dispositiu. Permet l'accés a Configuració."</string>
     <string name="com_permission_title">Permisos necessaris</string>
     <string name="comment_model_add_comment">Afegir un comentari</string>
@@ -771,6 +772,8 @@ per a la millor experiència de visualització</string>
     <string name="local_subtitle_input_keyword_text">Cerca paraules clau</string>
     <string name="local_tip_act_for_android_u">Editar</string>
     <string name="local_tip_info_for_android_u">"Només heu permès que Mi Video mostri alguns vídeos."</string>
+    <string name="local_tip_info_for_no_audio">"No es pot accedir als fitxers d'àudio desats al dispositiu. Concediu primer els permisos necessaris."</string>
+    <string name="local_tip_info_for_no_video">"No es pot accedir als vídeos desats al dispositiu. Concediu primer els permisos necessaris."</string>
     <string name="local_video_create_a_new_playlist">Nova llista de reproducció</string>
     <string name="local_video_date">Data</string>
     <string name="local_video_dialog_default">Per defecte</string>
@@ -1439,6 +1442,7 @@ Només utilitzarem aquest permís per trobar els vídeos que cerqueu i no accedi
     <string name="popup_pip_activate_button">Configuració</string>
     <string name="popup_pip_not_activated">Primer permeteu que Mi Video utilitzi la imatge en imatge.</string>
     <string name="popup_window_home_tip">Baixa vídeos en línia</string>
+    <string name="popup_window_small_tag_tip">Toca una etiqueta per veure tots els vídeos d\'aquesta categoria</string>
     <string name="pre_ad">· ANUNCI</string>
     <string name="preference_copied">\"%1$s\" copiat al porta-retalls.</string>
     <string name="privacy_agree_subtitle">El consentiment a la Política de privadesa us permet utilitzar totes les funcions de Mi Video</string>
@@ -1542,6 +1546,8 @@ Només utilitzarem aquest permís per trobar els vídeos que cerqueu i no accedi
     <string name="settings_inline_auto_play_wify">Reproducció automàtica només per Wi-Fi</string>
     <string name="settings_inline_title">Reproducció automàtica de la pàgina d\'inici</string>
     <string name="settings_manager_hidden_folder">Gestiona els vídeos ocults</string>
+    <string name="shake_or_click_to_open_ad">Agiteu o toqueu per obtenir més informació</string>
+    <string name="shake_to_open_ad">Agiteu per aprendre més</string>
     <string name="share">Compartiu</string>
     <string name="share_text_before_link">Mireu i baixeu vídeos fantàstics de forma gratuïta a Mi Vídeo</string>
     <string name="share_ugc_content">Mireu el %1$s! #%2$s (%3$s)</string>
@@ -1557,7 +1563,9 @@ Només utilitzarem aquest permís per trobar els vídeos que cerqueu i no accedi
     <string name="sign_in_title">Inicieu sessió amb el vostre Compte Mi</string>
     <string name="skip_ad">Saltar</string>
     <string name="slid_fail_message">"No s'ha pogut desar"</string>
+    <string name="slide_or_click_to_open_ad">Feu lliscar o toqueu per obtenir més informació</string>
     <string name="slide_save_message">S\'està generant el vídeo…</string>
+    <string name="slide_to_open_ad">Llisca per obtenir més informació</string>
     <string name="small_video_load_more_hint">Fes lliscar el dit cap amunt per reproduir més vídeos</string>
     <string name="small_video_tab_expose_hint">Toca per obtenir més vídeos curts</string>
     <string name="sms_send_success">S\'ha enviat correctament</string>
