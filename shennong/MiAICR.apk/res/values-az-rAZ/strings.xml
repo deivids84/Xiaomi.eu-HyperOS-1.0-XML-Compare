@@ -132,7 +132,7 @@
     <string name="cognition_privacy_dialog_permission_desc_phone_state">Zəng gələrkən ağıllı ev cihazlarınızı necə istifadə etdiyinizi öyrənmək üçün</string>
     <string name="cognition_privacy_dialog_permission_desc_surround_device">Tez-tez istifadə olunan ağıllı ev cihazlarının yaxınlıqda olub-olmadığını anlamaq üçün</string>
     <string name="cognition_privacy_dialog_positive_button_mijia_text">Aç</string>
-    <string name="cognition_privacy_dialog_positive_button_text">Razılaşmaq</string>
+    <string name="cognition_privacy_dialog_positive_button_text">Razıyam</string>
     <string name="cognition_privacy_dialog_reject_button_text">"Razı deyiləm"</string>
     <string name="cognition_privacy_request">Səlahiyyətləndirmə</string>
     <string name="cognition_privacy_revoke">Razılığı geri götür</string>
