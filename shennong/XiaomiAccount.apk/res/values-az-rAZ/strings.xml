@@ -31,6 +31,7 @@
     <string name="about_mi_account">Xiaomi Hesabı haqqında</string>
     <string name="accept">İcazə ver</string>
     <string name="account_and_password">Parol</string>
+    <string name="account_auth_failed_message">"Xiaomi Hesabı %1$sİmzanın müddəti başa çatıb. Bir də cəhd edin."</string>
     <string name="account_bind_devices">Cihazlar</string>
     <string name="account_bind_secure_email_title">E-poçt əlavə et</string>
     <string name="account_bind_secure_phone_title">Telefon nömrəsi əlavə et</string>
@@ -143,6 +144,7 @@ Artıq %s istifadə edərək Xiaomi Hesabınıza daxil ola bilərsiniz."</string
     <string name="date_time_picker_dialog_title">Tarix və saatı ayarla</string>
     <string name="default_error_message">Yararsız giriş</string>
     <string name="default_popup_window_title">Açılan pəncərə</string>
+    <string name="default_web_client_id">630236635882-e9rqvpt2onbe87uramm8stt7v375of1e.apps.googleusercontent.com</string>
     <string name="delete_bank_card_message">Çıxış edildikdən sonra, Mi Pay bank kartları və NFC kartları silinir.</string>
     <string name="delete_bank_card_title">Diqqət</string>
     <string name="delete_device_btn">Sil</string>
@@ -170,9 +172,27 @@ Artıq %s istifadə edərək Xiaomi Hesabınıza daxil ola bilərsiniz."</string
     <string name="expand_button_title">Qabaqcıl</string>
     <string name="exposed_dropdown_menu_content_description">Açılan menyunu göstər</string>
     <string name="facebook_login">Facebook ilə daxil olun</string>
+    <string name="facets_path">[{\"daxil ol\": \"https://account.xiaomi.com/.well-known/assetlinks.json\"}]</string>
     <string name="failed_dup_secure_phone_number">Bu telefon nömrəsi artıq başqa bir Xiaomi Hesabı ilə əlaqələndirilib</string>
     <string name="family_service">Ailə xidmətləri</string>
     <string name="family_service_not_open">Üzv dəvət et</string>
+    <string name="fido2_client_for_fingerprint_auth">Barmaq izi vasitəsilə yoxlamaq üçün tap</string>
+    <string name="fido2_close_fingerprint_auth">Söndür</string>
+    <string name="fido2_close_fingerprint_auth_desc">Barmaq izi yoxlamasını indi söndürün?</string>
+    <string name="fido2_err_already_registered">Bu hesab artıq bu funksiyanı söndürüb</string>
+    <string name="fido2_err_def">Xəta oldu. Bir-iki dəqiqə gözləyin və yenidən cəhd edin.</string>
+    <string name="fido2_err_not_regisetered">"Bu hesab hələ ki, bu xüsusiyyətini söndürməyib"</string>
+    <string name="fido2_err_not_support">"Bu funksiya bu avadanlıqda dəstəkli deyil"</string>
+    <string name="fido2_err_security">"Təhlükəsizlik riskləri aşkar edildi. Bu funksiyadan istifadə edə bilmirəm."</string>
+    <string name="fido2_err_service_exception">Verici xətası baş verdi. Bir-iki dəqiqə gözləyin və yenidən cəhd edin.</string>
+    <string name="fido2_err_timeout">Xahiş vaxtı başa çatmadı. Bir-iki dəqiqə gözləyin və yenidən cəhd edin.</string>
+    <string name="fido2_fingerprint_auth">Barmaq izi yoxlaması</string>
+    <string name="fido2_fingerprint_auth_desc"><Data>Xiaomi Hesabınıza imza atmaq və şəxsiyyətinizi yoxlamaq üçün barmaq izinizi istifadə edin &lt;a href=&gt;Daha çox öyrənin&lt;/a&gt;</Data></string>
+    <string name="fido2_fingerprint_changed_and_afresh_register">Cihazınızın barmaq izi dəyişib. Barmaq izi yoxlamasını söndürə bilmək üçün hesabınızı bir daha yoxlayın.</string>
+    <string name="fido2_fingerprint_verify">Barmaq izi yoxlaması</string>
+    <string name="fido2_psw_changed_and_afresh_register">Şifrəniz dəyişib. Barmaq izinizi bir daha yoxlayın.</string>
+    <string name="fido2_setting_ps_notify">"Barmaq izi yoxlamasından istifadə edə bilmək üçün hesab şifrəsi təyin etmək lazım gələcək. Bunu Settings-də edə bilərsiniz &gt; Xiaomi Hesabı &gt; Hesab təhlükəsizliyi &gt; Şifrə."</string>
+    <string name="fido2_verify_fingerprint">Barmaq izini yoxla</string>
     <string name="find_device">Cihazı tap</string>
     <string name="find_device_access_denied">"Status alına bilmir, müraciət rədd edildi"</string>
     <string name="find_device_account_error">"Hesab xətasına görə status alına bilmir"</string>
@@ -214,12 +234,18 @@ Artıq %s istifadə edərək Xiaomi Hesabınıza daxil ola bilərsiniz."</string
     <string name="friday">Cümə</string>
     <string name="friday_short">Cüm</string>
     <string name="friday_shortest">Cüm</string>
+    <string name="gcm_defaultSenderId">630236635882</string>
     <string name="get_back_password">Parolu sıfırla</string>
     <string name="get_back_pwd">Parol sıfırlama</string>
     <string name="get_identity_auth_url_failed">"Kimlik doğrulana bilmədi"</string>
     <string name="get_phone_bind_exceed_limit">"Bir telefon nömrəsi ilə ən çox %d Xiaomi Hesabı əlaqələndirə bilərsiniz. Yeni hesablar əlavə edilə bilmir."</string>
     <string name="get_phone_verifycode_exceed_limit">"Bu nömrəyə daha çox doğrulama kodu göndərilə bilmir"</string>
+    <string name="go_to_setting">Qurğular</string>
+    <string name="google_api_key">AIzaSyD0N3c1iN_Y93_Xslg5n_ZSN_HNTQxw7ew</string>
+    <string name="google_app_id">1:630236635882:android:04e152f122e4397796ed93</string>
+    <string name="google_crash_reporting_api_key">AIzaSyD0N3c1iN_Y93_Xslg5n_ZSN_HNTQxw7ew</string>
     <string name="google_login">Google ilə daxil olun</string>
+    <string name="google_storage_bucket">micloud-43705.appspot.com</string>
     <string name="has_no_new_version">Güncəldir</string>
     <string name="health_action_activate">Aktivləşdir</string>
     <string name="health_action_install">Quraşdır</string>
@@ -238,6 +264,7 @@ Artıq %s istifadə edərək Xiaomi Hesabınıza daxil ola bilərsiniz."</string
     <string name="indeterminate">Nə yoxlanılıb, nə də yoxlanılmayıb</string>
     <string name="input_email_address_notice">"Verdiyiniz ünvana doğrulama kodu olan bir e-poçt göndərəcəyik."</string>
     <string name="input_new_pwd">Yeni parolu daxil edin</string>
+    <string name="input_ps">Şifrəni daxil edin</string>
     <string name="io_error_title">Şəbəkənizi təsdiqləyin</string>
     <string name="item_view_role_description">Vərəq</string>
     <string name="just_a_second">Bir saniyə…</string>
@@ -256,6 +283,7 @@ Artıq %s istifadə edərək Xiaomi Hesabınıza daxil ola bilərsiniz."</string
     <string name="login_notification_button_text">Daxil ol</string>
     <string name="login_notification_desc">Bulud xidmətlərindən, anbar sahəsi üçün ailə planından və daha çoxundan həzz alın</string>
     <string name="login_notification_title">Xiaomi Hesabınıza daxil olun</string>
+    <string name="login_or_register_by_other_way">Başqa üsuldan istifadə edin</string>
     <string name="login_with_other">Daha çox seçim</string>
     <string name="logout_account">Çıxış et</string>
     <string name="logout_failed">"Çıxış edilə bilmir"</string>
@@ -728,6 +756,7 @@ Artıq %s istifadə edərək Xiaomi Hesabınıza daxil ola bilərsiniz."</string
     <string name="privacy_policy_reject_confirm_title">"Xiaomi Hesabı istifadə edilə bilmir"</string>
     <string name="privacy_policy_update_msg">Xiaomi Hesabının Gizlilik Siyasəti güncəlləndi:&lt;br/&gt;%1$s&lt;br/&gt;Davam etməzdən əvvəl yeni &lt;a href=%2$s&gt;&lt;u&gt;Gizlilik Siyasətini&lt;/u&gt;&lt;/a&gt; oxuyun və razılaşın.</string>
     <string name="privacy_policy_update_title">Güncəllənmiş Gizlilik Siyasəti</string>
+    <string name="project_id">micloud-43705</string>
     <string name="provision_back">Geri</string>
     <string name="provision_next">Növbəti</string>
     <string name="provision_skip_underline">Ötür</string>
@@ -739,13 +768,14 @@ Artıq %s istifadə edərək Xiaomi Hesabınıza daxil ola bilərsiniz."</string
     <string name="qrcode_login_entry_text"><Data>Fərqli bir cihazda daxil olmusunuz? &lt;a href=&gt;Sürətli daxil olmanı istifadə edin&lt;/a&gt;</Data></string>
     <string name="qrcode_login_load_refresh"><Data>Bu QR kodun istifadə müddəti bitib. &lt;a href=&gt;Təzələmək&lt;/a&gt; üçün toxunun.</Data></string>
     <string name="qrcode_login_load_retry"><Data>\"Yüklənilə bilmədi. &lt;a href=&gt;Yenidən sınayın&lt;/a&gt;.\"</Data></string>
-    <string name="qrcode_login_message">"Daxil olmaq üçün Xiaomi telefonunuzun və ya planşetinizin Skaner tətbiqi, Mi Home və ya başqa bir Xiaomi tətbiqi ilə skan edin"</string>
+    <string name="qrcode_login_message">Xiaomi Hesabınıza imza atmaq üçün Mi AI Scanner və ya başqa bir Xiaomi proqramı ilə skan edin</string>
     <string name="qrcode_login_title">Daxil olmaq üçün skan edin</string>
     <string name="range_end">Aralıq sonu</string>
     <string name="range_start">Aralıq başlanğıcı</string>
     <string name="recycle_phone_notification_msg">Deyəsən, telefon nömrəniz təkrar emal edilib. Güncəlləmək üçün toxunun.</string>
     <string name="recycle_phone_notification_title">Xiaomi Hesabı güvənlik riski</string>
     <string name="removing_account">Çıxış edilir…</string>
+    <string name="reopen">Söndür</string>
     <string name="request_open_permission">İcazələr tələb olunur</string>
     <string name="request_use_camera_message">"Xiaomi Hesabının telefonunuzun kamerasına müraciət etməsinə icazə verilsin?"</string>
     <string name="request_use_camera_title">Kameraya müraciət</string>
@@ -786,6 +816,7 @@ Artıq %s istifadə edərək Xiaomi Hesabınıza daxil ola bilərsiniz."</string
     <string name="send">Göndər</string>
     <string name="service_error">Xidmət xətası</string>
     <string name="set_success">Uğurla dəyişdirildi</string>
+    <string name="setting_ps">Şifrə qurğuları</string>
     <string name="sign_in">Daxil olunur</string>
     <string name="sim_card">SIM kart</string>
     <string name="sim_changed_notification_msg">Geri qaytarma telefonunuzu güncəlləmək və hesabınızı daha güvənli saxlamaq üçün toxunun.</string>
