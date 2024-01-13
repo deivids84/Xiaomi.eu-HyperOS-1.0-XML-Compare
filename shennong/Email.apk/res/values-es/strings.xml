@@ -178,7 +178,6 @@ Prefijo de ruta"</string>
     <string name="add_pre_message_attachments_yes">Añadir</string>
     <string name="add_star">Marcar</string>
     <string name="afternoon">Tarde</string>
-    <string name="agreement_url" formatted="false">https://xiaomi.wpsmail.net/cn/agreement.html?region=%1s&amp;lang=%2s</string>
     <string name="all_purpose">¡Te damos la bienvenida al Correo! un cliente de correo electrónico hecho a medida para Xiaomi por Kingsoft. Con esta aplicación puedes redactar, enviar y recibir correos electrónicos.</string>
     <string name="allow_notify">Permitir notificaciones</string>
     <string name="always_bcc_myself">Siempre CCO auto</string>
@@ -810,7 +809,6 @@ Declinado:
     <string name="notification_action_undo_delete">Eliminado</string>
     <string name="notification_action_undo_remove_label">Etiqueta eliminada</string>
     <string name="notification_message">¿Notificar sobre mensajes nuevos solo en carpetas seleccionadas?</string>
-    <string name="notification_mutli_message_content">点击查看</string>
     <string name="notification_off">Apagado</string>
     <string name="notification_on">Encendido</string>
     <string name="notify_channel_new_mail">Notificar sobre nuevos mensajes</string>
@@ -931,7 +929,6 @@ Declinado:
     <string name="privacy_and_private_permission">Consentimiento para el Acuerdo de usuario y la Política de privacidad</string>
     <string name="privacy_des">"Los registros contienen información de depuración del correo electrónico del cliente y su dispositivo. Esta información se utiliza para localizar problemas más rápido. Pulsando \"%1$s\" estás aceptando nuestra \"%2$s\"."</string>
     <string name="privacy_policy">Política de Privacidad</string>
-    <string name="privacy_policy_url">https://xiaomi.wpsmail.net/policy.html</string>
     <string name="privacy_setting_agree">Aceptar</string>
     <string name="progress">Progreso:</string>
     <string name="prompt_title">Preguntar</string>
