@@ -27,6 +27,7 @@
     <string name="abc_shareactionprovider_share_with">Compartir con</string>
     <string name="abc_shareactionprovider_share_with_application">Compartir con %s</string>
     <string name="abc_toolbar_collapse_description">Contraer</string>
+    <string name="access_calendar">Calendario de acceso</string>
     <string name="access_non_personal_data">Si retira el consentimiento para el acceso y el uso de datos no personales de su dispositivo, los servicios de Wallpaper Carousel se desactivarán y los datos recopilados se eliminarán dentro del período especificado en las leyes y regulaciones aplicables.</string>
     <string name="accessibility_enabled">Accesibilidad activada.</string>
     <string name="actionbar_button_up_description">Atrás</string>
@@ -55,6 +56,8 @@
     <string name="album_introduction">Puede usar esta aplicación para administrar, editar y embellecer fotos y videos.</string>
     <string name="am">AM</string>
     <string name="app_name">Provisión</string>
+    <string name="application_extension_service">Servicios de extensión de aplicación</string>
+    <string name="application_extension_service_introduction">Los servicios de extensión de la aplicación le proporcionarán características de inicio de sesión y verificación. Para proporcionar servicios básicos, esta aplicación necesita los siguientes permisos:</string>
     <string name="application_package_introduction">El instalador de paquetes se utiliza para instalar aplicaciones de terceros, incluido el análisis previo a la instalación y los servicios de recomendación de aplicaciones posteriores a la instalación.</string>
     <string name="application_permissions">Permisos de la aplicación</string>
     <string name="aquire_device_info">Información del dispositivo de acceso</string>
@@ -66,6 +69,7 @@
     <string name="boot_video_replay">Volver a reproducir</string>
     <string name="boot_video_skip">Saltar</string>
     <string name="calculator_introduction">Puede usar esta aplicación para realizar cálculos, convertir unidades y divisas, y estimar sus pagos de hipoteca.</string>
+    <string name="calendar_storage">Almacenamiento del calendario</string>
     <string name="camera_application_introduction">Puede usar esta aplicación para tomar fotos y videos.</string>
     <string name="camera_introduction">Puede usar la cámara para tomar fotos y grabar videos.</string>
     <string name="carousel_cookies_content"><Data>Cuando toques imágenes e historias en Wallpaper Carousel, sus versiones completas se abrirán en tu navegador. Nuestro proveedor de contenido externo de confianza puede recomendar contenido y anuncios adicionales que se adapten a sus intereses. Si acepta activar esta función, colocarán cookies en su navegador, como se describe en este &lt;a href=\"%1$s\"&gt;Política de cookies&lt;/a&gt;. Si rechaza las cookies, el carrusel de fondos de pantalla seguirá funcionando, pero es posible que su contenido y recomendaciones dejen de ser relevantes para usted. Siempre puedes cambiar tus preferencias en Ajustes.</Data></string>
@@ -107,6 +111,7 @@
     <string name="diagnose_report">Enviar datos de diagnóstico para ubicar y analizar errores del sistema y mejorar la experiencia del usuario. Dichos datos podrían incluir información personal (p. ej. IP, ubicación, etc.)</string>
     <string name="disageement_abnormal_download">"Si no acepta conceder estos permisos o compartir y subir su información personal, no podrá usar este servicio."</string>
     <string name="disagree">Cancelar</string>
+    <string name="disagree_unable_serve">"Si no está de acuerdo con los permisos anteriores, no podrá utilizar este servicio."</string>
     <string name="disagreement_abnormal_running">"Si no acepta conceder estos permisos o compartir y subir su información personal, no podrá usar esta aplicación. Puede elegir no usar esta aplicación o restringir los permisos en Configuración."</string>
     <string name="disagreement_abnormal_running_fast_pairing">"Si no acepta otorgar dichos permisos no podrá usar esta aplicación. Puede elegir restringir los permisos y desactivar esta función en los Ajustes en dichos casos."</string>
     <string name="disagreement_application_not_working_properly">"Si no acepta otorgar estos permisos, no podrá utilizar esta aplicación."</string>
@@ -446,6 +451,7 @@ Puede controlar esta función desde Configuración &gt; Contraseñas &amp; segur
     <string name="permission_make_a_call_fast_application_summary">Para permitir que las aplicaciones rápidas hagan llamadas;</string>
     <string name="permission_media_storage_summary">Para comprobar cómo las aplicaciones utilizan permisos relacionados con la privacidad mientras acceden a archivos</string>
     <string name="permission_message_introduction">Para enviar mensajes a contactos bloqueados</string>
+    <string name="permission_not_agree_service_not_working">"Si no está de acuerdo con los permisos requeridos, no podrá utilizar este servicio."</string>
     <string name="permission_number">Número de teléfono de acceso</string>
     <string name="permission_number_introduction">Para establecer una conexión Bluetooth con sistemas de autos y auriculares Bluetooth</string>
     <string name="permission_phone_imei_device">Para acceder al IMEI con el fin de identificar dispositivos</string>
@@ -494,6 +500,7 @@ Puede controlar esta función desde Configuración &gt; Contraseñas &amp; segur
     <string name="permission_recording_introduction">Para grabar audio mientras graba videos</string>
     <string name="permission_screen_shoot_introduction">Para acceder y guardar grabaciones de pantalla</string>
     <string name="permission_send_message">Enviar SMS</string>
+    <string name="permission_sms_verification_code_login">Para proporcionar verificación de SMS para inicio de sesión rápido</string>
     <string name="permission_uniquely_identifiable_information">Acceder a identificadores únicos de este dispositivo</string>
     <string name="permission_uniquely_identifiable_information_summary">Acceda a la dirección MAC y al OAID del dispositivo para descubrir, conectar y comunicarse con otros dispositivos</string>
     <string name="permission_use_bluetooth">Usar Bluetooth</string>
@@ -533,12 +540,14 @@ Puede controlar esta función desde Configuración &gt; Contraseñas &amp; segur
     <string name="privacy_refuse">"No estoy de acuerdo"</string>
     <string name="privacy_title">Condiciones &amp; Política de privacidad</string>
     <string name="protect_persoanl_info_statement">Protegeremos su información personal de acuerdo con las leyes, regulaciones y políticas de privacidad relevantes.</string>
+    <string name="provide_date_management_service">Este servicio le permite comprobar la fecha y gestionar eventos.</string>
     <string name="provision_back">Atrás</string>
     <string name="provision_inputmethod_policy_description">&lt;Data&gt;Ver la &lt;a href=%1$s&gt;Política de privacidad&lt;/a &gt; del teclado seleccionado.&lt;/Data&gt;</string>
     <string name="provision_inputmethod_policy_description1">Política de Privacidad</string>
     <string name="provision_next">Siguiente</string>
     <string name="provision_skip_underline">Saltar</string>
     <string name="read_application_info">Acceso a la app</string>
+    <string name="read_sms_and_mms">Acceder a SMS y MMS</string>
     <string name="recommend_font">MiSans</string>
     <string name="recommended_font_mark">Recomendado</string>
     <string name="recorder_introduction">Puede usar esta aplicación para grabar audio y respaldar grabaciones en la nube.</string>
@@ -553,6 +562,7 @@ Puede controlar esta función desde Configuración &gt; Contraseñas &amp; segur
     <string name="require_network_and_authority_statement">Para poder funcionar con normalidad, este servicio necesita conectarse a Internet y requiere los siguientes permisos:</string>
     <string name="require_network_authority_statement">Para poder funcionar con normalidad, este servicio necesita conectarse a Internet y requiere los siguientes permisos:</string>
     <string name="require_network_authority_statement_dual">Para poder funcionar con normalidad, este servicio necesita conectarse a Internet y requiere los siguientes permisos:</string>
+    <string name="require_statement">Para proporcionar servicios básicos, necesitamos los siguientes permisos:</string>
     <string name="safe_open_service">Servicios abiertos seguros</string>
     <string name="safe_open_service_introduction">Servicios abiertos seguros ayudan a los desarrolladores y proporcionan capacidades de seguridad a nivel del sistema para proteger a los usuarios y su privacidad.</string>
     <string name="saturday">Sábado</string>
@@ -774,6 +784,7 @@ Debe aceptar la Política de Privacidad del Teclado Mint antes de usar esta func
     <string name="tuesday">Martes</string>
     <string name="tuesday_short">Mar</string>
     <string name="tuesday_shortest">Mar</string>
+    <string name="used_date_viewing">Para comprobar la fecha</string>
     <string name="user_agreement">Acuerdo de Usuario</string>
     <string name="v7_preference_off">APAGADO</string>
     <string name="v7_preference_on">ENCENDIDO</string>
