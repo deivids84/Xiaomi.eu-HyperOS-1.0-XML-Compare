@@ -181,6 +181,7 @@
     <string name="chromecast_playing">"Estás viendo este video con Chromecast"</string>
     <string name="clear_text_end_icon_content_description">Borrar texto</string>
     <string name="clearable_edittext_clear_description">Limpiar</string>
+    <string name="click_to_open_ad">Toca para aprender más</string>
     <string name="click_to_open_pip">Toque para cambiar a picture-in-picture</string>
     <string name="click_to_play_video_push_context">Toca para reproducir el video</string>
     <string name="click_to_reload_more">Toque para cargar más</string>
@@ -203,8 +204,8 @@
     <string name="columbus_player_speed_video">Saltar VIDEO</string>
     <string name="columbus_player_unit_sec">seg</string>
     <string name="columbus_skip_ad">Saltar</string>
-    <string name="com.crashlytics.android.build_id">7370b57ad8c142aea1ada02f18aeec0e</string>
-    <string name="com.miapm.build_id">1d82e4e8fee144f48a7860a311d8fccc</string>
+    <string name="com.crashlytics.android.build_id">845a269762414bf9886c34e8bad21d63</string>
+    <string name="com.miapm.build_id">3ec172aa994d4bf3aec4d1455d3c5f69</string>
     <string name="com_permission_desc">"Mi Video no puede acceder a los videos en su dispositivo. Permita el acceso en Configuración."</string>
     <string name="com_permission_title">Se necesitan permisos</string>
     <string name="comment_model_add_comment">Agregar comentario</string>
@@ -767,6 +768,8 @@ para videos"</string>
     <string name="local_subtitle_input_keyword_text">Buscar palabras clave</string>
     <string name="local_tip_act_for_android_u">Editar</string>
     <string name="local_tip_info_for_android_u">"Sólo has permitido que Mi Video muestre algunos vídeos."</string>
+    <string name="local_tip_info_for_no_audio">"No se puede acceder a los archivos de audio guardados en el dispositivo. Conceda los permisos necesarios primero."</string>
+    <string name="local_tip_info_for_no_video">"No se puede acceder a los vídeos guardados en su dispositivo. Conceda los permisos requeridos primero."</string>
     <string name="local_video_create_a_new_playlist">Nueva lista de reproducción</string>
     <string name="local_video_date">Fecha</string>
     <string name="local_video_dialog_default">Predeterminado</string>
@@ -1435,6 +1438,7 @@ Solo usaremos este permiso para encontrar los videos que buscas y no accederemos
     <string name="popup_pip_activate_button">Ajustes</string>
     <string name="popup_pip_not_activated">Permita que Mi Video use la picture-in-picture primero.</string>
     <string name="popup_window_home_tip">Descargar videos en línea</string>
+    <string name="popup_window_small_tag_tip">Toca una etiqueta para ver todos los vídeos de esa categoría</string>
     <string name="pre_ad">·AD</string>
     <string name="preference_copied">\"%1$s\" copiado al portapapeles.</string>
     <string name="privacy_agree_subtitle">El consentimiento a la Política de privacidad le permite utilizar todas las funciones de Mi Video</string>
@@ -1538,6 +1542,8 @@ Solo usaremos este permiso para encontrar los videos que buscas y no accederemos
     <string name="settings_inline_auto_play_wify">Autoplay solo en Wi-Fi</string>
     <string name="settings_inline_title">Autoreproducción de página de inicio</string>
     <string name="settings_manager_hidden_folder">Administrar videos ocultos</string>
+    <string name="shake_or_click_to_open_ad">Sacudir o tocar para aprender más</string>
+    <string name="shake_to_open_ad">Sacudir para aprender más</string>
     <string name="share">Compartir</string>
     <string name="share_text_before_link">Mira y descarga excelentes videos gratis en Mi Video</string>
     <string name="share_ugc_content">¡Echa un vistazo a %1$s! #%2$s (%3$s)</string>
@@ -1553,7 +1559,9 @@ Solo usaremos este permiso para encontrar los videos que buscas y no accederemos
     <string name="sign_in_title">Iniciar sesión con su Cuenta Mi</string>
     <string name="skip_ad">Saltar</string>
     <string name="slid_fail_message">"No se pudo guardar"</string>
+    <string name="slide_or_click_to_open_ad">Deslice o toque para aprender más</string>
     <string name="slide_save_message">Generando video…</string>
+    <string name="slide_to_open_ad">Deslice para aprender más</string>
     <string name="small_video_load_more_hint">Desliza hacia arriba para reproducir más videos</string>
     <string name="small_video_tab_expose_hint">Toca para ver más videos cortos</string>
     <string name="sms_send_success">Enviado con éxito</string>
