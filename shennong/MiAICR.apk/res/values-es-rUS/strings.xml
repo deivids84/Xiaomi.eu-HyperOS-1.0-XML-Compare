@@ -132,6 +132,7 @@
     <string name="cognition_privacy_dialog_permission_desc_phone_state">Para aprender cómo usar dispositivos inteligentes al tomar llamadas</string>
     <string name="cognition_privacy_dialog_permission_desc_surround_device">Para reconocer si los dispositivos inteligentes usados frecuentemente están cerca</string>
     <string name="cognition_privacy_dialog_positive_button_mijia_text">Abrir</string>
+    <string name="cognition_privacy_dialog_positive_button_text">Aceptar</string>
     <string name="cognition_privacy_dialog_reject_button_text">"No está de acuerdo"</string>
     <string name="cognition_privacy_request">Autorización</string>
     <string name="cognition_privacy_revoke">Retiro del consentimiento</string>
