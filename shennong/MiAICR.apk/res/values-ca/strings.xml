@@ -132,6 +132,7 @@
     <string name="cognition_privacy_dialog_permission_desc_phone_state">Per aprendre com s\'utilitzen els dispositius domèstics intel·ligents per rebre trucades</string>
     <string name="cognition_privacy_dialog_permission_desc_surround_device">Per reconèixer si hi ha a prop els dispositius domèstics intel·ligents d\'ús freqüent</string>
     <string name="cognition_privacy_dialog_positive_button_mijia_text">Obert</string>
+    <string name="cognition_privacy_dialog_positive_button_text">Acordar</string>
     <string name="cognition_privacy_dialog_reject_button_text">"No estic d'acord"</string>
     <string name="cognition_privacy_request">Autorització</string>
     <string name="cognition_privacy_revoke">Retirada del consentiment</string>
