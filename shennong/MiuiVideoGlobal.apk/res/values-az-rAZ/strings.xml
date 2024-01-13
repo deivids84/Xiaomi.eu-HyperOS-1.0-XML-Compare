@@ -181,7 +181,7 @@
     <string name="chromecast_playing">"Bu videonu Chromecast ilə izləyirsiniz"</string>
     <string name="clear_text_end_icon_content_description">Mətni təmizlə</string>
     <string name="clearable_edittext_clear_description">Təmizlə</string>
-    <string name="click_to_open_ad">Ətraflı öyrənmək üçün toxunun</string>
+    <string name="click_to_open_ad">Daha ətraflı öyrənmək üçün toxunun</string>
     <string name="click_to_open_pip">Şəkil içərisində şəkil rejiminə keçmək üçün toxunun</string>
     <string name="click_to_play_video_push_context">Videonu oxutmaq üçün toxunun</string>
     <string name="click_to_reload_more">Daha çox yükləmək üçün toxunun</string>
@@ -768,8 +768,8 @@ seçin"</string>
     <string name="local_subtitle_input_keyword_text">Açar sözləri axtar</string>
     <string name="local_tip_act_for_android_u">Düzəliş et</string>
     <string name="local_tip_info_for_android_u">"Mi Video-nun yalnız bəzi videoları göstərməsinə icazə verdiniz."</string>
-    <string name="local_tip_info_for_no_audio">"Cihazınızda saxlanmış audio fayllarına daxil olmaq mümkün deyil. Əvvəlcə tələb olunan icazələri verin."</string>
-    <string name="local_tip_info_for_no_video">"Cihazınızda saxlanılan videolara daxil olmaq mümkün deyil. Əvvəlcə tələb olunan icazələri verin."</string>
+    <string name="local_tip_info_for_no_audio">"Cihazınızda saxlanılmış səs fayllarına müraciət edilə bilmir. Əvvəlcə tələb olunan icazə verin."</string>
+    <string name="local_tip_info_for_no_video">"Cihazınızda saxlanılmış videolara müraciət edilə bilmir. Əvvəlcə tələb olunan icazə verin."</string>
     <string name="local_video_create_a_new_playlist">Yeni pleylist</string>
     <string name="local_video_date">Tarix</string>
     <string name="local_video_dialog_default">İlkin</string>
@@ -1437,7 +1437,7 @@ Bu icazəni yalnız axtardığınız videoları tapmaq üçün istifadə edəcə
     <string name="popup_pip_activate_button">Ayarlar</string>
     <string name="popup_pip_not_activated">Əvvəlcə \"Mi Video\"nun \"şəkil içində şəkil\"i istifadə etməsinə icazə verin.</string>
     <string name="popup_window_home_tip">Onlayn videoları endir</string>
-    <string name="popup_window_small_tag_tip">Həmin kateqoriyadakı bütün videolara baxmaq üçün etiketə toxunun</string>
+    <string name="popup_window_small_tag_tip">Həmin kateqoriyadakı bütün videolara baxmaq üçün bir etiketə toxunun</string>
     <string name="pre_ad">·Reklam</string>
     <string name="preference_copied">\"%1$s\" lövhəyə kopyalandı.</string>
     <string name="privacy_agree_subtitle">Gizlilik Siyasətinə razılıq verilməsi, \"Mi Video\"nun bütün özəlliklərini istifadə etməyinizə imkan verir</string>
@@ -1541,8 +1541,8 @@ Bu icazəni yalnız axtardığınız videoları tapmaq üçün istifadə edəcə
     <string name="settings_inline_auto_play_wify">Yalnız Wi-Fi-da avto-oxut</string>
     <string name="settings_inline_title">Səhifə avto-oxutmanı başlat</string>
     <string name="settings_manager_hidden_folder">Gizli videoları idarə et</string>
-    <string name="shake_or_click_to_open_ad">Ətraflı məlumat üçün silkələyin və ya toxunun</string>
-    <string name="shake_to_open_ad">Daha çox öyrənmək üçün silkələyin</string>
+    <string name="shake_or_click_to_open_ad">Daha ətraflı öyrənmək üçün silkələ və ya toxun</string>
+    <string name="shake_to_open_ad">Daha ətraflı öyrənmək üçün silkələ</string>
     <string name="share">Paylaş</string>
     <string name="share_text_before_link">Mi Video-da möhtəşəm videoları ödənişsiz izləyin və endirin</string>
     <string name="share_ugc_content">%1$s da baxın! #%2$s (%3$s)</string>
@@ -1558,9 +1558,9 @@ Bu icazəni yalnız axtardığınız videoları tapmaq üçün istifadə edəcə
     <string name="sign_in_title">Mi Hesabınızla daxil olun</string>
     <string name="skip_ad">Ötür</string>
     <string name="slid_fail_message">"Saxlanıla bilmədi"</string>
-    <string name="slide_or_click_to_open_ad">Ətraflı məlumat üçün sürüşdürün və ya toxunun</string>
+    <string name="slide_or_click_to_open_ad">Daha ətraflı öyrənmək üçün sürüşdür və ya toxun</string>
     <string name="slide_save_message">Video yaradılır…</string>
-    <string name="slide_to_open_ad">Ətraflı məlumat üçün sürüşdürün</string>
+    <string name="slide_to_open_ad">Daha ətraflı öyrənmək üçün sürüşdür</string>
     <string name="small_video_load_more_hint">Daha çox video oxutmaq üçün yuxarı sürüşdür</string>
     <string name="small_video_tab_expose_hint">Daha çox qısa video üçün toxunun</string>
     <string name="sms_send_success">Uğurla göndərildi</string>
