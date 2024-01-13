@@ -289,15 +289,15 @@
     <string name="online_recognize_progress">Mətnə çevrilir %s…</string>
     <string name="password_toggle_content_description">Parolu göstər</string>
     <string name="path_soundrecorder_setting">Sistem tətbiqləri/Səsyazan</string>
-    <string name="pause_status_focus_notification">Fasilə verildi</string>
+    <string name="pause_status_focus_notification">Yazı fasilə verdi</string>
     <string name="permission_bluetooth">Bluetooth bağlantı statusuna müraciət</string>
     <string name="permission_bluetooth_dialog_description">Yazıları oxudarkən cihazlar arasında keçid edə bilmək üçün bu cihazın yaxınlıqdakı cihazlara bağlanmasına icazə verin.</string>
     <string name="permission_bluetooth_title">İcazə tələb olunur</string>
     <string name="permission_desc">İcazə detalları</string>
     <string name="permission_dialog_cancel">İmtina</string>
     <string name="permission_dialog_ok">Ayarlar</string>
-    <string name="permission_notification_description">Səs yazarkən, oxudarkən və məzmun endirərkən xəbərdarlıqlar göndərmək üçün</string>
-    <string name="permission_notification_dialog_description">"Tətbiqin hazırkı statusu haqqında xəbərdarlıqlar göndərmək üçün"</string>
+    <string name="permission_notification_description">Bu proqram qeyd, oyun və download content zaman xəbərdarlıq göndərə bilmək üçün bildiriş göndərmək üçün icazə lazımdır.</string>
+    <string name="permission_notification_dialog_description">"Bu proqram app cari statusu haqqında xəbərdarlıq göndərmək üçün bildiriş göndərmək üçün icazə lazımdır."</string>
     <string name="permission_notification_title">İcazələr tələb olunur</string>
     <string name="permission_read_phone_state">Cihaz məlumatlarına müraciət</string>
     <string name="permission_read_phone_state_description">Zəng gələrkən səsyazmanı avtomatik dayandırmaq məqsədilə zəng statusuna müraciət etmək üçün</string>
@@ -424,7 +424,7 @@
     <string name="status_bar_back">\"Səsyazan\"a qayıtmaq üçün toxunun</string>
     <string name="status_bar_recording">Səs yazılır…</string>
     <string name="status_bar_recording_pause">\"Səsyazan\"a fasilə verildi</string>
-    <string name="stop_status_focus_notification">Bitdi</string>
+    <string name="stop_status_focus_notification">Qurtardı qeydi</string>
     <string name="storage_permission_dialog_title">Anbar icazələri tələb olunur</string>
     <string name="sunday">Bazar</string>
     <string name="sunday_short">Baz</string>
