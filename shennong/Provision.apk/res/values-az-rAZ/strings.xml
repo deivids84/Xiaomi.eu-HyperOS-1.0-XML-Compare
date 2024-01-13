@@ -27,7 +27,7 @@
     <string name="abc_shareactionprovider_share_with">Paylaş</string>
     <string name="abc_shareactionprovider_share_with_application">%s ilə paylaş</string>
     <string name="abc_toolbar_collapse_description">Yığcamlaşdır</string>
-    <string name="access_calendar">Təqvimə daxil olun</string>
+    <string name="access_calendar">Təqvimə müraciət</string>
     <string name="access_non_personal_data">Cihazınızda şəxsi olmayan məlumatlara müraciət və istifadə ilə bağlı razılığı geri götürsəniz, \"Divar kağızı Karuseli\" xidmətləri deaktiv ediləcək və yığılmış bütün məlumatlar, müvafiq qanun və nizamlamalara uyğun olaraq müəyyən bir müddət ərzində silinəcək.</string>
     <string name="accessibility_enabled">Əlçatımlılıq fəaldır.</string>
     <string name="actionbar_button_up_description">Geri</string>
@@ -56,8 +56,8 @@
     <string name="album_introduction">Bu tətbiqi fotoları və videoları idarə etmək, gözəlləşdirmək, onlara düzəliş etmək üçün istifadə edə bilərsiniz.</string>
     <string name="am">GƏ</string>
     <string name="app_name">Provision</string>
-    <string name="application_extension_service">Tətbiq genişləndirmə xidmətləri</string>
-    <string name="application_extension_service_introduction">Tətbiq genişləndirmə xidmətləri sizi giriş və yoxlama funksiyaları ilə təmin edəcək. Əsas xidmətləri təmin etmək üçün bu proqrama aşağıdakı icazələr lazımdır:</string>
+    <string name="application_extension_service">Tətbiq uzantı xidmətləri</string>
+    <string name="application_extension_service_introduction">Tətbiq uzantı xidmətləri, sizi daxil olma və doğrulama özəllikləri ilə təmin edəcək. Təməl xidmətləri təmin etmək üçün bu tətbiqin aşağıdakı icazələrə ehtiyacı var:</string>
     <string name="application_package_introduction">Paket quraşdırıcı, quraşdırmadan əvvəlki skan və quraşdırmadan sonrakı tətbiq tövsiyə xidmətləri daxil olmaqla üçüncü tərəf tətbiqləri quraşdırmaq üçün istifadə olunur.</string>
     <string name="application_permissions">Tətbiq icazələri</string>
     <string name="aquire_device_info">Cihaz məlumatlarına müraciət</string>
@@ -69,7 +69,7 @@
     <string name="boot_video_replay">Yenidən oxut</string>
     <string name="boot_video_skip">Ötür</string>
     <string name="calculator_introduction">Bu tətbiqi hesablamalar, vahidləri və pul vahidlərini çevirmək və ipoteka ödənişlərinizi təxmin etmək üçün istifadə edə bilərsiniz.</string>
-    <string name="calendar_storage">Təqvim yaddaşı</string>
+    <string name="calendar_storage">Təqvim anbarı</string>
     <string name="camera_application_introduction">Bu tətbiqi foto və video çəkmək üçün istifadə edə bilərsiniz.</string>
     <string name="camera_introduction">Kamera tətbiqini foto və video çəkmək üçün istifadə edə bilərsiniz.</string>
     <string name="carousel_cookies_content"><Data>\"Divar kağızı Karuseli\"ndə təsvirlərə və hekayələrə toxunduqda, onların tam versiyaları brauzerinizdə açılacaq. Güvənli üçüncü tərəf məzmun provayderimiz daha sonra maraqlarınıza uyğun gələn əlavə məzmun və reklamlar tövsiyə edə bilər. Bu özəlliyin aktivləşdirilməsinə razılıq verirsinizsə, onlar bu &lt;a href=\"%1$s\"&gt;Çərəz Siyasətində&lt;/a&gt; açıqlandığı kimi brauzerinizdə çərəzlər yerləşdirəcək. Çərəzləri rədd etsəniz, Divar kağızı Karuseli hələ də işləyəcək, ancaq məzmun və tövsiyələri sizinlə əlaqəli olmaya bilər. İstənilən vaxt Ayarlarda tərcihlərinizi dəyişdirə bilərsiniz.</Data></string>
@@ -111,7 +111,7 @@
     <string name="diagnose_report">Sistem problemlərini tapmaq və təhlil etmək və istifadəçi təcrübəsini təkmilləşdirmək üçün diaqnostika datalarını göndərin. Belə datalar şəxsi məlumatlar ehtiva edə bilər (məs: IP, yerləşmə və s.)</string>
     <string name="disageement_abnormal_download">"Bu cür icazələrin verilməsi, şəxsi məlumatlarınızın paylaşılması və yüklənməsi ilə razılaşmasanız, bu xidməti istifadə edə bilməyəcəksiniz."</string>
     <string name="disagree">İmtina</string>
-    <string name="disagree_unable_serve">"Yuxarıdakı icazələrlə razı deyilsinizsə, bu xidmətdən istifadə edə bilməyəcəksiniz."</string>
+    <string name="disagree_unable_serve">"Yuxarıdakı icəzələrlə razılaşmırsınızsa, bu xidməti istifadə edə bilməyəcəksiniz."</string>
     <string name="disagreement_abnormal_running">"Bu cür icazələrin verilməsi, şəxsi məlumatlarınızın paylaşılması və yüklənməsi ilə razılaşmasanız, bu tətbiqi istifadə edə bilməyəcəksiniz. Belə hallarda bu tətbiqi istifadə etməməyi və ya Ayarlarda icazələri məhdudlaşdırmağı seçə bilərsiniz."</string>
     <string name="disagreement_abnormal_running_fast_pairing">"Belə icazələrin verilməsi ilə razılaşmırsınızsa, bu tətbiqi istifadə edə bilməyəcəksiniz. Belə hallarda icazələri məhdudlaşdırmağı və ya Ayarlarda bu özəlliyi söndürməyi seçə bilərsiniz."</string>
     <string name="disagreement_application_not_working_properly">"Bu icazələrin verilməsi ilə razılaşmırsınızsa, bu tətbiqi istifadə edə bilməyəcəksiniz."</string>
@@ -450,7 +450,7 @@ Bu özəlliyi Ayarlar &gt; Parollar və güvənlik &gt; Gizlilik &gt; \"İstifad
     <string name="permission_make_a_call_fast_application_summary">Cəld tətbiqlərin zəng etməsinə icazə vermək üçün;</string>
     <string name="permission_media_storage_summary">Tətbiqlərin fayllara müraciət edərkən gizliliklə əlaqəli icazələri necə istifadə etdiyini yoxlamaq üçün</string>
     <string name="permission_message_introduction">Əngəllənmiş kontaktlara mesaj göndərmək üçün</string>
-    <string name="permission_not_agree_service_not_working">"Əgər yuxarıda qeyd olunan tələb olunan icazələrlə razı deyilsinizsə, bu xidmətdən istifadə edə bilməyəcəksiniz."</string>
+    <string name="permission_not_agree_service_not_working">"Yuxarıdakı göstərilən lazımi icəzələrlə razılaşmırsınızsa, bu xidməti istifadə edə bilməyəcəksiniz."</string>
     <string name="permission_number">Telefon nömrəsinə müraciət</string>
     <string name="permission_number_introduction">Avtomobil sistemləri və Bluetooth qulaqlıqlarla Bluetooth bağlantısı qurmaq üçün</string>
     <string name="permission_phone_imei_device">Cihazları müəyyənləşdirmək üzrə IMEI-yə müraciət etmək üçün</string>
@@ -499,7 +499,7 @@ Bu özəlliyi Ayarlar &gt; Parollar və güvənlik &gt; Gizlilik &gt; \"İstifad
     <string name="permission_recording_introduction">Video yazarkən səsləri yazmaq üçün</string>
     <string name="permission_screen_shoot_introduction">Ekran yazılarına müraciət etmək və onları saxlamaq üçün</string>
     <string name="permission_send_message">SMS göndər</string>
-    <string name="permission_sms_verification_code_login">Sürətli daxil olmaq üçün SMS doğrulama təmin etmək üçün</string>
+    <string name="permission_sms_verification_code_login">Cəld daxil olmaq məqsədilə SMS doğrulamasını təmin etmək üçün</string>
     <string name="permission_uniquely_identifiable_information">Bu cihaz unikal identifikatorlarına müraciət</string>
     <string name="permission_uniquely_identifiable_information_summary">Digər cihazları kəşf etmək, onlarla bağlantı və rabitə qurmaq üçün MAC ünvanına və cihaz OAID-ə müraciət edin</string>
     <string name="permission_use_bluetooth">Bluetooth istifadə et</string>
@@ -539,14 +539,14 @@ Bu özəlliyi Ayarlar &gt; Parollar və güvənlik &gt; Gizlilik &gt; \"İstifad
     <string name="privacy_refuse">"Razı deyiləm"</string>
     <string name="privacy_title">Şərtlər və Gizlilik Siyasəti</string>
     <string name="protect_persoanl_info_statement">Şəxsi məlumatlarınızı müvafiq qanunlara, qaydalara və gizlilik siyasətlərinə uyğun olaraq qoruyacağıq.</string>
-    <string name="provide_date_management_service">Bu xidmət sizə tarixi yoxlamağa və hadisələri idarə etməyə imkan verir.</string>
+    <string name="provide_date_management_service">Bu xidmət, tarixi yoxlamağınıza və tədbirləri idarə etməyinizə imkan verir.</string>
     <string name="provision_back">Geri</string>
     <string name="provision_inputmethod_policy_description"><Data> Seçdiyiniz klaviaturanın &lt;a href=%1$s&gt;Gizlilik Siyasətinə&lt;/a &gt; bax.</Data></string>
     <string name="provision_inputmethod_policy_description1">Gizlilik Siyasəti</string>
     <string name="provision_next">Növbəti</string>
     <string name="provision_skip_underline">Ötür</string>
     <string name="read_application_info">Tətbiq məlumatına müraciət</string>
-    <string name="read_sms_and_mms">SMS və MMS-ə daxil olun</string>
+    <string name="read_sms_and_mms">SMS və MMS-ə müraciət</string>
     <string name="recommend_font">MiSans</string>
     <string name="recommended_font_mark">Tövsiyə edilən</string>
     <string name="recorder_introduction">Bu tətbiqi səs yazmaq və səsyazmaları buluda nüsxələmək üçün istifadə edə bilərsiniz.</string>
@@ -561,7 +561,7 @@ Bu özəlliyi Ayarlar &gt; Parollar və güvənlik &gt; Gizlilik &gt; \"İstifad
     <string name="require_network_and_authority_statement">Normal işləyə bilməsi üçün, bu xidmətin internetə bağlanması və aşağıdakı icazələrə sahib olması lazımdır:</string>
     <string name="require_network_authority_statement">Normal işləyə bilməsi üçün, bu xidmətin internetə bağlanması və aşağıdakı icazələrə sahib olması lazımdır:</string>
     <string name="require_network_authority_statement_dual">Normal işləyə bilməsi üçün, bu xidmətin internetə bağlanması və aşağıdakı icazələrə sahib olması lazımdır:</string>
-    <string name="require_statement">Əsas xidmətləri təmin etmək üçün bizə aşağıdakı icazələr lazımdır:</string>
+    <string name="require_statement">Təməl xidmətləri təmin etmək üçün aşağıdakı icazələrə ehtiyacımız var:</string>
     <string name="safe_open_service">Güvənli açıq xidmətlər</string>
     <string name="safe_open_service_introduction">Güvənli açıq xidmətlər, tərtibatçılara kömək edir. İstifadəçiləri və onların gizliliyini qorumaq üçün sistem səviyyəsində güvənlik imkanları təqdim edir.</string>
     <string name="saturday">Şənbə</string>
