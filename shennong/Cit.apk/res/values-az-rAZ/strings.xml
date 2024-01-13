@@ -140,6 +140,15 @@ Cihazı zəng edirmiş kimi tutun, üst mikrofona danışın, qəbuledicidən s�
     <string name="remove_finger">barmaq qaldırma testi</string>
     <string name="sar_algo_data_check_description">Sar Algo məlumat yığma</string>
     <string name="sar_mtk_test_title">Sar Mtk Kimlik doğrulama testi</string>
+    <string name="sar_sensor_collect_data_self_cali">Öz-özünə kalibrləmə</string>
+    <string name="sar_sensor_collect_test_summary">"Cihazı döndərin, qurğuya qoyun
+Məlumat əldə etməyə başlayın düyməsini klikləyin
+Armaturu cihazdan yaxın və uzaqda idarə edin"</string>
+    <string name="sar_sensor_test_err_angle">Cihaz düzgün bucaq altında yerləşdirilməyib</string>
+    <string name="sar_sensor_test_next_step">Cihaza yaxın nəzarət çəngəl</string>
+    <string name="sar_sensor_test_summary">"Cihazı döndərin, qurğuya qoyun
+Kalibrləməyə Başla düyməsini klikləyin
+Kalibrləmə uğurlu olduqdan sonra armaturu cihazdan yaxın və uzaqda idarə edin"</string>
     <string name="search_menu_title">Axtarış</string>
     <string name="sidebottom_mic_check_record_tip">Səs yazılır, lütfən cihazın yan alt hissəsindəki mikrofona nəsə deyin</string>
     <string name="sidetop_mic_check_record_tip">Səs yazılır, lütfən cihazın yan üst hissəsindəki mikrofona nəsə deyin</string>
@@ -156,6 +165,10 @@ Fərqli titrəmə şərtlərinə uyğun olaraq düzgün düyməni seçin"</strin
     <string name="test_sidebottom_mic">Yan alt mikrofon</string>
     <string name="test_sidetop_mic">Yan üst mikrofon</string>
     <string name="test_sub_front_camera">Alt ekran ön kamerası</string>
+    <string name="tips_not_placed_right_angle">Cihaz düzgün bucaqda yerləşdirilməyib</string>
+    <string name="top_high_speaker_title">Ən yaxşı tweeter testi</string>
+    <string name="top_low_speaker_title">Üst woofer testi</string>
+    <string name="top_mic_check_record_tip">Səsyazma, lütfən, cihazın yuxarı hissəsindəki MIC-ə nəsə deyin</string>
     <string name="top_speaker_title">Üst dinamik testi</string>
     <string name="warm_light_title">İsti işıq</string>
     <string name="wifi_power_test_testing">Wifi Gücü test edilir...</string>
