@@ -283,6 +283,9 @@ tus dispositivos?"</string>
     <string name="circulate_open_in_tv">Abrir en TV</string>
     <string name="circulate_pad_app_continuity">"Utilizando el %1$s del teléfono"</string>
     <string name="circulate_pad_card_being_used_camera">"Usando la cámara del teléfono en la tableta"</string>
+    <string name="circulate_pad_card_being_used_cellular">Tablet está usando datos móviles</string>
+    <string name="circulate_pad_card_being_used_cellular_wifi">Señal Wi-Fi compartida con la tableta</string>
+    <string name="circulate_pad_card_being_used_cellular_wifi_china">Señal Wi-Fi compartida con la tableta</string>
     <string name="circulate_pad_card_use_camera">"Usar la cámara del tablet"</string>
     <string name="circulate_pad_card_use_desktop">Compartir pantalla de inicio a tablet</string>
     <string name="circulate_pad_card_using_camera">"Usando la cámara del tablet"</string>
@@ -295,8 +298,12 @@ tus dispositivos?"</string>
     <string name="circulate_phone_app_continuity">Usando %1$s en la tableta</string>
     <string name="circulate_phone_card_being_used_camera">"Usando la cámara del tablet en el teléfono"</string>
     <string name="circulate_phone_card_use_camera">"Usar cámara de teléfono"</string>
+    <string name="circulate_phone_card_use_cellular">"Usar datos móviles del teléfono"</string>
     <string name="circulate_phone_card_use_desktop">"Ver pantalla de inicio del teléfono"</string>
     <string name="circulate_phone_card_using_camera">"Usando la cámara del teléfono…"</string>
+    <string name="circulate_phone_card_using_cellular">"Usando datos móviles del teléfono"</string>
+    <string name="circulate_phone_card_using_cellular_wifi">"Utilizando señal Wi-Fi del teléfono"</string>
+    <string name="circulate_phone_card_using_cellular_wifi_china">"Utilizando señal Wi-Fi del teléfono"</string>
     <string name="circulate_phone_card_using_desktop">"Viendo la pantalla de inicio del teléfono…"</string>
     <string name="circulate_ringfind_button_hint_play">Reproducir sonido</string>
     <string name="circulate_ringfind_button_hint_stop">Parar la reproducción de sonido</string>
@@ -364,6 +371,7 @@ tus dispositivos?"</string>
     <string name="connect_settings_category_connection_car">Características del coche</string>
     <string name="connect_settings_category_hyper_mind">Hipermente</string>
     <string name="connect_settings_category_personal_device">Dispositivos personales</string>
+    <string name="connect_settings_communication_sharing">Anclaje inalámbrico</string>
     <string name="connect_settings_connect_permission">Interconectividad y permisos</string>
     <string name="connect_settings_connect_privacy">Privacidad</string>
     <string name="connect_settings_connection_service">Interconectividad Xiaomi</string>
@@ -381,7 +389,7 @@ tus dispositivos?"</string>
     <string name="connect_settings_summary"><Data>Descubra automáticamente los dispositivos cercanos que hayan iniciado sesión en su cuenta Xiaomi y conéctelos entre sí para realizar una variedad de tareas en múltiples dispositivos. &lt;a href=%1$s&gt;Más información&lt;/a&gt;</Data></string>
     <string name="connect_settings_summary_connection_service">Permite que tus dispositivos interactúen sin cables entre sí</string>
     <string name="connect_settings_summary_corp_phone">Responder llamadas en tabletas cercanas o computadoras conectadas a su cuenta Xiaomi</string>
-    <string name="connect_settings_summary_hyper_mind">Adapta automáticamente los dispositivos cercanos a sus necesidades basándose en sus patrones de uso. Esta característica es alimentada por Mi AI.</string>
+    <string name="connect_settings_summary_hyper_mind">Esta característica aprende sus patrones y los utiliza para controlar sus dispositivos domésticos inteligentes. Desarrollado por Mi AI.</string>
     <string name="connect_settings_summary_relay_app">Continuar tareas en la misma aplicación en otro dispositivo</string>
     <string name="connect_settings_summary_share_clipboard">Pegar texto e imágenes a otros dispositivos en %d minutos después de copiarlos en este dispositivo</string>
     <string name="connect_settings_summary_share_launcher_pad">Ver e interactuar con las pantallas de inicio de teléfonos cercanos conectados a tu cuenta de Xiaomi</string>
@@ -653,7 +661,7 @@ para que Xiaomi HyperMind pueda aprender y refinar los patrones"</string>
     <string name="hyper_mind">Hipermente</string>
     <string name="hyper_mind_close_warning">Atención</string>
     <string name="hyper_mind_close_warning_checkbox">"No volver a mostrar"</string>
-    <string name="hyper_mind_close_warning_content">HyperMind dejará de recopilar datos y de aprender sus patrones de uso después de que lo apague. Si necesita eliminar los datos que ya se han recopilado, &lt;a href=%1$s&gt;toque aquí&lt;/a&gt;.</string>
+    <string name="hyper_mind_close_warning_content">Si desactiva esta función, HyperMind ya no podrá aprender o usar sus patrones. Si quieres retirar tu consentimiento para nuestra recopilación de tus datos, pulsa &lt;a href=%1$s&gt;aquí&lt;/a&gt;.</string>
     <string name="hyper_mind_close_warning_ok">Entendido</string>
     <string name="hyper_mind_xiaomi">Xiaomi</string>
     <string name="icon_content_description">Icono de diálogo</string>
