@@ -192,10 +192,10 @@ Kompüterinizdə başqa bir seans başlada bilərsiniz."</string>
     <string name="midnight">Gecə</string>
     <string name="mirror_call_closed">Bu zəng, başqa bir cihazda cavablandırıldı</string>
     <string name="mirror_have_been_opened">Əsas ekran+ açıqdır</string>
-    <string name="mirror_to_settings_connectivity_remote_pad_content">Ara bağlantı xidmətlərini Ayarlar &gt; \"Ara bağlantı\"da işə sala bilərsiniz.</string>
-    <string name="mirror_to_settings_connectivity_remote_pad_title">Planşetdə ara bağlantı xidmətlərini işə sal</string>
-    <string name="mirror_to_settings_connectivity_remote_pc_content">Ara bağlantı xidmətlərini Ayarlar &gt; \"Ara bağlantı\"da işə sala bilərsiniz.</string>
-    <string name="mirror_to_settings_connectivity_remote_pc_title">Kompüterdə ara bağlantı xidmətlərini işə sal</string>
+    <string name="mirror_to_settings_connectivity_remote_pad_content">Planşetinizdə Xiaomi Interconnectivity-ni Parametrlər &gt; Qarşılıqlı Əlaqədə aktiv edə bilərsiniz.</string>
+    <string name="mirror_to_settings_connectivity_remote_pad_title">Xiaomi Interconnectivity deaktivdir</string>
+    <string name="mirror_to_settings_connectivity_remote_pc_content">Siz kompüterinizdə Xiaomi Interconnectivity-ni Parametrlər &gt; Qarşılıqlı Bağlantıda yandıra bilərsiniz.</string>
+    <string name="mirror_to_settings_connectivity_remote_pc_title">Xiaomi Interconnectivity deaktivdir</string>
     <string name="mirror_to_settings_phone_content">Əsas ekran+ indi işə salınsın?</string>
     <string name="mirror_to_settings_remote_pad_content">\"Əsas ekran+\"i Ayarlar &gt; \"Ara bağlantı\"da işə sala bilərsiniz.</string>
     <string name="mirror_to_settings_remote_pad_title">Planşetdə \"Əsas ekran+\"i işə sal</string>
@@ -309,7 +309,7 @@ Kompüterinizdə başqa bir seans başlada bilərsiniz."</string>
     <string name="notification_channel_name_download">Endirmə irəliləyişini göstər</string>
     <string name="notification_mirror">Digər şəxs ekranını paylaşır. Daha sonra yenidən sınayın.</string>
     <string name="notification_state_cancel">Bağlantını kəs</string>
-    <string name="notification_state_content">"Bu cihaz, %1$s - nin kompüterinə bağlanıb. Giriş cihazlarını, faylları və təsvirləri paylaşa bilərsiniz."</string>
+    <string name="notification_state_content">"Bu cihaz %1$s-ın kompüterinə qoşulub. Siz indi faylları və şəkilləri paylaşa, həmçinin cihazlar arası idarəetmələrdən istifadə edə bilərsiniz."</string>
     <string name="notification_state_title">Uğurla bağlantılıdır</string>
     <string name="notify_clip_action_browser">Ziyarət</string>
     <string name="notify_clip_action_call">Zəng</string>
@@ -335,7 +335,7 @@ Kompüterinizdə başqa bir seans başlada bilərsiniz."</string>
     <string name="pad_pc_mirror_introduction_summary">Kompüterinizin ekranını planşetinizdə əks etdirin</string>
     <string name="pad_pc_mirror_introduction_title">Ekranı əks etdir</string>
     <string name="pad_pc_share_introduction_summary">"Kompüterinizin maus və klaviaturasını bu planşetlə istifadə edin"</string>
-    <string name="pad_pc_share_introduction_title">Giriş cihazları</string>
+    <string name="pad_pc_share_introduction_title">Cihazlar arası nəzarətlər</string>
     <string name="pad_settings_bluetooth_enable_summary">Yaxınlıqdakı cihazları tapa bilmək üçün Bluetooth-u açın. İndi açılsın?</string>
     <string name="pad_settings_bluetooth_enable_title">Bluetooth-u aç</string>
     <string name="pad_settings_click_toast_msg">Kompüterinizdəki Xiaomi PC Manager-i istifadə edərək bağlantı qurun</string>
@@ -507,8 +507,8 @@ Kompüterinizdə başqa bir seans başlada bilərsiniz."</string>
     <string name="share_pc_folder_multi_error_dialog_ok">Anladım</string>
     <string name="share_pc_folder_multi_error_dialog_title">"Bütün elementlər köçürülə bilmədi"</string>
     <string name="share_stop_share_to_start_screen">Ekranınızı paylaşa bilmək üçün yayımı dayandırın</string>
-    <string name="share_to_settings_phone_content">İndi ara bağlantı xidmətləri işə salınsın?</string>
-    <string name="share_to_settings_title">Ara bağlantı xidmətlərini işə sal</string>
+    <string name="share_to_settings_phone_content">Xiaomi Interconnectivity indi yandırılsın?</string>
+    <string name="share_to_settings_title">Xiaomi qarşılıqlı əlaqəsi</string>
     <string name="sink_pc_click_again_to_finish_extent">Ekran uzantısını söndürmək üçün yenidən toxunun</string>
     <string name="sink_pc_click_again_to_finish_mirror">Ekranın əks etdirilməsini dayandırmaq üçün yenidən toxunun</string>
     <string name="softap_connect_fail_message">"Bağlantı qurula bilmədi"</string>
