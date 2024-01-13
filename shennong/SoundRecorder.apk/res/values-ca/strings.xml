@@ -289,15 +289,15 @@ Toqueu \"%1$s\", i després seleccioneu \"%2$s\"."</string>
     <string name="online_recognize_progress">S\'està transcrivint %s…</string>
     <string name="password_toggle_content_description">Ensenya la contrasenya</string>
     <string name="path_soundrecorder_setting">Aplis del sistema/Gravadora</string>
-    <string name="pause_status_focus_notification">Aturar</string>
+    <string name="pause_status_focus_notification">La gravació s\'ha posat en pausa</string>
     <string name="permission_bluetooth">Accedir a l\'estat de la connexió Bluetooth</string>
     <string name="permission_bluetooth_dialog_description">Permet que aquest dispositiu es connecti a dispositius propers per poder canviar de dispositiu quan es reprodueixen enregistraments.</string>
     <string name="permission_bluetooth_title">Permisos necessaris</string>
     <string name="permission_desc">Detalls dels permisos</string>
     <string name="permission_dialog_cancel">Cancel·la</string>
     <string name="permission_dialog_ok">Configuració</string>
-    <string name="permission_notification_description">Per enviar alertes en gravar, reproduir i descarregar contingut</string>
-    <string name="permission_notification_dialog_description">"Per enviar alertes sobre l'estat actual de l'aplicació"</string>
+    <string name="permission_notification_description">Aquesta aplicació necessita permís per enviar notificacions per poder enviar alertes en gravar, reproduir i descarregar contingut.</string>
+    <string name="permission_notification_dialog_description">"Aquesta aplicació necessita permís per enviar notificacions per poder enviar alertes sobre l'estat actual de l'aplicació."</string>
     <string name="permission_notification_title">Permisos necessaris</string>
     <string name="permission_read_phone_state">Accés a la informació del dispositiu</string>
     <string name="permission_read_phone_state_description">Per accedir a l\'estat de la trucada per aturar automàticament l\'enregistrament en rebre trucades</string>
@@ -445,7 +445,7 @@ Toqueu \"%1$s\", i després seleccioneu \"%2$s\"."</string>
     <string name="status_bar_back">Toqueu per tornar a la gravadora</string>
     <string name="status_bar_recording">S\'està enregistrant&#8230;</string>
     <string name="status_bar_recording_pause">Gravadora en pausa</string>
-    <string name="stop_status_focus_notification">Acabat</string>
+    <string name="stop_status_focus_notification">Gravació acabada</string>
     <string name="storage_permission_dialog_title">Es necessiten permisos d\'emmagatzematge</string>
     <string name="sunday">Diumenge</string>
     <string name="sunday_short">Dg.</string>
