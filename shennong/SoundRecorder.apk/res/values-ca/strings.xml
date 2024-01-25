@@ -519,6 +519,7 @@ Toqueu \"%1$s\", i després seleccioneu \"%2$s\"."</string>
     <string name="toast_enter_silent_mode">Enregistrament. El mode silenciós està activat.</string>
     <string name="toast_exit_silent_mode">Gravació acabada. El mode silenciós està desactivat.</string>
     <string name="toast_max_record_time">%1$s pot enregistrar durant uns %2$s</string>
+    <string name="toast_stop">Enregistrament acabat</string>
     <string name="toast_uninstall_fileexplorer">"El gestor de fitxers no està instal·lat"</string>
     <string name="today">Avui</string>
     <string name="tomorrow">Demà</string>
