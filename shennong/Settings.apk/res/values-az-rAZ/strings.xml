@@ -3040,10 +3040,10 @@ Lütfən bu kodu texniki mütəxəssisə göndərin."</string>
     <string name="display_cutout_emulation">Ekran kəsimi</string>
     <string name="display_cutout_emulation_keywords">ekran kəsimi, kərtik</string>
     <string name="display_dashboard_summary">Qaranlıq tema, şrift ölçüsü, parlaqlıq</string>
-    <string name="display_notification_icon_0">Heç biri</string>
-    <string name="display_notification_icon_1">%d simvolu</string>
-    <string name="display_notification_icon_3">%d ikona</string>
-    <string name="display_notification_icon_5">%d ikona</string>
+    <string name="display_notification_icon_0">Yoxdur</string>
+    <string name="display_notification_icon_1">%d nişan</string>
+    <string name="display_notification_icon_3">%d nişan</string>
+    <string name="display_notification_icon_5">%d nişan</string>
     <string name="display_prompt_confirm">Anladım</string>
     <string name="display_settings">Ekran</string>
     <string name="display_settings_new">Ekran və parlaqlıq</string>
