@@ -782,6 +782,7 @@
     <string name="thursday_short">Dj.</string>
     <string name="thursday_shortest">dj.</string>
     <string name="time_picker_dialog_title">Definir hora</string>
+    <string name="to_view_alarm_content">Toqueu per visualitzar</string>
     <string name="toast_cancel_to_insert_image">"No s'ha pogut afegir la imatge."</string>
     <string name="toast_excerpt_end">S\'ha creat un extracte amb èxit</string>
     <string name="toast_excerpt_no_content">Aquí no hi ha extractes</string>
