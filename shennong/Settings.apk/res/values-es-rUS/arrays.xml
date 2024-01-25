@@ -769,6 +769,18 @@ Nota: solo para Ubuntu 8.04"</item>
         <item>Porcentaje (en el icono)</item>
         <item>Porcentaje (junto al icono)</item>
     </string-array>
+    <string-array name="notification_icon_counts_entries">
+        <item>@string/display_notification_icono_0</item>
+        <item>@string/display_notification_icono_1</item>
+        <item>@string/display_notification_icono_3</item>
+        <item>@string/display_notification_icono_5</item>
+    </string-array>
+    <string-array name="notification_icon_counts_values">
+        <item>0</item>
+        <item>1</item>
+        <item>3</item>
+        <item>5</item>
+    </string-array>
     <string-array name="notification_shade_shortcut_entries">
         <item>Buscar</item>
         <item>Ajustes</item>
@@ -993,6 +1005,10 @@ Nota: solo para Ubuntu 8.04"</item>
     <string-array name="smart_home_entries">
         <item>Casa inteligente</item>
         <item>Ninguna</item>
+    </string-array>
+    <string-array name="smart_home_values">
+        <item>2</item>
+        <item>0</item>
     </string-array>
     <string-array name="special_locale_names_global">
         <item>简体 中文</item>
