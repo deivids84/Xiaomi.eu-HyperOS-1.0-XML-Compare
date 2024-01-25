@@ -3077,6 +3077,10 @@ Si us plau, envieu aquest codi al tècnic."</string>
     <string name="display_cutout_emulation">Retall de pantalla</string>
     <string name="display_cutout_emulation_keywords">retall de pantalla, tall</string>
     <string name="display_dashboard_summary">Tema fosc, cos de font, brillantor</string>
+    <string name="display_notification_icon_0">Cap</string>
+    <string name="display_notification_icon_1">icona %d</string>
+    <string name="display_notification_icon_3">%d icones</string>
+    <string name="display_notification_icon_5">%d icones</string>
     <string name="display_prompt_confirm">Entesos</string>
     <string name="display_settings">Pantalla</string>
     <string name="display_settings_new">Brillantor i pantalla</string>
@@ -9453,6 +9457,7 @@ Prova un altre suport (^3) més ràpid o fes servir aquest (^4) com a emmagatzem
     <string name="title_quick_control_all_devices">Mostra els controls dels dispositius propers</string>
     <string name="title_regional_pref_footer">Si una aplicació no admet preferències regionals, utilitzarà la seva configuració regional predeterminada.</string>
     <string name="title_show_notification_icon">Mostreu les icones de notificació</string>
+    <string name="title_show_notification_icon_count">Nombre d\'icones de notificació mostrades</string>
     <string name="title_smart_device_control">Controls dels dispositius intel·ligents</string>
     <string name="title_special_features_health_global">Ritme cardíac</string>
     <string name="title_unavailable_locale">Aquest idioma (%s) no està disponible</string>
