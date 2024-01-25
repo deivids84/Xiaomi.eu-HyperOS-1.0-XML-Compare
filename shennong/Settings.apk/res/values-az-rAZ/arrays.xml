@@ -794,6 +794,18 @@ Qeyd: Yalnız Ubuntu 8.04 üçün!"</item>
         <item>Faiz (nişan daxilində)</item>
         <item>Faiz (nişanın yanında)</item>
     </string-array>
+    <string-array name="notification_icon_counts_entries">
+        <item>@string/display_notification_icon_0</item>
+        <item>@string/display_notification_icon_1</item>
+        <item>@string/display_notification_icon_3</item>
+        <item>@string/display_notification_icon_5</item>
+    </string-array>
+    <string-array name="notification_icon_counts_values">
+        <item>0</item>
+        <item>1</item>
+        <item>3</item>
+        <item>5</item>
+    </string-array>
     <string-array name="notification_shade_shortcut_entries">
         <item>Axtar</item>
         <item>Ayarlar</item>
@@ -1018,6 +1030,10 @@ Qeyd: Yalnız Ubuntu 8.04 üçün!"</item>
     <string-array name="smart_home_entries">
         <item>Ağıllı ev</item>
         <item>Yoxdur</item>
+    </string-array>
+    <string-array name="smart_home_values">
+        <item>2</item>
+        <item>0</item>
     </string-array>
     <string-array name="special_locale_names_global">
         <item>Sadələşdirilmiş Çincə</item>
