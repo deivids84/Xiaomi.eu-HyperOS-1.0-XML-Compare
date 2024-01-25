@@ -3040,6 +3040,10 @@ Lütfən bu kodu texniki mütəxəssisə göndərin."</string>
     <string name="display_cutout_emulation">Ekran kəsimi</string>
     <string name="display_cutout_emulation_keywords">ekran kəsimi, kərtik</string>
     <string name="display_dashboard_summary">Qaranlıq tema, şrift ölçüsü, parlaqlıq</string>
+    <string name="display_notification_icon_0">Heç biri</string>
+    <string name="display_notification_icon_1">%d simvolu</string>
+    <string name="display_notification_icon_3">%d ikona</string>
+    <string name="display_notification_icon_5">%d ikona</string>
     <string name="display_prompt_confirm">Anladım</string>
     <string name="display_settings">Ekran</string>
     <string name="display_settings_new">Ekran və parlaqlıq</string>
@@ -9283,6 +9287,7 @@ Daha sürətli ^3 istifadə etməyə çalışın və ya bunun əvəzinə portati
     <string name="title_quick_control_all_devices">Yaxınlıqdakı cihazlar üçün kontrolları göstər</string>
     <string name="title_regional_pref_footer">Əgər bir tətbiq bölgəsəl tərcihləri dəstəkləmirsə, həmin tətbiq ilkin yerli ayarları istifadə edəcək.</string>
     <string name="title_show_notification_icon">Bildiriş nişanlarını göstər</string>
+    <string name="title_show_notification_icon_count">Göstərilən bildiriş nişanlarının sayı</string>
     <string name="title_smart_device_control">Ağıllı cihaz kontrolları</string>
     <string name="title_special_features_health_global">Ürək döyüntüsü</string>
     <string name="title_unavailable_locale">%s əlçatan deyil</string>
