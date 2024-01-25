@@ -111,6 +111,7 @@
     <string name="head_set_tip_dialog_msg">Desconecta tus auriculares para poder grabar sonido con presets específicos (por ejemplo, Music, Voice).</string>
     <string name="head_set_tip_dialog_ok">Entendido</string>
     <string name="head_set_tip_dialog_title">Utilizar micrófono interno</string>
+    <string name="hide_bottom_view_on_scroll_behavior">miuix.android.miracle.behavior.HideBottomViewOnScrollBehavior</string>
     <string name="high_bit_rate">MP3, ~%1$d kbps, ~%2$d MB/h</string>
     <string name="icon_content_description">Icono del cuadro de diálogo</string>
     <string name="invisible_mode_dialog_message">"No puedes usar el micrófono cuando estés incógnito. Desactiva primero el modo Incognito."</string>
@@ -522,6 +523,7 @@ Toque \"%1$s\" y luego seleccione \"%2$s\"."</string>
     <string name="toast_enter_silent_mode">Grabación. Modo silencioso activado.</string>
     <string name="toast_exit_silent_mode">Grabación finalizada. Modo silencioso desactivado.</string>
     <string name="toast_max_record_time">%1$s puede grabar hasta %2$s</string>
+    <string name="toast_stop">Grabación finalizada</string>
     <string name="toast_uninstall_fileexplorer">"El Administrador no está instalado"</string>
     <string name="today">Hoy</string>
     <string name="tomorrow">Mañana</string>
