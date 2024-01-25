@@ -750,7 +750,7 @@
     <string name="thursday_short">C.a.</string>
     <string name="thursday_shortest">C.a.</string>
     <string name="time_picker_dialog_title">Vaxtı ayarla</string>
-    <string name="to_view_alarm_content">Baxmaq üçün toxunun</string>
+    <string name="to_view_alarm_content">Baxmaq üçün toxun</string>
     <string name="toast_cancel_to_insert_image">"Təsvir əlavə edilə bilmədi."</string>
     <string name="toast_excerpt_end">Çıxarış uğurla yaradıldı</string>
     <string name="toast_excerpt_no_content">Burada heç bir çıxarış yoxdur</string>
