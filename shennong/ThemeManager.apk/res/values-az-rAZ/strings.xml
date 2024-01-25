@@ -138,7 +138,7 @@
     <string name="backup_theme_progress_message">Nüsxələnir…</string>
     <string name="backup_theme_success_message">Hazırkı tema ayarlarınız nüsxələndi.</string>
     <string name="basic_mode">Xətdən kənar rejimi</string>
-    <string name="basic_mode_desc">"Temalar, internetə bağlanmayacaq və yalnız yerli məzmunu istifadə edəcək. Şəxsi məlumatlarınız yığılmayacaq."</string>
+    <string name="basic_mode_desc">"Bu tətbiqin internetə qoşulmasına icazə verməyin, yalnız cihazınızda olan elementlərə (məsələn, fotolar, audio və videolar) daxil olun və istifadə edin. Şəxsi məlumatlarınızdan heç biri toplanmayacaq."</string>
     <string name="boot_audio_dialog_cancel">İmtina</string>
     <string name="boot_audio_dialog_confirm">Oldu</string>
     <string name="boot_audio_dialog_content">Ön yükləmə səsi indi bağlıdır. Təkrar açıb bu səsi tətbiq edirsiniz?</string>
@@ -147,7 +147,7 @@
     <string name="both_all_apply_success">Divar kağızı tətbiq edildi</string>
     <string name="bottomsheet_action_expand_halfway">Yarıya qədər genişləndir</string>
     <string name="browse_mode">Onlayn rejim</string>
-    <string name="browse_mode_desc">"Temalar, internetə bağlanacaq və həm yerli, həm də onlayn məzmunu istifadə edəcək. Şəxsi məlumatlarınız yığılmayacaq."</string>
+    <string name="browse_mode_desc">Bu tətbiqə internetə qoşulmaq, onlayn məzmuna daxil olmaq, həmçinin cihazınızda olan elementlərdən (məsələn, fotolar, audio və videolar) istifadə etməyə icazə verin. Şəxsi məlumatlarınızdan heç biri toplanmayacaq.</string>
     <string name="browser_local_resource">Yerli resurslar</string>
     <string name="can_not_apply">Tətbiq edilə bilmir</string>
     <string name="can_not_apply_error">"Bu video formatı dəstəklənmir"</string>
