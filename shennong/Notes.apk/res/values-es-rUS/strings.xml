@@ -812,6 +812,7 @@
     <string name="time_picker_dialog_title">Ajustar hora</string>
     <string name="time_picker_label_hour">h</string>
     <string name="time_picker_label_minute">min</string>
+    <string name="to_view_alarm_content">Toca para ver</string>
     <string name="toast_cancel_to_insert_image">"No se pudo agregar la imagen."</string>
     <string name="toast_excerpt_end">Extracto creado con éxito</string>
     <string name="toast_excerpt_no_content">No hay extractos aquí</string>
