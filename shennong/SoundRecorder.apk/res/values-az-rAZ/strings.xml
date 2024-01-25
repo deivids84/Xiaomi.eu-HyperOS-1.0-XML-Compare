@@ -111,6 +111,7 @@
     <string name="head_set_tip_dialog_msg">Xüsusi ön tənzm. olan səsləri (məs. Musiqi, Səs) yazmaq üçün qulaqlıqlarınızı ayırın.</string>
     <string name="head_set_tip_dialog_ok">Anladım</string>
     <string name="head_set_tip_dialog_title">Daxili mikrofonu istifadə edin</string>
+    <string name="hide_bottom_view_on_scroll_behavior">miuix.android.miracle.behavior.HideBottomViewOnScrollBehavior</string>
     <string name="high_bit_rate">MP3, ~%1$d kbps, ~%2$d MB/saat</string>
     <string name="icon_content_description">Dialoq nişanı</string>
     <string name="invisible_mode_dialog_message">"Gizli rejimdə olarkən mikrofonu istifadə edə bilməzsiniz. Əvvəlcə Gizli rejimi söndürün."</string>
@@ -498,6 +499,7 @@
     <string name="toast_enter_silent_mode">Səsyazma. Səssiz rejim açıqdır.</string>
     <string name="toast_exit_silent_mode">Səsyazma bitdi. Səssiz rejim bağlıdır.</string>
     <string name="toast_max_record_time">%1$s, təxminən %2$s səs yaza bilər</string>
+    <string name="toast_stop">Qeydiyyatı tamamladı</string>
     <string name="toast_uninstall_fileexplorer">"Fayl Meneceri quraşdırılmayıb"</string>
     <string name="today">Bu gün</string>
     <string name="tomorrow">Sabah</string>
