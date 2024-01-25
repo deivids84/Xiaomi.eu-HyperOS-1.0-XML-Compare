@@ -138,7 +138,7 @@
     <string name="backup_theme_progress_message">S\'està fent la còpia de seguretat&#8230;</string>
     <string name="backup_theme_success_message">S\'ha realitzat la còpia de seguretat del tema.</string>
     <string name="basic_mode">Mode fora de línia</string>
-    <string name="basic_mode_desc">"Temes no es connectarà a Internet i només utilitzarà contingut local. La vostra informació personal no es recopilarà."</string>
+    <string name="basic_mode_desc">"No permetis que aquesta aplicació es connecti a Internet, només accedeix i utilitza elements del teu dispositiu (per exemple, fotos, àudio i vídeos). No es recopilarà cap de les vostres dades personals."</string>
     <string name="boot_audio_dialog_cancel">Cancel·la</string>
     <string name="boot_audio_dialog_confirm">D\'acord</string>
     <string name="boot_audio_dialog_content">L’àudio d’arrencada està desactivat ara. Voleu tornar a activar-lo i aplicar aquest so?</string>
@@ -147,7 +147,7 @@
     <string name="both_all_apply_success">S\'ha aplicat el fons de pantalla</string>
     <string name="bottomsheet_action_expand_halfway">Expandeix a la meitat</string>
     <string name="browse_mode">Mode en línia</string>
-    <string name="browse_mode_desc">"Temes es connectarà a Internet i utilitzarà tant contingut local com en línia. La vostra informació personal no es recopilarà."</string>
+    <string name="browse_mode_desc">Permet que aquesta aplicació es connecti a Internet, accedeixi a contingut en línia i utilitzi elements del dispositiu (per exemple, fotos, àudio i vídeos). No es recopilarà cap de les vostres dades personals.</string>
     <string name="browser_local_resource">Recursos locals</string>
     <string name="can_not_apply">No es pot aplicar</string>
     <string name="can_not_apply_error">"Aquest format de vídeo no és compatible"</string>
