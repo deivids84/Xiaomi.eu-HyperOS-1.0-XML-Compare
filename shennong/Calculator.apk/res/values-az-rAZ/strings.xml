@@ -66,7 +66,7 @@
     <string name="combine_loan">Birləşmiş kredit</string>
     <string name="commercial_loan">Kommersiya krediti</string>
     <string name="convert_currency">Pul vahidi çevirici</string>
-    <string name="convertion_unit_finance">Maliyyə hesablaması</string>
+    <string name="convertion_unit_finance">Maliyyə</string>
     <string name="copy">Kopyala</string>
     <string name="cosDesc">kosinus</string>
     <string name="cta_desc">Kalkulyatora xoş gəlmisiniz! Bu tətbiq, normal bir kalkulyatorun özəlliklərini çoxsaylı konvertator və həyat tərzi özəllikləri ilə birləşdirir. Bu tətbiqi normal işləməsi üçün internetə bağlanmalıdır.</string>
@@ -145,7 +145,7 @@
     <string name="interest_rate_hint">Faiz dərəcəsini daxil edin</string>
     <string name="investment_invalid_duration">İnvestisiya müddəti sıfırdan böyük olmalıdır</string>
     <string name="investment_loan_result">Detallar</string>
-    <string name="investment_type">Yol</string>
+    <string name="investment_type">İnvestisiya növü</string>
     <string name="investment_type_once">Bir dəfə</string>
     <string name="investment_type_recurring">Təkrarlanan</string>
     <string name="item_title_area_conversion">Sahə</string>
@@ -732,7 +732,7 @@ Bir illik və beş illik LPR-lər hər ayın 20-də (bank tətilləri ilə əlaq
     <string name="unit_data_short_weight_qian">qian</string>
     <string name="unit_data_short_weight_st">sh.t</string>
     <string name="unit_data_short_weight_t">t</string>
-    <string name="unit_data_short_weight_taijin">jin(tw)</string>
+    <string name="unit_data_short_weight_taijin">jin (Tayvan)</string>
     <string name="unit_data_short_weight_ug">μg</string>
     <string name="unit_data_short_weight_uk.cwt">cwt</string>
     <string name="unit_data_short_weight_uk.st">st</string>
