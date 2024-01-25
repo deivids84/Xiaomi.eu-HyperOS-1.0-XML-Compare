@@ -66,7 +66,7 @@
     <string name="combine_loan">Préstamo combinado</string>
     <string name="commercial_loan">Préstamo comercial</string>
     <string name="convert_currency">Convertidor de divisas</string>
-    <string name="convertion_unit_finance">Cálculo financiero</string>
+    <string name="convertion_unit_finance">Finanzas</string>
     <string name="copy">Copiar</string>
     <string name="cosDesc">coseno</string>
     <string name="cta_desc">¡Bienvenido a Calculator! Esta aplicación combina las características de una calculadora regular con múltiples convertidores y funciones de estilo de vida. Esta aplicación necesita conectarse a Internet para funcionar con normalidad.</string>
@@ -145,7 +145,7 @@
     <string name="interest_rate_hint">Ingresar tasa de interés</string>
     <string name="investment_invalid_duration">La duración de la inversión debe ser mayor de cero</string>
     <string name="investment_loan_result">Detalles</string>
-    <string name="investment_type">Vía</string>
+    <string name="investment_type">Tipo de inversión</string>
     <string name="investment_type_once">Una vez</string>
     <string name="investment_type_recurring">Periódico</string>
     <string name="item_title_area_conversion">Área</string>
@@ -154,7 +154,7 @@
     <string name="item_title_data_conversion">Datos</string>
     <string name="item_title_date_calculator">Fecha</string>
     <string name="item_title_discount">Descuento</string>
-    <string name="item_title_finance">Financiero</string>
+    <string name="item_title_finance">Finanzas</string>
     <string name="item_title_gst">GST</string>
     <string name="item_title_investment">Inversión</string>
     <string name="item_title_length_conversion">Longitud</string>
@@ -731,7 +731,7 @@ LPR de un año y cinco años se cotizarán el día 20 de cada mes (pueden produc
     <string name="unit_data_short_weight_qian">qian</string>
     <string name="unit_data_short_weight_st">sh.t</string>
     <string name="unit_data_short_weight_t">t</string>
-    <string name="unit_data_short_weight_taijin">jin (tw)</string>
+    <string name="unit_data_short_weight_taijin">jin (Taiwán)</string>
     <string name="unit_data_short_weight_ug">μg</string>
     <string name="unit_data_short_weight_uk.cwt">cwt</string>
     <string name="unit_data_short_weight_uk.st">st</string>
