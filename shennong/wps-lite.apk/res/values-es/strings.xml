@@ -176,6 +176,7 @@
     <string name="public_2pic">Exportar a la imagen</string>
     <string name="public_amazon_autosave_finished">El documento se ha guardado automáticamente</string>
     <string name="public_bad_doc_to_process">"Documento no válido, no se puede completar la operación"</string>
+    <string name="public_banner_action_button">立即使用</string>
     <string name="public_bookmark">Marcadores</string>
     <string name="public_cancel">Cancelar</string>
     <string name="public_chart_category">Categorías</string>
@@ -298,8 +299,13 @@
     <string name="public_sensor_ratation_port_tip">Orientación Vertical</string>
     <string name="public_service_disable_error_tips">"Esta función no se puede utilizar porque se ha desactivado el servicio relacionado."</string>
     <string name="public_share">Compartir</string>
+    <string name="public_share_change_to_pdf">以PDF发送</string>
+    <string name="public_share_change_to_pic">以图片发送</string>
+    <string name="public_share_change_to_word">以Word发送</string>
+    <string name="public_share_doc">以文件发送</string>
     <string name="public_share_no_network">"No se pudo conectar a la red"</string>
     <string name="public_share_retry">Inténtelo otra vez</string>
+    <string name="public_share_title">发送方式</string>
     <string name="public_shareplay_connect_fail">Verifique su conexión de red</string>
     <string name="public_shareplay_connection">Conectando…</string>
     <string name="public_shareplay_paly_bar">Proyección</string>
@@ -343,6 +349,7 @@
     <string name="reader_writer_table_edit_add_row">añadir fila</string>
     <string name="search_menu_title">Buscar</string>
     <string name="ss_card_mode_filter_title_text">Seleccionar elementos para mostrar</string>
+    <string name="wps_lite_app_version">3.6.4</string>
     <string name="wps_lite_xiaomi_app_packageName">Visor de Mi Doc (Desarrollado por WPS)</string>
     <string name="writer_characters">Caracteres (sin espacios)</string>
     <string name="writer_characters_with_spaces">Caracteres (con espacios)</string>
