@@ -152,6 +152,10 @@ krater"</string>
     <string name="month_september">Sentyabr</string>
     <string name="month_september_short">Sen</string>
     <string name="month_september_shortest">Sen</string>
+    <string name="moon_id">ay</string>
+    <string name="moon_summary">"Bəşəriyyətin kosmosun tədqiqinə doğru \"kiçik bir addım\""</string>
+    <string name="moon_super_wallpaper_label">Ay</string>
+    <string name="moon_title">Ay</string>
     <string name="morning">Səhər</string>
     <string name="night">Axşam</string>
     <string name="noon">Günorta</string>
