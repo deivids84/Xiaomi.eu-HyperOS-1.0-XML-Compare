@@ -152,6 +152,10 @@ Mawrth Vallis"</string>
     <string name="month_september">setembre</string>
     <string name="month_september_short">set</string>
     <string name="month_september_shortest">set</string>
+    <string name="moon_id">lluna</string>
+    <string name="moon_summary">"El \"un petit pas\" de la humanitat cap a l'exploració espacial"</string>
+    <string name="moon_super_wallpaper_label">La lluna</string>
+    <string name="moon_title">La lluna</string>
     <string name="morning">Matí</string>
     <string name="night">Vespre</string>
     <string name="noon">Migdia</string>
