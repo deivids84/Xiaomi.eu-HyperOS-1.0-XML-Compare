@@ -176,6 +176,7 @@
     <string name="public_2pic">Exportar a la imatge</string>
     <string name="public_amazon_autosave_finished">El document s\'ha desat automàticament</string>
     <string name="public_bad_doc_to_process">"Document no vàlid, no es pot completar l'operació"</string>
+    <string name="public_banner_action_button">立即使用</string>
     <string name="public_bookmark">Marcador</string>
     <string name="public_cancel">Cancel·la</string>
     <string name="public_chart_category">Categories</string>
@@ -298,8 +299,13 @@
     <string name="public_sensor_ratation_port_tip">Orientació vertical</string>
     <string name="public_service_disable_error_tips">"Aquesta característica no es pot utilitzar ja que el servei relacionat s'ha desactivat."</string>
     <string name="public_share">Compartir</string>
+    <string name="public_share_change_to_pdf">以PDF发送</string>
+    <string name="public_share_change_to_pic">以图片发送</string>
+    <string name="public_share_change_to_word">以Paraula发送</string>
+    <string name="public_share_doc">以文件发送</string>
     <string name="public_share_no_network">"No s'ha pogut connectar a la xarxa"</string>
     <string name="public_share_retry">Torna-ho a provar</string>
+    <string name="public_share_title">发送方式</string>
     <string name="public_shareplay_connect_fail">Comproveu la vostra connexió de xarxa</string>
     <string name="public_shareplay_connection">Connectant…</string>
     <string name="public_shareplay_paly_bar">Projecció</string>
@@ -343,6 +349,7 @@
     <string name="reader_writer_table_edit_add_row">afegir fila</string>
     <string name="search_menu_title">Cerca</string>
     <string name="ss_card_mode_filter_title_text">Seleccioneu els elements que es mostraran</string>
+    <string name="wps_lite_app_version">3.6.4</string>
     <string name="wps_lite_xiaomi_app_packageName">Visor de documents Mi (amb tecnologia WPS)</string>
     <string name="writer_characters">Personatges (sense espais)</string>
     <string name="writer_characters_with_spaces">Personatges (amb espais)</string>
