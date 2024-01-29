@@ -15,6 +15,11 @@
         <item>Fondo de pantalla/Superfondos de pantalla/El planeta rojo</item>
         <item>Marte;Edición Marte;Superfondos de pantalla;Fondo de pantalla</item>
     </string-array>
+    <string-array name="settings_search_moon">
+        <item>La Luna</item>
+        <item>Fondo de pantalla/Super fondos de pantalla/La Luna</item>
+        <item>espacio;Luna;Super fondos de pantalla;fondo de pantalla</item>
+    </string-array>
     <string-array name="settings_search_saturn">
         <item>Rings of Saturn</item>
         <item>Wallpaper/Super wallpapers/Rings of Saturn</item>
@@ -29,5 +34,45 @@
         <item>Superfondos de pantalla</item>
         <item>Fondo de pantalla/Superfondos de pantalla</item>
         <item>Superfondos de pantalla;Fondo de pantalla;Fondo de pantalla animado;Fondo de pantalla 3D</item>
+    </string-array>
+    <string-array name="super_wallpaper_list_complete_packages">
+        <item>com.miui.miwallpaper.luna</item>
+        <item>com.miui.miwallpaper.montaña de nieve</item>
+        <item>geometría com.miui.miwallpaper.</item>
+        <item>com.miui.miwallpaper.saturn</item>
+        <item>com.miui.miwallpaper.land</item>
+        <item>com.miui.miwallpaper.mars</item>
+    </string-array>
+    <string-array name="super_wallpaper_list_ids">
+        <item>@cadena/_id lunar</item>
+        <item>@string/snowmountain_id</item>
+        <item>@string/geometry_id</item>
+        <item>@cadena/saturn_id</item>
+        <item>@cadena/tercio_id</item>
+        <item>@cadena/mars_id</item>
+    </string-array>
+    <string-array name="super_wallpaper_list_packages">
+        <item>com.miui.miwallpaper.luna</item>
+        <item>com.miui.miwallpaper.montaña de nieve</item>
+        <item>geometría com.miui.miwallpaper.</item>
+        <item>com.miui.miwallpaper.saturn</item>
+        <item>com.miui.miwallpaper.land</item>
+        <item>com.miui.miwallpaper.mars</item>
+    </string-array>
+    <string-array name="super_wallpaper_list_summaries">
+        <item>@cadena/resumen lunar</item>
+        <item>@string/snowmountain_summary</item>
+        <item>@string/geometry_summary</item>
+        <item>@string/saturn_summary</item>
+        <item>@cadena/tercio_resumen</item>
+        <item>@string/mars_summary</item>
+    </string-array>
+    <string-array name="super_wallpaper_list_titles">
+        <item>@cadena/título lunar</item>
+        <item>@string/snowmountain_title</item>
+        <item>@string/geometry_title</item>
+        <item>@string/saturn_title</item>
+        <item>@cadena/tierra_título</item>
+        <item>@string/mars_title</item>
     </string-array>
 </resources>
