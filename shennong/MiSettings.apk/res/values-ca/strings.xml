@@ -277,6 +277,8 @@ no es generen al segon espai"</string>
     <string name="focus_time_exception_tip">Sembla que l’hora del sistema ha canviat. S’ha desactivat el Mode concentració.</string>
     <string name="follow_apps_settings">Segons la configuració de l\'aplicació</string>
     <string name="follow_sim1">Aplica la configuració de la SIM 1</string>
+    <string name="footer_global_fps">"
+%1$d. Quan activeu el mode de rendiment, la freqüència d'actualització es canviarà al màxim del sistema de %2$d Hz. La configuració de l'aplicació de freqüència d'actualització alta no estarà disponible temporalment."</string>
     <string name="footer_max_fps" formatted="false">"
 %d. La freqüència de refresc es pot ajustar fins a un màxim %sHz per a aplicacions i jocs compatibles."</string>
     <string name="force_rest">Utilitzar pauses de sessió</string>
@@ -549,7 +551,9 @@ no es generen al segon espai"</string>
     <string name="scarlet_macaw">Guacamai</string>
     <string name="scarlet_macaw_info">Els guacamais són lloros del Nou Món de cua llarga, sovint colorits.</string>
     <string name="screen_cancel">Cancel·leu</string>
+    <string name="screen_color_preview_ratio">2:1</string>
     <string name="screen_confirm">Activa</string>
+    <string name="screen_fps_string">Hz</string>
     <string name="screen_fps_summary_power_save">Amb una freqüència fixa es consumeix menys energia</string>
     <string name="screen_fps_summary_smooth">Algunes aplicacions augmenten automàticament la freqüència d\'actualització per a millorar la qualitat de la imatge</string>
     <string name="screen_fps_title">Freqüència d\'actualització</string>
