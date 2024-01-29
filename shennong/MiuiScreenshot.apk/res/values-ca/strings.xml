@@ -107,6 +107,10 @@
     <string name="image_decode_failed">"No s'ha pogut descodificar la imatge"</string>
     <string name="image_not_found">"No s'ha pogut trobar la imatge"</string>
     <string name="loading_text_format" formatted="false">Eliminant informació privada de les fotos (%d/%d)…</string>
+    <string name="long_screenshot_content_auto">Fent la captura de pantalla…</string>
+    <string name="long_screenshot_content_loading">Només un segon…</string>
+    <string name="long_screenshot_content_manual">Ajusteu manualment el punt final de la captura de pantalla i, a continuació, toqueu \"Fet\".</string>
+    <string name="long_screenshot_done">Fet</string>
     <string name="long_screenshot_error">No s\'ha pogut fer la captura de pantalla. Torneu-ho a provar.</string>
     <string name="long_screenshot_guide_text">"Toqueu per fer
 una captura de pantalla de desplaçament"</string>
@@ -115,6 +119,7 @@ una captura de pantalla de desplaçament"</string>
     <string name="long_screenshot_processing">S\'està processant…</string>
     <string name="long_screenshot_processing_description_accessibility">Tramitació</string>
     <string name="long_screenshot_stop">Fet</string>
+    <string name="long_screenshot_title">Captura de pantalla de desplaçament</string>
     <string name="long_screenshot_top_msg">Creant captura de pantalla…</string>
     <string name="long_screenshot_top_msg_description_accessibility">S\'està creant una captura de pantalla</string>
     <string name="long_screenshot_top_msg_manual">Retalla la captura de pantalla i prem el botó per acabar</string>
