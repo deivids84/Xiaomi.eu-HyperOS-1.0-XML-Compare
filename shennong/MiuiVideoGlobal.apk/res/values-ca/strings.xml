@@ -205,6 +205,8 @@
     <string name="columbus_player_speed_video">Omet VIDEO</string>
     <string name="columbus_player_unit_sec">seg</string>
     <string name="columbus_skip_ad">Omet</string>
+    <string name="com.crashlytics.android.build_id">1c1c1e5f65e846aca198836853cc95a6</string>
+    <string name="com.miapm.build_id">66cbcc2afcb64935aaf96438600099bb</string>
     <string name="com_permission_desc">"Mi Vídeo no pot accedir als vídeos del teu dispositiu. Permet l'accés a Configuració."</string>
     <string name="com_permission_title">Permisos necessaris</string>
     <string name="comment_model_add_comment">Afegir un comentari</string>
@@ -1565,6 +1567,10 @@ Només utilitzarem aquest permís per trobar els vídeos que cerqueu i no accedi
     <string name="slide_save_message">S\'està generant el vídeo…</string>
     <string name="slide_to_open_ad">Llisca per obtenir més informació</string>
     <string name="small_video_load_more_hint">Fes lliscar el dit cap amunt per reproduir més vídeos</string>
+    <string name="small_video_report">Informeu</string>
+    <string name="small_video_report_dialog_title">Seleccioneu un motiu</string>
+    <string name="small_video_report_submit">Presentar</string>
+    <string name="small_video_report_success">Gràcies pels teus suggeriments!</string>
     <string name="small_video_tab_expose_hint">Toca per obtenir més vídeos curts</string>
     <string name="sms_send_success">S\'ha enviat correctament</string>
     <string name="sns_access_token_expired_warning">La sessió ha caducat. Torna a iniciar sessió per a tornar a connectar aquest compte.</string>
