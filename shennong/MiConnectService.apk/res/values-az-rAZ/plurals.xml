@@ -13,8 +13,8 @@
         <item quantity="other">Yarım saat əvvəl</item>
     </plurals>
     <plurals name="abbrev_in_a_hour">
-        <item quantity="one">%d saata</item>
-        <item quantity="other">%d saata</item>
+        <item quantity="one">%d saat ərzində</item>
+        <item quantity="other">%d saat ərzində</item>
     </plurals>
     <plurals name="abbrev_in_half_hour">
         <item quantity="one">Yarım saat ərzində</item>
@@ -25,16 +25,16 @@
         <item quantity="other">Dərhal</item>
     </plurals>
     <plurals name="abbrev_in_num_minutes">
-        <item quantity="other">%d dəqiqəyə</item>
-        <item quantity="one">%d dəq</item>
+        <item quantity="other">%d dəq ərzində</item>
+        <item quantity="one">%d dəq ərzində</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
         <item quantity="one">İndicə</item>
         <item quantity="other">İndicə</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
-        <item quantity="other">%d dəqiqə əvvəl</item>
-        <item quantity="one">%d dəqiqə əvvəl</item>
+        <item quantity="other">%d dəq əvvəl</item>
+        <item quantity="one">%d dəq əvvəl</item>
     </plurals>
     <plurals name="half_hour_ago">
         <item quantity="one">Yarım saat əvvəl</item>
