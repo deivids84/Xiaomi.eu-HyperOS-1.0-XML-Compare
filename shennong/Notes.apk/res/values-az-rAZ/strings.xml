@@ -848,7 +848,7 @@ Səs yazmaq üçün \"Notlar\"a icazə verin."</string>
     <string name="v7_preference_off">BAĞLI</string>
     <string name="v7_preference_on">AÇIQ</string>
     <string name="view_all_notes">Hamısına bax</string>
-    <string name="warn_cannot_add_more_content">"Bu qeyd maksimum uzunluğuna çatıb. Əlavə etdiyiniz hər hansı məzmun yadda saxlanmayacaq."</string>
+    <string name="warn_cannot_add_more_content">"Bu not maksimum uzunluğa çatıb. Əlavə etdiyiniz hər hansısa məzmun saxlanılmayacaq."</string>
     <string name="warn_cannot_add_new_bullet">"Qeyd çox uzun olduğuna görə yeni markerli siyahı əlavə edilə bilmir"</string>
     <string name="warn_cannot_add_new_checkbox">"Qeyd çox uzun olduğuna görə təsdiq qutusu əlavə edilə bilmir"</string>
     <string name="warn_cannot_add_new_content">"Qeyd çox uzun olduğuna görə yeni məzmun əlavə edilə bilmir"</string>
