@@ -636,7 +636,7 @@
     <string name="remind_subtitle_menstruation_start">Növbəti periodun başlamasından %d əvvəl bir xatırlatma alın</string>
     <string name="remind_subtitle_record">Periodlarınızın başlama və bitmə tarixlərini qeyd etməyiniz lazım olduqda xatırlatmalar alın</string>
     <string name="remind_title_menstruation_start">Periodun nə vaxt başlayacağını xatırlat</string>
-    <string name="remind_title_record">Qeyd etmək üçün xatırlat</string>
+    <string name="remind_title_record">Qeyd etməyi xatırlat</string>
     <string name="repeat_activity_label">Təkrarla</string>
     <string name="repeat_alarm_close_title">Bu, təkrarlanan tədbirdir. Siqnal xatırladıcısı söndürülsün?</string>
     <string name="repeat_alarm_open_title">Bu, təkrarlanan tədbirdir. Siqnal xatırladıcısı qurulsun?</string>
