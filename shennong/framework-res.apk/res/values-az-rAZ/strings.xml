@@ -1864,7 +1864,7 @@ Uzun müddət yüksək səs səviyyəsində dinləmək eşitmə qabiliyyətiniz�
     <string name="ssl_certificate">Güvənlik sertifikatı</string>
     <string name="ssl_certificate_is_valid">Sertifikat yararlıdır.</string>
     <string name="status_bar_mute">status_bar_mute</string>
-    <string name="status_bar_screen_record">ekran_qeydi</string>
+    <string name="status_bar_screen_record">ekran_yazısı</string>
     <string name="status_communication_speaker_summary">Dinamik açıqdır. Qulaqlıq taxılanda səs hələ də dinamikdən çıxacaq.</string>
     <string name="status_communication_summary">Zəng davam edir. Artıq yalnız zəng səsi səviyyəsini ayarlaya bilərsiniz.</string>
     <string name="stk_cc_ss_to_dial">SS tələbi, müntəzəm zəngə dəyişdirildi</string>
