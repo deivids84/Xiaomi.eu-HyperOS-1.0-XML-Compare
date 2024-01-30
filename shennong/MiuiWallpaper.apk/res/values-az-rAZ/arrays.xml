@@ -18,7 +18,7 @@
     <string-array name="settings_search_moon">
         <item>Ay</item>
         <item>Divar kağızı/Super divar kağızları/Ay</item>
-        <item>boşluq;Ay;Super divar kağızları;divar kağızı</item>
+        <item>kosmos;Ay;Super divar kağızları;divar kağızı</item>
     </string-array>
     <string-array name="settings_search_saturn">
         <item>Saturnun halqaları</item>
