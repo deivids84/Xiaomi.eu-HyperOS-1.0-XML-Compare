@@ -276,7 +276,7 @@
     <string name="follow_apps_settings">Tətbiq ayarları əsasında</string>
     <string name="follow_sim1">SIM 1 ayarlarını tətbiq et</string>
     <string name="footer_global_fps">"
-%1$d. Performans rejimini yandırdığınız zaman yeniləmə tezliyi maksimum %2$d Hz sistemə keçəcək. Yüksək yeniləmə sürəti tətbiq parametrləri müvəqqəti olaraq əlçatan olmayacaq."</string>
+%1$d. Performans rejimini işə saldıqda, yenilənmə sürəti sistemin maksimum %2$d Hz-inə keçiriləcək. Yüksək yenilənmə sürətinə sahib tətbiq ayarları müvəqqəti olaraq əlçatmaz olacaq."</string>
     <string name="footer_max_fps" formatted="false">"
 %d. Yeniləmə sürəti dəstəklənən tətbiqlər və oyunlar üçün %s Hz-ə qədər ayarlana bilər."</string>
     <string name="force_rest">Seans fasilələrini istifadə et</string>
