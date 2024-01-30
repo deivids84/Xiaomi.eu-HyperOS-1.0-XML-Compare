@@ -1562,10 +1562,10 @@ Bu icazəni yalnız axtardığınız videoları tapmaq üçün istifadə edəcə
     <string name="slide_save_message">Video yaradılır…</string>
     <string name="slide_to_open_ad">Daha ətraflı öyrənmək üçün sürüşdür</string>
     <string name="small_video_load_more_hint">Daha çox video oxutmaq üçün yuxarı sürüşdür</string>
-    <string name="small_video_report">Hesabat</string>
-    <string name="small_video_report_dialog_title">Səbəb seçin</string>
-    <string name="small_video_report_submit">təqdim</string>
-    <string name="small_video_report_success">Rəyiniz üçün təşəkkür edirik!</string>
+    <string name="small_video_report">Bildir</string>
+    <string name="small_video_report_dialog_title">Bir səbəb seç</string>
+    <string name="small_video_report_submit">Göndər</string>
+    <string name="small_video_report_success">Əks-əlaqəniz üçün təşəkkürlər!</string>
     <string name="small_video_tab_expose_hint">Daha çox qısa video üçün toxunun</string>
     <string name="sms_send_success">Uğurla göndərildi</string>
     <string name="sns_access_token_expired_warning">Seans müddəti bitdi. Bu hesaba yenidən bağlanmaq üçün təkrar daxil olun.</string>
