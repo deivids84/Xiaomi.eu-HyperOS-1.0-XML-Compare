@@ -168,14 +168,6 @@
         <item quantity="other">%d elements sel·leccionats</item>
         <item quantity="one">%d element sel·leccionat</item>
     </plurals>
-    <plurals name="month_more_events">
-        <item quantity="other">+%d</item>
-        <item quantity="one">+%d</item>
-    </plurals>
-    <plurals name="n_attendees">
-        <item quantity="other">%1$d个邀请对象</item>
-        <item quantity="one">1个邀请对象</item>
-    </plurals>
     <plurals name="notes_custom_repeat_days">
         <item quantity="other">dies</item>
         <item quantity="one">dia</item>
