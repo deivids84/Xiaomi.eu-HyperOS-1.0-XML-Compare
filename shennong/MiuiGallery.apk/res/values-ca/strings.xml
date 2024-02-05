@@ -168,6 +168,7 @@ Proveu de crear la imatge d'IA amb diferents fotos."</string>
     <string name="ai_creation_count_limit_msg">"No es poden crear més retrats avui. Torna demà!"</string>
     <string name="ai_creation_delete_msg">Suprimiu ara aquest registre de l\'historial?</string>
     <string name="ai_creation_delete_title">Atenció</string>
+    <string name="ai_creation_record_footer_tips">Només podeu veure els elements creats en aquest dispositiu. Se suprimiran un cop tanqueu la sessió del vostre compte Xiaomi.</string>
     <string name="ai_creation_recreate_button">Torna a començar</string>
     <string name="ai_creation_save_failed_msg">"No s'ha pogut estalviar. Prova una altra vegada."</string>
     <string name="ai_creation_save_success_msg">Desat correctament</string>
@@ -214,12 +215,18 @@ Selecciona altres fotos i torna-ho a provar."</string>
     <string name="ai_image_count_limit_msg">"Avui no es poden crear més imatges d'IA. Torna demà!"</string>
     <string name="ai_image_creating_failed_msg">"No s'ha pogut crear una imatge per a %s"</string>
     <string name="ai_image_creating_msg">Creació d\'imatge per a %s</string>
+    <string name="ai_image_creation_over_limit_title">"No es poden crear més retrats"</string>
+    <string name="ai_image_invalid">"La imatge d'IA de %ss'ha suprimit correctament"</string>
+    <string name="ai_image_invalid_in_update">"S'està actualitzant la imatge d'IA de %sara. Espereu fins que s'actualitzi i torneu-ho a provar."</string>
+    <string name="ai_image_manager_empty_msg">"No es poden veure les fotos utilitzades per crear imatges d'IA en versions anteriors d'aquest servei en un altre dispositiu"</string>
+    <string name="ai_image_manager_empty_msg_net">No hi ha fotos aquí</string>
     <string name="ai_image_manager_re_create_tip">Afegir o suprimir fotos per actualitzar la imatge d\'IA</string>
     <string name="ai_image_manager_title">Gestionar la imatge d\'IA</string>
     <string name="ai_image_not_creatable">"La imatge d'IA s'està actualitzant ara. Torna-ho a provar un cop fet."</string>
     <string name="ai_image_over_limit_button_cancel">Ho tinc</string>
     <string name="ai_image_over_limit_button_create">Continuar</string>
     <string name="ai_image_over_limit_title">"No es pot crear una imatge d'IA"</string>
+    <string name="ai_image_over_limit_title_update">"No es poden actualitzar les imatges d'IA ara"</string>
     <string name="ai_image_privacy_message"><Data>\"Benvinguts als retrats d\'IA!&lt;br/&gt;Per poder proporcionar-vos serveis, necessitem recopilar la informació personal necessària:&lt;br/&gt;&lt;xliff:g refersto=1 id=INDEX_1&gt;%1$s&lt;/xliff:g&gt;. Per crear retrats d\'IA, haureu de penjar &lt;b&gt;fotos de persones&lt;/b&gt; als nostres servidors. Recopilarem i processarem la informació sobre els seus &lt;b&gt;Cares&lt;/b&gt; per generar un model d\'IA.&lt;br/&gt;&lt;xliff:g refersto=2 id=INDEX_2&gt;%2$s&lt;/xliff:g&gt;. Quan pengeu el contingut &lt;b&gt;fotos de persones&lt;/b&gt;, sincronitzarem &lt;b&gt;els seus noms i fotos de perfil&lt;/b&gt; dels àlbums corresponents i associar aquesta informació a imatges d\'IA.&lt;br/&gt;&lt;xliff:g refersto=3 id=INDEX_3&gt;%3$s&lt;/xliff:g&gt;. Quan creeu imatges d\'IA basades en text, recollirem el botó &lt;b&gt;descripció&lt;/b&gt; proporcioneu per generar imatges.&lt;br/&gt;Només recopilem informació personal necessària per a les característiques específiques dels nostres productes i serveis que utilitzeu. Podeu obtenir informació sobre com recopilem i processem la informació personal al &lt;a href=\"%4$s\"&gt;Política de privadesa AI Portraits&lt;/a&gt;.&lt;br/&gt;Llegir i acceptar &lt;a href=\"%5$s\"&gt;Acord d\'usuari d\'AI Portraits&lt;/a&gt; i &lt;a href=\"%6$s\"&gt;Política de privadesa AI Portraits&lt;/a&gt; abans de continuar\".</Data></string>
     <string name="ai_input_name_hint">Introduïu el nom</string>
     <string name="ai_loading">Només un segon…</string>
@@ -3210,6 +3217,8 @@ Fins %1$s, pots moure els elements a Google Fotos o visitar i.mi.com per baixar-
     <string name="tip_file_info">Informació del fitxer:</string>
     <string name="tip_file_path">Ruta local:</string>
     <string name="tip_leica_authentic">Leica autèntic</string>
+    <string name="tip_leica_master_portrait">Retrat Mestre</string>
+    <string name="tip_leica_portrait">Retrat de Leica</string>
     <string name="tip_leica_vibrant">Leica Vibrant</string>
     <string name="tip_not_download">No es troba al dispositiu. Es baixarà de Núvol Xiaomi mentre es reprodueix.</string>
     <string name="tip_screenshot_package_info">Nom de l\'aplicació:</string>
