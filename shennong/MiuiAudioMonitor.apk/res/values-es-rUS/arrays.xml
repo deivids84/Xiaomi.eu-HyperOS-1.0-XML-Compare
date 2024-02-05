@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="alphabet_sub_table_with_starred">
+        <item>!</item>
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>I</item>
+        <item>J</item>
+        <item>M</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>M</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>M</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+        <item>\#</item>
+    </string-array>
+    <string-array name="alphabet_table">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>D</item>
+        <item>M</item>
+        <item>D</item>
+        <item>I</item>
+        <item>J</item>
+        <item>M</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>M</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>M</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+        <item>\#</item>
+    </string-array>
+    <string-array name="alphabet_table_with_starred">
+        <item>!</item>
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>D</item>
+        <item>M</item>
+        <item>D</item>
+        <item>I</item>
+        <item>J</item>
+        <item>M</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>M</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>M</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+        <item>\#</item>
+    </string-array>
+    <string-array name="am_pms">
+        <item>@cadena/am</item>
+        <item>@cadena/pm</item>
+    </string-array>
+    <string-array name="chinese_days">
+        <item>@cadena/chines_día_1</item>
+        <item>@cadena/chines_día_2</item>
+        <item>@cadena/chines_día_3</item>
+        <item>@cadena/chines_día_4</item>
+        <item>@cadena/chines_día_5</item>
+        <item>@cadena/chines_día_6</item>
+        <item>@string/chinese_day_7</item>
+        <item>@cadena/chines_día_8</item>
+        <item>@cadena/chines_día_9</item>
+        <item>@string/chinese_day_10</item>
+        <item>@cadena/chines_día_11</item>
+        <item>@cadena/chines_día_12</item>
+        <item>@cadena/chines_día_13</item>
+        <item>@cadena/chines_día_14</item>
+        <item>@cadena/chines_día_15</item>
+        <item>@cadena/chines_día_16</item>
+        <item>@cadena/chines_día_17</item>
+        <item>@cadena/chines_día_18</item>
+        <item>@cadena/chines_día_19</item>
+        <item>@cadena/chines_día_20</item>
+        <item>@cadena/chines_día_21</item>
+        <item>@cadena/chines_día_22</item>
+        <item>@cadena/chines_día_23</item>
+        <item>@cadena/chines_día_24</item>
+        <item>@string/chinese_day_25</item>
+        <item>@cadena/chines_día_26</item>
+        <item>@cadena/chines_día_27</item>
+        <item>@string/chinese_day_28</item>
+        <item>@cadena/chines_día_29</item>
+        <item>@cadena/chines_día_30</item>
+    </string-array>
+    <string-array name="chinese_digits">
+        <item>@string/chinese_dígito_cero</item>
+        <item>@string/chinese_dígito_uno</item>
+        <item>@string/chinese_dígito_dos</item>
+        <item>@string/chinese_dígito_tres</item>
+        <item>@cadena/cadena_dígito_4</item>
+        <item>@string/chinese_digito_cinco</item>
+        <item>@string/chinese_digito_seis</item>
+        <item>@string/chinese_dígito_siete</item>
+        <item>@cadena/cadena_dígito_ocho</item>
+        <item>@string/chinese_dígito_nueve</item>
+        <item>@string/chinese_dígito_diez</item>
+    </string-array>
+    <string-array name="chinese_leap_months">
+        <item>@cadena/vacío</item>
+        <item>@cadena/chinese_leap</item>
+    </string-array>
+    <string-array name="chinese_months">
+        <item>@string/chinese_mes_enero</item>
+        <item>@cadena/chines_mes_(uario</item>
+        <item>@string/chinese_month_march</item>
+        <item>@string/chinese_month_april</item>
+        <item>@string/chinese_month_may</item>
+        <item>@string/chinese_month_june</item>
+        <item>@string/chinese_month_july</item>
+        <item>@string/chinese_month_august</item>
+        <item>@string/chinese_month_september</item>
+        <item>@cadena/chines_mes_octubre</item>
+        <item>@cadena/chines_mes_noviembre_noviembre</item>
+        <item>@cadena/chines_mes_diciembre</item>
+    </string-array>
+    <string-array name="chinese_symbol_animals">
+        <item>@string/chinese_symbol_animals_mouse</item>
+        <item>@string/chinese_symbol_animals_vaca</item>
+        <item>@string/chinese_symbol_animals_tiger</item>
+        <item>@string/chinese_symbol_animals_rabbit</item>
+        <item>@string/chinese_symbol_animals_dragon</item>
+        <item>@string/chinese_symbol_animals_snake</item>
+        <item>@string/chinese_symbol_animals_caballo</item>
+        <item>@string/chinese_symbol_animals_ovejas</item>
+        <item>@string/chinese_symbol_animals_mono</item>
+        <item>@string/chinese_symbol_animals_chicken</item>
+        <item>@string/chinese_symbol_animals_dog</item>
+        <item>@string/chinese_symbol_animals_pig</item>
+    </string-array>
+    <string-array name="detailed_am_pms">
+        <item>@cadena/medianoche</item>
+        <item>@cadena/temprano_mañana</item>
+        <item>@cadena/mañana</item>
+        <item>@cadena/mediodía</item>
+        <item>@string/tarde</item>
+        <item>@cadena/noche</item>
+        <item>@cadena/noche</item>
+    </string-array>
+    <string-array name="earthly_branches">
+        <item>@string/earthly_branches_zi</item>
+        <item>@string/earthly_branches_chou</item>
+        <item>@string/earthly_branches_yin</item>
+        <item>@string/earthly_branches_mao</item>
+        <item>@string/earthly_branches_chen</item>
+        <item>@string/earthly_branches_si</item>
+        <item>@string/earthly_branches_wu</item>
+        <item>@string/earthly_branches_wei</item>
+        <item>@string/earthly_branches_shen</item>
+        <item>@string/earthly_branches_you</item>
+        <item>@string/earthly_branches_xu</item>
+        <item>@string/earthly_branches_hai</item>
+    </string-array>
+    <string-array name="eras">
+        <item>@string/eras_bc</item>
+        <item>@string/eras_ad</item>
+    </string-array>
+    <string-array name="heavenly_stems">
+        <item>@string/heavenly_stems_jia</item>
+        <item>@cadena/datos_yi</item>
+        <item>@string/heavenly_stems_bing</item>
+        <item>@string/heavenly_stems_ding</item>
+        <item>@string/heavenly_stems_wu</item>
+        <item>@string/heavenly_stems_ji</item>
+        <item>@string/heavenly_stems_geng</item>
+        <item>@string/heavenly_stems_xin</item>
+        <item>@string/heavenly_stems_ren</item>
+        <item>@string/heavenly_stems_gui</item>
+    </string-array>
+    <string-array name="months">
+        <item>@cadena/mes_enero</item>
+        <item>@cadena/mes_(uario</item>
+        <item>@cadena/mes_marcha</item>
+        <item>@cadena/mes_abril</item>
+        <item>@cadena/mes_may</item>
+        <item>@cadena/mes_junio</item>
+        <item>@cadena/mes_july</item>
+        <item>@cadena/mes_agosto</item>
+        <item>@cadena/mes_septiembre</item>
+        <item>@cadena/mes_octubre</item>
+        <item>@cadena/mes_noviembre</item>
+        <item>@cadena/mes_diciembre</item>
+    </string-array>
+    <string-array name="months_short">
+        <item>@cadena/mes_enero_corto_mes</item>
+        <item>@cadena/mes_corto_pie</item>
+        <item>@cadena/mes_march_corto</item>
+        <item>@string/month_april_short</item>
+        <item>@cadena/mes_puede_cortar</item>
+        <item>@cadena/mes_june_corto</item>
+        <item>@cadena/mes_corto_mes</item>
+        <item>@cadena/mes_agust_corto_mes</item>
+        <item>@cadena/mes_september_corto</item>
+        <item>@cadena/mes_octubre_corto_mes</item>
+        <item>@cadena/mes_noviembre_corto</item>
+        <item>@cadena/mes_december_corto_mes</item>
+    </string-array>
+    <string-array name="months_shortest">
+        <item>@cadena/mes_enero_más corto</item>
+        <item>@cadena/mes_corto_más corto</item>
+        <item>@cadena/mes_march_más corto</item>
+        <item>@cadena/mes_april_más corto</item>
+        <item>@cadena/mes_puede_ser más corto</item>
+        <item>@cadena/mes_june_más corto</item>
+        <item>@cadena/mes_mes_corto_más corto</item>
+        <item>@cadena/mes_agust_más corto</item>
+        <item>@cadena/mes_september_más corto</item>
+        <item>@cadena/mes_octubre_más corto</item>
+        <item>@cadena/mes_noviembre_más corto</item>
+        <item>@cadena/mes_december_más corto</item>
+    </string-array>
+    <string-array name="multi_floating_package_allow_list">
+        <item>centro de seguridad com.miui.</item>
+        <item>com.miui.weather2</item>
+        <item>com.android.calendar</item>
+        <item>com.android.contactos</item>
+        <item>com.android.mms</item>
+        <item>notas com.miui.</item>
+        <item>com.android.configuración</item>
+        <item>galería com.miui.</item>
+        <item>servicio.miui.nube</item>
+    </string-array>
+    <string-array name="solar_terms">
+        <item>@cadena/vacío</item>
+        <item>@string/solar_término_frío</item>
+        <item>@string/término solar_grande_frío</item>
+        <item>@string/solar_term_spring_comienza</item>
+        <item>@string/solar_term_la_lluvia</item>
+        <item>@string/solar_term_insects_awaken</item>
+        <item>@string/solar_term_verde_equinox</item>
+        <item>@string/solar_term_claro_y_brillante</item>
+        <item>@string/solar_term_grain_lluvia</item>
+        <item>@string/solar_term_term_verano_comienza</item>
+        <item>@string/solar_term_grain_buds</item>
+        <item>@string/solar_term_grain_en_oreja</item>
+        <item>@string/solar_term_term_Summer_solstice</item>
+        <item>@string/solar_término_alma_calentador</item>
+        <item>@string/solar_termo_grande_calor</item>
+        <item>@string/solar_term_autumn_comienza</item>
+        <item>@string/solar_term_stopping_al_calor_calor</item>
+        <item>@string/solar_term_white_dews</item>
+        <item>@string/solar_term_autumn_equinox</item>
+        <item>@string/solar_term_frío_dews</item>
+        <item>@string/solar_term_hoar_hélicas_caídas</item>
+        <item>@string/solar_term_winter_comienza</item>
+        <item>@string/solar_term_luc_nieve_</item>
+        <item>@string/solar_term_heavy_snow</item>
+        <item>@string/solar_term_winter_solsticio</item>
+    </string-array>
+    <string-array name="week_days">
+        <item>@cadena/domingo</item>
+        <item>@cadena/lunes</item>
+        <item>@cadena/tubería)</item>
+        <item>@cadena/cuñada?</item>
+        <item>@cadena/jueves</item>
+        <item>@cadena/viernes</item>
+        <item>@cadena/sábado</item>
+    </string-array>
+    <string-array name="week_days_short">
+        <item>@cadena/domingo_corto</item>
+        <item>@string/monday_short</item>
+        <item>@cadena/martes_corto</item>
+        <item>@cadena/noche_corto</item>
+        <item>@cadena/jueves_corto</item>
+        <item>@cadena/viernes_corto</item>
+        <item>@cadena/sábado_corto</item>
+    </string-array>
+    <string-array name="week_days_shortest">
+        <item>@cadena/domingo_más corto</item>
+        <item>@cadena/lunes_más corto</item>
+        <item>@cadena/martes_más corto</item>
+        <item>@cadena/bodas_cortas</item>
+        <item>@cadena/jueves_más corto</item>
+        <item>@cadena/viernes_más corto</item>
+        <item>@cadena/sábado_más corto</item>
+    </string-array>
+</resources>
