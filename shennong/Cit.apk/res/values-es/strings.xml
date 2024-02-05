@@ -87,7 +87,7 @@ Sostén el dispositivo como si estuvieras haciendo una llamada y habla al micró
 4. La foto tomada debe aparecer en la pantalla. Pulsa Pass para completar la prueba."</string>
     <string name="cit_camera_hardware_check">Detectando funciones del hardware de la cámara. Espera...</string>
     <string name="cit_camera_rearsub">Prueba de subcámara en curso, espera....</string>
-    <string name="cit_digital_hall_sensor_cali_summary">Mantenga el dispositivo cerrado para la calibración</string>
+    <string name="cit_digital_hall_sensor_cali_summary">Mantén el dispositivo cerrado para la calibración</string>
     <string name="cit_digital_hall_sensor_cali_title">Prueba de calibración digital de hall</string>
     <string name="cit_esim_check_summary">A continuación se muestra el estado de eSIM. La visualización correcta de su estado indica que la prueba ha pasado</string>
     <string name="cit_esim_check_title">Tarjeta eSIM</string>
