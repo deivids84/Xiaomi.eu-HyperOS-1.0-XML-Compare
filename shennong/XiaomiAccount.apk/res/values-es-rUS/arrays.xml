@@ -103,8 +103,8 @@
     </string-array>
     <string-array name="settings_search_account_and_authority_non_global">
         <item>Cuentas</item>
-        <item>Agregar y administrar cuentas de terceros</item>
-        <item>Cuentas;SNS;WeChat;QQ;Cuenta Mi;Cuenta;Cuenta Xiaomi</item>
+        <item>Ver tus cuentas de WeChat conectadas y otras de SNS</item>
+        <item>permisos;SNS;WeChat;Cuenta Xiaomi;cuenta</item>
     </string-array>
     <string-array name="settings_search_change_password">
         <item>Cambiar contraseña</item>
