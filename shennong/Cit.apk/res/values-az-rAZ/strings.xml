@@ -21,23 +21,6 @@
     <string name="abc_capital_on">AÇIQ</string>
     <string name="abc_menu_alt_shortcut_label">Alt+</string>
     <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
-    <string name="abc_menu_delete_shortcut_label">silin</string>
-    <string name="abc_menu_enter_shortcut_label">daxil olun</string>
-    <string name="abc_menu_function_shortcut_label">Funksiya+</string>
-    <string name="abc_menu_meta_shortcut_label">Meta+</string>
-    <string name="abc_menu_shift_shortcut_label">Shift+</string>
-    <string name="abc_menu_space_shortcut_label">kosmos</string>
-    <string name="abc_menu_sym_shortcut_label">Sym+</string>
-    <string name="abc_prepend_shortcut_label">Menyu+</string>
-    <string name="abc_search_hint">Axtarış...</string>
-    <string name="abc_searchview_description_clear">Sorğunu təmizlə</string>
-    <string name="abc_searchview_description_query">Axtarış sorğusu</string>
-    <string name="abc_searchview_description_search">Axtarış</string>
-    <string name="abc_searchview_description_submit">Sorğunu göndərin</string>
-    <string name="abc_searchview_description_voice">Səsli axtarış</string>
-    <string name="abc_shareactionprovider_share_with">Bununla paylaşın</string>
-    <string name="abc_shareactionprovider_share_with_application">%s ilə paylaşın</string>
-    <string name="abc_toolbar_collapse_description">Yığışdırın</string>
     <string name="auto_frontflash_description">Bütün ön fləş işıqlari yanır, keçmək üçün toxunun, əks halda uğursuz olmaq üçün toxunun</string>
     <string name="auto_frontflash_title">Ön kamera fləş testi</string>
     <string name="auto_rearflash_description">Bütün arxa kamera fləş işıqlari yanır, keçmək üçün toxunun, əks halda uğursuz olmaq üçün toxunun</string>
@@ -104,6 +87,8 @@ Cihazı zəng edirmiş kimi tutun, üst mikrofona danışın, qəbuledicidən s�
 4. Çəkdiyiniz foto ekranda görüntülənməlidir, testi tamamlamaq üçün \"Pass\"a toxunun."</string>
     <string name="cit_camera_hardware_check">Kameranın avandanlıqla əlaqəli funksiyanı aşkarlaması davam edir, lütfən gözləyin....</string>
     <string name="cit_camera_rearsub">Alt kamera testi davam edir, lütfən gözləyin....</string>
+    <string name="cit_digital_hall_sensor_cali_summary">Lütfən, kalibrləmə üçün cihazı bağlı saxlayın</string>
+    <string name="cit_digital_hall_sensor_cali_title">Rəqəmsal Zal Kalibrləmə Testi</string>
     <string name="cit_esim_check_summary">Aşağıda eSIM statusu göstərilir və eSIM statusunun düzgün göstərilməsi testdən keçdiyini bildirir</string>
     <string name="cit_esim_check_title">eSIM kartı</string>
     <string name="cit_esim_eid_error">eID uyğunsuzluğu</string>
