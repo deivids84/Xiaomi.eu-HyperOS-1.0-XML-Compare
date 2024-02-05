@@ -1019,6 +1019,7 @@ Actividad sospechosa"</string>
     <string name="unrecorded_risk_app">Riesgos detectados</string>
     <string name="unrecorded_risk_app_description">La instalación de esta aplicación está prohibida de acuerdo con los requisitos reglamentarios relevantes</string>
     <string name="unrecorded_risk_app_description_2">Como desarrollador, puedes enviar una apelación</string>
+    <string name="unrecorded_risk_app_description_temp">该应用未依照国家政策进行备案,可能存在网络诈骗、病毒、获取用户隐私信息等恶意行为!</string>
     <string name="untrusted_external_source_title">¿Permitir a \"%1$s\" instalar aplicaciones?</string>
     <string name="untrusted_external_source_warning_summary">Tu dispositivo y datos personales son más vulnerables al ataque de aplicaciones desconocidas. Instalando aplicaciones desde esta fuente, usted acepta que usted es responsable de cualquier daño a su dispositivo o pérdida de datos que puedan resultar de su uso.</string>
     <string name="update_start">Actualizar</string>
