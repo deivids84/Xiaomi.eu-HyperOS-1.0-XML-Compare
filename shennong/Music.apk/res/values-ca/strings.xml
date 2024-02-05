@@ -123,6 +123,7 @@
     <string name="app_permission_use_group_storage_desc">Per trobar i reproduir cançons desades al dispositiu</string>
     <string name="app_resident_push_switch">Permetre les notificacions permanents</string>
     <string name="app_third_privacy">Polítiques de privadesa de tercers</string>
+    <string name="apply_for_the_following_permissions">Aquesta aplicació sol·licita els permisos següents:</string>
     <string name="apply_permissions_greater_than_pie">Podeu concedir aquest permís a Configuració &gt; Apps &gt; Permisos &gt; Permisos &gt; Arxius i suports &gt; Música.</string>
     <string name="apply_permissions_greater_than_tiramisu">Podeu concedir aquest permís a Configuració &gt; Apps &gt; Permisos &gt; Música i àudio/Fotos i vídeos &gt; Música.</string>
     <string name="apply_permissions_less_than_pie">Podeu concedir aquest permís a Configuració &gt; Apps &gt; Permisos &gt; Permisos &gt; Accedir i canviar fitxers a l\'emmagatzematge intern &gt; Música.</string>
