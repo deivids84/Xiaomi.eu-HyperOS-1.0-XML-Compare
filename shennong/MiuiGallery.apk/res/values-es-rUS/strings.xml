@@ -2729,7 +2729,6 @@ La transcodificación puede llevar algo de tiempo cuando utiliza esta función p
     <string name="share_album_cancel_share">Dejar de compartir</string>
     <string name="share_album_change_background">Cambiar foto de fondo</string>
     <string name="share_album_create_failed">"No se pudo crear el álbum compartido"</string>
-    <string name="share_album_create_processing">Desactiva el proceso de la copia de seguridad en la nube</string>
     <string name="share_album_exit_button_text">Dejar de compartir</string>
     <string name="share_album_exit_confirm">Ya no podrás acceder a todos los elementos de este álbum si continúas. Guarda todos los elementos importantes antes de salir.</string>
     <string name="share_album_exit_confirm_title">¿Abandonar este grupo?</string>
