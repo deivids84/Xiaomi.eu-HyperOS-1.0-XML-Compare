@@ -414,7 +414,6 @@ y ajustar las preferencias automáticamente"</string>
     <string name="auxiliary_focus_peak_status">El pico de enfoque está activado</string>
     <string name="auxiliary_lens_identifies_weak_light">La lente auxiliar reconoce poca luz</string>
     <string name="back_bokeh_use_hint">Mantenga al sujeto a menos de 1.5 metros para un mejor resultado</string>
-    <string name="back_odin">3:XIAOMI MIX 4</string>
     <string name="background">Fondo</string>
     <string name="beauty_body">Figura</string>
     <string name="beauty_body_body">Esbelto</string>
@@ -1456,7 +1455,6 @@ se vean más grandes en las fotos"</string>
     <string name="mimoji_human_blue_haired_girls">Pelo azul</string>
     <string name="mimoji_human_boys_with_glasses">Gafas</string>
     <string name="mimoji_human_boys_with_wavy_hair">Pelo rizado</string>
-    <string name="mimoji_human_chinese_princesses">Princesa</string>
     <string name="mimoji_human_clowns">Payaso</string>
     <string name="mimoji_human_doggy_headgear_girls">Perrito</string>
     <string name="mimoji_human_motorcyclists">Motorista</string>
@@ -1571,7 +1569,6 @@ se vean más grandes en las fotos"</string>
     <string name="module_name_street_hint">Cambiar distancia de enfoque aquí</string>
     <string name="module_name_super_moon">Superluna</string>
     <string name="module_name_video">Video</string>
-    <string name="module_name_vlog">Vlog</string>
     <string name="moiton_detection_960_fps_video_tip" formatted="false">Los vídeos de %1dfps pueden durar hasta %2d segundos</string>
     <string name="moiton_detection_tip">Detectando movimiento… Mantener el dispositivo constantemente.</string>
     <string name="moiton_detection_video_3840fps_3840">%dFPS</string>
@@ -1815,7 +1812,6 @@ y trae adelante a las personas."</string>
     <string name="portrait_mode_use_hint_for_bokeh">"Pruebe el modo retrato.
 Mantiene al sujeto nítido mientras desenfoca el fondo."</string>
     <string name="portrait_repair_tips">Retrato Smart HD</string>
-    <string name="pre_volume_gain_adjust">Ganar ajuste</string>
     <string name="pref_960_watermark_title">Marca de agua 960FPS</string>
     <string name="pref_a_c_f">Sonógrafo</string>
     <string name="pref_advance_settings">Ajustes Adicionales</string>
@@ -2289,13 +2285,10 @@ Mantiene al sujeto nítido mientras desenfoca el fondo."</string>
     <string name="pref_video_quality_entry_1080p">FHD 1080p, %dfps</string>
     <string name="pref_video_quality_entry_1080p_24fps">Alta definición completa, 1080p, 24 fotogramas por segundo</string>
     <string name="pref_video_quality_entry_1080p_60fps">FHD 1080p, %dfps</string>
-    <string name="pref_video_quality_entry_480p">SD 480p, 30FPS</string>
     <string name="pref_video_quality_entry_4kuhd">UHD 4K, %dfps</string>
     <string name="pref_video_quality_entry_4kuhd_24fps">Ultra alta definición, 4K, 24 fotogramas por segundo</string>
     <string name="pref_video_quality_entry_4kuhd_60fps">UHD 4K, %dfps</string>
     <string name="pref_video_quality_entry_720p">HD 720p, %dfps</string>
-    <string name="pref_video_quality_entry_720p_60fps">HD 720p, 60FPS</string>
-    <string name="pref_video_quality_entry_8kuhd">UHD 8K, 30FPS</string>
     <string name="pref_video_quality_hfr_title">Velocidad de fotogramas y calidad de imagen</string>
     <string name="pref_video_quality_sub_1080p_new">1080P</string>
     <string name="pref_video_quality_sub_120fps">120 fps</string>
@@ -2444,30 +2437,6 @@ Mantiene al sujeto nítido mientras desenfoca el fondo."</string>
     <string name="softlight_fragment_tab_name_brightness">Brillo</string>
     <string name="softlight_fragment_tab_name_color_temp">Temperatura</string>
     <string name="softlight_fragment_tab_name_lighting_mode">Bucle</string>
-    <string name="solar_term_autumn_begins">Comienza el otoño</string>
-    <string name="solar_term_autumn_equinox">Equinoccio de otoño</string>
-    <string name="solar_term_clear_and_bright">Claro y brillante</string>
-    <string name="solar_term_cold_dews">Rocío frio</string>
-    <string name="solar_term_grain_buds">Criaturas plenarias</string>
-    <string name="solar_term_grain_in_ear">Siembra de mijo</string>
-    <string name="solar_term_grain_rain">Lluvia de trigo</string>
-    <string name="solar_term_great_cold">Frío severo</string>
-    <string name="solar_term_great_heat">Ola de calor</string>
-    <string name="solar_term_heavy_snow">Fuertes nevadas</string>
-    <string name="solar_term_hoar_frost_falls">Escarcha</string>
-    <string name="solar_term_insects_awaken">Los insectos despiertan</string>
-    <string name="solar_term_light_snow">Nieve ligera</string>
-    <string name="solar_term_slight_cold">Frio moderado</string>
-    <string name="solar_term_slight_heat">Calor moderado</string>
-    <string name="solar_term_spring_begins">Comienza la primavera</string>
-    <string name="solar_term_stopping_the_heat">El calor se retira</string>
-    <string name="solar_term_summer_begins">Comienza el verano</string>
-    <string name="solar_term_summer_solstice">Solsticio de verano</string>
-    <string name="solar_term_the_rains">Lluvias de primavera</string>
-    <string name="solar_term_vernal_equinox">Equinoccio de primavera</string>
-    <string name="solar_term_white_dews">Rocío</string>
-    <string name="solar_term_winter_begins">Comienza el invierno</string>
-    <string name="solar_term_winter_solstice">Solsticio de invierno</string>
     <string name="sorftlight_style_candle">Cándalo</string>
     <string name="sorftlight_style_cold">Frío</string>
     <string name="sorftlight_style_cold_alert">Oficina</string>
@@ -2536,7 +2505,6 @@ Mantiene al sujeto nítido mientras desenfoca el fondo."</string>
     <string name="the_armed_forces_day">Día de las Fuerzas Armadas</string>
     <string name="the_armys_day">Día del PLA</string>
     <string name="the_childrens_day">"Día del Niño"</string>
-    <string name="the_chinese_youth_day">Día de la Juventud</string>
     <string name="the_christmas_day">Navidad</string>
     <string name="the_double_ninth_festival">Festival del Doble Nueve</string>
     <string name="the_dragon_boat_festival">Festival del Bote del Dragón</string>
@@ -2855,7 +2823,6 @@ grabar y editar videos sobre la marcha"</string>
     <string name="wait">Un momento…</string>
     <string name="watermark_choose_one_tip">Sólo se puede aplicar una marca de agua a cada foto.</string>
     <string name="watermark_choose_one_tip_film">Sólo se puede aplicar una marca de agua a cada foto.</string>
-    <string name="watermark_count_format" formatted="false">%d/%d</string>
     <string name="watermark_function_description">Acerca de marcas de agua</string>
     <string name="watermark_keep_at_least_one">Seleccione al menos una opción</string>
     <string name="watermark_tab_city">Ciudad</string>
