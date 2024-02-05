@@ -629,8 +629,8 @@
         <item quantity="one">%d vídeo</item>
     </plurals>
     <plurals name="sync_error_title">
-        <item quantity="other">"No se han respaldado %d fotos o videos"</item>
-        <item quantity="one">"No se ha respaldado %d foto o video"</item>
+        <item quantity="other">"Los artículos %d no están sincronizados"</item>
+        <item quantity="one">"El elemento %d no está sincronizado"</item>
     </plurals>
     <plurals name="sync_oversized_count">
         <item quantity="other">%d elementos son demasiado grandes para ser respaldados</item>
