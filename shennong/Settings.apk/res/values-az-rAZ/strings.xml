@@ -9456,6 +9456,7 @@ Daha sürətli ^3 istifadə etməyə çalışın və ya bunun əvəzinə portati
     <string name="twohours">1 saat</string>
     <string name="tx_link_speed_label">Ötürmə bağlantısının sürəti:</string>
     <string name="tx_wifi_speed">Ötürmə bağlantısının sürəti</string>
+    <string name="ufs_size_suffix">%1$s+%2$s</string>
     <string name="unadapt_embedded">"Paralel pəncərələr əlçatmazdır"</string>
     <string name="under_keyguard">Ekran sönülü</string>
     <string name="unimportant">Vacib olmayan</string>
