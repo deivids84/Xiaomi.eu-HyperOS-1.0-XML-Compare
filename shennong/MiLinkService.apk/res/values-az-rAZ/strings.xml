@@ -434,8 +434,6 @@ və Xiaomi Hesabınıza daxil olun"</string>
     <string name="dialog_nearbydevice_permission_message">Yayım özəlliklərini istifadə edə bilmək üçün bu cihazın yaxınlıqdakı cihazlara müraciət etməsinə icazə verin.</string>
     <string name="dialog_nearbydevice_permission_title">İcazələr tələb olunur</string>
     <string name="dialog_nfc_cast_wifi_off">NFC ilə yayımlaya bilmək üçün Wi-Fi-ı açın. İndi açılsın?</string>
-    <string name="dialog_no_device_message"><Data>&lt;xliff:g id=count refersto=1&gt;%1$d&lt;/xliff:g&gt;. Mobil cihazınızı və TV-nizi eyni Wi-Fi şəbəkəsinə bağlayın.&lt;br&gt;&lt;br&gt;&lt;xliff:g id=count refersto=2&gt;%2$d&lt;/xliff:g&gt;. Bu özəllik, bəzi TV modellərində yalnız ekranın əks etdirilməsi açıq olduqda əlçatandır. Daha ətraflı öyrənmək üçün &lt;a href=milink://com.milink.service/specification&gt;\"Kömək\"&lt;/a&gt; bölməsinə baxın.</Data></string>
-    <string name="dialog_no_device_message_china"><Data>&lt;xliff:g id=count refersto=1&gt;%1$d&lt;/xliff:g&gt;. Mobil cihazınızı və TV-nizi eyni Wi-Fi şəbəkəsinə bağlayın.&lt;br&gt;&lt;br&gt;&lt;xliff:g id=count refersto=2&gt;%2$d&lt;/xliff:g&gt;. Bu özəllik, bəzi TV modellərində yalnız ekranın əks etdirilməsi açıq olduqda əlçatandır. Daha ətraflı öyrənmək üçün &lt;a href=milink://com.milink.service/specification&gt;\"Kömək\"&lt;/a&gt; bölməsinə baxın.</Data></string>
     <string name="dialog_ok">Oldu</string>
     <string name="dialog_only_suport_content">Foto, video və ya musiqi yayımlayın</string>
     <string name="dialog_open_wifi_bt">İşə sal</string>
@@ -1075,7 +1073,6 @@ Oyunları yayımlamazdan əvvəl \"Game Turbo\"nu işə saldığınıza əmin ol
     <string name="the_armed_forces_day">Silahlı Qüvvələr Günü</string>
     <string name="the_armys_day">Ordu Günü</string>
     <string name="the_childrens_day">"Uşaqlar Günü"</string>
-    <string name="the_chinese_youth_day">Gənclər Günü</string>
     <string name="the_christmas_day">Milad</string>
     <string name="the_double_ninth_festival">İkiqat Doqquzuncu Festivalı</string>
     <string name="the_dragon_boat_festival">Dragon Boat Festivalı</string>
@@ -1115,8 +1112,6 @@ Oyunları yayımlamazdan əvvəl \"Game Turbo\"nu işə saldığınıza əmin ol
     <string name="tile_label">Yayım</string>
     <string name="tile_label_v2">Ara bağlantı xidmətləri</string>
     <string name="time_picker_dialog_title">Vaxtı ayarla</string>
-    <string name="time_picker_label_hour">S</string>
-    <string name="time_picker_label_minute">D</string>
     <string name="toast_guide_show_more">Daha ətraflı</string>
     <string name="toast_guide_title">Yeni özəlliklərimizi burada kəşf edin</string>
     <string name="toast_invisible_mode">"Gizli rejimdəsiniz. Yayım indi istifadə edilə bilmir."</string>
