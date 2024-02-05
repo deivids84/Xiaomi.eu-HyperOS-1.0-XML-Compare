@@ -629,8 +629,8 @@
         <item quantity="one">%d vídeo</item>
     </plurals>
     <plurals name="sync_error_title">
-        <item quantity="other">"No s'ha fet el %d de les còpies de seguretat de fotos o vídeos"</item>
-        <item quantity="one">"No s'ha fet el %d de les còpies de seguretat de la foto o vídeo"</item>
+        <item quantity="other">"%d elements no estan sincronitzats"</item>
+        <item quantity="one">"L'element %d no està sincronitzat"</item>
     </plurals>
     <plurals name="sync_oversized_count">
         <item quantity="other">%d elements són massa grans per ser copiats</item>
