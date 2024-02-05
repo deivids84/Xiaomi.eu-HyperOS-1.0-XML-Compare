@@ -123,6 +123,7 @@
     <string name="app_permission_use_group_storage_desc">Cihazda saxlanılan mahnıları tapmaq və oxutmaq üçün</string>
     <string name="app_resident_push_switch">Daimi bildirişlərə icazə ver</string>
     <string name="app_third_privacy">Üçüncü tərəf gizlilik siyasətləri</string>
+    <string name="apply_for_the_following_permissions">Bu proqram aşağıdakı icazələri tələb edir:</string>
     <string name="apply_permissions_greater_than_pie">Ayarlar &gt; Tətbiqlər &gt; İcazələr &gt; İcazələr &gt; Fayllar və media &gt; \"Musiqi\"də bu icazəni verə bilərsiniz.</string>
     <string name="apply_permissions_greater_than_tiramisu">Ayarlar &gt; Tətbiqlər &gt; İcazələr &gt; Musiqi və video/Fotolar və videolar &gt; \"Musiqi\"də bu icazəni verə bilərsiniz.</string>
     <string name="apply_permissions_less_than_pie">Ayarlar &gt; Tətbiqlər &gt; İcazələr &gt; İcazələr &gt; Daxili anbardakı fayllara müraciət et və onları dəyişdir &gt; \"Musiqi\"də bu icazəni verə bilərsiniz.</string>
