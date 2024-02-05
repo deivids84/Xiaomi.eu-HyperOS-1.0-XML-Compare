@@ -9628,6 +9628,7 @@ Prova un altre suport (^3) més ràpid o fes servir aquest (^4) com a emmagatzem
     <string name="tx_link_speed_label">Velocitat de transmissió de l\'enllaç:</string>
     <string name="tx_wifi_speed">Velocitat d\'enllaç de transmissió</string>
     <string name="ucar_screen_projection_title">CarWith</string>
+    <string name="ufs_size_suffix">%1$s+%2$s</string>
     <string name="unadapt_embedded">"No hi ha finestres paral·leles disponibles"</string>
     <string name="under_keyguard">Pantalla apagada</string>
     <string name="unimportant">Sense importància</string>
