@@ -103,8 +103,8 @@
     </string-array>
     <string-array name="settings_search_account_and_authority_non_global">
         <item>Configuració del compte</item>
-        <item>Afegiu i gestioneu comptes de tercers</item>
-        <item>Comptes; SNS; WeChat; QQ; El meu compte; Compte; Compte Xiaomi</item>
+        <item>Veure el WeChat connectat i altres comptes del SNS</item>
+        <item>Permisos; SNS; WeChat; Compte Xiaomi; compte</item>
     </string-array>
     <string-array name="settings_search_change_password">
         <item>Canviar la contrasenya</item>
