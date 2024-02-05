@@ -168,7 +168,7 @@ Intenta crear la imagen de IA con diferentes fotos."</string>
     <string name="ai_creation_count_limit_msg">"No se puede crear más retratos hoy. ¡Vuelve mañana!"</string>
     <string name="ai_creation_delete_msg">¿Eliminar este registro de historial ahora?</string>
     <string name="ai_creation_delete_title">Atención</string>
-    <string name="ai_creation_record_footer_tips">Sólo puede ver los elementos creados en este dispositivo. Se eliminarán después de cerrar sesión en su cuenta de Xiaomi.</string>
+    <string name="ai_creation_record_footer_tips">Solo puedes ver los elementos creados en este dispositivo. Se eliminarán después de cerrar sesión en tu cuenta Xiaomi.</string>
     <string name="ai_creation_recreate_button">Empezar de nuevo</string>
     <string name="ai_creation_save_failed_msg">"No se pudo guardar. Inténtelo de nuevo."</string>
     <string name="ai_creation_save_success_msg">Guardado correctamente</string>
@@ -216,7 +216,7 @@ Selecciona otras fotos en su lugar e inténtalo de nuevo."</string>
     <string name="ai_image_creating_failed_msg">"No se pudo crear la imagen para %s"</string>
     <string name="ai_image_creating_msg">Creando imagen para %s</string>
     <string name="ai_image_creation_over_limit_title">"No se pueden crear más retratos"</string>
-    <string name="ai_image_invalid">"Se eliminó con éxito la imagen AI de %s"</string>
+    <string name="ai_image_invalid">"Se eliminó la imagen AI de %s"</string>
     <string name="ai_image_invalid_in_update">"Actualizando la imagen IA de %sahora. Espera hasta que se actualice e inténtalo de nuevo."</string>
     <string name="ai_image_manager_empty_msg">"No se pueden ver las fotos utilizadas para crear imágenes IA en versiones anteriores de este servicio en otro dispositivo"</string>
     <string name="ai_image_manager_empty_msg_net">No hay fotos aquí</string>
