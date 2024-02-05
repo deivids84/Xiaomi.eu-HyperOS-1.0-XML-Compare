@@ -33,7 +33,6 @@
     <string name="afternoon">Günortadan sonra</string>
     <string name="am">GƏ</string>
     <string name="app_label">HTML nümayişetdirici</string>
-    <string name="app_name">bulanıq</string>
     <string name="app_name_which_call">Tətbiq: %s</string>
     <string name="app_version_which_call">Tətbiq versiyası: %s</string>
     <string name="autoconnect">Avto-bağlantı qur</string>
@@ -185,7 +184,6 @@ digər bağlantılı cihazda %s ünvanına gedin."</string>
     <string name="the_armed_forces_day">Silahlı Qüvvələr Günü</string>
     <string name="the_armys_day">Ordu Günü</string>
     <string name="the_childrens_day">"Uşaqlar Günü"</string>
-    <string name="the_chinese_youth_day">Gənclər Günü</string>
     <string name="the_christmas_day">Milad</string>
     <string name="the_double_ninth_festival">İkiqat Doqquzuncu Festivalı</string>
     <string name="the_dragon_boat_festival">Dragon Boat Festivalı</string>
