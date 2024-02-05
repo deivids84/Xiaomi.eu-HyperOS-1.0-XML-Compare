@@ -9443,6 +9443,7 @@ Intenta usar un ^3 más rápido o usa ^4 como almacenamiento portátil."</string
     <string name="tx_link_speed_label">Transmitir velocidad de enlace:</string>
     <string name="tx_wifi_speed">Velocidad enlace de transmisión</string>
     <string name="ucar_screen_projection_title">CarWith</string>
+    <string name="ufs_size_suffix">%1$s+%2$s</string>
     <string name="unadapt_embedded">"Las ventanas paralelas no están disponibles"</string>
     <string name="under_keyguard">Pantalla desactivada</string>
     <string name="unimportant">No importante</string>
