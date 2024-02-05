@@ -436,8 +436,6 @@ tus dispositivos?"</string>
     <string name="dialog_nearbydevice_permission_message">Permitir a este dispositivo acceder a dispositivos cercanos para poder usar funciones de casting.</string>
     <string name="dialog_nearbydevice_permission_title">Permisos necesarios</string>
     <string name="dialog_nfc_cast_wifi_off">Active el Wi-Fi para poder emitir usando el NFC. ¿Activar ahora?</string>
-    <string name="dialog_no_device_message"><Data>&lt;xliff:g id=count refersto=1&gt;%1$d&lt;/xliff:g&gt;. Conecte tanto su dispositivo móvil como su televisor a la misma red Wi-Fi.&lt;br&gt;&lt;br&gt;&lt;xliff:g id=count refersto=2&gt;%2$d&lt;/xliff:g&gt;. En algunos modelos de TV, esta función solo está disponible cuando la duplicación de pantalla está activada. Vea &lt;a href=milink://com.milink.service/specification&gt;\"Ayuda\"&lt;/a&gt; para obtener más información.</Data></string>
-    <string name="dialog_no_device_message_china"><Data>&lt;xliff:g id=count refersto=1&gt;%1$d&lt;/xliff:g&gt;. Conecte tanto su dispositivo móvil como su televisor a la misma red Wi-Fi.&lt;br&gt;&lt;br&gt;&lt;xliff:g id=count refersto=2&gt;%2$d&lt;/xliff:g&gt;. En algunos modelos de TV, esta función solo está disponible cuando la duplicación de pantalla está activada. Vea &lt;a href=milink://com.milink.service/specification&gt;\"Ayuda\"&lt;/a&gt; para obtener más información.</Data></string>
     <string name="dialog_ok">Aceptar</string>
     <string name="dialog_only_suport_content">Transmitir fotos, videos o música</string>
     <string name="dialog_open_wifi_bt">Activar</string>
@@ -502,7 +500,6 @@ Vea la ayuda si tiene problemas para conectarse."</string>
     <string name="fmt_date_numeric_year_month">MM/yyyy</string>
     <string name="fmt_date_numeric_year_month_day">dd/MM/yyyy</string>
     <string name="fmt_date_short_month_day">d MMM</string>
-    <string name="fmt_date_short_year_month">MMM. yyyy</string>
     <string name="fmt_date_short_year_month_day">d MMM, yyyy</string>
     <string name="fmt_time_12hour">"h 'en punto'"</string>
     <string name="fmt_time_24hour">"HH 'en punto'"</string>
@@ -518,8 +515,6 @@ Vea la ayuda si tiene problemas para conectarse."</string>
     <string name="global_privacy_positive">Aceptar</string>
     <string name="global_privacy_screencast">Mientras se graba o se muestra, el servicio que proporciona esta característica puede capturar cualquier información sensible que se muestre en la pantalla o que se reproduzca desde el dispositivo, incluyendo información sensible como audio, contraseñas, información de pago, fotos y mensajes.</string>
     <string name="global_privacy_tip">&lt;Data&gt;Necesitamos recopilar la información personal necesaria para brindarle los servicios básicos y optimizar el proceso de transmisión. Puede aprender cómo manejamos la información que recopilamos en nuestra &lt;a href=%1$s&gt;Política de privacidad&lt;/a&gt;. Puede retirar su consentimiento a la Política de privacidad en los Ajustes en cualquier momento.&lt;/Data&gt;</string>
-    <string name="google_crash_reporting_api_key">AIzaSyCT3cdzuEQqqpgj9d6LhTMnwZdDnFFJRVU</string>
-    <string name="google_storage_bucket">milink-73be7.appspot.com</string>
     <string name="hang_up">Emitir con pantalla apagada</string>
     <string name="hang_up_alert_dialog_content">Mantenga emitiendo contenido con la pantalla de su dispositivo apagada. Esta función reduce el consumo de energía. Presione el botón Encendido para activar la pantalla.</string>
     <string name="hang_up_alert_dialog_neg">Cancelar</string>
@@ -1072,7 +1067,6 @@ Asegúrate de que has activado el Turbo de Juego antes de lanzar juegos."</strin
     <string name="the_armed_forces_day">Día de las Fuerzas Armadas</string>
     <string name="the_armys_day">Dia del PLA</string>
     <string name="the_childrens_day">"Día de los niños"</string>
-    <string name="the_chinese_youth_day">Día de la juventud</string>
     <string name="the_christmas_day">Navidad</string>
     <string name="the_double_ninth_festival">Festival del doble noveno</string>
     <string name="the_dragon_boat_festival">Festival del barco del dragón</string>
@@ -1112,8 +1106,6 @@ Asegúrate de que has activado el Turbo de Juego antes de lanzar juegos."</strin
     <string name="tile_label">Emitir</string>
     <string name="tile_label_v2">Servicios de interconectividad</string>
     <string name="time_picker_dialog_title">Ajustar hora</string>
-    <string name="time_picker_label_hour">h</string>
-    <string name="time_picker_label_minute">min</string>
     <string name="toast_guide_show_more">Más información</string>
     <string name="toast_guide_title">Conozca nuestras nuevas funciones aquí</string>
     <string name="toast_invisible_mode">"Estás de incógnito. No se puede utilizar la transmisión ahora."</string>
