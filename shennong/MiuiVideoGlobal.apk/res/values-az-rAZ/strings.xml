@@ -1111,6 +1111,7 @@ Bu icazəni yalnız axtardığınız videoları tapmaq üçün istifadə edəcə
     <string name="network_error_tip">"Şəbəkəyə bağlana bilmədi. Şəbəkə ayarlarınızı yoxlayın."</string>
     <string name="network_failed">"Şəbəkəyə bağlana bilmədi"</string>
     <string name="newyearfestival_go_to_draw_prizes">Şanslı çəkilişə get</string>
+    <string name="newyearfestival_watch_the_video_to_draw_prizes">Şanslı çəkilişə daxil olmaq üçün videolara baxın</string>
     <string name="nick_name">Ləqəb</string>
     <string name="night">Axşam</string>
     <string name="no_account">Daxil olunmadı</string>
