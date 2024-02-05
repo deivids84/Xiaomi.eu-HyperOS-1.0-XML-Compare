@@ -147,7 +147,7 @@ Puedes iniciar sesión usando %s ahora."</string>
     <string name="com_facebook_smart_device_instructions">Para conectar tu cuenta, abre la aplicación de Facebook en tu dispositivo móvil y comprueba las notificaciones.</string>
     <string name="com_facebook_smart_device_instructions_or">- O -</string>
     <string name="com_facebook_smart_login_confirmation_cancel">¿No eres tú?</string>
-    <string name="com_facebook_smart_login_confirmation_continue_as">Continúe como %1$s</string>
+    <string name="com_facebook_smart_login_confirmation_continue_as">Continúa como %1$s</string>
     <string name="com_facebook_smart_login_confirmation_title">Confirmar inicio de sesión</string>
     <string name="com_facebook_tooltip_default">"Tienes el control - elige qué información quieres compartir con las aplicaciones."</string>
     <string name="common_google_play_services_enable_button">Activar</string>
