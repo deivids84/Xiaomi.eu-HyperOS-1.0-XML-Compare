@@ -168,6 +168,7 @@ AI şəklini fərqli fotolarla yaratmağa çalışın."</string>
     <string name="ai_creation_count_limit_msg">"Bu gün bundan artıq portret yaradıla bilmir. Sabah yenidən görüşərik!"</string>
     <string name="ai_creation_delete_msg">Bu tarixçə qeydi indi silinsin?</string>
     <string name="ai_creation_delete_title">Diqqət</string>
+    <string name="ai_creation_record_footer_tips">Yalnız bu cihazda yaradılan əşyalara baxa bilərsiniz. Xiaomi Hesabınızdan imtina etdikdən sonra onlar silinəcək.</string>
     <string name="ai_creation_recreate_button">Başdan başlat</string>
     <string name="ai_creation_save_failed_msg">"Saxlanıla bilmədi. Yenidən sınayın."</string>
     <string name="ai_creation_save_success_msg">Uğurla saxlanıldı</string>
@@ -214,12 +215,18 @@ Bunun əvəzində başqa fotolar seçin və yenidən sınayın."</string>
     <string name="ai_image_count_limit_msg">"Bu gün bundan artıq süni zəka şəkli yaradıla bilmir. Sabah yenidən görüşərik!"</string>
     <string name="ai_image_creating_failed_msg">"%s üçün şəkil yaradıla bilmədi"</string>
     <string name="ai_image_creating_msg">%s üçün şəkil yaradılır</string>
+    <string name="ai_image_creation_over_limit_title">"Daha çox portret yarada bilmir"</string>
+    <string name="ai_image_invalid">"Sil %s's Aİ rəsmisi uğurla"</string>
+    <string name="ai_image_invalid_in_update">"Yenilənir %sİndi ''AI image'' (AI image) Yenilənənə qədər gözləyin və yenidən cəhd edin."</string>
+    <string name="ai_image_manager_empty_msg">"Bu xidmətin köhnə versiyalarında Aİ şəkillərinin yaradılması üçün istifadə olunan şəkillərə başqa bir cihazda baxa bilmirəm"</string>
+    <string name="ai_image_manager_empty_msg_net">Burada şəkil yoxdur</string>
     <string name="ai_image_manager_re_create_tip">AI şəklinizi güncəlləmək üçün fotolar əlavə edin və ya silin</string>
     <string name="ai_image_manager_title">AI şəklini idarə et</string>
     <string name="ai_image_not_creatable">"AI şəkli indi güncəllənir. Bitdikdən sonra yenidən sınayın."</string>
     <string name="ai_image_over_limit_button_cancel">Anladım</string>
     <string name="ai_image_over_limit_button_create">Davam</string>
     <string name="ai_image_over_limit_title">"AI şəkli yaradıla bilmir"</string>
+    <string name="ai_image_over_limit_title_update">"Aİ şəkillərini indi yeniləyə bilmirəm"</string>
     <string name="ai_image_privacy_message"><Data>\"\"Süni zəka portretləri\"nə xoş gəlmisiniz!&lt;br/&gt;Sizə xidmətləri təqdim edə bilmək üçün lazımi şəxsi məlumatları yığmalıyıq:&lt;br/&gt;&lt;xliff:g refersto=1 id=INDEX_1&gt;%1$s&lt;/xliff:g&gt;. Süni zəka portretlərini yaratmaq üçün, &lt;b&gt;insanların fotolarını&lt;/b&gt; serverlərimizə yükləməlisiniz. Bir süni zəka modeli yaratmaq üçün onların &lt;b&gt;üzləri&lt;/b&gt; haqqındakı məlumatları yığıb emal edəcəyik.&lt;br/&gt;&lt;xliff:g refersto=2 id=INDEX_2&gt;%2$s&lt;/xliff:g&gt;. Siz &lt;b&gt;insanların fotolarını&lt;/b&gt; yüklədikcə, biz müvafiq albomlardan &lt;b&gt;onların adlarını və fotolarını&lt;/b&gt; sinxronlaşdıracağıq və bu məlumatları süni zəka təsvirləri ilə əlaqələndirəcəyik.&lt;br/&gt;&lt;xliff:g refersto=3 id=INDEX_3&gt;%3$s&lt;/xliff:g&gt;. Mətn əsaslı süni zəka şəkilləri yaratdıqda, şəkilləri yaratmaq üçün verdiyiniz &lt;b&gt;açıqlamanı&lt;/b&gt; yığırıq.&lt;br/&gt;Yalnız istifadə etdiyiniz məhsul və xidmətlərin xüsusi özəllikləri üçün zəruri olan şəxsi məlumatları yığırıq. Şəxsi məlumatları necə yığdığımızı və emal etdiyimizi &lt;a href=\"%4$s\"&gt;Süni Zəka Portretləri Gizlilik Siyasətində&lt;/a&gt; öyrənə bilərsiniz.&lt;br/&gt;Davam etməzdən əvvəl &lt;a href=\"%5$s\"&gt;Süni Zəka Portretləri İstifadəçi Razılaşmasını&lt;/a&gt; və &lt;a href=\"%6$s\"&gt;Süni Zəka Portretləri Gizlilik Siyasətini&lt;/a&gt; oxuyun və bunlarla razılaşın.\"</Data></string>
     <string name="ai_input_name_hint">Adı daxil edin</string>
     <string name="ai_loading">Bir saniyə…</string>
@@ -3203,6 +3210,8 @@ Bu özəlliyi ilk dəfə istifadə etdikdə transkodlaşdırma bir qədər vaxt 
     <string name="tip_file_info">Fayl məlumatı:</string>
     <string name="tip_file_path">Yerli kataloq:</string>
     <string name="tip_leica_authentic">Leica Authentic</string>
+    <string name="tip_leica_master_portrait">Master Portret</string>
+    <string name="tip_leica_portrait">Leika portreti</string>
     <string name="tip_leica_vibrant">Leica Canlı</string>
     <string name="tip_not_download">Cihazda deyil. Oynadılarkən Xiaomi Cloud-dan endiriləcək.</string>
     <string name="tip_screenshot_package_info">Tətbiq adı:</string>
