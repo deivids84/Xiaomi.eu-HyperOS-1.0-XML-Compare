@@ -1006,6 +1006,7 @@ venen de"</string>
     <string name="unrecorded_risk_app">Riscos detectats</string>
     <string name="unrecorded_risk_app_description">La instal·lació d\'aquesta aplicació està prohibida d\'acord amb els requisits normatius pertinents</string>
     <string name="unrecorded_risk_app_description_2">Com a desenvolupador, pots presentar una apel·lació</string>
+    <string name="unrecorded_risk_app_description_temp">该应用未依照国家政策进行备案，可能存在网络诈骗、病毒、获取用户隐私信息等恶意行为！</string>
     <string name="untrusted_external_source_title">Voleu permetre a \"%1$s\" instal·lar aplicacions?</string>
     <string name="untrusted_external_source_warning_summary">El dispositiu i les dades personals són més vulnerables als atacs d\'aplicacions desconegudes. En instal·lar aplicacions d\'aquesta font, accepteu que sou responsable de qualsevol dany al vostre dispositiu o pèrdua de dades que pugui resultar del seu ús.</string>
     <string name="update_start">Actualitzar</string>
