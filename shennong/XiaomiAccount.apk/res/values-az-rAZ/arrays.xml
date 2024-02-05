@@ -103,8 +103,8 @@
     </string-array>
     <string-array name="settings_search_account_and_authority_non_global">
         <item>Hesablar</item>
-        <item>Üçüncü tərəf hesabları əlavə et və idarə et</item>
-        <item>Hesablar;SNS;WeChat;QQ;Mi Hesabı;Hesab;Xiaomi Hesabı</item>
+        <item>Bağlı WeChat və digər SNS hesablarınızı baxın</item>
+        <item>icazələr; SNS; WeChat; Xiaomi Hesabı; hesab</item>
     </string-array>
     <string-array name="settings_search_change_password">
         <item>Şifrəni dəyişdir</item>
