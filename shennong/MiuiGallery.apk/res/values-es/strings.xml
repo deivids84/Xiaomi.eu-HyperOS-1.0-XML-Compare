@@ -217,7 +217,7 @@ Selecciona otras fotos en su lugar e inténtalo de nuevo."</string>
     <string name="ai_image_creating_msg">Creando imagen para %s</string>
     <string name="ai_image_creation_over_limit_title">"No se pueden crear más retratos"</string>
     <string name="ai_image_invalid">"Se ha eliminado la imagen AI de %s"</string>
-    <string name="ai_image_invalid_in_update">"Actualizando la imagen IA de %sahora. Espera hasta que se actualice e inténtalo de nuevo."</string>
+    <string name="ai_image_invalid_in_update">"Actualizando la imagen IA de %s ahora. Espera hasta que se actualice e inténtalo otra vez."</string>
     <string name="ai_image_manager_empty_msg">"No se pueden ver las fotos utilizadas para crear imágenes IA en versiones anteriores de este servicio en otro dispositivo"</string>
     <string name="ai_image_manager_empty_msg_net">No hay fotos aquí</string>
     <string name="ai_image_manager_re_create_tip">Añade o elimina fotos para actualizar tu imagen de IA</string>
@@ -227,7 +227,7 @@ Selecciona otras fotos en su lugar e inténtalo de nuevo."</string>
     <string name="ai_image_over_limit_button_create">Continuar</string>
     <string name="ai_image_over_limit_title">"No se puede crear la imagen IA"</string>
     <string name="ai_image_over_limit_title_update">"No se pueden actualizar imágenes IA ahora"</string>
-    <string name="ai_image_privacy_message"><Data>\"¡Bienvenido a retratos con IA!&lt;br/&gt;Para poder brindarle servicios, necesitamos recopilar la información personal necesaria:&lt;br/&gt;&lt;xliff:g refersto=1 id=INDEX_1&gt;%1$s&lt;/xliff:g&gt;Para crear retratos con IA, deberá cargar &lt;b&gt;fotos de personas&lt;/b&gt; en nuestros servidores Recopilaremos y procesaremos la información sobre sus &lt;b&gt;caras&lt;/b&gt; para generar un modelo de IA.&lt;br/&gt;&lt;xliff:g refersto=2 id=INDEX_2&gt;%2$s&lt;/xliff:g&gt;Cuando subas &lt;b&gt;fotos de personas&lt;/b&gt;, sincronizaremos &lt;b&gt;sus nombres y fotos de perfil&lt;/b&gt; de los álbumes correspondientes y asociar esta información con imágenes de IA.&lt;br/&gt;&lt;xliff:g refersto=3 id=INDEX_3&gt;%3$s&lt;/xliff:g&gt;Cuando crea imágenes de IA basadas en texto, recopilaremos la &lt;b&gt;descripción&lt;/b&gt; que usted proporciona para generar imágenes.&lt;br/&gt;Solo recopilamos información personal que es necesaria para las características específicas de nuestros productos y servicios que utiliza. Puede aprender cómo recopilamos y procesamos información personal en la &lt;a href=\"%4$s\"&gt;Política de privacidad de AI Portraits&lt;/a&gt;&lt;br/&gt;Lea y acepte &lt;a href=\"%5$s\"&gt;Acuerdo de usuario de AI Portraits&lt;/a&gt; y &lt;a href=\"%6$s\"&gt;Política de privacidad de AI Portraits&lt;/a&gt; antes de continuar. \"</Data></string>
+    <string name="ai_image_privacy_message"><Data>\"¡Te damos la bienvenida Retratos con IA!&lt;br/&gt;Para prestar nuestros servicios, necesitamos recopilar la información personal necesaria:&lt;br/&gt;&lt;xliff:g refersto=1 id=INDEX_1&gt;%1$s&lt;/xliff:g&gt;Para crear retratos con IA, debes cargar &lt;b&gt;fotos de personas&lt;/b&gt; en nuestros servidores Recopilaremos y procesaremos la información sobre sus &lt;b&gt;caras&lt;/b&gt; para generar un modelo de IA.&lt;br/&gt;&lt;xliff:g refersto=2 id=INDEX_2&gt;%2$s&lt;/xliff:g&gt;Cuando subas &lt;b&gt;fotos de personas&lt;/b&gt;, sincronizaremos &lt;b&gt;sus nombres y fotos del perfil&lt;/b&gt; de los álbumes correspondientes y asociaremos esta información con imágenes de IA.&lt;br/&gt;&lt;xliff:g refersto=3 id=INDEX_3&gt;%3$s&lt;/xliff:g&gt;Cuando crees imágenes de IA basadas en texto, recopilaremos la &lt;b&gt;descripción&lt;/b&gt; que proporciones para generar imágenes.&lt;br/&gt;Solo recopilamos información personal necesaria para las características específicas de nuestros productos y servicios. Puedes ver cómo recopilamos y procesamos la información personal en la &lt;a href=\"%4$s\"&gt;Política de Privacidad de AI Portraits&lt;/a&gt;&lt;br/&gt;Lee y acepta el &lt;a href=\"%5$s\"&gt;Acuerdo de Usuario de Retratos con IA&lt;/a&gt; y la &lt;a href=\"%6$s\"&gt;Política de Privacidad de Retratos con IA&lt;/a&gt; antes de continuar. \"</Data></string>
     <string name="ai_input_name_hint">Introducir nombre</string>
     <string name="ai_loading">Solo un segmento…</string>
     <string name="ai_multi_window_tip">"Esta página no puede ser vista en la pantalla de Sdiit"</string>
@@ -3176,7 +3176,7 @@ Hasta el %1$s, puedes mover tus elementos a Google Fotos o visitar i.mi.com para
     <string name="tip_file_path">Ruta local:</string>
     <string name="tip_leica_authentic">Leica Auténtica</string>
     <string name="tip_leica_master_portrait">Retrato Maestro</string>
-    <string name="tip_leica_portrait">Leica Retrato</string>
+    <string name="tip_leica_portrait">Retrato Leica</string>
     <string name="tip_leica_vibrant">Leica Vibrant</string>
     <string name="tip_not_download">No se encuentra en el dispositivo. Se descargará de Xiaomi Cloud mientras se reproduce.</string>
     <string name="tip_screenshot_package_info">Nombre de la aplicación:</string>
