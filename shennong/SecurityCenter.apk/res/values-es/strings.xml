@@ -165,7 +165,7 @@
     <string name="adb_login_xiaomi_account">Antes, inicia sesión en tu cuenta Xiaomi</string>
     <string name="add_auto_task_desktop_icon">Agregar acceso directo a la pantalla de inicio</string>
     <string name="add_bill_reminder_alarm">Establecer advertencia de saldo del teléfono</string>
-    <string name="add_done">Añadido correctamente</string>
+    <string name="add_done">Añadido</string>
     <string name="add_game">Añadir juego</string>
     <string name="add_game_notification_summary">Pulsa para ejecutar y acelerar la velocidad</string>
     <string name="add_miservice_dialog_content">%s requiere que añadas el Marco de Servicios de Xiaomi a la lista de excepciones. Puedes recibir notificaciones de aplicaciones incorporadas de MIUI y otras aplicaciones de terceros.</string>
@@ -2335,7 +2335,7 @@ Record sequences and use them anytime!"</string>
     <string name="gb_game_video_page_null">Graba los momentos clave de tus sesiones de juego</string>
     <string name="gb_game_video_record_finish_tips">Se ha guardado en Game Turbo el vídeo grabado manualmente</string>
     <string name="gb_game_video_save">Guardar</string>
-    <string name="gb_game_video_save_tip">Guardado correctamente</string>
+    <string name="gb_game_video_save_tip">Guardado</string>
     <string name="gb_game_video_type_ai_record">Grabar usando IA</string>
     <string name="gb_game_video_type_manual">Manualmente</string>
     <string name="gb_game_video_type_manual_record">Grabar manualmente</string>
