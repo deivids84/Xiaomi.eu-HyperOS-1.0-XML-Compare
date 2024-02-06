@@ -193,7 +193,7 @@
     <string name="bh_refreshing_sim_state">Actualizando el estado de la SIM…</string>
     <string name="bh_save">Guardar</string>
     <string name="bh_save_desc">Guarde este número para usarlo en la próxima recarga</string>
-    <string name="bh_save_sccuss">Guardado correctamente</string>
+    <string name="bh_save_sccuss">Guardado</string>
     <string name="bh_saved_number">Número guardado: %1$s</string>
     <string name="bh_should_login_to_buy">Inicia sesión en la cuenta Xiaomi para comprar minutos de llamada y datos móviles</string>
     <string name="bh_similar_number_hint">Este número es similar a %1$s. ¿Completar este número de todos modos?</string>
