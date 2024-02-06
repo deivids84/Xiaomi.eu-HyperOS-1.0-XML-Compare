@@ -34,7 +34,7 @@
     <string name="access_denied">Acceso denegado</string>
     <string name="account_related">El dispositivo está asociado a una cuenta Xiaomi (%s). Conéctate a la red para verificarlo.</string>
     <string name="actionbar_button_up_description">Atrás</string>
-    <string name="activate_find_device_success">Encontrar dispositivo activado correctamente</string>
+    <string name="activate_find_device_success">Se ha activado Encontrar dispositivo</string>
     <string name="activate_finddevice">Conéctate a la red para activar el dispositivo</string>
     <string name="activating">Activando…</string>
     <string name="afternoon">Tarde</string>
