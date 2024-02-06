@@ -34,8 +34,8 @@
     <string name="assistant_note_two">Toca el acceso directo para grabar llamadas</string>
     <string name="call_assistant">Asistente VoIP</string>
     <string name="call_in_progress">llamada en progreso</string>
-    <string name="call_recording_notification_complete_one">Grabado con éxito. Toca para ver.</string>
-    <string name="call_recording_notification_complete_other">Llamadas %d grabadas con éxito</string>
+    <string name="call_recording_notification_complete_one">Grabado. Toca para ver.</string>
+    <string name="call_recording_notification_complete_other">Se han grabado %d llamadas</string>
     <string name="call_recording_notification_title">Grabadora de llamadas de voz</string>
     <string name="call_recording_notification_title_error">"No se pudo grabar llamada de voz"</string>
     <string name="camera_bt_record_start_mic">Utilizando este dispositivo para grabar audio</string>
@@ -96,7 +96,7 @@ Nota que la violación de los derechos de privacidad de otras personas es ilegal
     <string name="miuix_indexer_collect">Colecciones</string>
     <string name="miuix_indexer_selected">Seleccionada %s</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Tira hacia abajo para actualizar</string>
-    <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualizado con éxito</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualizado</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Actualizando…</string>
     <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Suelta para actualizar</string>
     <string name="miuix_sbl_tracking_progress_labe_up_nodata">"Eso es todo por ahora"</string>
