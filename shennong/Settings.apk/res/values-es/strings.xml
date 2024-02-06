@@ -552,7 +552,7 @@ Para pasar de una función a otra, desliza hacia arriba con tres dedos y mantén
     <string name="add_fingerprint_put_finger_msg">Coloca el dedo en el sensor y levántalo cuando sientas una vibración.</string>
     <string name="add_fingerprint_put_finger_title">Añadir huella</string>
     <string name="add_fingerprint_similar_fingerprint_input_error_msg">Mueve el dedo ligeramente</string>
-    <string name="add_fingerprint_success_msg">Añadido correctamente</string>
+    <string name="add_fingerprint_success_msg">Añadido</string>
     <string name="add_fingerprint_text">Añadir huella</string>
     <string name="add_fingerprint_toast_text">Coloca el dedo en el sensor</string>
     <string name="add_front_fingerprint_instruction_msg">El sensor de huellas está integrado en el botón Inicio del dispositivo.</string>
@@ -4099,7 +4099,7 @@ El área donde puedes confirmar que el bloqueo de la pantalla se moverá a la de
     <string name="gxzw_vibrate_summary">"Vibrar mientras se reproduce la animación de desbloqueo de huellas dactilares"</string>
     <string name="gxzw_vibrate_title">Vibra mientras desbloqueas</string>
     <string name="handle_ota_connect_first">Conectar grip</string>
-    <string name="handle_ota_finish_fw">Actualizado con éxito</string>
+    <string name="handle_ota_finish_fw">Actualizado</string>
     <string name="handle_ota_update_failed">"No se pudo actualizar"</string>
     <string name="handle_ota_update_title">Actualizaciones de firmware</string>
     <string name="handle_ota_updating_firmware">Un momento…</string>
