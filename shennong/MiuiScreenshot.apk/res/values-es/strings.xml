@@ -144,7 +144,7 @@
     <string name="miuix_indexer_collect">Colecciones</string>
     <string name="miuix_indexer_selected">Seleccionado %s</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Desliza hacia abajo para actualizar</string>
-    <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualizado correctamente</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualizado</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Actualizando…</string>
     <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Suelte para actualizar</string>
     <string name="miuix_sbl_tracking_progress_labe_up_nodata">"Eso es todo por ahora"</string>
@@ -238,7 +238,7 @@
     <string name="saturday">Sábado</string>
     <string name="saturday_short">Sáb</string>
     <string name="saturday_shortest">Sáb</string>
-    <string name="save_success">Guardado correctamente</string>
+    <string name="save_success">Guardado</string>
     <string name="scanning_device_tips">Búsqueda de dispositivos cercanos… Asegúrese de que el otro dispositivo esté en modo detectable.</string>
     <string name="screen_doodle_talkback_size">Ancho de la línea del garabato</string>
     <string name="screen_editor_btn_delete">Eliminar</string>
