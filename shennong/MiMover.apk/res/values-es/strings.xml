@@ -477,7 +477,7 @@ Abre WeChat y ve a Yo &gt; Ajustes &gt; General &gt; Respaldo y migración."</st
     <string name="new_trans_intro_question_1">"%d. ¿Por qué no puedo ver el punto de acceso del nuevo dispositivo en el antiguo?"</string>
     <string name="new_trans_intro_question_2">%d. ¿Cuál es la contraseña del punto de acceso?</string>
     <string name="new_trans_intro_question_3">"%d. ¿Por qué dice que no hay suficiente espacio de almacenamiento en el dispositivo antiguo?"</string>
-    <string name="new_trans_intro_question_4">"%d. ¿Por qué no se transfieren todas las aplicaciones con éxito?"</string>
+    <string name="new_trans_intro_question_4">"%d. ¿Por qué no se transfieren todas las aplicaciones?"</string>
     <string name="new_trans_intro_question_5">"%d. ¿Por qué no se transfieren correctamente las contraseñas de algunas cuentas de aplicaciones de terceros?"</string>
     <string name="new_trans_intro_question_6">"%d. ¿Por qué no se pueden transferir datos de la aplicación desde un dispositivo que no sea Xiaomi?"</string>
     <string name="new_trans_intro_question_7">%d. Si dejo Mi Mover en medio de una transferencia, ¿tendré que empezar de nuevo la próxima vez?</string>
