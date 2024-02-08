@@ -468,7 +468,6 @@ El volum dels auriculars ha estat superior al recomanat, cosa que pot danyar l'a
     <string name="date_picker_mode">calendari</string>
     <string name="date_picker_next_month_button">Mes següent</string>
     <string name="date_picker_prev_month_button">Mes anterior</string>
-    <string name="date_time">%2$s %1$s</string>
     <string name="date_time_done">Fet</string>
     <string name="date_time_set">Defineix</string>
     <string name="day">dia</string>
@@ -509,7 +508,6 @@ mitjançant %s"</string>
     <string name="display_manager_hdmi_display_name">Pantalla HDMI</string>
     <string name="display_manager_overlay_display_name">Superposa #%1$d</string>
     <string name="display_manager_overlay_display_secure_suffix">, segur</string>
-    <string name="display_manager_overlay_display_title">%1$s: %2$d x %3$d, %4$d dpi</string>
     <string name="display_rotation_camera_compat_toast_after_rotation">Gira per obtenir una millor visualització</string>
     <string name="display_rotation_camera_compat_toast_in_multi_window">Obrir %s a pantalla completa per a una millor visualització</string>
     <string name="dlg_ok">D\'acord</string>
@@ -1043,8 +1041,6 @@ Torna-ho a provar d'aquí a %2$d segons."</string>
     <string name="media_route_status_in_use">En ús</string>
     <string name="media_route_status_not_available">No disponible</string>
     <string name="media_route_status_scanning">S\'està escanejant...</string>
-    <string name="mediasize_iso_b7">ISO B</string>
-    <string name="mediasize_na_foolscap">Foli</string>
     <string name="mediasize_na_gvrnmt_letter">Carta governamental</string>
     <string name="mediasize_na_index_3x5">Fitxa 3 x 5</string>
     <string name="mediasize_na_index_4x6">Fitxa 4 x 6</string>
@@ -1118,7 +1114,6 @@ Torna-ho a provar d'aquí a %2$d segons."</string>
     <string name="mmiErrorWhileRoaming">No es pot canviar la configuració de desviació de trucades del telèfon quan estàs en itinerància.</string>
     <string name="mmiFdnError">L\'operació està restringida a números de marcatge fixos.</string>
     <string name="mobile_no_internet">La xarxa mòbil no té accés a Internet</string>
-    <string name="month_day_year" formatted="false">%-e %B de %Y</string>
     <string name="more_item_label">Més</string>
     <string name="move_button_text">Toqueu el botó del marc per poder moure tota la finestra</string>
     <string name="mte_override_notification_message">El rendiment i l\'estabilitat es poden veure afectats. Reinicieu per desactivar. Si està habilitat amb arm64.memtag.bootctl, configureu-lo prèviament a cap.</string>
@@ -1135,7 +1130,6 @@ Les notificacions millorades poden accedir al contingut de les notificacions, in
     <string name="nas_upgrade_notification_title">Notificacions millorades</string>
     <string name="needPuk">La targeta SIM està bloquejada per PUK. Escriviu el codi PUK per desbloquejar-lo.</string>
     <string name="needPuk2">Escriviu PUK2 per desbloquejar la SIM.</string>
-    <string name="negative_duration">-%1$s</string>
     <string name="network_available_sign_in">Inicia la sessió a la xarxa</string>
     <string name="network_logging_notification_text">La teva organització gestiona aquest dispositiu i és possible que supervisi el trànsit de xarxa. Toca per obtenir més informació.</string>
     <string name="network_logging_notification_title">El dispositiu està gestionat</string>
@@ -1877,7 +1871,6 @@ Si escoltes música a un volum alt durant períodes llargs, pots danyar-te l'oï
     <string name="ssl_certificate">Certificat de seguretat</string>
     <string name="ssl_certificate_is_valid">Aquest certificat és vàlid.</string>
     <string name="status_bar_mute">status_bar_mute</string>
-    <string name="status_bar_notification_info_overflow">+999</string>
     <string name="status_bar_screen_record">registre de pantalla</string>
     <string name="status_communication_speaker_summary">Una trucada en mans lliures està en curs. Si es connecten els auriculars, es continuarà reproduint l\'àudio a través dels altaveus.</string>
     <string name="status_communication_summary">Hi ha una trucada en curs. Ara només podeu ajustar el volum de les trucades.</string>
