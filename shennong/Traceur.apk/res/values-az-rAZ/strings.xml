@@ -125,10 +125,6 @@
     <string name="stop_on_bugreport">Xəta hesabatları üçün yazmanı dayandır</string>
     <string name="stop_on_bugreport_summary">Bir xəta hesabatı başladılanda aktiv yazıları bitirir</string>
     <string name="stop_tracing">İzləməni dayandır</string>
-    <string name="sudFontSecondary">google-sans</string>
-    <string name="sudFontSecondaryMedium">google-sans-medium</string>
-    <string name="sudFontSecondaryMediumMaterialYou">google-sans-text-medium</string>
-    <string name="sudFontSecondaryText">google-sans-text</string>
     <string name="sud_back_button_label">Geri</string>
     <string name="sud_more_button_label">Daha çox</string>
     <string name="sud_next_button_label">Növbəti</string>
