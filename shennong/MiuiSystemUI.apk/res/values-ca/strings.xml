@@ -263,7 +263,6 @@
     <string name="battery_low_description">Et queda un %s de bateria. Estalvi de bateria activa el tema fosc, restringeix l\'activitat en segon pla i endarrereix les notificacions.</string>
     <string name="battery_low_intro">Estalvi de bateria activa el tema fosc, restringeix l\'activitat en segon pla i endarrereix les notificacions.</string>
     <string name="battery_low_title">Vols activar Estalvi de bateria?</string>
-    <string name="battery_meter_percent_sign">%</string>
     <string name="battery_saver_confirmation_ok">Activa</string>
     <string name="battery_saver_confirmation_title">Vols activar la funció Estalvi de bateria?</string>
     <string name="battery_saver_confirmation_title_generic">Sobre la funció Estalvi de bateria</string>
@@ -485,17 +484,6 @@ Pots fer canvis en qualsevol moment a Configuració."</string>
     <string name="dark_mode_power_save_alert_dialog_message">"Si desactiveu l'optimització MIUI i activeu l'estalvi de bateria, el mode fosc s'activarà automàticament.
 Per desactivar el mode fosc, desactiveu l'estalvi de bateria o activeu l'optimització MIUI a Configuració &gt; Opcions per a desenvolupadors &gt; Activa la optimització MIUI."</string>
     <string name="dark_mode_power_save_alert_dialog_title">Mode fosc</string>
-    <string name="data_connection_3_5g">H</string>
-    <string name="data_connection_3_5g_plus">H+</string>
-    <string name="data_connection_3g">3G</string>
-    <string name="data_connection_4g">4G</string>
-    <string name="data_connection_4g_plus">4G+</string>
-    <string name="data_connection_carrier_wifi">W+</string>
-    <string name="data_connection_cdma">1X</string>
-    <string name="data_connection_edge">EDGE</string>
-    <string name="data_connection_gprs">GPRS</string>
-    <string name="data_connection_lte">LTE</string>
-    <string name="data_connection_lte_plus">LTE+</string>
     <string name="data_connection_no_internet">Sense connexió a Internet</string>
     <string name="data_connection_roaming">Itinerància</string>
     <string name="data_saver">Estalvi de dades</string>
@@ -644,58 +632,14 @@ Després de suprimir-los, hauràs de tornar a configurar Desbloqueig amb empremt
     <string name="fingerprint_try_again_text">Proveu-ho de nou</string>
     <string name="float_button_text">Flotant</string>
     <string name="float_notification_snooze_strategy">Amaga les notificacions flotants temporalment</string>
-    <string name="fmt_chinese_date">N月e</string>
-    <string name="fmt_date">D</string>
-    <string name="fmt_date_day">d</string>
-    <string name="fmt_date_long_month">MMMM</string>
     <string name="fmt_date_long_month_day">d MMMM</string>
-    <string name="fmt_date_long_year_month">MMMM yyyy</string>
     <string name="fmt_date_long_year_month_day">d MMMM yyyy</string>
-    <string name="fmt_date_numeric_day">d</string>
-    <string name="fmt_date_numeric_month">M</string>
     <string name="fmt_date_numeric_month_day">d/M</string>
-    <string name="fmt_date_numeric_year">yyyy</string>
-    <string name="fmt_date_numeric_year_month">M-yyyy</string>
     <string name="fmt_date_numeric_year_month_day">d-M-yyyy</string>
-    <string name="fmt_date_short_month">MMM</string>
     <string name="fmt_date_short_month_day">d MMM</string>
-    <string name="fmt_date_short_year_month">MMM yyyy</string>
     <string name="fmt_date_short_year_month_day">dd MMM yyyy</string>
-    <string name="fmt_date_time">D T</string>
-    <string name="fmt_date_time_timezone">D T z</string>
-    <string name="fmt_date_timezone">D z</string>
-    <string name="fmt_date_year">yyyy</string>
-    <string name="fmt_time">T</string>
     <string name="fmt_time_12hour">"h 'en punt'"</string>
-    <string name="fmt_time_12hour_minute">h:mm</string>
-    <string name="fmt_time_12hour_minute_pm">h:mm a</string>
-    <string name="fmt_time_12hour_minute_second">h:mm:ms</string>
-    <string name="fmt_time_12hour_minute_second_millis">h:mm:ss.S</string>
-    <string name="fmt_time_12hour_minute_second_millis_pm">h:mm:ss.S a</string>
-    <string name="fmt_time_12hour_minute_second_pm">h:mm:ss a</string>
-    <string name="fmt_time_12hour_pm">ha</string>
     <string name="fmt_time_24hour">"H 'en punt'"</string>
-    <string name="fmt_time_24hour_minute">H:mm</string>
-    <string name="fmt_time_24hour_minute_second">H:mm:ss</string>
-    <string name="fmt_time_24hour_minute_second_millis">H:mm:ss.S</string>
-    <string name="fmt_time_millis">"S'ms'"</string>
-    <string name="fmt_time_minute">"m'min'"</string>
-    <string name="fmt_time_minute_second">"m'min' s's'"</string>
-    <string name="fmt_time_minute_second_millis">"m'min' s.S's'"</string>
-    <string name="fmt_time_second">"s's'"</string>
-    <string name="fmt_time_second_millis">"s.S's'"</string>
-    <string name="fmt_time_timezone">T z</string>
-    <string name="fmt_timezone">z</string>
-    <string name="fmt_weekday">W</string>
-    <string name="fmt_weekday_date">W, D</string>
-    <string name="fmt_weekday_date_time">W, D T</string>
-    <string name="fmt_weekday_date_time_timezone">W, D T z</string>
-    <string name="fmt_weekday_date_timezone">W, D z</string>
-    <string name="fmt_weekday_long">EEEE</string>
-    <string name="fmt_weekday_short">E</string>
-    <string name="fmt_weekday_time">W T</string>
-    <string name="fmt_weekday_time_timezone">W T z</string>
-    <string name="fmt_weekday_timezone">W z</string>
     <string name="font_scaling_dialog_title">Cos de font</string>
     <string name="font_scaling_larger">Amplia</string>
     <string name="font_scaling_smaller">Redueix</string>
@@ -784,10 +728,7 @@ Després de suprimir-los, hauràs de tornar a configurar Desbloqueig amb empremt
     <string name="gxzw_quick_open_skip_teach">Ometre el tutorial</string>
     <string name="gxzw_quick_open_title">S\'ha obert el menú de dreceres</string>
     <string name="gxzw_quick_open_wechat_pay">Codi de pagament</string>
-    <string name="gxzw_quick_open_wechat_pay_sub">WeChat</string>
     <string name="gxzw_quick_open_wechat_scan">Escàner</string>
-    <string name="gxzw_quick_open_wechat_scan_sub">WeChat</string>
-    <string name="gxzw_quick_open_xiaoai_sub">Mi IA</string>
     <string name="gxzw_quick_open_xiaoai_title1">Digueu el nom de l\'aplicació que voleu obrir</string>
     <string name="gxzw_quick_open_xiaoai_title2">Digueu el nom de la funció que voleu utilitzar</string>
     <string name="gxzw_quick_tip_press">Seguiu prement…</string>
@@ -863,7 +804,6 @@ Toca per obtenir més informació"</string>
     <string name="invalid_charger_text">Fes servir el carregador original del dispositiu</string>
     <string name="invalid_charger_title">"No es pot carregar per USB"</string>
     <string name="item_view_role_description">Tabulador</string>
-    <string name="keyboard_key">\"</string>
     <string name="keyboard_key_back">Enrere</string>
     <string name="keyboard_key_backspace">Retrocés</string>
     <string name="keyboard_key_button_template">Botó %1$s</string>
@@ -900,7 +840,6 @@ Toca per obtenir més informació"</string>
     <string name="keyboard_shortcut_group_applications_email">Correu electrònic (Gmail com a predeterminat)</string>
     <string name="keyboard_shortcut_group_applications_maps">Maps</string>
     <string name="keyboard_shortcut_group_applications_music">Música</string>
-    <string name="keyboard_shortcut_group_applications_sms">SMS</string>
     <string name="keyboard_shortcut_group_input">Entrada</string>
     <string name="keyboard_shortcut_group_system">Sistema</string>
     <string name="keyboard_shortcut_group_system_back">Enrere</string>
@@ -920,7 +859,6 @@ Toca per obtenir més informació"</string>
     <string name="keyboardview_keycode_enter">Retorn</string>
     <string name="keyguard_accessibility_pin_area">Zona del PIN</string>
     <string name="keyguard_charged">Bateria carregada</string>
-    <string name="keyguard_charging_battery_level">%s%%</string>
     <string name="keyguard_charging_double_fast_and_level_tip">Augmentar la velocitat de càrrega %s</string>
     <string name="keyguard_charging_normal_and_level_tip">Carregant %d%%</string>
     <string name="keyguard_charging_quick_and_level_tip">Càrrega ràpida %d%%</string>
@@ -1010,7 +948,6 @@ Toca per obtenir més informació"</string>
     <string name="left_icon">Icona de l\'esquerra</string>
     <string name="left_keycode">Codi de tecla de l\'esquerra</string>
     <string name="left_nav_bar_button_type">Tipus de botó addicional de l\'esquerra</string>
-    <string name="legacy_vpn_name">VPN</string>
     <string name="letterbox_education_dialog_title">Consulta i fes més coses</string>
     <string name="letterbox_education_got_it">Entesos</string>
     <string name="letterbox_education_reposition_text">Fes doble toc fora d\'una aplicació per canviar-ne la posició</string>
@@ -1066,8 +1003,6 @@ Encara que no permetis que aquesta aplicació accedeixi a tots els registres del
     <string name="material_clock_toggle_content_description">Selecciona a. m. o p. m.</string>
     <string name="material_slider_range_end">Final de l’interval,</string>
     <string name="material_slider_range_start">Inici de l’interval,</string>
-    <string name="material_timepicker_am">a. m.</string>
-    <string name="material_timepicker_pm">p. m.</string>
     <string name="media_move_closer_to_end_cast">Per reproduir contingut aquí, apropa\'l a %1$s</string>
     <string name="media_move_closer_to_start_cast">Mou més a prop per reproduir a %1$s</string>
     <string name="media_output_broadcast">Emet</string>
@@ -1120,7 +1055,6 @@ Encara que no permetis que aquesta aplicació accedeixi a tots els registres del
     <string name="media_transfer_undo">Desfés</string>
     <string name="media_transfer_wired_usb_device_name">Auriculars amb cable</string>
     <string name="megabyte_per_second">MB/s</string>
-    <string name="messages_count_overflow_indicator">%d+</string>
     <string name="mic_and_camera_recording_announcement">La càmera i el micròfon estan gravant</string>
     <string name="mic_camera_stopped_recording_announcement">La càmera i el micròfon han deixat de gravar</string>
     <string name="mic_recording_announcement">El micròfon està gravant</string>
@@ -1169,10 +1103,6 @@ d/M"</string>
     <string name="miui_snooze_user_set_fail">Aneu a Configuració &gt; Notificacions i Centre de control per obtenir més opcions</string>
     <string name="miui_snooze_user_set_success">S\'ha aplicat correctament. Aneu a Configuració &gt; Notificacions i Centre de control per obtenir més opcions.</string>
     <string name="miui_unimportant_notifications">Notificacions anteriors</string>
-    <string name="miui_vertical_time_format_12">"hh
-mm"</string>
-    <string name="miui_vertical_time_format_24">"HH
-mm"</string>
     <string name="miuix_access_state_desc">Seleccionat</string>
     <string name="miuix_appcompat_action_mode_select_all">Seleccioneu-ho tot</string>
     <string name="miuix_appcompat_cancel_description">Cancel·leu</string>
@@ -1180,7 +1110,6 @@ mm"</string>
     <string name="miuix_appcompat_delete_description">Suprimeix</string>
     <string name="miuix_appcompat_deselect_all_description">Desseleccioneu-ho tot</string>
     <string name="miuix_appcompat_select_all_description">Seleccioneu-ho tot</string>
-    <string name="mobile_carrier_text_format">%1$s, %2$s</string>
     <string name="mobile_data">Dades mòbils</string>
     <string name="mobile_data_connection_active">Connectat</string>
     <string name="mobile_data_disable_message">No tindràs accés a dades ni a Internet mitjançant %s. Internet només estarà disponible per Wi-Fi.</string>
@@ -1191,7 +1120,6 @@ mm"</string>
     <string name="mobile_data_poor_connection">Connexió feble</string>
     <string name="mobile_data_settings_title">Dades mòbils</string>
     <string name="mobile_data_temp_connection_active">Connexió temporal</string>
-    <string name="mobile_data_text_format">%1$s - %2$s</string>
     <string name="monday">dilluns</string>
     <string name="monday_short">dl.</string>
     <string name="monday_shortest">dl.</string>
@@ -1219,7 +1147,6 @@ Per obtenir més informació, contacta amb l'administrador de TI."</string>
     <string name="monitoring_description_personal_profile_named_vpn">Les aplicacions personals es connecten a Internet a través de %1$s. El teu proveïdor de VPN pot veure l\'activitat de la teva xarxa, inclosos els correus electrònics i les dades de navegació.</string>
     <string name="monitoring_description_two_named_vpns">Aquest dispositiu es connecta a Internet a través de %1$s i %2$s. El teu administrador de TI pot veure la teva activitat de xarxa, inclosos els correus electrònics i les dades de navegació.</string>
     <string name="monitoring_description_vpn_settings">Obre la configuració de la VPN</string>
-    <string name="monitoring_description_vpn_settings_separator">" "</string>
     <string name="monitoring_financed_description_named_management">"És possible que %1$s pugui accedir a les dades associades a aquest dispositiu, gestionar-ne les aplicacions i canviar-ne la configuració.
 
 Si tens cap pregunta, contacta amb %2$s."</string>
@@ -1363,9 +1290,7 @@ Si tens cap pregunta, contacta amb %2$s."</string>
     <string name="notification_disclosure_vpn_text">Mitjançant %1$s</string>
     <string name="notification_group_collapse_button_text">Desplega</string>
     <string name="notification_group_overflow_description">{count,plural, =1{# notificació més a l\'interior.}many{# notificacions més a l\'interior.}other{# notificacions més a l\'interior.}}</string>
-    <string name="notification_group_overflow_indicator">+ %s</string>
     <string name="notification_hidden_text">Teniu un missatge nou</string>
-    <string name="notification_menu_accessibility">%1$s %2$s</string>
     <string name="notification_menu_gear_description">controls de notificació</string>
     <string name="notification_menu_snooze_action">Recorda-m\'ho</string>
     <string name="notification_menu_snooze_description">opcions per posposar la notificació</string>
@@ -1392,7 +1317,6 @@ Si tens cap pregunta, contacta amb %2$s."</string>
     <string name="ongoing_privacy_dialog_last_separator">" i "</string>
     <string name="ongoing_privacy_dialog_phonecall">Trucada</string>
     <string name="ongoing_privacy_dialog_recent_op">Utilitzat recentment per %1$s</string>
-    <string name="ongoing_privacy_dialog_separator">", "</string>
     <string name="ongoing_privacy_dialog_using_op">%1$s ho està utilitzant</string>
     <string name="open_camera_hint_text">Arrossegueu la icona per obrir la Càmera</string>
     <string name="open_lock_screen_magazine_hint_text">Feu lliscar el dit cap a la dreta per obtenir més opcions</string>
@@ -1470,7 +1394,6 @@ Si tens cap pregunta, contacta amb %2$s."</string>
 - Bloqueja totes les notificacions de l'aplicació"</string>
     <string name="power_remaining_duration_only_short">Falten %1$s</string>
     <string name="preference_copied">\"%1$s\" s\'ha copiat al porta-retalls</string>
-    <string name="preference_summary_default_combination">%1$s / %2$s</string>
     <string name="priority_conversations">Converses prioritàries</string>
     <string name="priority_mode_dream_overlay_content_description">El mode Prioritat està activat</string>
     <string name="privacy_dialog_title">Notificacions sobre accions sensibles</string>
@@ -1484,8 +1407,6 @@ Si tens cap pregunta, contacta amb %2$s."</string>
     <string name="qr_code_scanner_title">Escàner de codis QR</string>
     <string name="qr_code_scanner_updating_secondary_label">S\'està actualitzant</string>
     <string name="qs_alarm_tile_no_alarm">Cap alarma definida</string>
-    <string name="qs_bill_message_balance">%1$s %2$s restant</string>
-    <string name="qs_bill_message_unit_cny">CNY</string>
     <string name="qs_control_big_tile_state_connected">Connectat</string>
     <string name="qs_control_big_tile_state_connecting">Connectant…</string>
     <string name="qs_control_big_tile_state_opening">Engegant…</string>
@@ -1827,8 +1748,6 @@ Si tens cap pregunta, contacta amb %2$s."</string>
     <string name="status_bar_clock_date_format_12">E, d MMM</string>
     <string name="status_bar_clock_date_time_format">E, d MMM H:mm</string>
     <string name="status_bar_clock_date_time_format_12">E, d MMM h:mm a</string>
-    <string name="status_bar_clock_date_weekday_format_12_brief">@string/status_bar_clock_date_format_12</string>
-    <string name="status_bar_clock_date_weekday_format_brief">@string/status_bar_clock_date_format</string>
     <string name="status_bar_ethernet">Ethernet</string>
     <string name="status_bar_settings_auto_rotation">Gira la pantalla automàticament</string>
     <string name="status_bar_work">Perfil de treball</string>
@@ -1851,7 +1770,6 @@ Si tens cap pregunta, contacta amb %2$s."</string>
     <string name="sud_back_button_label">Esquena</string>
     <string name="sud_more_button_label">Més</string>
     <string name="sud_next_button_label">Proper</string>
-    <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="sunday">diumenge</string>
     <string name="sunday_short">dg.</string>
     <string name="sunday_shortest">dg.</string>
@@ -1883,8 +1801,6 @@ Toca per obtenir més informació"</string>
     <string name="thursday_short">dj.</string>
     <string name="thursday_shortest">dj.</string>
     <string name="tile_unavailable">No disponible</string>
-    <string name="time_picker_label_hour">H</string>
-    <string name="time_picker_label_minute">M</string>
     <string name="tip_close_flares">"No rebràs notificacions sobre el comportament de l'aplicació durant aquesta sessió"</string>
     <string name="title_usb_accessory">Accessori USB</string>
     <string name="to_switch_networks_disconnect_ethernet">Per canviar de xarxa, desconnecta la connexió Ethernet</string>
@@ -2038,7 +1954,6 @@ Adreça Wi‑Fi (BSSID)
     <string name="wifitrackerlib_osu_sign_up_failed">No s\'ha pogut completar el registre. Toca per tornar-ho a provar.</string>
     <string name="wifitrackerlib_private_dns_broken">No es pot accedir al servidor DNS privat</string>
     <string name="wifitrackerlib_saved_network">Desada per %1$s</string>
-    <string name="wifitrackerlib_summary_separator">" / "</string>
     <string name="wifitrackerlib_tap_to_renew_subscription_and_connect">Toca per renovar la subscripció i connectar-te</string>
     <string name="wifitrackerlib_tap_to_sign_up">Toca per registrar-te</string>
     <string name="wifitrackerlib_wifi_ap_unable_to_handle_new_sta">El punt d\'accés està temporalment ple</string>
