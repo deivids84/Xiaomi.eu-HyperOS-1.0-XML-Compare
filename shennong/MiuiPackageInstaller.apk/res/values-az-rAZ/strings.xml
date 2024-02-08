@@ -913,7 +913,6 @@ gəldiyini bilin"</string>
     <string name="the_armed_forces_day">Silahlı Qüvvələr Günü</string>
     <string name="the_armys_day">Ordu Günü</string>
     <string name="the_childrens_day">"Uşaqlar Günü"</string>
-    <string name="the_chinese_youth_day">Gənclər Günü</string>
     <string name="the_christmas_day">Milad</string>
     <string name="the_double_ninth_festival">İkiqat Doqquzuncu Festivalı</string>
     <string name="the_dragon_boat_festival">Dragon Boat Festivalı</string>
@@ -995,7 +994,6 @@ gəldiyini bilin"</string>
     <string name="unrecorded_risk_app">Risklər aşkarlandı</string>
     <string name="unrecorded_risk_app_description">Bu tətbiqin quraşdırılması müvafiq tənzimləyici tələblərə uyğun olaraq qadağandır</string>
     <string name="unrecorded_risk_app_description_2">Bir tərtibatçı kimi, apellyasiya şikayəti verə bilərsiniz</string>
-    <string name="unrecorded_risk_app_description_temp">该应用未依照国家政策进行备案，可能存在网络诈骗、病毒、获取用户隐私信息等恶意行为！</string>
     <string name="untrusted_external_source_title">\"%1$s\" üçün tətbiqləri quraşdırma icazəsi verilsin?</string>
     <string name="untrusted_external_source_warning_summary">Cihazınız və şəxsi məlumatlarınız bilinməyən tətbiqlərin hücumlarına qarşı daha həssasdır. Bu mənbədən tətbiqləri quraşdıraraq, cihazınıza dəyən istənilən zərərə və onların istifadəsi nəticəsində yarana biləcək məlumat itkisinə görə məsuliyyət daşıdığınızı qəbul edirsiniz.</string>
     <string name="update_start">Güncəllə</string>
