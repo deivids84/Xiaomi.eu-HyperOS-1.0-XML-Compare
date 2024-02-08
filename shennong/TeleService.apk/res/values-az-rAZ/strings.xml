@@ -630,7 +630,6 @@
     <string name="deleting_fdn_contact">Sabit yığım nömrəsi silinir…</string>
     <string name="description_delete_button">backspace</string>
     <string name="description_dial_button">Yığ</string>
-    <string name="description_dialpad_back">Geri naviqasiya edin</string>
     <string name="description_dialpad_button">yığım panelini göstərin</string>
     <string name="description_dialpad_overflow">Daha çox seçim</string>
     <string name="description_image_button_eight">səkkiz</string>
