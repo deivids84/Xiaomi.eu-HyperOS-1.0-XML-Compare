@@ -176,7 +176,6 @@
     <string name="public_2pic">Təsvirə köçür</string>
     <string name="public_amazon_autosave_finished">Sənəd avtomatik saxlanıb</string>
     <string name="public_bad_doc_to_process">"Yararsız sənəd, əməliyyat tamamlana bilmir"</string>
-    <string name="public_banner_action_button">立即使用</string>
     <string name="public_bookmark">Əlfəcin</string>
     <string name="public_cancel">İmtina</string>
     <string name="public_chart_category">Kateqoriyalar</string>
@@ -299,13 +298,8 @@
     <string name="public_sensor_ratation_port_tip">Şaquli yön</string>
     <string name="public_service_disable_error_tips">"Əlaqəli xidmət sıradan çıxarıldığı üçün bu özəllik istifadə edilə bilmir."</string>
     <string name="public_share">Paylaş</string>
-    <string name="public_share_change_to_pdf">PDF faylı</string>
-    <string name="public_share_change_to_pic">以图片发送</string>
-    <string name="public_share_change_to_word">以Word发送</string>
-    <string name="public_share_doc">以文件发送</string>
     <string name="public_share_no_network">"Şəbəkəyə bağlana bilmədi"</string>
     <string name="public_share_retry">Yenidən sına</string>
-    <string name="public_share_title">发送方式</string>
     <string name="public_shareplay_connect_fail">Şəbəkə bağlantınızı yoxlayın</string>
     <string name="public_shareplay_connection">Bağlantı qurulur…</string>
     <string name="public_shareplay_paly_bar">Proyeksiya</string>
@@ -349,7 +343,6 @@
     <string name="reader_writer_table_edit_add_row">sətir əlavə et</string>
     <string name="search_menu_title">Axtar</string>
     <string name="ss_card_mode_filter_title_text">Göstəriləcək elementləri seçin</string>
-    <string name="wps_lite_app_version">3.6.4</string>
     <string name="wps_lite_xiaomi_app_packageName">Mi Doc Viewer (WPS tərəfindən təmin edilir)</string>
     <string name="writer_characters">Simvollar (boşluqsuz)</string>
     <string name="writer_characters_with_spaces">Simvollar (boşluqla)</string>
