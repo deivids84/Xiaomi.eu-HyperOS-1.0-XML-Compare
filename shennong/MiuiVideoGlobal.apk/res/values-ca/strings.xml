@@ -143,7 +143,6 @@
     <string name="cast_forward">Avança</string>
     <string name="cast_forward_10">Avança 10 segons</string>
     <string name="cast_forward_30">Avança 30 segons</string>
-    <string name="cast_intro_overlay_button_text">\@android:string/ok</string>
     <string name="cast_live_label">EN DIRECTE</string>
     <string name="cast_mute">Silencia</string>
     <string name="cast_notification_connected_message">S\'ha connectat a %1$s</string>
@@ -205,8 +204,6 @@
     <string name="columbus_player_speed_video">Omet VIDEO</string>
     <string name="columbus_player_unit_sec">seg</string>
     <string name="columbus_skip_ad">Omet</string>
-    <string name="com.crashlytics.android.build_id">1c1c1e5f65e846aca198836853cc95a6</string>
-    <string name="com.miapm.build_id">66cbcc2afcb64935aaf96438600099bb</string>
     <string name="com_permission_desc">"Mi Vídeo no pot accedir als vídeos del teu dispositiu. Permet l'accés a Configuració."</string>
     <string name="com_permission_title">Permisos necessaris</string>
     <string name="comment_model_add_comment">Afegir un comentari</string>
@@ -405,9 +402,7 @@ Vídeo Mi ha de recopilar la informació personal necessària per proporcionar-v
     <string name="exo_download_paused_for_network">Descàrregues en espera de xarxa</string>
     <string name="exo_download_paused_for_wifi">Descàrregues esperant WiFi</string>
     <string name="exo_download_removing">S\'estan suprimint les baixades</string>
-    <string name="exo_track_bitrate">%1$.2f Mbps</string>
     <string name="exo_track_mono">Mono</string>
-    <string name="exo_track_resolution">%1$d × %2$d</string>
     <string name="exo_track_role_alternate">Alternar</string>
     <string name="exo_track_role_closed_captions">CC</string>
     <string name="exo_track_role_commentary">Comentari</string>
@@ -1672,7 +1667,6 @@ Només utilitzarem aquest permís per trobar els vídeos que cerqueu i no accedi
     <string name="the_armed_forces_day">Dia de les Forces Armades</string>
     <string name="the_armys_day">Dia de l\'Exèrcit Popular d\'Alliberament</string>
     <string name="the_childrens_day">"Dia de la Infància"</string>
-    <string name="the_chinese_youth_day">Dia de la Joventut</string>
     <string name="the_christmas_day">Nadal</string>
     <string name="the_double_ninth_festival">Festa del Doble Yang</string>
     <string name="the_dragon_boat_festival">Festa de les Barques de Drac</string>
@@ -1968,7 +1962,6 @@ Només utilitzarem aquest permís per trobar els vídeos que cerqueu i no accedi
     <string name="video_live_over">La sessió ha finalitzat</string>
     <string name="video_noyet_download_tip">Aquest vídeo encara s\'està descarregant</string>
     <string name="video_offline">Aquest element ja no està disponible</string>
-    <string name="video_resolution_tag_suffix">%dp</string>
     <string name="view">Veu</string>
     <string name="vip_skip">Sol·licitar VIP per ometre l\'anunci</string>
     <string name="vk_video_tab">Per a tu</string>
