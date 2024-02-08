@@ -361,7 +361,6 @@ Seguretat millorada."</string>
     <string name="layout_guide_description">"Si no us agrada el Calaix d'aplicacions, sempre podeu tornar a la pantalla d'inici clàssica. Només cal que utilitzeu la drecera \"Configuració de la pantalla d'inici\" i canvieu entre els dos modes."</string>
     <string name="layout_guide_tip_title">Podeu tornar a la manera antiga amb un sol toc</string>
     <string name="layout_guide_title">Com treure el Calaix d\'aplicacions</string>
-    <string name="lib_name">Filament Android</string>
     <string name="like">Afegeix-ho als preferits</string>
     <string name="liked">Afegit als preferits</string>
     <string name="local_apps">Aplicacions locals</string>
