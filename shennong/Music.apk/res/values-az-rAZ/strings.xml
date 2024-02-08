@@ -205,8 +205,6 @@
     <string name="columbus_player_speed_video">VİDEONU ötür</string>
     <string name="columbus_player_unit_sec">san</string>
     <string name="columbus_skip_ad">Ötür</string>
-    <string name="com.google.firebase.crashlytics.mapping_file_id">2378f9a9724841528977d9c2f15febee</string>
-    <string name="com.miapm.build_id">22cefad84e6443328b519eaebeb08cba</string>
     <string name="common_google_play_services_enable_button">Fəallaşdır</string>
     <string name="common_google_play_services_enable_text">"Google Play xidmətlərini fəallaşdırana qədər %1$s işləməyəcək."</string>
     <string name="common_google_play_services_enable_title">Google Play xidmətlərini fəallaşdır</string>
@@ -1490,7 +1488,6 @@ Xoşbəxt ol"</string>
     <string name="the_anniversary_of_lifting_martial_law">Hərbi vəziyyət ləğvinin ildönümü</string>
     <string name="the_arbor_day">Ağacəkmə Günü</string>
     <string name="the_armed_forces_day">Silahlı Qüvvələr Günü</string>
-    <string name="the_chinese_youth_day">Gənclər Günü</string>
     <string name="the_double_ninth_festival">İkiqat Doqquzuncu Festivalı</string>
     <string name="the_dragon_boat_festival">Dragon Boat Festivalı</string>
     <string name="the_easter_day">Pasxa</string>
@@ -1735,10 +1732,7 @@ Xoşbəxt ol"</string>
     <string name="video_dislike">Bəyən</string>
     <string name="video_dislike_toast">"Bu tip məzmunu daha az tövsiyə edəcəyik"</string>
     <string name="video_loading_fail">"Video yüklənə bilmədi"</string>
-    <string name="video_play">Video oxutma</string>
     <string name="video_play_cellular">"Cihazınız Wi-Fi-a bağlanmayıb. Mobil internet istifadə edilsin?"</string>
-    <string name="video_preview">Önizləməni oxut</string>
-    <string name="video_remove_logo">Filiqranı sil</string>
     <string name="video_replay_btn">Yenidən oxut</string>
     <string name="video_report">Hesabat</string>
     <string name="video_report_reason_one">Çılpaqlıq və ya cinsi məzmun</string>
@@ -1746,21 +1740,6 @@ Xoşbəxt ol"</string>
     <string name="video_report_reason_two">Zorakı cinayət</string>
     <string name="video_report_toast">Geribildiriminiz üçün təşəkkür edirik</string>
     <string name="video_retry_btn">Yenidən sına</string>
-    <string name="video_reverse">Təkrar oxut</string>
-    <string name="video_rotate">Döndər</string>
-    <string name="video_screen_record">Ekran yazma</string>
-    <string name="video_screen_shot">Video ekran şəkli</string>
-    <string name="video_sharp">Video kəskinliyi</string>
-    <string name="video_sketch">Eskiz</string>
-    <string name="video_slow">Yavaşlandırılmış</string>
-    <string name="video_speed">Sürəti</string>
-    <string name="video_stereo3d">3D video</string>
-    <string name="video_subtitle">Altyazı</string>
-    <string name="video_thumbnail">Üz əlavə et</string>
-    <string name="video_to_gif">GIF-ə çevir</string>
-    <string name="video_transform">Kodlaşdırma</string>
-    <string name="video_water_mark">Filiqran</string>
-    <string name="video_zoom">Görüntü yaxınlaşdırma</string>
     <string name="view_album">Alboma bax</string>
     <string name="vip_required">Bu mahnını oxutmaq üçün Premium Mahnı Paketi alın. İndilik mahnı ötürüldü.</string>
     <string name="vip_required_with_song">%s yalnız Gold üzvləri üçün əlçatandır. İndilik bu mahnı ötürüldü.</string>
@@ -1786,8 +1765,6 @@ Xoşbəxt ol"</string>
 
 Endirməni, Wi-Fi şəbəkəsinə bağlananda başlatmaq üçün %s toxunun."</string>
     <string name="wifi_required_title">Bu faylı endirmək üçün Wi-Fi-a bağlanmalısınız</string>
-    <string name="wrong_audio_format">Səs olmayan fayl</string>
-    <string name="wrong_video_format">Video olmayan fayl</string>
     <string name="yandex_ads_internal_instream_call_to_action">Get ➔</string>
     <string name="yandex_ads_internal_instream_sponsored_social">SOSİAL REKLAM</string>
     <string name="yandex_ads_internal_instream_sponsored_yandex">REKLAM</string>
