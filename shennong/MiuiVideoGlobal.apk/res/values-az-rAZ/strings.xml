@@ -204,8 +204,6 @@
     <string name="columbus_player_speed_video">VİDEONU ötür</string>
     <string name="columbus_player_unit_sec">san</string>
     <string name="columbus_skip_ad">Ötür</string>
-    <string name="com.crashlytics.android.build_id">1c1c1e5f65e846aca198836853cc95a6</string>
-    <string name="com.miapm.build_id">66cbcc2afcb64935aaf96438600099bb</string>
     <string name="com_permission_desc">"Mi Video cihazınızdakı videolara müraciət edə bilmir. Ayarlarda müraciətə icazə verin."</string>
     <string name="com_permission_title">İcazələr tələb olunur</string>
     <string name="comment_model_add_comment">Bir rəy əlavə et</string>
@@ -1668,7 +1666,6 @@ Bu icazəni yalnız axtardığınız videoları tapmaq üçün istifadə edəcə
     <string name="the_armed_forces_day">Silahlı Qüvvələr Günü</string>
     <string name="the_armys_day">Ordu Günü</string>
     <string name="the_childrens_day">"Uşaqlar Günü"</string>
-    <string name="the_chinese_youth_day">Gənclər Günü</string>
     <string name="the_christmas_day">Milad</string>
     <string name="the_double_ninth_festival">İkiqat Doqquzuncu Festivalı</string>
     <string name="the_dragon_boat_festival">Dragon Boat Festivalı</string>
@@ -1999,9 +1996,6 @@ Bu icazəni yalnız axtardığınız videoları tapmaq üçün istifadə edəcə
     <string name="widget_more_channel_click">TV kanallara baxmaq üçün toxunun</string>
     <string name="widget_trending_click">"Bugünün ən məşhur videolarına baxmaq üçün toxunun"</string>
     <string name="widget_trending_today">Bu gün məşhur</string>
-    <string name="yandex_ads_internal_instream_call_to_action">Get ➔</string>
-    <string name="yandex_ads_internal_instream_sponsored_social">SOSİAL REKLAM</string>
-    <string name="yandex_ads_internal_instream_sponsored_yandex">REKLAM</string>
     <string name="year">il</string>
     <string name="yesterday">Dünən</string>
     <string name="yt_subscription_notification_setting_title">Abunəlik bildirişləri</string>
