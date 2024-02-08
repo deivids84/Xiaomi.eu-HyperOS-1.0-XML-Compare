@@ -205,8 +205,6 @@
     <string name="columbus_player_speed_video">Omet VIDEO</string>
     <string name="columbus_player_unit_sec">seg</string>
     <string name="columbus_skip_ad">Omet</string>
-    <string name="com.google.firebase.crashlytics.mapping_file_id">2378f9a9724841528977d9c2f15febee</string>
-    <string name="com.miapm.build_id">22CEFAD84E6443328B519EAEBEB08CBA</string>
     <string name="common_google_play_services_enable_button">Activa</string>
     <string name="common_google_play_services_enable_text">"%1$s no funcionarà si no actives Serveis de Google Play."</string>
     <string name="common_google_play_services_enable_title">Activa Serveis de Google Play</string>
@@ -1246,7 +1244,6 @@
     <string name="privacy_authorize_revoking">S\'està revocant l\'autorització…</string>
     <string name="privacy_desc">Polítiques de privadesa (obligatori)</string>
     <string name="privacy_policy">Política de privadesa</string>
-    <string name="privacy_policy_url">http://www.miui.com/res/doc/privacy.html?lang=ca_ES</string>
     <string name="privacy_request_desc">&lt;Data&gt;Mi Música necessita recopilar la informació personal necessària per proporcionar-vos serveis de transmissió en línia. Podeu obtenir informació sobre com gestionem la informació que recopilem a la nostra &lt;a href=\"%1$s\"&gt;Política de privadesa&lt;/a&gt;. Podeu retirar el vostre consentiment a la Política de privadesa de Mi Música a la configuració en qualsevol moment
 Llegiu i accepteu el nostre &lt;a href=\"%2$s\"&gt;Acord d\'usuari&lt;/a&gt; i la &lt;a href=\"%1$s\"&gt;Política de privades &lt;/a&gt; abans d\'utilitzar Mi Música.
 Si no accepteu utilitzar els serveis esmentats, no podreu utilitzar algunes funcions d\'aquesta aplicació; tanmateix, la seva funcionalitat bàsica encara estarà disponible.&lt;/Data&gt;</string>
@@ -1493,7 +1490,6 @@ Sigues Feliç"</string>
     <string name="the_anniversary_of_lifting_martial_law">Aniversari de l\'aixecament de la llei marcial</string>
     <string name="the_arbor_day">Dia de l\'arbre</string>
     <string name="the_armed_forces_day">Dia de les forces armades</string>
-    <string name="the_chinese_youth_day">Dia de la joventut</string>
     <string name="the_double_ninth_festival">Festa del Doble Yang</string>
     <string name="the_dragon_boat_festival">Festa de les Barques de Drac</string>
     <string name="the_easter_day">Pasqua</string>
@@ -1722,7 +1718,6 @@ Sigues Feliç"</string>
     <string name="upload_playlist_to_hungama_negative_text">"No sincronitzis"</string>
     <string name="upload_playlist_to_hungama_positive_text">Sincronitza</string>
     <string name="user_agreement">Acord d\'usuari</string>
-    <string name="user_agreement_url">http://www.miui.com/res/doc/eula.html?lang=ca_ES</string>
     <string name="user_experience_program_open">A causa de les restriccions de drets d\'autor, cal inscriure\'s al Programa d\'experiència d\'usuari per poder reproduir les cançons baixades. Podeu fer-ho a Configuració &gt; Contrasenyes i seguretat &gt; Privadesa &gt; Inscriure\'s al programa d\'experiència d\'usuari.</string>
     <string name="user_playlist_plaza">Llistes de reproducció</string>
     <string name="user_privacy_dialog_negative_text">Cancel·leu</string>
