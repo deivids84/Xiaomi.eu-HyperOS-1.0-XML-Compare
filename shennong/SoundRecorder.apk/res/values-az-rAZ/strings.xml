@@ -111,7 +111,6 @@
     <string name="head_set_tip_dialog_msg">Xüsusi ön tənzm. olan səsləri (məs. Musiqi, Səs) yazmaq üçün qulaqlıqlarınızı ayırın.</string>
     <string name="head_set_tip_dialog_ok">Anladım</string>
     <string name="head_set_tip_dialog_title">Daxili mikrofonu istifadə edin</string>
-    <string name="hide_bottom_view_on_scroll_behavior">miuix.android.miracle.behavior.HideBottomViewOnScrollBehavior</string>
     <string name="high_bit_rate">MP3, ~%1$d kbps, ~%2$d MB/saat</string>
     <string name="icon_content_description">Dialoq nişanı</string>
     <string name="invisible_mode_dialog_message">"Gizli rejimdə olarkən mikrofonu istifadə edə bilməzsiniz. Əvvəlcə Gizli rejimi söndürün."</string>
@@ -457,7 +456,6 @@
     <string name="the_armed_forces_day">Silahlı Qüvvələr Günü</string>
     <string name="the_armys_day">Ordu Günü</string>
     <string name="the_childrens_day">"Uşaqlar Günü"</string>
-    <string name="the_chinese_youth_day">Gənclər Günü</string>
     <string name="the_christmas_day">Milad</string>
     <string name="the_double_ninth_festival">İkiqat Doqquzuncu Festivalı</string>
     <string name="the_dragon_boat_festival">Dragon Boat Festivalı</string>
