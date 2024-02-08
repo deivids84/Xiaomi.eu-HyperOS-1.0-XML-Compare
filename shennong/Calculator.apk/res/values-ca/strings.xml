@@ -354,7 +354,6 @@ Els TIPP d’un any i cinc anys es cotitzaran el dia 20 de cada mes (es poden pr
     <string name="statistic_label_yearly">Anualment</string>
     <string name="statistic_year">Any %d</string>
     <string name="suggest_weight">Pes suggerit (kg)</string>
-    <string name="suggest_weight_format">%1$s ~ %2$skg</string>
     <string name="sunday_shortest">dg.</string>
     <string name="super_fat">Obesitat</string>
     <string name="support_elder">Ajudes per a la gent gran</string>
