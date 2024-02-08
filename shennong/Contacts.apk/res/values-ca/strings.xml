@@ -1043,7 +1043,6 @@ Premeu \"%1$s\", i més tard seleccioneu \"%2$s\"."</string>
     <string name="remove_duplicate">"Aquesta funció us ajuda a trobar i combinar contactes duplicats.
 
 Per començar, toqueu \"Combina\" a la part inferior de la pantalla."</string>
-    <string name="required_permissions">android.permission.WRITE_CONTACTS;android.permission.READ_CONTACTS;android.permission.WRITE_CALL_LOG;android.permission.READ_CALL_LOG;android.permission.READ_PHONE_STATE;android.permission.CALL_PHONE;android.permission.POST_NOTIFICATIONS</string>
     <string name="residual_time_description">%1$sdia%2$shora</string>
     <string name="restore_app_btn_cancel">Cancel·leu</string>
     <string name="restore_app_btn_restore">D\'acord</string>
