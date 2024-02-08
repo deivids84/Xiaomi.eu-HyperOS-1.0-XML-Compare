@@ -103,7 +103,6 @@
     <string name="label_pages">Páginas</string>
     <string name="label_paper_size">Papel</string>
     <string name="label_paper_size_summary">Tamaño de papel:</string>
-    <string name="mediasize_default">NA_LETTER</string>
     <string name="midnight">Noche</string>
     <string name="miuix_access_state_desc">Seleccionado</string>
     <string name="miuix_alphabet_indexer_name">Barra de índices</string>
