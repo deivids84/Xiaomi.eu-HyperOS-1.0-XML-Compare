@@ -599,8 +599,6 @@ Toqueu aquí per iniciar la sessió ara."</string>
     <string name="mine_tab_title_purchase">Comandes</string>
     <string name="miui_clock_city_name_local">Local</string>
     <string name="miui_clock_city_name_second">Segon rellotge</string>
-    <string name="miui_clock_fancy_colon"></string>
-    <string name="miui_digital_clock_dot">:</string>
     <string name="miui_lock_screen_date">EEE, MMM dd</string>
     <string name="miui_lock_screen_date_12">EEE, MMM dd</string>
     <string name="miui_lock_screen_date_two_lines">"MMM dd
@@ -1340,7 +1338,6 @@ Podeu concedir aquest permís a Configuració &gt; Privadesa."</string>
     <string name="the_anniversary_of_lifting_martial_law">Aniversari de l\'aixecament de la llei marcial</string>
     <string name="the_arbor_day">Dia de l\'arbre</string>
     <string name="the_armed_forces_day">Dia de les forces armades</string>
-    <string name="the_chinese_youth_day">Dia de la joventut</string>
     <string name="the_double_ninth_festival">Festa del Doble Yang</string>
     <string name="the_dragon_boat_festival">Festa de les Barques de Drac</string>
     <string name="the_easter_day">Pasqua</string>
