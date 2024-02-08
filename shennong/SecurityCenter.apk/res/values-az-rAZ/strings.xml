@@ -2056,14 +2056,6 @@ könüllüsü"</string>
     <string name="fmt_date_short_year_month_day">d MMM, yyyy</string>
     <string name="fmt_time_12hour">"hh"</string>
     <string name="fmt_time_24hour">"HH"</string>
-    <string name="fmt_time_second_millis">"s.S's'"</string>
-    <string name="fmt_time_timezone">T z</string>
-    <string name="fmt_weekday_date">W, D</string>
-    <string name="fmt_weekday_date_time">W, D T</string>
-    <string name="fmt_weekday_date_time_timezone">W, D T z</string>
-    <string name="fmt_weekday_date_timezone">W, D z</string>
-    <string name="fmt_weekday_time_timezone">W T z</string>
-    <string name="fmt_weekday_timezone">W z</string>
     <string name="fod_authentication_shift_button">İmtina</string>
     <string name="fod_button_finger">Barmaq izi istifadə et</string>
     <string name="fod_button_password">Parolu daxil edin</string>
@@ -2947,20 +2939,6 @@ gözlənilir"</string>
     <string name="malicious_chain">Zəncir sazlama</string>
     <string name="malicious_cold_start">Soyuq başlama</string>
     <string name="malicious_hot_start">İsti başlama</string>
-    <string name="malicious_keyguard_show">Kilid ekranı görüntüsü</string>
-    <string name="malicious_push_notification">Ani bildiriş</string>
-    <string name="malicious_read_calendar">Təqvimi oxu</string>
-    <string name="malicious_read_contacts">Kontaktları oxu</string>
-    <string name="malicious_read_phone_info">Telefon məlumatlarını oxu</string>
-    <string name="malicious_read_sms">SMS oxu</string>
-    <string name="malicious_run_long">Uzun işləmə</string>
-    <string name="malicious_system_grant_third_uri">Sistem tərəfindən səlahiyyət verilən üçüncü tərəf Uri</string>
-    <string name="malicious_system_third_call">Sistem və üçüncü tərəf tətbiqləri arasında qarşılıqlı əlaqə</string>
-    <string name="malicious_time_bg_run">Arxaplan vaxtı</string>
-    <string name="malicious_time_fg_run">Önplan vaxtı</string>
-    <string name="malicious_use_native">Təbii işləmə</string>
-    <string name="malicious_win_large">Pəncərə çox böyükdür</string>
-    <string name="malicious_win_small">Pəncərə çox kiçikdir</string>
     <string name="man_add_application">Avto-başladılan tətbiqləri əllə əlavə edin</string>
     <string name="manage_hybrid_permissions">"Tətbiq icazələrini idarə et"</string>
     <string name="managed_user_title">Bütün iş tətbiqləri</string>
@@ -5389,16 +5367,6 @@ Razılıq indi geri götürülsün?"</string>
     <string name="storage_clear_cache_large">%s yer aç</string>
     <string name="storage_clear_more_tools">Daha çox təmizləmə alətləri</string>
     <string name="storage_clear_video">Video keşini təmizlə</string>
-    <string name="storage_click_apk">Quraşdırma paketi</string>
-    <string name="storage_click_app">Tətbiqlər və məlumatlar</string>
-    <string name="storage_click_audio">Səs</string>
-    <string name="storage_click_deep_clean">Dərin təmizlik</string>
-    <string name="storage_click_file">Fayl</string>
-    <string name="storage_click_memory_expansion">Yaddaş genişləndirmə</string>
-    <string name="storage_click_pic">Şəkil</string>
-    <string name="storage_click_system_data">Sistem məlumatları</string>
-    <string name="storage_click_system_log">Sistem jurnalı</string>
-    <string name="storage_click_video">Video</string>
     <string name="storage_compact_warning">Çoxlu icazələri ayarlama</string>
     <string name="storage_compact_warning_desc">Bu tətbiq üçün foto, video və səs icazələri eyni vaxtda dəyişdirilməlidir. Bu icazələrdən birinin dəyişdirilməsi, onların hamısını dəyişdirəcək.</string>
     <string name="storage_deepclean_entry">Dərin təmizlik</string>
@@ -5411,9 +5379,6 @@ Bu ^1 istifadə etmək üçün əvvəlcə onu taxmalısınız."</string>
     <string name="storage_dialog_unsupported">"^1 bu cihaz tərəfindən dəstəklənmir. 
 
 Bu cihaz ilə ^1 istifadə etmək üçün əvvəlcə onu quraşdırmalısınız."</string>
-    <string name="storage_entry_file">Fayl meneceri</string>
-    <string name="storage_entry_other">Digər</string>
-    <string name="storage_entry_setting">Tənzimlə</string>
     <string name="storage_fbo_clear">Anbar təzələmə</string>
     <string name="storage_fbo_des">"Daxili anbarda parçalanma var, bu da cihazınızı əhəmiyyətli dərəcədə yavaşlandıra bilər. Anbar təzələmə, siz cihazı istifadə etmədiyiniz müddətdə avtomatik işləyir. Fayllarınızı fiziki olaraq gecikməni azaldan ən kiçik fraqment sayına görə düzür."</string>
     <string name="storage_fbo_number_tip">%1$s tarixində emal olundu</string>
@@ -5736,7 +5701,6 @@ Format zamanı ^2 daxilindəki mövcud məzmun silinəcək. Məzmunu itirməmək
     <string name="the_armed_forces_day">Silahlı Qüvvələr Günü</string>
     <string name="the_armys_day">Ordu Günü</string>
     <string name="the_childrens_day">"Uşaqlar Günü"</string>
-    <string name="the_chinese_youth_day">Gənclər Günü</string>
     <string name="the_christmas_day">Milad</string>
     <string name="the_double_ninth_festival">İkiqat Doqquzuncu Festivalı</string>
     <string name="the_dragon_boat_festival">Dragon Boat Festivalı</string>
