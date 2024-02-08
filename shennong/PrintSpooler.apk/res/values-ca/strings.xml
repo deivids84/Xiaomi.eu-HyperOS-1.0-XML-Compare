@@ -103,7 +103,6 @@
     <string name="label_pages">Pàgines</string>
     <string name="label_paper_size">Mida del paper</string>
     <string name="label_paper_size_summary">Mida del paper:</string>
-    <string name="mediasize_default">NA_LETTER</string>
     <string name="midnight">Nit</string>
     <string name="miuix_access_state_desc">Seleccionat</string>
     <string name="miuix_alphabet_indexer_name">Barra d\'índex</string>
