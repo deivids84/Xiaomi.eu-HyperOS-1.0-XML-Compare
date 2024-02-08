@@ -402,7 +402,6 @@ Toque para volver a montar"</string>
     <string name="close_button_text">Cerrar</string>
     <string name="close_text">Cerrar</string>
     <string name="collapse_menu_text">Cerrar menú</string>
-    <string name="config_navBarLayoutHandle">atrás[70AC]; home_handle; ime_switcher[70AC]</string>
     <string name="confirm">Aceptar</string>
     <string name="controls_confirmation_message">Confirmar cambio para %s</string>
     <string name="controls_dialog_message">Sugerido por %s</string>
@@ -1290,9 +1289,7 @@ Si tiene preguntas, comuníquese con %2$s."</string>
     <string name="notification_disclosure_vpn_text">Vía %1$s</string>
     <string name="notification_group_collapse_button_text">Contraer</string>
     <string name="notification_group_overflow_description">{count, plural, =1 {# notificaciones más dentro.} other {# notificaciones más dentro.} }</string>
-    <string name="notification_group_overflow_indicator">%s más</string>
     <string name="notification_hidden_text">Tiene un nuevo mensaje</string>
-    <string name="notification_menu_accessibility">%2$s de %1$s</string>
     <string name="notification_menu_gear_description">controles de notificación</string>
     <string name="notification_menu_snooze_action">Recuérdame</string>
     <string name="notification_menu_snooze_description">opciones para posponer notificaciones</string>
@@ -1396,7 +1393,6 @@ Si tiene preguntas, comuníquese con %2$s."</string>
 - Bloquear todas las notificaciones de la app."</string>
     <string name="power_remaining_duration_only_short">%1$s</string>
     <string name="preference_copied">Se copió \"%1$s\" en el portapapeles.</string>
-    <string name="preference_summary_default_combination">%1$s/%2$s</string>
     <string name="priority_conversations">Conversaciones prioritarias</string>
     <string name="priority_mode_dream_overlay_content_description">Modo de prioridad activado</string>
     <string name="privacy_dialog_title">Notificaciones sobre acciones sensibles</string>
@@ -1736,30 +1732,6 @@ Si tiene preguntas, comuníquese con %2$s."</string>
     <string name="snoozeMinuteOptions">{count, plural, =1 {# minuto} few {# minutos} other {# minutos} }</string>
     <string name="snooze_undo">DESHACER</string>
     <string name="snoozed_for_time">Posponer %1$s</string>
-    <string name="solar_term_autumn_begins">Comienza el otoño</string>
-    <string name="solar_term_autumn_equinox">Equinoccio de otoño</string>
-    <string name="solar_term_clear_and_bright">Claro y brillante</string>
-    <string name="solar_term_cold_dews">Rocío frio</string>
-    <string name="solar_term_grain_buds">Criaturas plenarias</string>
-    <string name="solar_term_grain_in_ear">Siembra de mijo</string>
-    <string name="solar_term_grain_rain">Lluvia de trigo</string>
-    <string name="solar_term_great_cold">Frío severo</string>
-    <string name="solar_term_great_heat">Ola de calor</string>
-    <string name="solar_term_heavy_snow">Fuertes nevadas</string>
-    <string name="solar_term_hoar_frost_falls">Escarcha</string>
-    <string name="solar_term_insects_awaken">Los insectos despiertan</string>
-    <string name="solar_term_light_snow">Nieve ligera</string>
-    <string name="solar_term_slight_cold">Frío moderado</string>
-    <string name="solar_term_slight_heat">Calor moderado</string>
-    <string name="solar_term_spring_begins">Comienza la primavera</string>
-    <string name="solar_term_stopping_the_heat">El calor se retira</string>
-    <string name="solar_term_summer_begins">Comienza el verano</string>
-    <string name="solar_term_summer_solstice">Solsticio de verano</string>
-    <string name="solar_term_the_rains">Lluvias de primavera</string>
-    <string name="solar_term_vernal_equinox">Equinoccio de verano</string>
-    <string name="solar_term_white_dews">Rocío</string>
-    <string name="solar_term_winter_begins">Comienza el invierno</string>
-    <string name="solar_term_winter_solstice">Solsticio de invierno</string>
     <string name="somatosensory_temperature_format">Sentirse como %s°</string>
     <string name="sound_settings">Sonido &amp; vibración</string>
     <string name="speed_label_fast">Rápido</string>
