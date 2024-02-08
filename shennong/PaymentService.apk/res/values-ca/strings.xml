@@ -188,7 +188,6 @@ Comproveu la vostra data local i torneu a provar."</string>
     <string name="mibi_frozen_text"><Data>vostre compte està bloquejat. &lt;font color=#33aaff&gt;Poseu-vos en contacte amb el nostre servei d’atenció al client.&lt;/font&gt;</Data></string>
     <string name="mibi_frozen_text_pad">El vostre compte està congelat. Truqueu al 400-100-3399.</string>
     <string name="mibi_get_phone_format_error">Verifiqueu el número de telèfon</string>
-    <string name="mibi_get_phone_num_prefix">+ 86</string>
     <string name="mibi_get_phone_num_summary">Introduïu el número de telèfon que utilitzeu per als pagaments</string>
     <string name="mibi_get_phone_num_title">Introduïu el número de telèfon</string>
     <string name="mibi_get_phone_sms_prompt">S\'ha enviat el codi de verificació a %1$s</string>
@@ -709,9 +708,6 @@ Com que la prestació dels serveis de MiCoin depèn de la recopilació de la inf
     <string name="saturday_shortest">ds.</string>
     <string name="search_menu_title">Cerca</string>
     <string name="send">Envia</string>
-    <string name="solar_term_the_rains">Pluges de primavera</string>
-    <string name="solar_term_vernal_equinox">Equinocci de primavera</string>
-    <string name="status_bar_notification_info_overflow">+999</string>
     <string name="sunday">Diumenge</string>
     <string name="sunday_short">Dg.</string>
     <string name="sunday_shortest">dg.</string>
@@ -721,7 +717,6 @@ Com que la prestació dels serveis de MiCoin depèn de la recopilació de la inf
     <string name="the_armed_forces_day">Dia de les Forces Armades</string>
     <string name="the_armys_day">Dia PLA</string>
     <string name="the_childrens_day">"Dia dels nens"</string>
-    <string name="the_chinese_youth_day">Dia de la Joventut</string>
     <string name="the_christmas_day">Nadal</string>
     <string name="the_double_ninth_festival">Doble Novè Festival</string>
     <string name="the_dragon_boat_festival">Festa del Vaixell del Drac</string>
