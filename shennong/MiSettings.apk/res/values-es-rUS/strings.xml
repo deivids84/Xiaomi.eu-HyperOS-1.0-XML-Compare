@@ -548,9 +548,7 @@ no se generan en el segundo espacio"</string>
     <string name="scarlet_macaw">Macaw</string>
     <string name="scarlet_macaw_info">Macaws are long-tailed, often colorful, New World parrots.</string>
     <string name="screen_cancel">Cancelar</string>
-    <string name="screen_color_preview_ratio">2:1</string>
     <string name="screen_confirm">Activar</string>
-    <string name="screen_fps_string">Hz</string>
     <string name="screen_fps_summary_power_save">Usar una tasa fija consume menos batería</string>
     <string name="screen_fps_summary_smooth">Algunas aplicaciones aumentarán la frecuencia de actualización automáticamente para mejorar la calidad de la imagen</string>
     <string name="screen_fps_title">Tasa de refresco</string>
