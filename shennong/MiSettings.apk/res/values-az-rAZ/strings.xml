@@ -548,9 +548,7 @@
     <string name="scarlet_macaw">Macaw</string>
     <string name="scarlet_macaw_info">Macaws - uzun quyruqlu, çox vaxt rəngli, Yeni Dünya tutuquşularıdır.</string>
     <string name="screen_cancel">İmtina</string>
-    <string name="screen_color_preview_ratio">2:1</string>
     <string name="screen_confirm">İşə sal</string>
-    <string name="screen_fps_string">Hz</string>
     <string name="screen_fps_summary_power_save">Sabit sürət istifadə etmək daha az enerji sərf edir</string>
     <string name="screen_fps_summary_smooth">Şəkil keyfiyyətini yaxşılaşdırmaq üçün bəzi tətbiqlər avtomatik olaraq yeniləmə sürətini artıracaq</string>
     <string name="screen_fps_title">Yeniləmə sürəti</string>
