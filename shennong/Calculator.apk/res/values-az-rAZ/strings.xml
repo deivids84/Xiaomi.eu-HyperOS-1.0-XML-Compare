@@ -354,7 +354,6 @@ Bir illik və beş illik LPR-lər hər ayın 20-də (bank tətilləri ilə əlaq
     <string name="statistic_label_yearly">İllik</string>
     <string name="statistic_year">İl %d</string>
     <string name="suggest_weight">Təklif olunan çəki (kq)</string>
-    <string name="suggest_weight_format">%1$s ~ %2$s kq</string>
     <string name="sunday_shortest">Baz</string>
     <string name="super_fat">Köklük</string>
     <string name="support_elder">Yaşlılara dəstək</string>
@@ -722,7 +721,6 @@ Bir illik və beş illik LPR-lər hər ayın 20-də (bank tətilləri ilə əlaq
     <string name="unit_data_short_weight_qian">qian</string>
     <string name="unit_data_short_weight_st">sh.t</string>
     <string name="unit_data_short_weight_t">t</string>
-    <string name="unit_data_short_weight_taijin">jin (Tayvan)</string>
     <string name="unit_data_short_weight_ug">μg</string>
     <string name="unit_data_short_weight_uk.cwt">cwt</string>
     <string name="unit_data_short_weight_uk.st">st</string>
