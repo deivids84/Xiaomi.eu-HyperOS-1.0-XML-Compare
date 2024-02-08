@@ -240,7 +240,6 @@
     <string name="default_folder_title_telcel">Telcel</string>
     <string name="default_folder_title_tools">Alətlər</string>
     <string name="default_screen_preview_title">İlkin ekranı ayarla</string>
-    <string name="default_shortcut_title_10086">10086.cn</string>
     <string name="delete">Sil</string>
     <string name="delete_category_dialog_content">"Silsəniz bu kateqoriyanı bərpa edə bilməyəcəksiniz. Yenə də silinsin?"</string>
     <string name="delete_category_dialog_title">Bu kateqoriya silinsin?</string>
