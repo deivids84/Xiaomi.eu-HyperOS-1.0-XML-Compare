@@ -23,36 +23,6 @@
         <item>Dia per recordar</item>
         <item>Moments vibrants</item>
     </string-array>
-    <string-array name="alphabet_table_with_starred">
-        <item>!</item>
-        <item>A</item>
-        <item>B</item>
-        <item>C</item>
-        <item>D</item>
-        <item>E</item>
-        <item>F</item>
-        <item>G</item>
-        <item>H</item>
-        <item>I</item>
-        <item>J</item>
-        <item>K</item>
-        <item>L</item>
-        <item>M</item>
-        <item>N</item>
-        <item>O</item>
-        <item>P</item>
-        <item>Q</item>
-        <item>R</item>
-        <item>S</item>
-        <item>T</item>
-        <item>U</item>
-        <item>V</item>
-        <item>W</item>
-        <item>X</item>
-        <item>Y</item>
-        <item>Z</item>
-        <item>\#</item>
-    </string-array>
     <string-array name="annual_foods_title">
         <item>Un any deliciós</item>
         <item>Tres cursos. Quatre estacions.</item>
@@ -80,45 +50,6 @@
         <item>Dimecres passat</item>
         <item>Dijous passat</item>
         <item>Divendres passat</item>
-    </string-array>
-    <string-array name="chinese_holiday_last_year">
-        <item>"Última Nit de Cap d’Any Xinès"</item>
-        <item>Últim Any Nou Xinès</item>
-        <item>Última Festa dels Fanals</item>
-        <item>Última Festa de les Barques de Drac</item>
-        <item>Últim festival Qixi</item>
-        <item>Última Festa de la Mitja Tardor</item>
-    </string-array>
-    <string-array name="chinese_holiday_past_year">
-        <item>"La nit de cap d’any xinès a través dels anys"</item>
-        <item>Any nou xinès a través dels anys</item>
-        <item>Festa dels fanals al llarg dels anys</item>
-        <item>Festa de les Barques de Drac al llarg dels anys</item>
-        <item>Festival Qixi al llarg dels anys</item>
-        <item>Festa de la Mitja Tardor al llarg dels anys</item>
-    </string-array>
-    <string-array name="chinese_new_year_eve_title">
-        <item>Una nit per recordar</item>
-        <item>Pàgina nova</item>
-        <item>Focs artificials</item>
-    </string-array>
-    <string-array name="chinese_new_year_title">
-        <item>Bon any nou!</item>
-        <item>L\'alba de l\'any nou</item>
-    </string-array>
-    <string-array name="chinese_zodiac_year">
-        <item>L\'any del mico</item>
-        <item>L\'any del gall</item>
-        <item>L\'any del gos</item>
-        <item>L\'any del porc</item>
-        <item>L\'any de la rata</item>
-        <item>L\'any del bou</item>
-        <item>L\'any del tigre</item>
-        <item>L\'any del conill</item>
-        <item>L\'any del drac</item>
-        <item>L\'any de la serp</item>
-        <item>L\'any del cavall</item>
-        <item>L\'any de la cabra</item>
     </string-array>
     <string-array name="city_title">
         <item>Paisatges urbans</item>
@@ -340,11 +271,6 @@
         <item>Brasil</item>
         <item>Islàndia</item>
         <item>Kenya</item>
-    </string-array>
-    <string-array name="menu_copy_or_move">
-        <item>Mou</item>
-        <item>Copia</item>
-        <item>@string/cancel</item>
     </string-array>
     <string-array name="month">
         <item>Gener</item>
