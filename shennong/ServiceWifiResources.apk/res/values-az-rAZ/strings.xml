@@ -3,8 +3,6 @@
     <string name="accept">Qəbul et</string>
     <string name="apm_enabled_first_time_message">"Cihazınız təyyarə rejimində Wi‑Fi-ı açıq saxlamağı xatırlayır. Açıq qalmasını istəmirsinizsə Wi‑Fi-ı söndürün."</string>
     <string name="apm_enabled_first_time_title">Wi‑Fi açıq qalır</string>
-    <string name="config_wifiCertInstallationHelpLink">https://support.google.com/pixelphone/answer/2844832</string>
-    <string name="config_wifiDriverWorldModeCountryCode">00</string>
     <string name="decline">Rədd et</string>
     <string name="dlg_ok">Oldu</string>
     <string name="notification_channel_apm_alerts">APM xəbərdarlıqları</string>
