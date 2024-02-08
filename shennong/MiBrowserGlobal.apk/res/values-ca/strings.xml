@@ -406,8 +406,6 @@ Desactiva per a deixar de sincronitzar."</string>
     <string name="columbus_player_speed_video">Omet VIDEO</string>
     <string name="columbus_player_unit_sec">seg</string>
     <string name="columbus_skip_ad">Omet</string>
-    <string name="com.crashlytics.android.build_id">0689c0f0c579400ba3f839d75032a01f</string>
-    <string name="com.miapm.build_id">d9c72598c1cf445289bba797e457aa63</string>
     <string name="com_facebook_device_auth_instructions">Visiteu &lt;b&gt;facebook.com/device&lt;/b&gt; i introduïu el codi que es mostra més amunt.</string>
     <string name="com_facebook_image_download_unknown_error">Error inesperat en baixar una imatge.</string>
     <string name="com_facebook_internet_permission_error_message">L\'inici de sessió del WebView requereix permís d\'INTERNET</string>
