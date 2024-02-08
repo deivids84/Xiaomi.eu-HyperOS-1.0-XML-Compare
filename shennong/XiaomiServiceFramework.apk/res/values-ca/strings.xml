@@ -47,7 +47,6 @@ L'ID del dispositiu ha de ser un IMEI o adreça MAC vàlids. Sense l'ID del disp
     <string name="size_unit_gigabyte">%1$sGB</string>
     <string name="size_unit_kilobyte">%1$sKB</string>
     <string name="size_unit_megabyte">%1$sMB</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="sync_notification_title_format">Element de sincronització actual: %1$s</string>
     <string name="xiaomi_cloud_service">Xiaomi Cloud</string>
     <string name="xmsf_activate_info">XMSF activar informació</string>
