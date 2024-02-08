@@ -51,45 +51,6 @@
         <item>Keçən Cümə axşamı</item>
         <item>Keçən Cümə</item>
     </string-array>
-    <string-array name="chinese_holiday_last_year">
-        <item>"Keçən Çin Yeni İl ərəfəsi"</item>
-        <item>Keçən Çin Yeni İli</item>
-        <item>Keçən Fənər Festivalı</item>
-        <item>Keçən Dragon Boat Festivalı</item>
-        <item>Keçən Qixi Festivalı</item>
-        <item>Keçən Orta Payız Festivalı</item>
-    </string-array>
-    <string-array name="chinese_holiday_past_year">
-        <item>"İllər boyu Çin Yeni İl ərəfəsi"</item>
-        <item>İllər boyu Çin Yeni İli</item>
-        <item>İllər boyu Fənər Festivalı</item>
-        <item>İllər boyu Dragon Boat Festivalı</item>
-        <item>İllər boyu Qixi Festivalı</item>
-        <item>İllər boyu Orta Payız Festivalı</item>
-    </string-array>
-    <string-array name="chinese_new_year_eve_title">
-        <item>Xatırlamaq üçün bir gecə</item>
-        <item>Yeni səhifə</item>
-        <item>Atəşfəşanlıq</item>
-    </string-array>
-    <string-array name="chinese_new_year_title">
-        <item>Yeni İliniz Mübarək!</item>
-        <item>Yeni ilin şəfəqi</item>
-    </string-array>
-    <string-array name="chinese_zodiac_year">
-        <item>Meymun ili</item>
-        <item>Xoruz ili</item>
-        <item>İt ili</item>
-        <item>Donuz ili</item>
-        <item>Siçovul ili</item>
-        <item>Öküz ili</item>
-        <item>Pələng ili</item>
-        <item>Dovşan ili</item>
-        <item>Əjdaha ili</item>
-        <item>İlan ili</item>
-        <item>At ili</item>
-        <item>Keçi ili</item>
-    </string-array>
     <string-array name="city_title">
         <item>Şəhər mənzərələri</item>
         <item>Küçələr və künclər</item>
