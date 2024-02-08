@@ -630,7 +630,6 @@ En vols sortir ara?}}"</string>
     <string name="deleting_fdn_contact">S\'està suprimint el número de marcatge fix...</string>
     <string name="description_delete_button">retrocés</string>
     <string name="description_dial_button">marca</string>
-    <string name="description_dialpad_back">Torna enrere</string>
     <string name="description_dialpad_button">mostra el teclat</string>
     <string name="description_dialpad_overflow">Més opcions</string>
     <string name="description_image_button_eight">vuit</string>
@@ -1285,7 +1284,6 @@ a l'espera d'introduir el codi de desbloqueig"</string>
     <string name="national_disable">Notícies nacionals desactivades</string>
     <string name="national_enable">Notícies nacionals activades</string>
     <string name="netcheck_title">Diagnòstics de xarxes mòbils</string>
-    <string name="network_1x">1 x</string>
     <string name="network_4G">4G (opció recomanada)</string>
     <string name="network_4G_pure">4G</string>
     <string name="network_5G">5G</string>
