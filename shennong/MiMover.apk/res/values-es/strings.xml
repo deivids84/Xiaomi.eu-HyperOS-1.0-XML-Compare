@@ -137,6 +137,7 @@ https://appleid.apple.com/#!&amp;page=signin para apagar"</string>
     <string name="collect_content">Contenido recopilado</string>
     <string name="collect_situation">Estado de la colección</string>
     <string name="collected">Recopilado</string>
+    <string name="com.crashlytics.android.build_id">358fada3bf4147cfa7124a0bae2e23c2</string>
     <string name="connect_icloud_fail">"No se pudo conectar a iCloud"</string>
     <string name="connect_icloud_fail_tips">Asegúrate de que tu cuenta iCloud ha sido activada. Si no, ve a icloud.com y sigue las instrucciones para poder activar tu cuenta.</string>
     <string name="connect_wifi">Conectar a red Wi-Fi</string>
