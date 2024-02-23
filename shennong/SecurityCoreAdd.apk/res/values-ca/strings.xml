@@ -103,6 +103,8 @@ aquesta característica s'afegirà al Segon espai automàticament."</string>
     <string name="can_not_switch_when_extreme_endurance_battery_active">"No es pot utilitzar el Segon espai a causa de la bateria baixa"</string>
     <string name="can_not_switch_when_green_kid_active">Està restringit el accés al Segon espai pel control parental</string>
     <string name="can_not_switch_when_green_kid_active_new">"No es pot canviar al Segon espai quan el Control parental està activat"</string>
+    <string name="can_not_switch_when_lock_to_app_enabled_classic_navigation">Mantén premuts els botons d\'enrere i de vista prèvia per anul·lar aquesta aplicació</string>
+    <string name="can_not_switch_when_lock_to_app_enabled_guest_navigation">Feu lliscar cap amunt des de la part inferior de la pantalla i feu una pausa per desfer aquesta aplicació</string>
     <string name="can_not_switch_when_super_power_active">"No es pot canviar entre els espais quan estigui activat l'Estalvi de bateria ultra"</string>
     <string name="cancelClosePassword">"No apagueu"</string>
     <string name="cancel_button">Cancel·leu</string>
