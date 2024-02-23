@@ -7504,19 +7504,14 @@ Reinicia el dispositiu i torna-ho a provar."</string>
     <string name="screen_paper_mode_update_white_pkg_list_summary">Actualitzeu la llista d\'aplicacions que utilitzen el Mode lectura automàticament</string>
     <string name="screen_paper_mode_update_white_pkg_list_title">Actualitzeu automàticament</string>
     <string name="screen_paper_texture">Textura</string>
-    <string name="screen_pinning_description">"Quan una aplicació està fixada, pot obrir-ne d'altres i accedir a les dades personals. 
+    <string name="screen_pinning_description">Les aplicacions fixades poden obrir altres aplicacions i accedir a la vostra informació personal</string>
+    <string name="screen_pinning_dialog_message">"Això és el que poden fer les aplicacions fixades:
 
-Per utilitzar la fixació d'aplicacions: \u0009
-1. Activa la fixació d'aplicacions. \u0009
-2. Obre Aplicacions recents. \u0009
-3. Toca la icona de l'aplicació a la part superior de la pantalla i, a continuació, toca Fixa."</string>
-    <string name="screen_pinning_dialog_message">"Quan es fixa una aplicació: 
+• Accedir a la vostra informació personal
+(p. ex. contactes i correus electrònics)
+• Obrir altres aplicacions
 
-•\u0009\u0009Es pot accedir a les dades personals 
-\u0009\u0009(com ara els contactes i el contingut dels correus electrònics). 
-•\u0009\u0009L'aplicació fixada pot obrir altres aplicacions. 
-
-Utilitza la fixació d'aplicacions només amb gent de confiança."</string>
+Utilitzeu aquesta funció amb precaució mentre la compartiu dispositiu amb altres."</string>
     <string name="screen_pinning_guest_user_description">"Quan una aplicació està fixada, pot obrir-ne d'altres i accedir a les dades personals. 
 
 Si vols compartir el teu dispositiu amb algú de manera segura, prova d'utilitzar un usuari convidat. 
@@ -7525,10 +7520,11 @@ Per utilitzar la fixació d'aplicacions: \u0009
 1. Activa la fixació d'aplicacions. \u0009
 2. Obre Aplicacions recents. \u0009
 3. Toca la icona de l'aplicació a la part superior de la pantalla i, a continuació, toca Fixa."</string>
+    <string name="screen_pinning_summary">Les aplicacions fixades es mantindran a Recents fins que les deixis de fixar</string>
     <string name="screen_pinning_switch_off_text">Desactivat</string>
     <string name="screen_pinning_switch_on_text">Activat</string>
-    <string name="screen_pinning_title">Fixació d\'aplicacions</string>
-    <string name="screen_pinning_unlock_none">Bloqueja el dispositiu en deixar de fixar</string>
+    <string name="screen_pinning_title">Permet fixar aplicacions</string>
+    <string name="screen_pinning_unlock_none">Verifiqueu el bloqueig de pantalla per desenganxar</string>
     <string name="screen_pinning_unlock_password">Demana la contrasenya per deixar de fixar</string>
     <string name="screen_pinning_unlock_pattern">Sol·licita el patró de desbloqueig per deixar de fixar</string>
     <string name="screen_pinning_unlock_pin">Demana el PIN per deixar de fixar</string>
