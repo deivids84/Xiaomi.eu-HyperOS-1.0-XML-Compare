@@ -2,10 +2,10 @@
 <resources>
     <string-array name="aqi_detail_title">
         <item>Buena</item>
-        <item>Moderada</item>
-        <item>Dañina para grupos sensibles</item>
+        <item>Justo</item>
+        <item>Moderado</item>
         <item>Dañina</item>
-        <item>Muy dañina</item>
+        <item>Sábado</item>
         <item>Peligrosa</item>
     </string-array>
     <string-array name="aqi_title_prefix">
@@ -18,11 +18,11 @@
     </string-array>
     <string-array name="aqi_value">
         <item>Bueno</item>
-        <item>Aceptable</item>
-        <item>Moderadamente contaminado</item>
-        <item>Malo</item>
-        <item>Muy malo</item>
-        <item>Grave</item>
+        <item>Justo</item>
+        <item>Moderado</item>
+        <item>Poco saludable</item>
+        <item>Sábado</item>
+        <item>Peligroso</item>
         <item>Excede el índice</item>
     </string-array>
     <string-array name="breeze">
@@ -70,6 +70,10 @@
         <item>Severamente contaminado</item>
         <item>Más allá del índice</item>
     </string-array>
+    <string-array name="primary_devices">
+        <item>dulce_k6a</item>
+        <item>dulce</item>
+    </string-array>
     <string-array name="realtime_humidity_status">
         <item>Seca</item>
         <item>Confortable</item>
@@ -98,24 +102,24 @@
         <item>Despejado</item>
         <item>Nublado</item>
         <item>Muy nublado</item>
-        <item>Niebla</item>
+        <item>Neblina</item>
         <item>Tormenta intensa</item>
         <item>Aguacero</item>
         <item>Tormenta</item>
         <item>Tormenta eléctrica</item>
-        <item>Lluvia</item>
-        <item>Lluvia intensa</item>
+        <item>Mostrar</item>
+        <item>Lluvia pesada</item>
         <item>Lluvia moderada</item>
         <item>Llovizna</item>
         <item>Aguanieve</item>
         <item>Ventisca</item>
-        <item>Nieve</item>
+        <item>Chubascos de nieve</item>
         <item>Nevada intensa</item>
         <item>Nevada moderada</item>
         <item>Nevada ligera</item>
         <item>Tormenta de arena intensa</item>
         <item>Tormenta de arena</item>
-        <item>Arena</item>
+        <item>Tormenta de arena ligera</item>
         <item>Tormenta de polvo</item>
         <item>Granizo</item>
         <item>Polvo</item>
