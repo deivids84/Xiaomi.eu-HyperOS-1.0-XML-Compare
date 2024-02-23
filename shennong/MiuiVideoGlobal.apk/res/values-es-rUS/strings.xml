@@ -204,6 +204,7 @@
     <string name="columbus_player_speed_video">Saltar VIDEO</string>
     <string name="columbus_player_unit_sec">seg</string>
     <string name="columbus_skip_ad">Saltar</string>
+    <string name="com.crashlytics.android.build_id">1216db709af44ba786cfeed9d4169a06</string>
     <string name="com_permission_desc">"Mi Video no puede acceder a los videos en su dispositivo. Permita el acceso en Configuración."</string>
     <string name="com_permission_title">Se necesitan permisos</string>
     <string name="comment_model_add_comment">Agregar comentario</string>
@@ -1530,6 +1531,7 @@ Solo usaremos este permiso para encontrar los videos que buscas y no accederemos
     <string name="sending">Enviando…</string>
     <string name="service_error">Error de servidor</string>
     <string name="set_success">Cambiado con éxito</string>
+    <string name="setting_privacy_title">Términos y condiciones</string>
     <string name="settings_inline_auto_play">Reproducir siempre</string>
     <string name="settings_inline_auto_play_close">Autoplay apagado</string>
     <string name="settings_inline_auto_play_tip_close_forever">Siempre apagado</string>
