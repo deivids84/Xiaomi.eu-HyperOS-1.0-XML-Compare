@@ -1343,6 +1343,8 @@ Si tens cap pregunta, contacta amb %2$s."</string>
     <string name="phone_locked_string">Aquest dispositiu està bloquejat</string>
     <string name="phone_locked_string_owner_user">Massa intents fallits d\'introduir la contrasenya del primer espai. Ara aquest dispositiu està bloquejat.</string>
     <string name="phone_locked_string_second_user">Massa intents fallits d\'introduir la contrasenya del segon espai. Ara aquest dispositiu està bloquejat.</string>
+    <string name="pin_toast">Feu lliscar cap amunt des de la part inferior de la pantalla i feu una pausa per desfer aquesta aplicació</string>
+    <string name="pin_toast_nav">Mantén premuts els botons d\'enrere i de vista prèvia per anul·lar aquesta aplicació</string>
     <string name="pip_close">Tanca</string>
     <string name="pip_collapse">Replega</string>
     <string name="pip_edu_text">Prem dos cops <annotation icon="home_icon">INICI</annotation> per accedir als controls</string>
