@@ -116,8 +116,13 @@ de terremoto"</string>
     <string name="friday_short">Vie</string>
     <string name="friday_shortest">Vie</string>
     <string name="game_booster">Acelerador de velocidad en los juegos</string>
+    <string name="gamebooster_confirm_dialog_negative_btn">"No está de acuerdo"</string>
+    <string name="gamebooster_confirm_dialog_positive_btn">Aceptar</string>
+    <string name="gamebooster_confirm_dialog_tip"><Data>Xunyou Game Booster &lt;br&gt;&lt;a href=\"%1$s\"&gt;Política de privacidad&lt;/a&gt;</Data></string>
+    <string name="gamebooster_confirm_dialog_title">Aceptar nuestra política de privacidad</string>
     <string name="gamebooster_dialog_recover">Renovar</string>
     <string name="gamebooster_dialog_start_booster">Iniciar</string>
+    <string name="gamebooster_dialog_start_booster_new">Optimizar</string>
     <string name="gamebooster_network_dialog_message">¿Permitir que Security se conecte a la red para utilizar todas las funciones de Game Turbo?</string>
     <string name="gamebooster_network_dialog_message_pad">¿Permitir que la seguridad se conecte a la red para usar todas las características de Game Turbo?</string>
     <string name="gamebooster_network_dialog_title">"Algunas funciones no están disponibles"</string>
@@ -214,7 +219,11 @@ de terremoto"</string>
     <string name="gdpr_msg">&lt;Data&gt;Para poder usar las funciones básicas de Seguridad, debe aceptar que Xiaomi recopilará, procesará y usará su información personal, incluida información sobre la manera en que usa las funciones de Seguridad (p. ej. estadísticas del uso de datos móviles, información sobre malware, así como información básica de su dispositivo) y otro tipo de información especificada en nuestra &lt;a href=\"https://privacy.mi.com/all/%1$s_%2$s\"&gt;Política de Privacidad&lt;/a&gt;.&lt;/Data&gt;</string>
     <string name="gtb_dialog_privacy_speed_message">"Estás a punto de usar Xunyou Game Booster. Este servicio recogerá tu ID de cuenta de Xiaomi para registrar tu duración de la membresía."</string>
     <string name="gtb_dialog_privacy_speed_tips"><Data>\"He leído y acepto la Política de privacidad de &lt;a href=\"%1$s\"&gt;&lt;/a&gt;\"</Data></string>
+    <string name="gtb_dialog_privacy_speed_tips_new"><Data>\"He leído y acepto el Optimizador de juegos de Xunyou &lt;a href=\"%1$s\"&gt;Política de privacidad&lt;/a&gt;.\"</Data></string>
     <string name="gtb_dialog_privacy_speed_title">Optimizador de juegos Xunyou</string>
+    <string name="gtb_dialog_privacy_voice_message">"Estás a punto de usar el cambio de voz de Xunyou. Este servicio recogerá tu ID de cuenta de Xiaomi para grabar tu duración de la membresía."</string>
+    <string name="gtb_dialog_privacy_voice_tips"><Data>\"He leído y acepto el cambio de voz de Xunyou &lt;a href=\"%1$s\"&gt;Política de privacidad.&lt;/a&gt;\"</Data></string>
+    <string name="gtb_dialog_privacy_voice_title">Cambiador de voz de juego Xunyou</string>
     <string name="hybrid_provider">Proporcionado por %1$s</string>
     <string name="icon_content_description">Icono de diálogo</string>
     <string name="install_success">%s Install Success</string>
@@ -222,6 +231,11 @@ de terremoto"</string>
     <string name="lucky_result_title">Sobres rojos</string>
     <string name="main_toolbar_purchase">Recarga</string>
     <string name="midnight">Noche</string>
+    <string name="migrate_btn_installed">前往新版儿童空间</string>
+    <string name="migrate_btn_uninstalled">去升级</string>
+    <string name="migrate_dialog_message_installed">儿童空间已经升级到最新版本,新增使用时段控制等功能,需到设置重新打开才可使用</string>
+    <string name="migrate_dialog_message_uninstalled">儿童空间新增使用时段控制等功能,请升级到最新版本体验全新功能</string>
+    <string name="migrate_dialog_title">升级提醒</string>
     <string name="miuishare_title_more">Más</string>
     <string name="miuishare_title_share">Compartir</string>
     <string name="miuishare_wechat_timeline_title">Momentos WeChat</string>
@@ -322,6 +336,8 @@ de terremoto"</string>
     <string name="net_booster_expire_notification">La sesión de Aumento de velocidad de la red va a finalizar</string>
     <string name="net_booster_overdue_notification">La sesión de Aumento de velocidad de red esta a punto de finalizar</string>
     <string name="net_booster_overdue_notification_tip">La sesión de aumento de la velocidad de la red finalizó. Es posible que comiences a experimentar retrasos en la red. ¿Renovar la sesión ahora?</string>
+    <string name="net_free_booster_new_user_tip">¡Consigue un potenciador de juegos gratis y entra para ganar un teléfono Xiaomi!</string>
+    <string name="net_free_booster_new_user_title">Nuevo regalo de usuario</string>
     <string name="network_error">Se ha producido un error de red.</string>
     <string name="network_not_available">"No se pudo conectar a la red"</string>
     <string name="night">Noche</string>
@@ -366,6 +382,7 @@ de terremoto"</string>
     <string name="sunday">Domingo</string>
     <string name="sunday_short">Dom</string>
     <string name="sunday_shortest">Dom.</string>
+    <string name="super_power_satellite_endurance_time">Puedes hacer una llamada por satélite por%1$s %2$s</string>
     <string name="superpower_app_add">Agregar</string>
     <string name="superpower_app_contact">Contactos</string>
     <string name="superpower_app_delete">Eliminar</string>
