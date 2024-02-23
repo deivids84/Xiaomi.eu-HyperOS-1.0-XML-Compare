@@ -103,6 +103,8 @@ esta función se agregará automáticamente al segundo espacio."</string>
     <string name="can_not_switch_when_extreme_endurance_battery_active">"No se puede usar el Segundo espacio debido a la poca batería"</string>
     <string name="can_not_switch_when_green_kid_active">El cambio al segundo espacio está restringido por el control parental</string>
     <string name="can_not_switch_when_green_kid_active_new">"No se puede cambiar al Segundo espacio cuando el Guardián Familiar está activado"</string>
+    <string name="can_not_switch_when_lock_to_app_enabled_classic_navigation">Mantén pulsados los botones de retroceso y vista previa para desbloquear esta aplicación</string>
+    <string name="can_not_switch_when_lock_to_app_enabled_guest_navigation">Desliza hacia arriba desde la parte inferior de la pantalla y pausa para liberar esta aplicación</string>
     <string name="can_not_switch_when_super_power_active">"No puede cambiar entre espacios cuando el Ahorrador de batería ultra esté activado"</string>
     <string name="cancelClosePassword">"No desactivar"</string>
     <string name="cancel_button">Cancelar</string>
