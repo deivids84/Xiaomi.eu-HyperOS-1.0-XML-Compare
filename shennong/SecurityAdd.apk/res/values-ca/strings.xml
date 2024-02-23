@@ -116,8 +116,13 @@ Programa de seguiment"</string>
     <string name="friday_short">Dv.</string>
     <string name="friday_shortest">dv.</string>
     <string name="game_booster">Accelerador de velocitat dels jocs</string>
+    <string name="gamebooster_confirm_dialog_negative_btn">"No estic d'acord"</string>
+    <string name="gamebooster_confirm_dialog_positive_btn">Acordar</string>
+    <string name="gamebooster_confirm_dialog_tip"><Data>Xunyou Game Booster &lt;br&gt;&lt;a href=\"%1$s\"&gt;Política de privadesa&lt;/a&gt;</Data></string>
+    <string name="gamebooster_confirm_dialog_title">Accepteu la nostra política de privadesa</string>
     <string name="gamebooster_dialog_recover">Renova</string>
     <string name="gamebooster_dialog_start_booster">Inicia</string>
+    <string name="gamebooster_dialog_start_booster_new">Estímul</string>
     <string name="gamebooster_network_dialog_message">Voleu permetre que Seguretat es connecti a la xarxa per utilitzar totes les funcions de Game Turbo?</string>
     <string name="gamebooster_network_dialog_message_pad">Voleu permetre que Seguretat es connecti a la xarxa per utilitzar totes les funcions de Game Turbo?</string>
     <string name="gamebooster_network_dialog_title">"Algunes funcions no estan disponibles"</string>
@@ -214,7 +219,11 @@ Programa de seguiment"</string>
     <string name="gdpr_msg"><Data>\"Per utilitzar les funcions bàsiques de seguretat, heu d\'acceptar que Xiaomi recopilarà, processarà i utilitzarà les vostres dades personals, inclosa informació sobre les formes d\'utilitzar les funcions de seguretat (per exemple, estadístiques d\'ús de dades mòbils, informació sobre programari maliciós, com així com informació bàsica sobre el vostre dispositiu) i altres tipus d\'informació especificats a la nostra &lt;a href=\"https://privacy.mi.com/all/%1$s_%2$s\"&gt;Política de privadesa&lt;/a&gt;\"</Data></string>
     <string name="gtb_dialog_privacy_speed_message">"Esteu a punt d'utilitzar Xunyou Game Booster. Aquest servei recopilarà el vostre identificador de compte Xiaomi per registrar la durada de la vostra pertinença."</string>
     <string name="gtb_dialog_privacy_speed_tips"><Data>\"He llegit i accepto la &lt;a href=\"%1$s\"&gt;Política de privadesa &lt;/a&gt; de Xunyou Game Booster\"</Data></string>
+    <string name="gtb_dialog_privacy_speed_tips_new"><Data>\"He llegit i he acceptat la política de privadesa de Xunyou Game Booster &lt;a href=\"%1$s\"&gt;&lt;/a&gt;.\"</Data></string>
     <string name="gtb_dialog_privacy_speed_title">Xunyou Game Booster</string>
+    <string name="gtb_dialog_privacy_voice_message">"Esteu a punt d'utilitzar Xunyou Game Voice Changer. Aquest servei recopilarà l'identificador del vostre compte Xiaomi per registrar la durada de la vostra subscripció."</string>
+    <string name="gtb_dialog_privacy_voice_tips"><Data>\"He llegit i he acceptat la política de privadesa de Xunyou Game Voice Changer &lt;a href=\"%1$s\"&gt;.&lt;/a&gt;\"</Data></string>
+    <string name="gtb_dialog_privacy_voice_title">Canviador de veu del joc Xunyou</string>
     <string name="hybrid_provider">Proporcionat per %1$s</string>
     <string name="icon_content_description">Icona de diàleg</string>
     <string name="install_success">%s Instal·lació correcta</string>
@@ -222,6 +231,11 @@ Programa de seguiment"</string>
     <string name="lucky_result_title">Sobres vermells</string>
     <string name="main_toolbar_purchase">Recàrrega</string>
     <string name="midnight">Nit</string>
+    <string name="migrate_btn_installed">前往新版儿童空间</string>
+    <string name="migrate_btn_uninstalled">去升级</string>
+    <string name="migrate_dialog_message_installed">儿童空间已经升级到最新版本，新增使用时段控制等功能，需到设置釓新设置重新新重新时段控制等功能</string>
+    <string name="migrate_dialog_message_uninstalled">儿童空间新增使用时段控制等功能，请升级到最新版本体验全新功能</string>
+    <string name="migrate_dialog_title">升级提醒</string>
     <string name="miuishare_title_more">Més</string>
     <string name="miuishare_title_share">Compartició</string>
     <string name="miuishare_wechat_timeline_title">Moments WeChat</string>
@@ -322,6 +336,8 @@ Programa de seguiment"</string>
     <string name="net_booster_expire_notification">La sessió d’augment de la velocitat de la xarxa està a punt d’acabar</string>
     <string name="net_booster_overdue_notification">La sessió d\'augment de la velocitat de la xarxa està a punt d’acabar</string>
     <string name="net_booster_overdue_notification_tip">La sessió d\'augment de la velocitat de la xarxa va finalitzar. És possible que comenceu a experimentar retards de xarxa. Voleu renovar la sessió ara?</string>
+    <string name="net_free_booster_new_user_tip">Aconsegueix un reforç de joc gratuït i participa per guanyar un telèfon Xiaomi!</string>
+    <string name="net_free_booster_new_user_title">Regal d\'usuari nou</string>
     <string name="network_error">S\'ha produït un error de xarxa.</string>
     <string name="network_not_available">"No es pot connectar a la xarxa"</string>
     <string name="night">Vespre</string>
@@ -366,6 +382,7 @@ Programa de seguiment"</string>
     <string name="sunday">Diumenge</string>
     <string name="sunday_short">Dg.</string>
     <string name="sunday_shortest">dg.</string>
+    <string name="super_power_satellite_endurance_time">Pot fer una trucada per satèl·lit per ≈%1$s %2$s</string>
     <string name="superpower_app_add">Afegeix</string>
     <string name="superpower_app_contact">Contactes</string>
     <string name="superpower_app_delete">Suprimeix</string>
