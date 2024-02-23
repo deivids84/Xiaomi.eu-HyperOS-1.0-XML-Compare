@@ -7503,19 +7503,14 @@ Reinicie su dispositivo e inténtelo de nuevo."</string>
     <string name="screen_paper_mode_update_white_pkg_list_summary">Actualizar la lista de aplicaciones que usan el modo lectura automáticamente</string>
     <string name="screen_paper_mode_update_white_pkg_list_title">Actualizar automáticamente</string>
     <string name="screen_paper_texture">Textura</string>
-    <string name="screen_pinning_description">"Cuando se ancla una aplicación, es posible que se abran otras aplicaciones y que se pueda acceder a los datos personales. 
+    <string name="screen_pinning_description">Las aplicaciones ancladas pueden abrir otras aplicaciones y acceder a su información personal</string>
+    <string name="screen_pinning_dialog_message">"Esto es lo que pueden hacer las aplicaciones fijadas:
 
-Para usar la fijación de aplicaciones, sigue estos pasos: \u0009
-1. Activa el anclaje de aplicaciones \u0009
-2. Abrir información general \u0009
-3. Toca el icono de la aplicación en la parte superior de la pantalla y, a continuación, toca Anclar"</string>
-    <string name="screen_pinning_dialog_message">"Cuando fijas la app, ocurre lo siguiente: 
+• Acceder a su información personal
+(por ejemplo, contactos y correos electrónicos)
+• Abrir otras aplicaciones
 
-•\u0009\u0009Esta podrá acceder a datos personales 
-\u0009\u0009(como contactos y contenido de los correos electrónicos). 
-•\u0009 Es posible que las apps fijadas abran otras apps. 
-
-Usa la función para fijar apps solo con personas de confianza."</string>
+Utilice esta función con precaución al compartir esto dispositivo con otros."</string>
     <string name="screen_pinning_guest_user_description">"Cuando se ancla una aplicación, es posible que se abran otras aplicaciones y que se pueda acceder a los datos personales. 
 
 Si quieres compartir tu dispositivo de forma segura con alguien, prueba a usar un usuario invitado en su lugar. 
@@ -7524,10 +7519,11 @@ Para usar la fijación de aplicaciones, sigue estos pasos: \u0009
 1. Activa el anclaje de aplicaciones \u0009
 2. Abrir información general \u0009
 3. Toca el icono de la aplicación en la parte superior de la pantalla y, a continuación, toca Anclar"</string>
+    <string name="screen_pinning_summary">Las aplicaciones ancladas permanecerán en Recientes hasta que las desancles</string>
     <string name="screen_pinning_switch_off_text">Desactivado</string>
     <string name="screen_pinning_switch_on_text">Activado</string>
-    <string name="screen_pinning_title">Fijar apps</string>
-    <string name="screen_pinning_unlock_none">Bloquear dispositivo al quitar fijación</string>
+    <string name="screen_pinning_title">Permitir anclar aplicaciones</string>
+    <string name="screen_pinning_unlock_none">Verificar bloqueo de pantalla para desbloquear</string>
     <string name="screen_pinning_unlock_password">Solicitar contraseña para quitar fijación</string>
     <string name="screen_pinning_unlock_pattern">Solicitar desbloqueo para quitar fijación</string>
     <string name="screen_pinning_unlock_pin">Solicitar PIN para quitar fijación</string>
