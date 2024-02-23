@@ -404,8 +404,6 @@ Desactive el interruptor para dejar de sincronizar."</string>
     <string name="columbus_player_speed_video">Saltar VIDEO</string>
     <string name="columbus_player_unit_sec">seg</string>
     <string name="columbus_skip_ad">Saltar</string>
-    <string name="com.crashlytics.android.build_id">6f8fe2599c514280a5ea62e88bfbd650</string>
-    <string name="com.miapm.build_id">227a51c2d6a04d55868c825fc7eb6cce</string>
     <string name="com_facebook_device_auth_instructions">Ve a &lt;b&gt;facebook.com/device&lt;/b&gt; e ingresa el código que se muestra arriba.</string>
     <string name="com_facebook_image_download_unknown_error">Se produjo un error inesperado al descargar una imagen.</string>
     <string name="com_facebook_internet_permission_error_message">El inicio de sesión de WebView requiere permisos de INTERNET</string>
@@ -1131,9 +1129,7 @@ Envíe este código al supervisor."</string>
     <string name="menu_title_open_file_management">Abrir Administrador</string>
     <string name="menu_title_pause_all">Pausar todo</string>
     <string name="menu_title_resume_all">Iniciar todo</string>
-    <string name="mggc_aab">f4bb9b1cdc1a0f4b</string>
     <string name="mggc_app_name">Centro de juegos</string>
-    <string name="mggc_bba">e6135d289c1ff651b514fd4559850c19</string>
     <string name="mggc_bottom_bar_category">Categorías</string>
     <string name="mggc_bottom_bar_home">Inicio</string>
     <string name="mggc_bottom_bar_ranking">Gráficos</string>
@@ -2491,7 +2487,6 @@ Algunos sitios no usarán su historial de navegación anterior para personalizar
     <string name="trash_cleaner_unit_mb">Mb</string>
     <string name="trash_cleaner_unit_tb">TB</string>
     <string name="trending_apps_more">Más</string>
-    <string name="tt_00_00">00:00</string>
     <string name="tt_ad">Ad</string>
     <string name="tt_ad_clicked_text">Anuncio mostrado</string>
     <string name="tt_ad_close_text">Anuncio cerrado</string>
@@ -2504,11 +2499,9 @@ Algunos sitios no usarán su historial de navegación anterior para personalizar
     <string name="tt_adslot_size_empty">Tamaño de la ranura de anuncio vacío</string>
     <string name="tt_adtype_not_match_rit">Ad slot id error</string>
     <string name="tt_app_empty">Sin app de solicitud</string>
-    <string name="tt_app_name">Abrir_ad_sdk</string>
     <string name="tt_auto_play_cancel_text">Cancelar</string>
     <string name="tt_banner_ad_load_image_error">Carga de banner fallida</string>
     <string name="tt_cancel">Cancelar</string>
-    <string name="tt_choose_language">es</string>
     <string name="tt_click_to_replay">Toca para volver a reproducir</string>
     <string name="tt_comment_num">%1$s comentarios</string>
     <string name="tt_comment_num_backup">%1$s comentarios</string>
@@ -2593,7 +2586,6 @@ Algunos sitios no usarán su historial de navegación anterior para personalizar
     <string name="tt_reward_full_skip">Saltar después de %1$ss</string>
     <string name="tt_reward_msg">Mira el vídeo completo para reclamar tu recompensa</string>
     <string name="tt_reward_screen_skip_tx">Saltar</string>
-    <string name="tt_reward_video_show_error">onRewardedVideoAdFailedToShow</string>
     <string name="tt_ror_code_show_event_error">Mostrar error de evento</string>
     <string name="tt_skip_ad_time_text">Saltar después de %ds</string>
     <string name="tt_slide_up_3d">limpiar</string>
@@ -2624,8 +2616,6 @@ Algunos sitios no usarán su historial de navegación anterior para personalizar
     <string name="tt_txt_skip">Saltar</string>
     <string name="tt_unlike">A diferencia de</string>
     <string name="tt_video_bytesize">Datos</string>
-    <string name="tt_video_bytesize_M">M</string>
-    <string name="tt_video_bytesize_MB">Mb</string>
     <string name="tt_video_continue_play">Continuar jugando</string>
     <string name="tt_video_dial_phone">DialNow</string>
     <string name="tt_video_download_apk">Descargar ahora</string>
