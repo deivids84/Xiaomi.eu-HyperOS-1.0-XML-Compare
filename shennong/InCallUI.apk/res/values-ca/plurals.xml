@@ -140,4 +140,10 @@
         <item quantity="other">Fa %d</item>
         <item quantity="one">Fa 1 minut</item>
     </plurals>
+    <plurals name="satellite_state_fail">
+        <item quantity="other">"Han passat %d segons sense connexió al satèl·lit.
+Pots continuar provant-ho o sortir ara."</item>
+        <item quantity="one">"Ha passat %d segon sense connexió al satèl·lit.
+Pots continuar provant-ho o sortir ara."</item>
+    </plurals>
 </resources>
