@@ -204,6 +204,7 @@
     <string name="columbus_player_speed_video">Omet VIDEO</string>
     <string name="columbus_player_unit_sec">seg</string>
     <string name="columbus_skip_ad">Omet</string>
+    <string name="com.crashlytics.android.build_id">1216db709af44ba786cfeed9d4169a06</string>
     <string name="com_permission_desc">"Mi Vídeo no pot accedir als vídeos del teu dispositiu. Permet l'accés a Configuració."</string>
     <string name="com_permission_title">Permisos necessaris</string>
     <string name="comment_model_add_comment">Afegir un comentari</string>
@@ -1531,6 +1532,7 @@ Només utilitzarem aquest permís per trobar els vídeos que cerqueu i no accedi
     <string name="sending">S\'està enviant…</string>
     <string name="service_error">Error del servidor</string>
     <string name="set_success">S\'ha canviat amb èxit</string>
+    <string name="setting_privacy_title">Termes i condicions</string>
     <string name="settings_inline_auto_play">Reproducció automàtica sempre</string>
     <string name="settings_inline_auto_play_close">Reproducció automàtica</string>
     <string name="settings_inline_auto_play_tip_close_forever">Sempre apagat</string>
