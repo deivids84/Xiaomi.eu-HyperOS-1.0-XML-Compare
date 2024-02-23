@@ -53,6 +53,7 @@
     <string name="eras_bc">a.C.</string>
     <string name="evening">Tarda</string>
     <string name="expand_button_title">Opcions avançades</string>
+    <string name="expand_top_notification">Amplieu la notificació superior</string>
     <string name="feedback">Comentaris</string>
     <string name="float_notification_snooze_strategy">Amaga temporalment</string>
     <string name="float_notification_snooze_summary">Feu lliscar el dit cap amunt sobre una notificació flotant per amagar temporalment les properes</string>
