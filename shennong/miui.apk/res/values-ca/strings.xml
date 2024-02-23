@@ -11,7 +11,7 @@
     <string name="activate_fail_notification_title">Reactivació de la sincronització</string>
     <string name="activating">S\'està activant…</string>
     <string name="address">Adreça</string>
-    <string name="after_reset_need_restore_system_app">"Sembla que has fet un restabliment de fàbrica. Connecta't a la xarxa i restableix els elements del sistema per a poder fer servir MIUI amb normalitat."</string>
+    <string name="after_reset_need_restore_system_app">"Sembla que has fet un restabliment de fàbrica. Connecteu-vos a la xarxa i restaurau els elements del sistema per poder utilitzar el dispositiu amb normalitat."</string>
     <string name="afternoon">pm</string>
     <string name="am">am</string>
     <string name="birthday">Aniversari</string>
@@ -19,7 +19,7 @@
     <string name="check_phone_error_title">Sincronització desactivada</string>
     <string name="check_phone_io_error">"No es pot connectar a la xarxa"</string>
     <string name="clearable_edittext_clear_description">Esborra</string>
-    <string name="click_to_restore">Restaura els elements del sistema per a poder fer servir MIUI amb normalitat després d\'un restabliment de fàbrica. Prem per a començar.</string>
+    <string name="click_to_restore">Restaura els elements del sistema per poder utilitzar el dispositiu amb normalitat després d\'un restabliment de fàbrica. Toqueu per començar.</string>
     <string name="close">Tanca</string>
     <string name="com_android_deskclock">Rellotge</string>
     <string name="com_android_download_ui">Descarrega</string>
@@ -86,6 +86,7 @@
     <string name="im">Xat</string>
     <string name="immersion_button_close_description">Tanca</string>
     <string name="instruction">Informació de seguretat important</string>
+    <string name="label">SDK del sistema</string>
     <string name="midnight">am</string>
     <string name="mobile_data_consume">Es necessiten %1$s MB de dades mòbils per a descarregar ara els elements. Segur que vols descarregar?</string>
     <string name="mobile_data_remind">Avís d\'ús de dades</string>
