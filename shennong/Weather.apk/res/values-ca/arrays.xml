@@ -2,10 +2,10 @@
 <resources>
     <string-array name="aqi_detail_title">
         <item>Bo</item>
+        <item>Fira</item>
         <item>Moderat</item>
-        <item>Insalubre per a grups sensibles</item>
         <item>Insalubre</item>
-        <item>Molt insalubre</item>
+        <item>Sever</item>
         <item>Perillós</item>
     </string-array>
     <string-array name="aqi_title_prefix">
@@ -18,11 +18,11 @@
     </string-array>
     <string-array name="aqi_value">
         <item>Bo</item>
-        <item>Satisfactori</item>
-        <item>Moderadament contaminat</item>
-        <item>Pobre</item>
-        <item>Molt pobre</item>
-        <item>Greu</item>
+        <item>Fira</item>
+        <item>Moderat</item>
+        <item>Poc sa</item>
+        <item>Sever</item>
+        <item>Perillós</item>
         <item>Més enllà de l\'índex</item>
     </string-array>
     <string-array name="breeze">
@@ -70,6 +70,10 @@
         <item>Molt contaminat</item>
         <item>Més enllà de l\'índex</item>
     </string-array>
+    <string-array name="primary_devices">
+        <item>dolç_k6a</item>
+        <item>dolça</item>
+    </string-array>
     <string-array name="realtime_humidity_status">
         <item>Sec</item>
         <item>Còmode</item>
@@ -98,24 +102,24 @@
         <item>Serè</item>
         <item>Ennuvolat</item>
         <item>Cobert</item>
-        <item>Emboirat</item>
+        <item>Boira</item>
         <item>Temporal fort</item>
         <item>Aiguat</item>
         <item>Temporal</item>
         <item>Tempesta</item>
-        <item>Pluja</item>
-        <item>Pluja forta</item>
+        <item>Xàfecs</item>
+        <item>Pluja intensa</item>
         <item>Pluja moderada</item>
         <item>Pluja feble</item>
-        <item>Aiguaneu</item>
+        <item>Nevis</item>
         <item>Torb</item>
-        <item>Neu</item>
+        <item>Ruixats de neu</item>
         <item>Neu forta</item>
         <item>Neu moderada</item>
         <item>Nevada lleugera</item>
         <item>Temporal fort de sorra</item>
-        <item>Temporal de sorra</item>
-        <item>Sorra</item>
+        <item>Tempesta de sorra</item>
+        <item>Tempesta de sorra lleugera</item>
         <item>Tempesta de pols</item>
         <item>Pedra</item>
         <item>Pols</item>
