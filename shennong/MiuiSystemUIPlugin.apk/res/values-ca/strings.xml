@@ -192,6 +192,8 @@
     <string name="miplay_bluetooth_share_des_text">"Usuaris d'auriculars Xiaomi: obriu la caixa de càrrega o manteniu premut el botó de la caixa %ds
 Usuaris d'auriculars que no siguin Xiaomi: restabliu els auriculars a la configuració de Bluetooth i, a continuació, connecteu-vos"</string>
     <string name="miplay_bluetooth_share_headphone_pairing">Afegiu auriculars per compartir àudio</string>
+    <string name="miplay_bluetooth_share_music_cancel_btn_content_des">S\'ha acabat de compartir l\'àudio</string>
+    <string name="miplay_bluetooth_share_music_together_btn_content_des">Afegeix auriculars per compartir àudio</string>
     <string name="miplay_bluetooth_share_subTitle_text">Compartir l\'àudio del dispositiu amb una altra persona</string>
     <string name="miplay_bluetooth_share_title_text">Compartir àudio</string>
     <string name="miplay_detail_divider_title">Parlants</string>
