@@ -192,6 +192,8 @@
     <string name="miplay_bluetooth_share_des_text">"Usuarios de auriculares Xiaomi: abra la caja de carga o mantenga presionado el botón de mayúsculas para usuarios %ds
 Los auriculares no Xiaomi: restablezca los auriculares en los ajustes de Bluetooth, luego conectar"</string>
     <string name="miplay_bluetooth_share_headphone_pairing">Añadir auriculares para compartir audio</string>
+    <string name="miplay_bluetooth_share_music_cancel_btn_content_des">Compartir audio finalizado</string>
+    <string name="miplay_bluetooth_share_music_together_btn_content_des">Añadir auriculares para compartir audio</string>
     <string name="miplay_bluetooth_share_subTitle_text">Compartir audio de dispositivo con otra persona</string>
     <string name="miplay_bluetooth_share_title_text">Compartir audio</string>
     <string name="miplay_detail_divider_title">Ponentes</string>
