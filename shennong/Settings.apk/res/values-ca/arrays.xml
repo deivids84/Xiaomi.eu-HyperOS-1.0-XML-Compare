@@ -17,16 +17,16 @@
         <item>Totes les xarxes</item>
     </string-array>
     <string-array name="agps_reset_type_entries">
-        <item>HOT</item>
-        <item>WARM</item>
-        <item>COLD</item>
+        <item>CALENT</item>
+        <item>CÀLID</item>
+        <item>FRED</item>
     </string-array>
     <string-array name="ai_key_item_name">
         <item>Parla amb l\'Assistent de Google</item>
         <item>Obre la cerca de Google</item>
         <item>Obre la càmera posterior</item>
         <item>Obre la càmera frontal</item>
-        <item>Obre l\'aplicació previa</item>
+        <item>Obre l\'aplicació anterior</item>
         <item>Encén la llanterna</item>
         <item>Activa el Mode lectura</item>
         <item>Cap</item>
@@ -39,15 +39,15 @@
     </string-array>
     <string-array name="alarm_repeat_type_no_workdays">
         <item>Cada dia</item>
-        <item>Entre setmana</item>
+        <item>Nits d\'entre setmana</item>
         <item>Cap de setmana</item>
         <item>Personalitzat</item>
     </string-array>
     <string-array name="animator_duration_scale_entries">
         <item>Animació desactivada</item>
-        <item>Escala d\'animació .5x</item>
+        <item>Escala d\'animació 0,5x</item>
         <item>Escala d\'animació 1x</item>
-        <item>Escala d\'animació 1.5x</item>
+        <item>Escala d\'animació 1,5x</item>
         <item>Escala d\'animació 2x</item>
         <item>Escala d\'animació 5x</item>
         <item>Escala d\'animació 10x</item>
@@ -66,42 +66,42 @@
         <item>Ubicació</item>
         <item>Ubicació</item>
         <item>Ubicació</item>
-        <item>Vibració</item>
-        <item>Lectura de contactes</item>
-        <item>Modifica els contactes</item>
-        <item>Llegeix el registre de trucades</item>
-        <item>Modifica el registre de trucades</item>
-        <item>Lectura del calendari</item>
-        <item>Modifica el calendari</item>
+        <item>Vibrar</item>
+        <item>Llegir els contactes</item>
+        <item>Modificar els contactes</item>
+        <item>Llegir el registre de trucades</item>
+        <item>Modificar el registre de trucades</item>
+        <item>Llegir el calendari</item>
+        <item>Modificar el calendari</item>
         <item>Ubicació</item>
-        <item>Notificació de la publicació</item>
+        <item>Publicar una notificació</item>
         <item>Ubicació</item>
-        <item>Trucada</item>
-        <item>Llegeix SMS/MMS</item>
-        <item>Escriu SMS/MMS</item>
-        <item>Rep SMS/MMS</item>
-        <item>Rep SMS/MMS</item>
-        <item>Rep SMS/MMS</item>
-        <item>Rep SMS/MMS</item>
-        <item>Envia SMS/MMS</item>
-        <item>Llegeix SMS/MMS</item>
-        <item>Escriu SMS/MMS</item>
-        <item>Modifica la configuració</item>
-        <item>Dibuixa a sobre</item>
-        <item>Accedeix a les notificacions</item>
+        <item>Trucada telefònica</item>
+        <item>Llegir SMS/MMS</item>
+        <item>Escriure SMS/MMS</item>
+        <item>Rebre SMS/MMS</item>
+        <item>Rebre SMS/MMS</item>
+        <item>Rebre SMS/MMS</item>
+        <item>Rebre SMS/MMS</item>
+        <item>Enviar SMS/MMS</item>
+        <item>Llegir SMS/MMS</item>
+        <item>Escriure SMS/MMS</item>
+        <item>Modificar la configuració</item>
+        <item>Dibuixar a sobre</item>
+        <item>Accés a les notificacions</item>
         <item>Càmera</item>
-        <item>Grava l\'àudio</item>
-        <item>Reprodueix l\'àudio</item>
-        <item>Llegeix el porta-retalls</item>
-        <item>Modifica el porta-retalls</item>
-        <item>Botons de multimèdia</item>
-        <item>Enfocament de l\'àudio</item>
+        <item>Gravar àudio</item>
+        <item>Reproduir àudio</item>
+        <item>Llegir el porta-retalls</item>
+        <item>Modificar el porta-retalls</item>
+        <item>Botons multimèdia</item>
+        <item>Enfocament d\'àudio</item>
         <item>Volum general</item>
         <item>Volum de la veu</item>
         <item>Volum del to</item>
         <item>Volum de multimèdia</item>
-        <item>Volum d\'alarma</item>
-        <item>Volum de notificació</item>
+        <item>Volum de l\'alarma</item>
+        <item>Volum de les notificacions</item>
         <item>Volum del Bluetooth</item>
         <item>Mantén actiu</item>
         <item>Ubicació</item>
