@@ -103,28 +103,28 @@
         <item>Volum de l\'alarma</item>
         <item>Volum de les notificacions</item>
         <item>Volum del Bluetooth</item>
-        <item>Mantén actiu</item>
+        <item>Mantenir actiu</item>
         <item>Ubicació</item>
         <item>Ubicació</item>
         <item>Obtenir estadístiques d\'ús</item>
-        <item>Silencia / deixa de silenciar el micròfon</item>
-        <item>Mostrar l\'avís</item>
-        <item>Projectar fitxers multimèdia</item>
-        <item>Activar la VPN</item>
-        <item>Fons de pantalla d\'escriptura</item>
-        <item>Estructura d\'assistència</item>
-        <item>Captura de pantalla d\'assistència</item>
-        <item>Consultar l\'estat del telèfon</item>
-        <item>Afegir missatges de veu</item>
-        <item>Utilitzar el protocol SIP</item>
-        <item>Processar les trucades sortints</item>
-        <item>Empremta digital</item>
+        <item>Silenciar/activar el micròfon</item>
+        <item>Mostrar notificació emergent</item>
+        <item>Projectar contingut multimèdia</item>
+        <item>Activar VPN</item>
+        <item>Editar fons de pantalla</item>
+        <item>Assistir a l\'estructura</item>
+        <item>Assistir a la captura de pantalla</item>
+        <item>Llegir l\'estat del telèfon</item>
+        <item>Afegir bústia de veu</item>
+        <item>Utilitzar SIP</item>
+        <item>Processar la trucada sortint</item>
+        <item>Empremta</item>
         <item>Sensors corporals</item>
-        <item>Consultar les difusions mòbils</item>
+        <item>Llegir emissions de cèl·lules</item>
         <item>Ubicació simulada</item>
-        <item>Consultar l\'emmagatzematge</item>
-        <item>Fer canvis a l\'emmagatzematge</item>
-        <item>Activar la pantalla</item>
+        <item>Llegir l\'emmagatzematge</item>
+        <item>Escriure a l\'emmagatzematge</item>
+        <item>Encendre la pantalla</item>
         <item>Obtenir comptes</item>
         <item>Executar en segon pla</item>
         <item>Volum d\'accessibilitat</item>
@@ -133,24 +133,24 @@
         <item>ubicació aproximada</item>
         <item>ubicació precisa</item>
         <item>GPS</item>
-        <item>vibració</item>
-        <item>lectura de contactes</item>
-        <item>modifica els contactes</item>
-        <item>llegeix el registre de trucades</item>
-        <item>modifica el registre de trucades</item>
-        <item>lectura del calendari</item>
-        <item>modifica el calendari</item>
+        <item>vibrar</item>
+        <item>llegir els contactes</item>
+        <item>modificar els contactes</item>
+        <item>llegir el registre de trucades</item>
+        <item>modificar el registre de trucades</item>
+        <item>llegir el calendari</item>
+        <item>modificar el calendari</item>
         <item>exploració de Wi-Fi</item>
         <item>notificació</item>
         <item>exploració de cel·la</item>
-        <item>trucada</item>
-        <item>llegeix SMS</item>
-        <item>escriu SMS</item>
-        <item>rep SMS</item>
-        <item>rep SMS d\'emergència</item>
-        <item>rep MMS</item>
-        <item>rep insercions WAP</item>
-        <item>envia SMS</item>
+        <item>trucada telefònica</item>
+        <item>llegir SMS</item>
+        <item>escriure SMS</item>
+        <item>rebre SMS</item>
+        <item>rebre SMS d\'emergència</item>
+        <item>rebre MMS</item>
+        <item>rebre WAP</item>
+        <item>enviar SMS</item>
         <item>llegeix SMS ICC</item>
         <item>escriu SMS ICC</item>
         <item>modifica la configuració</item>
