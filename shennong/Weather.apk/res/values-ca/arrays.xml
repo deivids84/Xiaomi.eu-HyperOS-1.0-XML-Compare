@@ -70,10 +70,6 @@
         <item>Molt contaminat</item>
         <item>Més enllà de l\'índex</item>
     </string-array>
-    <string-array name="primary_devices">
-        <item>dolç_k6a</item>
-        <item>dolça</item>
-    </string-array>
     <string-array name="realtime_humidity_status">
         <item>Sec</item>
         <item>Còmode</item>
