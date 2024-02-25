@@ -73,7 +73,7 @@
     <string name="HIPS_Perm_get_tasks">Obtenir tasques</string>
     <string name="HIPS_Perm_get_tasks_Desc">obtenir tasques</string>
     <string name="HIPS_Perm_install_shortcut">Dreceres a la Pantalla d\'inici</string>
-    <string name="HIPS_Perm_install_shortcut_Desc">Afegir dreceres a la Pantalla d\'inici</string>
+    <string name="HIPS_Perm_install_shortcut_Desc">afegir dreceres a la Pantalla d\'inici</string>
     <string name="HIPS_Perm_mediaVolume">Ajusta el volum de multimèdia</string>
     <string name="HIPS_Perm_mediaVolume_Desc">Permet que l\'aplicació ajusti el volum de multimèdia</string>
     <string name="HIPS_Perm_operator_get_phonenumbner">Accediu al número de telèfon per iniciar la sessió</string>
@@ -184,7 +184,7 @@
     <string name="go_behavior_record">Historial de conducta de l\'aplicació</string>
     <string name="go_setting">Configuració</string>
     <string name="gold_master_dialog_reject">Restringir (%d)</string>
-    <string name="gold_master_dialog_title">%1$s vol accedir al porta-retalls</string>
+    <string name="gold_master_dialog_title">%1$s want to read clipboard</string>
     <string name="grant_dialog_button_allow">Permet</string>
     <string name="grant_dialog_button_allow_all">Permet-ho tot</string>
     <string name="grant_dialog_button_allow_always">Permet sempre</string>
