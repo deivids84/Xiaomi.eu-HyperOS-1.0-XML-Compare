@@ -231,11 +231,6 @@ Programa de seguiment"</string>
     <string name="lucky_result_title">Sobres vermells</string>
     <string name="main_toolbar_purchase">Recàrrega</string>
     <string name="midnight">Nit</string>
-    <string name="migrate_btn_installed">前往新版儿童空间</string>
-    <string name="migrate_btn_uninstalled">去升级</string>
-    <string name="migrate_dialog_message_installed">儿童空间已经升级到最新版本，新增使用时段控制等功能，需到设置釓新设置重新新重新时段控制等功能</string>
-    <string name="migrate_dialog_message_uninstalled">儿童空间新增使用时段控制等功能，请升级到最新版本体验全新功能</string>
-    <string name="migrate_dialog_title">升级提醒</string>
     <string name="miuishare_title_more">Més</string>
     <string name="miuishare_title_share">Compartició</string>
     <string name="miuishare_wechat_timeline_title">Moments WeChat</string>
