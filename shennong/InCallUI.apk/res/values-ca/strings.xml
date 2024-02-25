@@ -320,7 +320,6 @@ dispositius Bluetooth per poder veure\'ls.</string>
     <string name="relay_device_type_pc">Ordinador</string>
     <string name="relay_stop_recorder">La gravació es va aturar</string>
     <string name="remind_unlock_message">El vostre dispositiu està bloquejat ara. \"%s\" estarà disponible després de desbloquejar el dispositiu. Desbloquejar ara?</string>
-    <string name="required_permissions">android.permission.READ_CONTACTS;android.permission.BLUETOOTH_CONNECT;android.permission.POST_NOTIFICATIONS;android.permission.READ_CALL_LOG;android.permission.READ_MEDIA_AUDIO;android.permission.READ_PHONE_STATE</string>
     <string name="respond_via_sms_custom_message">SMS personalitzat</string>
     <string name="satellite_call_failed">Senyal interromput. Prova una altra vegada.</string>
     <string name="satellite_debug_antenna">Antena</string>
