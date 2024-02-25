@@ -217,7 +217,6 @@
     <string name="back">Atrás</string>
     <string name="back_confirm">Toque de nuevo para salir</string>
     <string name="best_experience">Mejor experiencia</string>
-    <string name="billion_char">%s B</string>
     <string name="bluetooth_device">Dispositivo de audio Bluetooth</string>
     <string name="bottomsheet_action_expand_halfway">Expandir a la mitad</string>
     <string name="btn_text_edit">Editar</string>
@@ -263,8 +262,6 @@
     <string name="columbus_player_speed_video">Saltar VIDEO</string>
     <string name="columbus_player_unit_sec">seg</string>
     <string name="columbus_skip_ad">Saltar</string>
-    <string name="com.google.firebase.crashlytics.mapping_file_id">6bd2a25900b04629999851bf47717a74</string>
-    <string name="com.miapm.build_id">e54d085ab6364592814c930ee69af058</string>
     <string name="common_google_play_services_enable_button">Habilitar</string>
     <string name="common_google_play_services_enable_text">"%1$s no funcionará a menos que habilites los servicios de Google Play."</string>
     <string name="common_google_play_services_enable_title">Habilitar servicios de Google Play</string>
@@ -568,11 +565,8 @@
     <string name="filter_by_folder">Por carpeta</string>
     <string name="filter_by_folder_summary">Elegir carpetas para mostrar</string>
     <string name="filter_by_size">Por tamaño</string>
-    <string name="filter_by_size_max">%d MB</string>
-    <string name="filter_by_size_min">%d KB</string>
     <string name="filter_by_size_prefix">"Ocultar archivos más pequeños que "</string>
     <string name="filter_by_size_summary">Ocultar pequeños archivos de audio</string>
-    <string name="filter_size_unit">%d KB</string>
     <string name="find_you_tunes">Encuentra tus canciones</string>
     <string name="floating_view_dialog_desc">La música dejará de reproducirse si abandona esta página. ¿Abandonar?</string>
     <string name="floating_view_dialog_leave">Abandonar</string>
@@ -829,7 +823,6 @@
     <string name="middle_sound_quality">Predefinido</string>
     <string name="midnight">Noche</string>
     <string name="milink_unavaliable_please_update">"Mi Link no está disponible. Actualice MIUI."</string>
-    <string name="million_char">%s M</string>
     <string name="millions_songs">Millones de canciones</string>
     <string name="min_sleep_time">%d</string>
     <string name="missing_title">&lt;Desconocido&gt;</string>
@@ -1563,7 +1556,6 @@ Sea Feliz"</string>
     <string name="the_tw_youth_day">Día de la Juventud</string>
     <string name="the_united_nations_day">Día de las Naciones Unidas</string>
     <string name="the_water_lantern_festival">Festival de las Luces de Agua</string>
-    <string name="thousand_char">%s K</string>
     <string name="thursday">Jueves</string>
     <string name="thursday_short">Jue</string>
     <string name="thursday_shortest">Jue</string>
