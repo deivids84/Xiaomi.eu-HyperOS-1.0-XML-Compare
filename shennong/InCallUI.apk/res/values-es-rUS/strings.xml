@@ -319,7 +319,6 @@
     <string name="relay_device_type_pc">Ordenador</string>
     <string name="relay_stop_recorder">Grabación detenida</string>
     <string name="remind_unlock_message">Su dispositivo está bloqueado. \"%s\" estará disponible al desbloquearlo. ¿Desbloquear dispositivo ahora?</string>
-    <string name="required_permissions">android.permission.READ_CONTACTS;android.permission.BLUETOOTH_CONNECT;android.permission.POST_NOTIFICATIONS;android.permission.READ_CALL_LOG;android.permission.READ_MEDIA_AUDIO;android.permission.READ_PHONE_STATE</string>
     <string name="respond_via_sms_custom_message">Personalizar SMS</string>
     <string name="satellite_call_failed">Señal interrumpida. Inténtalo de nuevo.</string>
     <string name="satellite_debug_antenna">Antena</string>
