@@ -73,7 +73,7 @@
     <string-array name="tile_states_color_correction">
         <item>Disponible</item>
         <item>Apagat</item>
-        <item>Sobre</item>
+        <item>Activat</item>
     </string-array>
     <string-array name="tile_states_controls">
         <item>No disponible</item>
@@ -93,7 +93,7 @@
     <string-array name="tile_states_dream">
         <item>Disponible</item>
         <item>Apagat</item>
-        <item>Sobre</item>
+        <item>Activat</item>
     </string-array>
     <string-array name="tile_states_flashlight">
         <item>No disponible</item>
@@ -103,7 +103,7 @@
     <string-array name="tile_states_font_scaling">
         <item>Disponible</item>
         <item>Apagat</item>
-        <item>Sobre</item>
+        <item>Activat</item>
     </string-array>
     <string-array name="tile_states_hotspot">
         <item>No disponible</item>
@@ -138,12 +138,12 @@
     <string-array name="tile_states_onehanded">
         <item>Disponible</item>
         <item>Apagat</item>
-        <item>Sobre</item>
+        <item>Activat</item>
     </string-array>
     <string-array name="tile_states_qr_code_scanner">
         <item>Disponible</item>
         <item>Apagat</item>
-        <item>Sobre</item>
+        <item>Activat</item>
     </string-array>
     <string-array name="tile_states_reduce_brightness">
         <item>No disponible</item>
