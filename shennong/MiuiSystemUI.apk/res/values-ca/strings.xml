@@ -10,7 +10,7 @@
     <string name="a11y_action_pip_move_left">Mou cap a l\'esquerra</string>
     <string name="a11y_action_pip_move_right">Mou cap a la dreta</string>
     <string name="a11y_action_pip_move_up">Mou cap amunt</string>
-    <string name="a11y_pip_menu_entered">Menú imatge en imatge.</string>
+    <string name="a11y_pip_menu_entered">Menú d\'imatge en imatge.</string>
     <string name="abbrev_month_day_no_year">MMMd</string>
     <string name="abbrev_wday_month_day_no_year_alarm">EEEdMMM</string>
     <string name="abc_action_bar_home_description">Navega fins a la pàgina d\'inici</string>
@@ -215,7 +215,7 @@
     <string name="accessibility_tile_disabled_by_policy_action_description">més informació</string>
     <string name="accessibility_tty_enabled">Teletip activat.</string>
     <string name="accessibility_unlock_button">Desbloquejat</string>
-    <string name="accessibility_volume_close_odi_captions_tip">Tanca el consell sobre subtítols</string>
+    <string name="accessibility_volume_close_odi_captions_tip">Tanca les recomanacions de subtítols</string>
     <string name="accessibility_volume_settings">Configuració del so</string>
     <string name="accessibility_vpn_on">VPN activada</string>
     <string name="accessibility_wallet_button">Wallet</string>
@@ -265,7 +265,7 @@
     <string name="battery_low_title">Vols activar Estalvi de bateria?</string>
     <string name="battery_saver_confirmation_ok">Activa</string>
     <string name="battery_saver_confirmation_title">Vols activar la funció Estalvi de bateria?</string>
-    <string name="battery_saver_confirmation_title_generic">Sobre la funció Estalvi de bateria</string>
+    <string name="battery_saver_confirmation_title_generic">Sobre Estalvi de bateria</string>
     <string name="battery_saver_dismiss_action">No, gràcies</string>
     <string name="battery_saver_start_action">Activa</string>
     <string name="battery_state_unknown_notification_text">Toca per obtenir més informació</string>
@@ -574,7 +574,7 @@ Hauràs de tornar configurar aquesta funció per desbloquejar el telèfon utilit
     <string name="face_reenroll_failure_dialog_content">No s\'ha pogut configurar el desbloqueig facial. Ves a Configuració per tornar-ho a provar.</string>
     <string name="face_unlock_be_on_the_screen">Mantén el dispositiu davant la vostra cara</string>
     <string name="face_unlock_check_failed">"No se us ha pogut reconèixer"</string>
-    <string name="face_unlock_fail_retry_global">Toqueu a sobre per utilitzar el desbloqueig facial</string>
+    <string name="face_unlock_fail_retry_global">Toca a sobre per utilitzar el desbloqueig facial</string>
     <string name="face_unlock_locked">"No es pot utilitzar el desbloqueig facial ara"</string>
     <string name="face_unlock_not_found">"No se us ha pogut reconèixer"</string>
     <string name="face_unlock_open_eye">Obriu els ulls una mica més</string>
@@ -687,7 +687,7 @@ Després de suprimir-los, hauràs de tornar a configurar Desbloqueig amb empremt
     <string name="group_system_full_screenshot">Fes una captura de pantalla completa</string>
     <string name="group_system_go_back">Enrere: torna a l\'estat anterior (botó Enrere)</string>
     <string name="group_system_hide_reshow_taskbar">Amaga i torna a mostrar la barra de tasques</string>
-    <string name="group_system_overview_open_apps">Informació general sobre les aplicacions obertes</string>
+    <string name="group_system_overview_open_apps">Visió general de les aplicacions obertes</string>
     <string name="guest_exit_button">Surt del mode de convidat</string>
     <string name="guest_exit_clear_data_button">Suprimeix</string>
     <string name="guest_exit_dialog_button">Surt</string>
@@ -981,11 +981,11 @@ moure aquesta aplicació"</string>
     <string name="lockscreen_unlock_left">La drecera de l\'esquerra també desbloqueja el dispositiu</string>
     <string name="lockscreen_unlock_right">La drecera de la dreta també desbloqueja el dispositiu</string>
     <string name="log_access_confirmation_allow">Permet l\'accés únic</string>
-    <string name="log_access_confirmation_body">"Els registres del dispositiu inclouen informació sobre tot allò que passa al teu dispositiu. Les aplicacions poden utilitzar aquests registres per detectar i corregir problemes.
+    <string name="log_access_confirmation_body">"Els registres del dispositiu registren el que passa al dispositiu. Les aplicacions poden utilitzar aquests registres per cercar i solucionar problemes.
 
-Com que és possible que alguns registres continguin informació sensible, et recomanem que només hi permetis l'accés a les aplicacions de confiança. 
+Alguns registres poden contenir informació delicada, de manera que només permet que les aplicacions en què confiïs accedeixin a tots els registres del dispositiu. 
 
-Encara que no permetis que aquesta aplicació accedeixi a tots els registres del dispositiu, podrà accedir als seus propis registres. És possible que el fabricant del dispositiu també tingui accés a alguns registres o a informació del teu dispositiu."</string>
+Si no permets que aquesta aplicació accedeixi a tots els registres del dispositiu, encara pot accedir als seus propis registres. És possible que el fabricant del dispositiu pugui continuar accedint a alguns registres o informació del dispositiu."</string>
     <string name="log_access_confirmation_deny">No permetis</string>
     <string name="log_access_confirmation_learn_more">Més informació</string>
     <string name="log_access_confirmation_learn_more_at">Més informació a %s</string>
@@ -1282,7 +1282,7 @@ Si tens cap pregunta, contacta amb %2$s."</string>
     <string name="notification_channel_summary_priority_baseline">Es mostra a la part superior de les notificacions de les converses i com a foto de perfil a la pantalla de bloqueig</string>
     <string name="notification_channel_summary_priority_bubble">Es mostra a la part superior de les notificacions de les converses i com a foto de perfil a la pantalla de bloqueig, apareix com una bombolla</string>
     <string name="notification_channel_summary_priority_dnd">Es mostra a la part superior de les notificacions de les converses i com a foto de perfil a la pantalla de bloqueig, interromp el mode No molestis</string>
-    <string name="notification_channel_tv_pip">Imatge sobre imatge</string>
+    <string name="notification_channel_tv_pip">Imatge en imatge</string>
     <string name="notification_conversation_bubble">Mostra com a bombolla</string>
     <string name="notification_conversation_summary_low">Sense so ni vibració i es mostra més avall a la secció de converses</string>
     <string name="notification_conversation_unbubble">Suprimeix les bombolles</string>
@@ -1419,7 +1419,7 @@ Si tens cap pregunta, contacta amb %2$s."</string>
     <string name="qs_tile_request_dialog_add">Afegeix la icona</string>
     <string name="qs_tile_request_dialog_not_add">No afegeixis la icona</string>
     <string name="qs_tile_request_dialog_text">%1$s vol afegir la icona següent a la configuració ràpida</string>
-    <string name="qs_traffic_message_type_exceed">%1$s %2$s sobre el límit</string>
+    <string name="qs_traffic_message_type_exceed">%1$s %2$s per sobre del límit</string>
     <string name="qs_traffic_message_type_remain">%1$s %2$s restant</string>
     <string name="qs_traffic_message_type_used">%1$s %2$s utilitzats</string>
     <string name="qs_user_switch_dialog_title">Selecciona un usuari</string>
