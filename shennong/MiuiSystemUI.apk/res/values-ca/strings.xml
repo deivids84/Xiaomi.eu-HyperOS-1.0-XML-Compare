@@ -10,7 +10,7 @@
     <string name="a11y_action_pip_move_left">Mou cap a l\'esquerra</string>
     <string name="a11y_action_pip_move_right">Mou cap a la dreta</string>
     <string name="a11y_action_pip_move_up">Mou cap amunt</string>
-    <string name="a11y_pip_menu_entered">Menú d\'imatge sobre imatge.</string>
+    <string name="a11y_pip_menu_entered">Menú imatge en imatge.</string>
     <string name="abbrev_month_day_no_year">MMMd</string>
     <string name="abbrev_wday_month_day_no_year_alarm">EEEdMMM</string>
     <string name="abc_action_bar_home_description">Navega fins a la pàgina d\'inici</string>
