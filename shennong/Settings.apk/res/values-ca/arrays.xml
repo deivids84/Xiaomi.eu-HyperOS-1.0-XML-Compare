@@ -155,35 +155,35 @@
         <item>escriure SMS ICC</item>
         <item>modificar la configuració</item>
         <item>dibuixar a sobre</item>
-        <item>accedir a les notificacions</item>
+        <item>accés a les notificacions</item>
         <item>càmera</item>
-        <item>grava l\'àudio</item>
-        <item>reprodueix l\'àudio</item>
-        <item>llegeix el porta-retalls</item>
-        <item>modifica el porta-retalls</item>
+        <item>gravar àudio</item>
+        <item>reproduir àudio</item>
+        <item>llegir el porta-retalls</item>
+        <item>modificar el porta-retalls</item>
         <item>botons multimèdia</item>
         <item>enfocament de l\'àudio</item>
         <item>volum general</item>
         <item>volum de la veu</item>
         <item>volum del to</item>
         <item>volum de multimèdia</item>
-        <item>volum d\'alarma</item>
-        <item>volum de notificació</item>
+        <item>volum de l\'alarma</item>
+        <item>volum de les notificacions</item>
         <item>volum del Bluetooth</item>
-        <item>mantén actiu</item>
-        <item>supervisa la ubicació</item>
-        <item>fes un seguiment de la precisió de la ubicació</item>
+        <item>mantenir actiu</item>
+        <item>monitorar la ubicació</item>
+        <item>monitorar la ubicació precisa</item>
         <item>obtenir estadístiques d\'ús</item>
-        <item>silencia / deixa de silenciar el micròfon</item>
-        <item>mostrar l\'avís</item>
-        <item>projectar fitxers multimèdia</item>
+        <item>silenciar/activar el micròfon</item>
+        <item>mostrar notificació emergent</item>
+        <item>projectar contingut multimèdia</item>
         <item>activar la VPN</item>
-        <item>fons de pantalla d\'escriptura</item>
-        <item>estructura d\'assistència</item>
-        <item>captura de pantalla d\'assistència</item>
-        <item>consultar l\'estat del telèfon</item>
-        <item>afegir missatges de veu</item>
-        <item>utilitzar el protocol SIP</item>
+        <item>editar fons de pantalla</item>
+        <item>assistir a l\'estructura</item>
+        <item>assistir a la captura de pantalla</item>
+        <item>llegir l\'estat del telèfon</item>
+        <item>afegir bústia de veu</item>
+        <item>utilitzar SIP</item>
         <item>processar les trucades sortints</item>
         <item>empremta digital</item>
         <item>sensors corporals</item>
