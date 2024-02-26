@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="acousticguitar">Guitarra acústica</string>
-    <string name="activity_package_delete_confirm_title">Alerta important</string>
+    <string name="activity_package_delete_confirm_title">Atenció</string>
     <string name="add_frequent_phrases">Afegeix frases habituals</string>
-    <string name="africaanimals_preview">Savanna</string>
+    <string name="africaanimals_preview">Sabana</string>
     <string name="alarmclock">Despertador</string>
-    <string name="all_call_livetalk_enable">Utilitzant paquets de recarrega per a trucades nacionals i internacionals</string>
+    <string name="all_call_livetalk_enable">Utilitzant paquets de recàrrega per a trucades nacionals i internacionals</string>
     <string name="all_call_livetalk_remain_mins">Minuts restants: %1$s nacional o %2$s internacional</string>
     <string name="always">Sempre</string>
     <string name="alwaysUsePrompt">Recorda la meva elecció</string>
-    <string name="amazonanimals_preview">Selva tropical</string>
+    <string name="amazonanimals_preview">Selva</string>
     <string name="android_ringtone_default_with_actual">To de trucada per defecte (%1$s)</string>
-    <string name="android_ringtone_silent">Emplenament automàtic</string>
-    <string name="android_ringtone_unknown">Voleu permetre a Xiaomi desar els vostres comptes i contrasenyes?</string>
-    <string name="app_continuity_channel_name">Brisa</string>
-    <string name="application_cannot_open_alipay_health_code">"Cancel·leu"</string>
-    <string name="application_cannot_open_alipay_payment_code">"D'acord"</string>
-    <string name="application_cannot_open_alipay_scanner">"Bombolla"</string>
-    <string name="application_cannot_open_au_pay">Granota toro</string>
+    <string name="android_ringtone_silent">Cap</string>
+    <string name="android_ringtone_unknown">To de trucada desconegut</string>
+    <string name="app_continuity_channel_name">Ajustos de disseny de l\'aplicació</string>
+    <string name="application_cannot_open_alipay_health_code">"No s'ha pogut obrir el codi sanitari d'Alipay"</string>
+    <string name="application_cannot_open_alipay_payment_code">"No s'ha pogut obrir el codi de pagament d'Alipay"</string>
+    <string name="application_cannot_open_alipay_scanner">"No s'ha pogut obrir l'escàner d'Alipay"</string>
+    <string name="application_cannot_open_au_pay">Instal·leu primer au PAY</string>
     <string name="application_cannot_open_weixin_health_code">"Explosió"</string>
     <string name="application_cannot_open_weixin_payment_code">"Cancel·leu"</string>
     <string name="application_cannot_open_weixin_scanner">"Desinstal·leu"</string>
