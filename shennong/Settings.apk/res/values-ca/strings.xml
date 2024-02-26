@@ -68,10 +68,10 @@
     <string name="accessibility_alarm_vibration_title">Vibració de les alarmes</string>
     <string name="accessibility_audio_adjustment_title">Ajust d\'àudio</string>
     <string name="accessibility_audio_description_summary">Escolta una descripció del que passa a la pantalla en pel·lícules i programes compatibles</string>
-    <string name="accessibility_autoclick_about_title">Clic aut. (temps de permanència)</string>
+    <string name="accessibility_autoclick_about_title">Sobre el clic automàtic (temps de permanència)</string>
     <string name="accessibility_autoclick_custom_title">Personalitzat</string>
     <string name="accessibility_autoclick_default_title">Clic automàtic desactivat</string>
-    <string name="accessibility_autoclick_description">El clic automàtic pot ser útil si et costa fer clic al ratolí</string>
+    <string name="accessibility_autoclick_description">El clic automàtic pot ser útil si és difícil fer clic amb el ratolí</string>
     <string name="accessibility_autoclick_footer_learn_more_content_description">Més informació sobre el clic automàtic (temps de permanència)</string>
     <string name="accessibility_autoclick_intro_text">Pots definir que el ratolí connectat faci clic automàticament quan el cursor deixi de moure\'s durant un temps determinat</string>
     <string name="accessibility_autoclick_long_summary">1 segon</string>
@@ -85,14 +85,14 @@
     <string name="accessibility_autoclick_short_title">Curt</string>
     <string name="accessibility_autoclick_shorter_desc">Més curt</string>
     <string name="accessibility_back">Enrere</string>
-    <string name="accessibility_banner_message_dismiss">Ignora</string>
+    <string name="accessibility_banner_message_dismiss">Descarta</string>
     <string name="accessibility_button_about_title">Sobre el botó d\'accessibilitat</string>
     <string name="accessibility_button_description"><b>Per començar</b>\"
 1. Ves a la configuració d\'accessibilitat.
 2. Selecciona una funció i toca la drecera.
 3. Tria el botó per accedir a la funció.\"</string>
-    <string name="accessibility_button_fade_summary">S\'atenua al cap d\'uns segons perquè sigui més fàcil veure la pantalla</string>
-    <string name="accessibility_button_fade_title">Atenua quan no s\'estigui utilitzant</string>
+    <string name="accessibility_button_fade_summary">S\'esvaeix al cap d\'uns segons perquè sigui més fàcil veure la pantalla</string>
+    <string name="accessibility_button_fade_title">S\'esvaeix quan no s\'utilitza</string>
     <string name="accessibility_button_gesture_about_title">Sobre els gestos i el botó d\'accessibilitat</string>
     <string name="accessibility_button_gesture_description"><b>Per començar</b>\"
 1. Ves a la configuració d\'accessibilitat.
