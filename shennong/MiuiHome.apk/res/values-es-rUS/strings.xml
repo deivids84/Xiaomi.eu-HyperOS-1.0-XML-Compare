@@ -213,6 +213,7 @@
     <string name="cloud_app_restore_title">Pendiente</string>
     <string name="color_group">Agrupar iconos por color</string>
     <string name="color_group_anim">Animaciones en categorías de colores</string>
+    <string name="com.crashlytics.android.build_id">43afe296d1d342c3b01084fd139dc57a</string>
     <string name="common_google_play_services_unknown_issue">%1$s estás teniendo problemas con los servicios de Google Play. Inténtalo de nuevo.</string>
     <string name="common_home_search_delete">Eliminar la barra de búsqueda</string>
     <string name="common_home_search_delete_cancle">Cancelar</string>
