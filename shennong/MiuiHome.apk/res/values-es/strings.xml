@@ -213,6 +213,7 @@
     <string name="cloud_app_restore_title">Pendiente</string>
     <string name="color_group">Agrupar iconos por color</string>
     <string name="color_group_anim">Animaciones en categorías de color</string>
+    <string name="com.crashlytics.android.build_id">7cec3fd221804464b98237aa86c3ea16</string>
     <string name="common_google_play_services_unknown_issue">%1$s tiene problemas con los servicios de Google Play. Inténtalo otra vez.</string>
     <string name="common_home_search_delete">Eliminar la barra de búsqueda</string>
     <string name="common_home_search_delete_cancle">Cancelar</string>
@@ -714,6 +715,7 @@ Seguridad mejorada."</string>
     <string name="switch_personal_assistant_app_vault">Bóveda de aplicaciones</string>
     <string name="switch_personal_assistant_google">Google Discover</string>
     <string name="switch_personal_assistant_none">Nada</string>
+    <string name="switch_personal_assistant_summary">Deslice a la derecha en la pantalla de inicio para abrir Google Discover</string>
     <string name="switch_screen_button_order">Invertir botones</string>
     <string name="switch_screen_button_order_desc">Invertir botones de Atrás y Menú</string>
     <string name="system_sdk_disabled_toast">SDK del sistema ha sido deshabilitado. Habilítelo primero.</string>
