@@ -44,6 +44,7 @@
     <string name="aleady_understand_the_app_is_hight_risk">Enteneu que aquesta aplicació pot suposar riscos de seguretat.</string>
     <string name="allow_current_install">Permetre una vegada</string>
     <string name="allowed_this_time">Permetre una vegada</string>
+    <string name="already_open_enhance">La protecció millorada està activada</string>
     <string name="already_understand_the_risks_market_unknown">"Entenc que aquest paquet d'instal·lació no s'ha provat per problemes de seguretat"</string>
     <string name="already_understood_bundle_app">Entenc els riscos de les aplicacions incloses</string>
     <string name="am">AM</string>
@@ -126,6 +127,7 @@
     <string name="clearable_edittext_clear_description">Clar</string>
     <string name="click_tip_toast">Marqueu la casella abans de continuar</string>
     <string name="close">Tanca</string>
+    <string name="close_enhance_safe_guard">Desactiva la protecció millorada</string>
     <string name="close_mi_protect_lockscreen_authorize_cancel">Cancel·lar</string>
     <string name="close_mi_protect_lockscreen_authorize_ok">Continuar</string>
     <string name="close_mi_protected_second_tip_dialog_cancel">No gràcies</string>
@@ -172,6 +174,7 @@
     <string name="dialog_install_source">Font: %1$s</string>
     <string name="dialog_open_security_mode_on_button_msg">Ho tinc</string>
     <string name="dialog_security_mode_guide_cancel">Cancel·lar</string>
+    <string name="dialog_security_mode_guide_child_msg">Activa Mi Protect per protegir la privadesa dels menors, detectar aplicacions arriscades i evitar contingut maliciós.</string>
     <string name="dialog_security_mode_guide_delete_apps_msg">"Has suprimit diverses aplicacions que no has utilitzat mai. Si heu baixat per error aplicacions o anuncis no desitjats, activeu Mi Protect per evitar que les aplicacions baixin i instal·lin altres aplicacions sense el vostre consentiment."</string>
     <string name="dialog_security_mode_guide_elder_msg">"Activeu la protecció Elder de Mi Protect per garantir la vostra privadesa i seguretat."</string>
     <string name="dialog_security_mode_guide_open">Encendre</string>
@@ -186,6 +189,20 @@
     <string name="elder_mode_subtitle">Protegir-se contra la instal·lació d\'aplicacions perilloses, violacions de privadesa i estafes</string>
     <string name="elder_mode_title">Protecció de la gent gran</string>
     <string name="empty_app">No hi ha aplicacions</string>
+    <string name="enhance_mode_close_feedback">Gràcies per utilitzar la protecció millorada</string>
+    <string name="enhance_mode_feedback_reason">Per què desactives aquesta funció?</string>
+    <string name="enhance_safe_guard_mode_description">Instal·leu només aplicacions que hagin superat les proves de GetApps per protegir el vostre dispositiu de virus i programari maliciós</string>
+    <string name="enhance_safe_guard_title">Activa la protecció millorada per evitar aplicacions de risc</string>
+    <string name="enhance_safe_mode">Protecció millorada</string>
+    <string name="enhance_safe_mode_open_description">"Amb la protecció millorada activada, només podreu instal·lar aplicacions que hagin superat les proves de GetApps, protegint el vostre dispositiu de virus i programari maliciós."</string>
+    <string name="enhance_safe_mode_title">Protecció millorada</string>
+    <string name="enhanced_protection_des_1">La protecció millorada és una característica avançada de Mi Protect. Protegeix el vostre dispositiu afegint mesures addicionals contra virus i programari maliciós.</string>
+    <string name="enhanced_protection_f_1_demo">L\'1 de febrer de 2023, el Sr. Chen va instal·lar una aplicació mitjançant la qual els estafadors el feien transferir diners diverses vegades. El Sr. Chen va perdre 78.238 CNY en total.</string>
+    <string name="enhanced_protection_f_1_des">Sense la protecció millorada, les aplicacions malicioses et podrien estafar.</string>
+    <string name="enhanced_protection_f_1_title">Protecció antifrau</string>
+    <string name="enhanced_protection_f_2_des">Quan la protecció millorada està desactivada, les aplicacions malicioses poden accedir a la teva informació personal.</string>
+    <string name="enhanced_protection_f_2_title">Protecció de la privadesa</string>
+    <string name="enhanced_protection_f_3_title">Estabilitat del sistema</string>
     <string name="eras_ad">CE</string>
     <string name="eras_bc">BCE</string>
     <string name="error_a11y_label">Error: no vàlid</string>
@@ -222,6 +239,7 @@
     <string name="fmt_date_short_year_month_day">MMM d, yyyy</string>
     <string name="fmt_time_12hour">"h ''en punt''"</string>
     <string name="fmt_time_24hour">"HH ''en punt''"</string>
+    <string name="four_automatic_detection">4 proves automatitzades</string>
     <string name="friday">Divendres</string>
     <string name="friday_short">Dv.</string>
     <string name="friday_shortest">dv.</string>
@@ -257,7 +275,9 @@
     <string name="isntall_failed_verification_resolve_uggestion">Proveu de trobar un substitut d\'aquesta aplicació des d\'una font de confiança</string>
     <string name="item_view_role_description">Pestanya</string>
     <string name="learn_bundle_app_install">Aprèn més</string>
+    <string name="learn_enhance_safe_guard">Aprèn més</string>
     <string name="learn_more">Aprèn més</string>
+    <string name="let_me_think_again">Continua</string>
     <string name="lock_finger">Verificar l\'empremta digital per instal·lar-la</string>
     <string name="lock_screen_authrioze_subtitle_password">Autoritzar amb bloqueig de pantalla</string>
     <string name="lock_screen_password_authrioze">Verifiqueu el bloqueig de pantalla per instal·lar-lo</string>
@@ -454,6 +474,8 @@
     <string name="only_get_app_for_mi_store">Baixeu aplicacions només a través de GetApps i desenvolupadors verificats</string>
     <string name="only_get_app_for_mi_store_sub">Aquesta aplicació ha passat els nostres estrictes controls de seguretat</string>
     <string name="open">Encendre</string>
+    <string name="open_and_exit">Encendre</string>
+    <string name="open_enhanced_protection">Activa la protecció millorada</string>
     <string name="passed_security_test">S\'han superat les proves de seguretat de Xiaomi</string>
     <string name="passport_access_denied">Accés denegat</string>
     <string name="passport_account_crop_user_avatar">Foto de retallada</string>
@@ -688,6 +710,7 @@
     <string name="permission_name_write_external_storage">Desar elements a l\'emmagatzematge del dispositiu</string>
     <string name="please_input_install_app_name">Introduïu el nom de l\'aplicació</string>
     <string name="please_input_phone_password">Introduïu el bloqueig de pantalla</string>
+    <string name="please_input_phone_password_short">Introduïu el bloqueig de pantalla</string>
     <string name="pm">PM</string>
     <string name="pref_ads">Recomanacions</string>
     <string name="pref_key_about_privacy_title">Política de privadesa</string>
@@ -696,7 +719,9 @@
     <string name="pref_key_shelf_app">Llista l\'aplicació a GetApps</string>
     <string name="preference_copied">\"%1$s\" copiat al porta-retalls.</string>
     <string name="prepare_install">Preparació de la instal·lació…</string>
+    <string name="professional_review">Revisors professionals</string>
     <string name="prohibit_isntall">Afegir a la llista de bloqueig</string>
+    <string name="protect_privacy_and_security">Protecció de la privadesa</string>
     <string name="pure_function_introduction">Funcions del mode segur</string>
     <string name="pure_guarding">Activat</string>
     <string name="pure_introduction_des1">Comproveu si hi ha possibles riscos de seguretat a les aplicacions de fonts desconegudes abans de la instal·lació</string>
@@ -905,6 +930,7 @@ venen de"</string>
     <string name="sunday">Diumenge</string>
     <string name="sunday_short">Dg.</string>
     <string name="sunday_shortest">dg.</string>
+    <string name="sure_close_enhance_safe_guard">Vols desactivar la protecció millorada ara?</string>
     <string name="sure_install">Instal·leu aquesta aplicació ara?</string>
     <string name="sure_ok">Ho tinc</string>
     <string name="the_anniversary_of_lifting_martial_law">Aniversari de l\'aixecament de la llei marcial</string>
@@ -985,7 +1011,6 @@ venen de"</string>
     <string name="unlock_failed">Error intern</string>
     <string name="unrecorded_app_dialog_tips_clickable_msg_default">Obtén més informació sobre la política de fitxes d\'aplicacions</string>
     <string name="unrecorded_app_dialog_tips_help">Si confieu en aquesta aplicació, premeu el botó ... a la cantonada superior dreta i seleccioneu \"Permetre una vegada\"</string>
-    <string name="unrecorded_app_dialog_tips_msg_default">"Aquesta aplicació no s'ha enumerat d'acord amb els requisits de compliment de les polítiques. És possible que no puguis contactar amb el desenvolupador d'aquesta aplicació en cas que es vulnerin els teus interessos. Instal·leu aquesta aplicació amb precaució. Obtén més informació sobre la política de fitxes d'aplicacions"</string>
     <string name="unrecorded_app_dialog_tips_title_default">Riscos detectats</string>
     <string name="unrecorded_app_tips_des_1_clickable_default">Obtén més informació sobre la política de fitxes d\'aplicacions</string>
     <string name="unrecorded_app_tips_des_1_default">"Les aplicacions que no tenen la informació de compliment requerida poden suposar riscos per a la seguretat. Xiaomi no ha provat ni verificat aquesta aplicació. Descarregueu-lo amb precaució. Obtén més informació sobre la política de fitxes d'aplicacions"</string>
@@ -994,11 +1019,14 @@ venen de"</string>
     <string name="unrecorded_risk_app">Riscos detectats</string>
     <string name="unrecorded_risk_app_description">La instal·lació d\'aquesta aplicació està prohibida d\'acord amb els requisits normatius pertinents</string>
     <string name="unrecorded_risk_app_description_2">Com a desenvolupador, pots presentar una apel·lació</string>
+    <string name="unrecorded_risk_app_description_temp">"El desenvolupador no ha proporcionat la llista d'aquesta aplicació a les autoritats reguladores. És possible que no pugueu contactar amb el desenvolupador en cas que es vulnerin els vostres interessos."</string>
     <string name="untrusted_external_source_title">Voleu permetre a \"%1$s\" instal·lar aplicacions?</string>
     <string name="untrusted_external_source_warning_summary">El dispositiu i les dades personals són més vulnerables als atacs d\'aplicacions desconegudes. En instal·lar aplicacions d\'aquesta font, accepteu que sou responsable de qualsevol dany al vostre dispositiu o pèrdua de dades que pugui resultar del seu ús.</string>
     <string name="update_start">Actualitzar</string>
     <string name="uri_no_permission">No es pot llegir el fitxer, el permís denegat</string>
     <string name="user_is_not_allowed_dlg_text">L\'usuari actual no està autoritzat a realitzar aquesta desinstal·lació.</string>
+    <string name="using_enhanced_protection">"Protegiu el vostre dispositiu amb
+protecció millorada"</string>
     <string name="v7_preference_off">DESACTIVA</string>
     <string name="v7_preference_on">Activat</string>
     <string name="verification_word">Verificar</string>
