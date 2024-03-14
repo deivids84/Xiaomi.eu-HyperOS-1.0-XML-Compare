@@ -213,6 +213,7 @@
     <string name="cloud_app_restore_title">Pendent</string>
     <string name="color_group">Agrupar icones per color</string>
     <string name="color_group_anim">Animacions en categories de color</string>
+    <string name="com.crashlytics.android.build_id">7cec3fd221804464b98237aa86c3ea16</string>
     <string name="common_google_play_services_unknown_issue">%1$s problemes amb els serveis de Google Play. Torneu-ho a provar.</string>
     <string name="common_home_search_delete">Traient la barra de cerca</string>
     <string name="common_home_search_delete_cancle">Cancel·la</string>
@@ -714,6 +715,7 @@ Seguretat millorada."</string>
     <string name="switch_personal_assistant_app_vault">Volta d\'aplicacions</string>
     <string name="switch_personal_assistant_google">Google Discover</string>
     <string name="switch_personal_assistant_none">Cap</string>
+    <string name="switch_personal_assistant_summary">Llisca cap a la dreta a la pantalla d\'inici per obrir Google Discover</string>
     <string name="switch_screen_button_order">Invertir els botons</string>
     <string name="switch_screen_button_order_desc">Invertir els botons Enrere i Menú</string>
     <string name="system_sdk_disabled_toast">S\'ha desactivat l\'SDK del sistema. Activeu-lo primer.</string>
