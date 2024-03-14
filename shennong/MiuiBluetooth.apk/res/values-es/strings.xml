@@ -139,7 +139,7 @@
     <string name="early_morning">Por la mañana</string>
     <string name="easy_tether_auto_connect_summary">"Puede activar el punto de acceso y permitir que los dispositivos cercanos que utilicen su cuenta se conecten automáticamente cuando no puedan acceder a la red utilizando otros métodos."</string>
     <string name="easy_tether_auto_connect_summary_v2">Encienda automáticamente la celda móvil o el punto de acceso y conéctese cuando los dispositivos cercanos con la misma cuenta necesiten acceso a Internet.</string>
-    <string name="easy_tether_cancel">Nu</string>
+    <string name="easy_tether_cancel">No</string>
     <string name="easy_tether_confirm">Sí</string>
     <string name="easy_tether_next_auto_connect">¿Conectar automáticamente la próxima vez?</string>
     <string name="easy_tether_statusbar_auto_connected_title">Conectado a hotspot: %1$s</string>
