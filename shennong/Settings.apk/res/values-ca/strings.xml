@@ -4420,6 +4420,10 @@ Obre el núvol de Xiaomi i restaura els elements des d'allà."</string>
     <string name="interesting_title">Tacte realista</string>
     <string name="internal_auto_rotate_title">Bloqueja l\'orientació de la pantalla interior</string>
     <string name="internal_storage">Emmagatzematge intern</string>
+    <string name="international_lyra_account_ap_summary">"Permet que les tauletes i els ordinadors propers amb la sessió iniciada al vostre compte s'activin i es connectin automàticament al punt d'accés d'aquest dispositiu"</string>
+    <string name="international_lyra_account_ap_title">Sincronització de la xarxa</string>
+    <string name="international_lyra_auto_connect_summary">"Quan un dispositiu proper tingui la sessió iniciada al vostre compte i s'hagi de connectar a Internet, engegueu i connecteu-vos a la zona d'accés d'aquest dispositiu automàticament"</string>
+    <string name="international_lyra_auto_connect_title">Connecta\'t automàticament a l\'hotspot</string>
     <string name="internet_connectivity_panel_title">Connectivitat a Internet</string>
     <string name="invalid_location">La ubicació de la instal·lació no és vàlida.</string>
     <string name="invalid_size_value">No s\'ha pogut calcular la mida del paquet.</string>
