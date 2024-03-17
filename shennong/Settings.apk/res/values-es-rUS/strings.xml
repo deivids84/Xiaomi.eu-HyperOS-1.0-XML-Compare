@@ -9904,7 +9904,7 @@ Toque \"+\" para agregar palabras."</string>
     <string name="virus_scan_app_uninstall">Desinstalar (%d)</string>
     <string name="virus_scan_app_waiting">En espera…</string>
     <string name="virus_scanner_auto_update">Actualizar automáticamente</string>
-    <string name="virus_scanner_date_formater">MMMM dd, yyyy</string>
+    <string name="virus_scanner_date_formater">dd, MMMM yyyy</string>
     <string name="virus_scanner_lib_already_latest">Las definiciones ya están actualizadas</string>
     <string name="virus_scanner_lib_update_failed">"No se pudo actualizar"</string>
     <string name="virus_scanner_lib_updating">Actualizando definiciones…</string>
