@@ -365,7 +365,7 @@
     <string name="loading">Un momento…</string>
     <string name="local_calendar_display_name">Calendario local</string>
     <string name="local_owner_account_name">Guardado en este dispositivo</string>
-    <string name="long_date_format">EEEE, MMMM dd, yyyy</string>
+    <string name="long_date_format">EEEE, dd, MMMM yyyy</string>
     <string name="long_holiday_date_place_holder">dd \'de\' MMMM</string>
     <string name="long_holiday_dates">Empezando el %1$s</string>
     <string name="long_holiday_month_off">Días de descanso al mes</string>
@@ -380,9 +380,9 @@
     <string name="match_finished">"No se pueden establecer recordatorios para juegos terminados y en progreso"</string>
     <string name="match_select_activity_label">Ligas</string>
     <string name="match_zodiac">Compatibilidad zodiacal</string>
-    <string name="medium_date_format">EEE, MMMM dd, yyyy</string>
-    <string name="mens_date_format_m_d">dd \'de\' MMM</string>
-    <string name="mens_date_format_y_m_d">dd \'de\' MMM. yyyy</string>
+    <string name="medium_date_format">EEE, dd, MMMM yyyy</string>
+    <string name="mens_date_format_m_d">dd MMM</string>
+    <string name="mens_date_format_y_m_d">dd, MMM yyyy</string>
     <string name="menstrual_assistant">Menstruación</string>
     <string name="menstruation_alert_auth_message">"Permita que el asistente de menstruación se inicie automáticamente para poder recibir notificaciones. Solo se le notificará sobre elementos importantes."</string>
     <string name="menstruation_auto_start_message">Permitir que el asistente de menstruación se inicie automáticamente</string>
@@ -713,7 +713,7 @@ Compruebe los ajustes de red y vuelva a intentarlo."</string>
     <string name="share_image">Compartir</string>
     <string name="share_image_label">Compartir vía</string>
     <string name="share_title">Compartir</string>
-    <string name="short_date_format">dd \'de\' MMM</string>
+    <string name="short_date_format">dd MMM</string>
     <string name="shortcut_new_event">Añadir evento</string>
     <string name="shortcut_next_agenda">Próximo evento</string>
     <string name="shortcut_settings">Ajustes</string>
@@ -723,7 +723,7 @@ Compruebe los ajustes de red y vuelva a intentarlo."</string>
     <string name="simple_date_format">dd/MM/yyyy</string>
     <string name="single_selected_holiday">%1$s es un día de descanso</string>
     <string name="skip">Omitir</string>
-    <string name="small_week_date_format">EEE MM/dd/yyyy</string>
+    <string name="small_week_date_format">EEE dd/MM/yyyy</string>
     <string name="spec_agenda_view">Eventos especiales</string>
     <string name="start_date_calculate">Calcular</string>
     <string name="stats_title">Estadísticas</string>
