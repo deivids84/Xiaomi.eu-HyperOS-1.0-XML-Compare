@@ -75,7 +75,7 @@
     <string name="currency_update_time_format">Tasas de cambio proporcionadas por Webull (%s)</string>
     <string name="currency_update_updating">Actualizando tasas…</string>
     <string name="data_analysis">Análisis</string>
-    <string name="date_format">dd \'de\' MMM. yyyy</string>
+    <string name="date_format">dd, MMM yyyy</string>
     <string name="date_picker_lunar">Calendario tradicional chino</string>
     <string name="degDesc">Grados</string>
     <string name="delete">Eliminar</string>
@@ -128,7 +128,7 @@
     <string name="hint_weight">Introducir peso</string>
     <string name="histories">Historial</string>
     <string name="history_guidance">Ver historial aquí</string>
-    <string name="history_time_date_format">MM/dd/aaaa</string>
+    <string name="history_time_date_format">dd/MM/yyyy</string>
     <string name="home_loan">Interés hipotecario</string>
     <string name="house_rent">Alquiler</string>
     <string name="input_limit">"No se pueden introducir más artículos"</string>
