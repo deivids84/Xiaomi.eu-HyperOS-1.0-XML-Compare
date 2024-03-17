@@ -366,7 +366,7 @@
     <string name="local_calendar_display_name">Calendario local</string>
     <string name="local_owner_account_name">Guardado en este dispositivo</string>
     <string name="long_date_format">EEEE, dd, MMMM yyyy</string>
-    <string name="long_holiday_date_place_holder">dd \'de\' MMMM</string>
+    <string name="long_holiday_date_place_holder">dd MMMM</string>
     <string name="long_holiday_dates">Empezando el %1$s</string>
     <string name="long_holiday_month_off">Días de descanso al mes</string>
     <string name="long_holiday_title_length_warning">El nombre del festivo es demasiado largo</string>
