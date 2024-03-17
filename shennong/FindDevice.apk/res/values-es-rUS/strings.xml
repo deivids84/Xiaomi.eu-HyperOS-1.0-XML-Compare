@@ -88,11 +88,11 @@ Contacte a su agente de ventas para más detalles."</string>
     <string name="find_device_success_title">Encontrar dispositivo está activado</string>
     <string name="find_device_telephony_fault">Encontrar dispositivo: error de telefonía (%s).</string>
     <string name="fmt_date_long_month_day">d MMMM</string>
-    <string name="fmt_date_long_year_month_day">d MMMM aaaa</string>
-    <string name="fmt_date_numeric_month_day">dd/MM</string>
-    <string name="fmt_date_numeric_year_month_day">dd/MM/yyyy</string>
+    <string name="fmt_date_long_year_month_day">d MMMM yyyy</string>
+    <string name="fmt_date_numeric_month_day">d/M</string>
+    <string name="fmt_date_numeric_year_month_day">d/M/yyyy</string>
     <string name="fmt_date_short_month_day">d MMM</string>
-    <string name="fmt_date_short_year_month_day">d MMM aaaa</string>
+    <string name="fmt_date_short_year_month_day">d MMM yyyy</string>
     <string name="fmt_time_12hour">"h 'o'''reloj"</string>
     <string name="friday">Viernes</string>
     <string name="friday_short">Vie</string>
