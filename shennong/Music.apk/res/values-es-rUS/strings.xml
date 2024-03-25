@@ -265,8 +265,6 @@
     <string name="columbus_player_speed_video">Saltar VIDEO</string>
     <string name="columbus_player_unit_sec">seg</string>
     <string name="columbus_skip_ad">Saltar</string>
-    <string name="com.google.firebase.crashlytics.mapping_file_id">edfae882c251485a84ed000a6def50ff</string>
-    <string name="com.miapm.build_id">7d326eb49dcb4804ac1e016ca3dbaf29</string>
     <string name="common_google_play_services_enable_button">Habilitar</string>
     <string name="common_google_play_services_enable_text">"%1$s no funcionará a menos que habilites los servicios de Google Play."</string>
     <string name="common_google_play_services_enable_title">Habilitar servicios de Google Play</string>
@@ -591,11 +589,11 @@
     <string name="floating_view_dialog_stay">Permanecer</string>
     <string name="floating_view_dialog_title">¿Abandonar esta página?</string>
     <string name="fmt_date_long_month_day">d MMMM</string>
-    <string name="fmt_date_long_year_month_day">d MMMM yyyy</string>
+    <string name="fmt_date_long_year_month_day">d, MMMM yyyy</string>
     <string name="fmt_date_numeric_month_day">d/M</string>
-    <string name="fmt_date_numeric_year_month_day">d-M-yyyy</string>
+    <string name="fmt_date_numeric_year_month_day">d/M/yyyy</string>
     <string name="fmt_date_short_month_day">d MMM</string>
-    <string name="fmt_date_short_year_month_day">d MMM yyyy</string>
+    <string name="fmt_date_short_year_month_day">d, MMM yyyy</string>
     <string name="fmt_time_12hour">"h 'en punto'"</string>
     <string name="fmt_time_24hour">"H 'o''clock'"</string>
     <string name="follow">Seguir</string>
