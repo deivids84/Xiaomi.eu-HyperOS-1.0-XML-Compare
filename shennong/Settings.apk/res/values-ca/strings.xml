@@ -4755,6 +4755,10 @@ Obre el núvol de Xiaomi i restaura els elements des d'allà."</string>
     <string name="load_esim_info">S\'està obtenint informació de l\'eSIM…</string>
     <string name="load_esim_info_error">"No s'ha pogut carregar la informació de l'eSIM. Espereu un minut o dos i proveu-ho de nou."</string>
     <string name="loading">Un moment…</string>
+    <string name="loading_eid_error_message">"No s'ha pogut obtenir la informació de l'EID. Espereu un o dos minuts i torneu-ho a provar."</string>
+    <string name="loading_eid_error_ok">Ho tinc</string>
+    <string name="loading_eid_error_title">"No s'ha pogut carregar"</string>
+    <string name="loading_eid_tip">Obtenint informació de l\'EID…</string>
     <string name="loading_injected_setting_summary">Carregant…</string>
     <string name="local_auto_backup_off">Apagat</string>
     <string name="local_auto_backup_on">Activat</string>
@@ -9258,6 +9262,7 @@ Prova un altre suport (^3) més ràpid o fes servir aquest (^4) com a emmagatzem
     <string name="tip_remove_data">El restabliment de fàbrica eliminarà aquests elements del teu dispositiu</string>
     <string name="title_change_system_locale">Vols canviar l\'idioma del sistema a %s?</string>
     <string name="title_color_calibration">Correcció predeterminada de color</string>
+    <string name="title_device_control">Controls del dispositiu</string>
     <string name="title_font">Font</string>
     <string name="title_font2">Font i disseny</string>
     <string name="title_font_current">Font del sistema</string>
@@ -9278,6 +9283,7 @@ Prova un altre suport (^3) més ràpid o fes servir aquest (^4) com a emmagatzem
     <string name="title_special_features_health_global">Ritme cardíac</string>
     <string name="title_unavailable_locale">Aquest idioma (%s) no està disponible</string>
     <string name="title_wordless_mode">"No mostris etiquetes d'icones"</string>
+    <string name="title_xiaomi_smart_hub">Xiaomi Smart Hub</string>
     <string name="to_close">Apaga</string>
     <string name="to_switch_networks_disconnect_ethernet">Per canviar de xarxa, desconnecta la connexió Ethernet</string>
     <string name="toast_allows_restricted_settings_successfully">Es permet la configuració restringida per a %s</string>
