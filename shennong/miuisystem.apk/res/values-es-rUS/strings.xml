@@ -61,11 +61,11 @@
     <string name="fireflies">Luciérnagas</string>
     <string name="flute">Flauta</string>
     <string name="fmt_date_long_month_day">d MMMM</string>
-    <string name="fmt_date_long_year_month">MMMM aaaaa</string>
+    <string name="fmt_date_long_year_month">MMMM yyyy</string>
     <string name="fmt_date_numeric_month_day">M/D</string>
-    <string name="fmt_date_numeric_year_month_day">M/d/aaaa</string>
+    <string name="fmt_date_numeric_year_month_day">d/M/yyyy</string>
     <string name="fmt_date_short_month_day">d MMM</string>
-    <string name="fmt_date_short_year_month_day">d MMM aaaa</string>
+    <string name="fmt_date_short_year_month_day">d, MMM yyyy</string>
     <string name="frenchchic">Chic</string>
     <string name="fresh">Fresco</string>
     <string name="friday">Viernes</string>
