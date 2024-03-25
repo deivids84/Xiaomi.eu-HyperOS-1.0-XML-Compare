@@ -27,6 +27,7 @@
     <string name="abc_shareactionprovider_share_with">Comparteix amb</string>
     <string name="abc_shareactionprovider_share_with_application">Comparteix amb %s</string>
     <string name="abc_toolbar_collapse_description">Replega</string>
+    <string name="accelerate_play">Velocitat: %sX</string>
     <string name="accept_cookies_confirm_message">Si desactiveu aquesta característica pot ser que alguns llocs web funcionin malament.</string>
     <string name="accessibility_button_clear">Neteja l\'entrada</string>
     <string name="account_bind_secure_email_title">Afegir correu de recuperació</string>
@@ -302,6 +303,9 @@ Desactiva per a deixar de sincronitzar."</string>
     <string name="browser_wallpaper_toast">Desactiva el commutador Promocions per poder canviar de fons de pantalla</string>
     <string name="btn_agree">Acceptar</string>
     <string name="btn_cancel">Cancel·la</string>
+    <string name="btn_copied">Copiat</string>
+    <string name="btn_copy">Còpia</string>
+    <string name="btn_open">Obert</string>
     <string name="camera_permission_name">Utilitza la càmera</string>
     <string name="can_not_send_with_too_many">"No es poden enviar molts elements alhora"</string>
     <string name="cancel">Cancel·leu</string>
@@ -404,6 +408,8 @@ Desactiva per a deixar de sincronitzar."</string>
     <string name="columbus_player_speed_video">Omet VIDEO</string>
     <string name="columbus_player_unit_sec">seg</string>
     <string name="columbus_skip_ad">Omet</string>
+    <string name="com.crashlytics.android.build_id">158fe09c2d494b808ff46a48af5fabab</string>
+    <string name="com.miapm.build_id">45500e79536741b78c3a39adc066ca92</string>
     <string name="com_facebook_device_auth_instructions">Visiteu &lt;b&gt;facebook.com/device&lt;/b&gt; i introduïu el codi que es mostra més amunt.</string>
     <string name="com_facebook_image_download_unknown_error">Error inesperat en baixar una imatge.</string>
     <string name="com_facebook_internet_permission_error_message">L\'inici de sessió del WebView requereix permís d\'INTERNET</string>
@@ -1059,6 +1065,8 @@ Envia aquest codi al supervisor."</string>
     <string name="just_a_second">Un moment…</string>
     <string name="just_now">Ara mateix</string>
     <string name="keep_intrercept">Atura</string>
+    <string name="kindred_coupons_terms">Consulta els termes i condicions</string>
+    <string name="kindred_coupons_title">Cupons</string>
     <string name="le_download_failed_server_error">"No s'ha pogut baixar a causa d'un error del servidor."</string>
     <string name="le_network_chagne_to_none">Desconnectat de la xarxa. Totes les baixades es van posar en pausa.</string>
     <string name="list_item_click">Feu clic a l\'element de la llista</string>
@@ -1155,7 +1163,7 @@ Envia aquest codi al supervisor."</string>
     <string name="mggc_game_play">Jugar</string>
     <string name="mggc_game_played">Recent</string>
     <string name="mggc_game_recommend_guide_title">Juga gratuïtament</string>
-    <string name="mggc_home_page_title">Centre de jocs</string>
+    <string name="mggc_home_page_title">CENTRE DE JOCS</string>
     <string name="mggc_home_recommend_tip">Aleatori</string>
     <string name="mggc_hot_games">Popular</string>
     <string name="mggc_ins_back_continue_game">Continua</string>
@@ -2091,6 +2099,8 @@ Alguns llocs no utilitzaran l'historial de navegació anterior per personalitzar
     <string name="record_permission_name">Enregistra l\'àudio</string>
     <string name="recovery_page_popup">Reprèn on ho vas deixar</string>
     <string name="refresh">Actualitza</string>
+    <string name="refresh_button_update_item">%d actualitzacions disponibles</string>
+    <string name="refresh_button_update_latest">"Estàs veient els últims articles"</string>
     <string name="refresh_fail">"No s'ha pogut carregar la informació"</string>
     <string name="refresh_guide">Torna al principi</string>
     <string name="refreshing">S\'està actualitzant…</string>
@@ -2264,7 +2274,6 @@ Alguns llocs no utilitzaran l'historial de navegació anterior per personalitzar
     <string name="setting_privacy_password">Defineix el patró de desbloqueig</string>
     <string name="setting_searchable_content">Elements que es poden cercar</string>
     <string name="setting_sms_content">Contingut SMS</string>
-    <string name="setting_swipe_up">Llisqueu amunt a la Pantalla d\'inici</string>
     <string name="settings_search_online_apps">Mercats d\'aplicacions</string>
     <string name="settings_search_online_apps_desc">Contingut dels mercats d\'aplicacions</string>
     <string name="share_image_text">He compartit una foto, fes-hi un cop d\'ull! @Mi Navegador</string>
@@ -2385,6 +2394,7 @@ Alguns llocs no utilitzaran l'historial de navegació anterior per personalitzar
     <string name="tab_forward_description">Pàgina següent d\'història</string>
     <string name="tab_game">Jocs</string>
     <string name="tab_home">Inici</string>
+    <string name="tab_mall">Botiga</string>
     <string name="tab_mine">Perfil</string>
     <string name="tab_novel">Llibres</string>
     <string name="tab_quicklinks">Pàgina d\'inici</string>
