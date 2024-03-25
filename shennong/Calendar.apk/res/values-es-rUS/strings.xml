@@ -275,11 +275,11 @@
     <string name="file_exception">Se produjo un error</string>
     <string name="fixtures">Partidos</string>
     <string name="fmt_date_long_month_day">d MMMM</string>
-    <string name="fmt_date_long_year_month_day">d MMMM, yyyy</string>
+    <string name="fmt_date_long_year_month_day">d, MMMM yyyy</string>
     <string name="fmt_date_numeric_month_day">d/M</string>
     <string name="fmt_date_numeric_year_month_day">d/M/yyyy</string>
     <string name="fmt_date_short_month_day">d MMM</string>
-    <string name="fmt_date_short_year_month_day">d MMM, yyyy</string>
+    <string name="fmt_date_short_year_month_day">d, MMM yyyy</string>
     <string name="fmt_time_12hour">"h 'en punto'"</string>
     <string name="fmt_time_24hour">"HH 'en punto'"</string>
     <string name="fourth_saturday_holiday">Cada segundo y cuarto sábado son días de descanso</string>
@@ -371,7 +371,7 @@
     <string name="long_holiday_month_off">Días de descanso al mes</string>
     <string name="long_holiday_title_length_warning">El nombre del festivo es demasiado largo</string>
     <string name="long_holiday_week_off">Días de descanso a la semana</string>
-    <string name="long_month_date_format">dd MMMM yyyy</string>
+    <string name="long_month_date_format">dd, MMMM yyyy</string>
     <string name="lunar_date">Fecha lunar</string>
     <string name="manage_holidays">Administrar días feriados</string>
     <string name="manage_title">Administrar</string>
