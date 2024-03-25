@@ -874,7 +874,6 @@
     <string name="tomorrow">Demà</string>
     <string name="total_clean">Total netejat: %s</string>
     <string name="total_clean_text">Neteja</string>
-    <string name="tt_00_00">00:00</string>
     <string name="tt_ad">Anunci</string>
     <string name="tt_ad_clicked_text">Anunci mostrat</string>
     <string name="tt_ad_close_text">Anunci tancat</string>
@@ -887,11 +886,9 @@
     <string name="tt_adslot_size_empty">Mida de l\'espai publicitari buit</string>
     <string name="tt_adtype_not_match_rit">Error d\'identificador de l\'espai publicitari</string>
     <string name="tt_app_empty">No hi ha cap aplicació de sol·licitud</string>
-    <string name="tt_app_name">tt_open_ad_sdk</string>
     <string name="tt_auto_play_cancel_text">Cancel · lar</string>
     <string name="tt_banner_ad_load_image_error">No s\'ha pogut carregar el bàner</string>
     <string name="tt_cancel">Cancel · lar</string>
-    <string name="tt_choose_language">en</string>
     <string name="tt_click_to_replay">Toca per tornar a reproduir</string>
     <string name="tt_comment_num">%1$s comentaris</string>
     <string name="tt_comment_num_backup">%1$s comentaris</string>
@@ -976,7 +973,6 @@
     <string name="tt_reward_full_skip">Omet després de %1$ss</string>
     <string name="tt_reward_msg">Mira el vídeo sencer per reclamar la teva recompensa</string>
     <string name="tt_reward_screen_skip_tx">Omet</string>
-    <string name="tt_reward_video_show_error">onRewardedVideoAdFailedToShow</string>
     <string name="tt_ror_code_show_event_error">Mostra l\'error d\'esdeveniment</string>
     <string name="tt_skip_ad_time_text">Omet després de %ds</string>
     <string name="tt_slide_up_3d">Netejar</string>
@@ -1007,8 +1003,6 @@
     <string name="tt_txt_skip">Omet</string>
     <string name="tt_unlike">A diferència</string>
     <string name="tt_video_bytesize">Dades</string>
-    <string name="tt_video_bytesize_M">M</string>
-    <string name="tt_video_bytesize_MB">MB</string>
     <string name="tt_video_continue_play">ContinueToPlay</string>
     <string name="tt_video_dial_phone">Marca ara</string>
     <string name="tt_video_download_apk">Descarrega ara</string>
