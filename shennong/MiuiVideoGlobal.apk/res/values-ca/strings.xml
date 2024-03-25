@@ -77,6 +77,7 @@
     <string name="ad_click_to_play">Toqueu per jugar</string>
     <string name="ad_flag_text">ANUNCI</string>
     <string name="ad_left_time">Queden segons en l\'anunci</string>
+    <string name="ad_topview_repeat_play">Toca per tornar a jugar</string>
     <string name="add_local_shortcut_add">Afegeix</string>
     <string name="add_local_shortcut_des">Afegeix \"Els meus vídeos\" a la pantalla d’inici per accedir als arxius de vídeo locals en un sol toc.</string>
     <string name="add_search_channel_link">URL</string>
@@ -204,6 +205,7 @@
     <string name="columbus_player_speed_video">Omet VIDEO</string>
     <string name="columbus_player_unit_sec">seg</string>
     <string name="columbus_skip_ad">Omet</string>
+    <string name="com.crashlytics.android.build_id">080cf406a77848158a1d637f502bf395</string>
     <string name="com_permission_desc">"Mi Vídeo no pot accedir als vídeos del teu dispositiu. Permet l'accés a Configuració."</string>
     <string name="com_permission_title">Permisos necessaris</string>
     <string name="comment_model_add_comment">Afegir un comentari</string>
