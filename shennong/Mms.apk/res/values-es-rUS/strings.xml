@@ -293,11 +293,11 @@ Inténtelo de nuevo."</string>
     <string name="fdn_check_failure">Solo puede enviar mensajes a los números de marcación fija.</string>
     <string name="file_expired">Este archivo ha caducado</string>
     <string name="fmt_date_long_month_day">d MMMM</string>
-    <string name="fmt_date_long_year_month_day">d MMMM aaaa</string>
+    <string name="fmt_date_long_year_month_day">d, MMMM yyyy</string>
     <string name="fmt_date_numeric_month_day">dd/MM</string>
     <string name="fmt_date_numeric_year_month_day">dd/MM/yyyy</string>
     <string name="fmt_date_short_month_day">d MMM</string>
-    <string name="fmt_date_short_year_month_day">d MMM aaaa</string>
+    <string name="fmt_date_short_year_month_day">d, MMM yyyy</string>
     <string name="fmt_time_12hour">"h 'o'''reloj"</string>
     <string name="fmt_time_24hour">"HH 'o'''reloj"</string>
     <string name="forward_from">Reenviado de:</string>
