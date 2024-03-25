@@ -137,7 +137,6 @@ Visiteu https://appleid.apple.com/#!&amp;page=signin per desactivar-ho"</string>
     <string name="collect_content">Contingut recollit</string>
     <string name="collect_situation">Estat de recollida</string>
     <string name="collected">Recollit</string>
-    <string name="com.crashlytics.android.build_id">886f8f2cdcde4fbab88d094aa26f7136</string>
     <string name="connect_icloud_fail">"No s'ha pogut connectar amb iCloud"</string>
     <string name="connect_icloud_fail_tips">Assegureu-vos que el vostre compte iCloud ha estat activat. Si no, aneu a icloud.com i seguiu les instruccions per activar el vostre compte.</string>
     <string name="connect_wifi">Connecteu-vos a la Wi-Fi</string>
