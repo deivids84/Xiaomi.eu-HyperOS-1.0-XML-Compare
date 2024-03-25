@@ -316,7 +316,7 @@ dd/MM"</string>
     <string name="miui_clock_city_name_local">Local</string>
     <string name="miui_clock_city_name_second">Segundo reloj</string>
     <string name="miui_lock_screen_date">EEE, dd MMM</string>
-    <string name="miui_lock_screen_date_12">EEE, d MMM</string>
+    <string name="miui_lock_screen_date_12">EEE, dd MMM</string>
     <string name="miui_lock_screen_date_two_lines">"MMM dd
 EEE"</string>
     <string name="miui_lock_screen_date_two_lines_12">"MMM dd
