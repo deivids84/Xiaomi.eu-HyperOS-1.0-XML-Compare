@@ -213,7 +213,6 @@
     <string name="cloud_app_restore_title">Pendiente</string>
     <string name="color_group">Agrupar iconos por color</string>
     <string name="color_group_anim">Animaciones en categorías de colores</string>
-    <string name="com.crashlytics.android.build_id">b6093f0872394c08a02635a8e1d48543</string>
     <string name="common_google_play_services_unknown_issue">%1$s estás teniendo problemas con los servicios de Google Play. Inténtalo de nuevo.</string>
     <string name="common_home_search_delete">Eliminar la barra de búsqueda</string>
     <string name="common_home_search_delete_cancle">Cancelar</string>
@@ -275,11 +274,11 @@
     <string name="failed_to_drop_widget_invalid">Este widget es inválido</string>
     <string name="find_app_by_color">Agrupar iconos por color para encontrar aplicaciones más rápido</string>
     <string name="fmt_date_long_month_day">d MMMM</string>
-    <string name="fmt_date_long_year_month_day">d MMMM aaaa</string>
+    <string name="fmt_date_long_year_month_day">d, MMMM yyyy</string>
     <string name="fmt_date_numeric_month_day">d/M</string>
     <string name="fmt_date_numeric_year_month_day">d/M/yyyy</string>
     <string name="fmt_date_short_month_day">d MMM</string>
-    <string name="fmt_date_short_year_month_day">d MMM aaaa</string>
+    <string name="fmt_date_short_year_month_day">d, MMM yyyy</string>
     <string name="fmt_time_12hour">"h 'o'''reloj"</string>
     <string name="fmt_time_24hour">"HH 'o'''reloj"</string>
     <string name="fold_pair_install_shortcut_launcher_success">Creado con éxito</string>
