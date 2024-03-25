@@ -205,7 +205,6 @@
     <string name="columbus_player_speed_video">Saltar VIDEO</string>
     <string name="columbus_player_unit_sec">seg</string>
     <string name="columbus_skip_ad">Saltar</string>
-    <string name="com.crashlytics.android.build_id">080cf406a77848158a1d637f502bf395</string>
     <string name="com_permission_desc">"Mi Video no puede acceder a los videos en su dispositivo. Permita el acceso en Configuración."</string>
     <string name="com_permission_title">Se necesitan permisos</string>
     <string name="comment_model_add_comment">Agregar comentario</string>
@@ -459,11 +458,11 @@ Mi Video necesita recopilar la información personal necesaria para proporcionar
     <string name="find_psw">Olvidé la contraseña</string>
     <string name="finish">Listo</string>
     <string name="fmt_date_long_month_day">d MMMM</string>
-    <string name="fmt_date_long_year_month_day">dd MMMM, yyyy</string>
+    <string name="fmt_date_long_year_month_day">d, MMMM yyyy</string>
     <string name="fmt_date_numeric_month_day">d/M</string>
     <string name="fmt_date_numeric_year_month_day">d/M/yyyy</string>
     <string name="fmt_date_short_month_day">d MMM</string>
-    <string name="fmt_date_short_year_month_day">d MMM, yyyy</string>
+    <string name="fmt_date_short_year_month_day">d, MMM yyyy</string>
     <string name="fmt_time_12hour">"h 'en punto'"</string>
     <string name="fmt_time_24hour">"HH 'en punto'"</string>
     <string name="for_diagnosis_usage_only">Los registros solo son usados para diagnósticos.</string>
