@@ -266,11 +266,6 @@
     <string name="friday">Viernes</string>
     <string name="friday_short">Vie</string>
     <string name="friday_shortest">Vie</string>
-    <string name="gcm_defaultSenderId">540483826007</string>
-    <string name="google_api_key">AIzaSyCvkual-cQri2_m_TUEPAsVuuJ9jLsZImI</string>
-    <string name="google_app_id">1:540483826007:android:1ca97407e7c26416f1ce12</string>
-    <string name="google_crash_reporting_api_key">AIzaSyCvkual-cQri2_m_TUEPAsVuuJ9jLsZImI</string>
-    <string name="google_storage_bucket">hmproject-75623.appspot.com</string>
     <string name="icon_content_description">Icono de diálogo</string>
     <string name="item_view_role_description">Tab</string>
     <string name="material_clock_toggle_content_description">Seleccionar AM o MP</string>
@@ -580,7 +575,6 @@
     <string name="password_toggle_content_description">Mostrar contraseña</string>
     <string name="pm">MP</string>
     <string name="preference_copied">\"%1$s\" copiado al portapapeles.</string>
-    <string name="project_id">hmproject-75623</string>
     <string name="saturday">Sábado</string>
     <string name="saturday_short">Sáb</string>
     <string name="saturday_shortest">Sáb</string>
