@@ -21,18 +21,6 @@
         <item>Verde</item>
         <item>Azul</item>
     </string-array>
-    <string-array name="multi_floating_package_allow_list">
-        <item>centro de seguridad com.miui.</item>
-        <item>com.miui.weather2</item>
-        <item>com.android.calendar</item>
-        <item>com.android.contactos</item>
-        <item>com.android.mms</item>
-        <item>notas com.miui.</item>
-        <item>com.android.configuración</item>
-        <item>galería com.miui.</item>
-        <item>servicio.miui.nube</item>
-        <item>com.android.deskclock</item>
-    </string-array>
     <string-array name="nf_ad_feedback_reason">
         <item>No es interesante</item>
         <item>Repetitivo</item>
