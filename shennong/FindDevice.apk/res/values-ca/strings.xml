@@ -71,7 +71,6 @@
 Contacta amb el teu agent de vendes per a més informació."</string>
     <string name="default_lock_msg_words">Aquest dispositiu està associat amb un Compte Xiaomi existent. Per raons de seguretat, necessiteu introduir la vostra contrasenya de nou per verificar el dispositiu.</string>
     <string name="default_lock_msg_words_with_phone">Hola! Vaig perdre aquest dispositiu. Podríeu posar-vos en contacte amb mi? Gràcies!</string>
-    <string name="default_web_client_id">630236635882-e9rqvpt2onbe87uramm8stt7v375of1e.apps.googleusercontent.com</string>
     <string name="device_locked">Aquest dispositiu està bloquejat</string>
     <string name="device_lost">Aquest dispositiu s\'ha perdut</string>
     <string name="disable_find_device_error">"No s'ha pogut desactivar Troba dispositiu. %1$s"</string>
@@ -117,11 +116,6 @@ Contacta amb el teu agent de vendes per a més informació."</string>
     <string name="friday">divendres</string>
     <string name="friday_short">dv.</string>
     <string name="friday_shortest">dv.</string>
-    <string name="gcm_defaultSenderId">630236635882</string>
-    <string name="google_api_key">AIzaSyD0N3c1iN_Y93_Xslg5n_ZSN_HNTQxw7ew</string>
-    <string name="google_app_id">1:630236635882:android:29cce928e80a9a6b96ed93</string>
-    <string name="google_crash_reporting_api_key">AIzaSyD0N3c1iN_Y93_Xslg5n_ZSN_HNTQxw7ew</string>
-    <string name="google_storage_bucket">micloud-43705.appspot.com</string>
     <string name="i_know">D\'acord</string>
     <string name="lock_msg_phone">Informació de contacte: %s</string>
     <string name="login_extra_steps">Verificació de l\'inici de sessió</string>
@@ -211,7 +205,6 @@ Contacta amb el teu agent de vendes per a més informació."</string>
     <string name="phone_locked_account_email">, correu electrònic associat: %s</string>
     <string name="phone_locked_account_phone">, número de telèfon associat: %s</string>
     <string name="pm">p. m.</string>
-    <string name="project_id">miccloud-43705</string>
     <string name="return_to_call">Torna a la trucada</string>
     <string name="saturday">dissabte</string>
     <string name="saturday_short">ds.</string>
