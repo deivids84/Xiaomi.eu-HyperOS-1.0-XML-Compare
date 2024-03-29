@@ -44,6 +44,24 @@
     <string name="change_find_device_status_failed">"No es pot desbloquejar. %s."</string>
     <string name="clearable_edittext_clear_description">Netejar</string>
     <string name="close">Tanca</string>
+    <string name="common_google_play_services_enable_button">Activa</string>
+    <string name="common_google_play_services_enable_text">"%1$s no funcionarà tret que activeu els serveis de Google Play."</string>
+    <string name="common_google_play_services_enable_title">Activa els serveis de Google Play</string>
+    <string name="common_google_play_services_install_button">Instal·lar</string>
+    <string name="common_google_play_services_install_text">"%1$s no funcionarà sense els serveis de Google Play, que falten al dispositiu."</string>
+    <string name="common_google_play_services_install_title">Obteniu els serveis de Google Play</string>
+    <string name="common_google_play_services_notification_channel_name">Disponibilitat dels serveis de Google Play</string>
+    <string name="common_google_play_services_notification_ticker">Error dels serveis de Google Play</string>
+    <string name="common_google_play_services_unknown_issue">%1$s té problemes amb els serveis de Google Play. Siusplau torna-ho a provar.</string>
+    <string name="common_google_play_services_unsupported_text">"%1$s no funcionarà sense els serveis de Google Play, que no són compatibles amb el vostre dispositiu."</string>
+    <string name="common_google_play_services_update_button">Actualització</string>
+    <string name="common_google_play_services_update_text">"%1$s no s'executarà tret que actualitzeu els serveis de Google Play."</string>
+    <string name="common_google_play_services_update_title">Actualitza els serveis de Google Play</string>
+    <string name="common_google_play_services_updating_text">"%1$s no funcionarà sense els serveis de Google Play, que s'estan actualitzant."</string>
+    <string name="common_google_play_services_wear_update_text">Necessita una nova versió dels serveis de Google Play. En breu s\'actualitzarà.</string>
+    <string name="common_open_on_phone">Obre al telèfon</string>
+    <string name="common_signin_button_text">Inicia sessió</string>
+    <string name="common_signin_button_text_long">Inicieu la sessió amb Google</string>
     <string name="custom_define_permission_desc_android.permission.READ_PHONE_STATE">"Per accedir al número de telèfon per localitzar aquest dispositiu quan no està connectat a Internet"</string>
     <string name="custom_define_permission_desc_android.permission.SEND_SMS">"Per localitzar aquest dispositiu quan no està connectat a Internet"</string>
     <string name="custom_define_permission_desc_android.permission_group.LOCATION">Per localitzar el dispositiu i canviar al mode perdut</string>
@@ -53,6 +71,7 @@
 Contacta amb el teu agent de vendes per a més informació."</string>
     <string name="default_lock_msg_words">Aquest dispositiu està associat amb un Compte Xiaomi existent. Per raons de seguretat, necessiteu introduir la vostra contrasenya de nou per verificar el dispositiu.</string>
     <string name="default_lock_msg_words_with_phone">Hola! Vaig perdre aquest dispositiu. Podríeu posar-vos en contacte amb mi? Gràcies!</string>
+    <string name="default_web_client_id">630236635882-e9rqvpt2onbe87uramm8stt7v375of1e.apps.googleusercontent.com</string>
     <string name="device_locked">Aquest dispositiu està bloquejat</string>
     <string name="device_lost">Aquest dispositiu s\'ha perdut</string>
     <string name="disable_find_device_error">"No s'ha pogut desactivar Troba dispositiu. %1$s"</string>
@@ -65,6 +84,7 @@ Contacta amb el teu agent de vendes per a més informació."</string>
     <string name="eras_ad">EC</string>
     <string name="eras_bc">AEC</string>
     <string name="evening">Tarda</string>
+    <string name="fcm_fallback_notification_channel_label">Divers</string>
     <string name="find_device_capture_done_notification_content">Consulteu la foto a i.mi.com</string>
     <string name="find_device_capture_done_notification_title">Troba dispositiu va fer una foto de forma remota</string>
     <string name="find_device_capture_notification_content">S\'ha enviat una sol·licitud per fer una foto de forma remota amb aquest dispositiu pel vostre compte</string>
@@ -97,6 +117,11 @@ Contacta amb el teu agent de vendes per a més informació."</string>
     <string name="friday">divendres</string>
     <string name="friday_short">dv.</string>
     <string name="friday_shortest">dv.</string>
+    <string name="gcm_defaultSenderId">630236635882</string>
+    <string name="google_api_key">AIzaSyD0N3c1iN_Y93_Xslg5n_ZSN_HNTQxw7ew</string>
+    <string name="google_app_id">1:630236635882:android:29cce928e80a9a6b96ed93</string>
+    <string name="google_crash_reporting_api_key">AIzaSyD0N3c1iN_Y93_Xslg5n_ZSN_HNTQxw7ew</string>
+    <string name="google_storage_bucket">micloud-43705.appspot.com</string>
     <string name="i_know">D\'acord</string>
     <string name="lock_msg_phone">Informació de contacte: %s</string>
     <string name="login_extra_steps">Verificació de l\'inici de sessió</string>
@@ -186,6 +211,7 @@ Contacta amb el teu agent de vendes per a més informació."</string>
     <string name="phone_locked_account_email">, correu electrònic associat: %s</string>
     <string name="phone_locked_account_phone">, número de telèfon associat: %s</string>
     <string name="pm">p. m.</string>
+    <string name="project_id">miccloud-43705</string>
     <string name="return_to_call">Torna a la trucada</string>
     <string name="saturday">dissabte</string>
     <string name="saturday_short">ds.</string>
