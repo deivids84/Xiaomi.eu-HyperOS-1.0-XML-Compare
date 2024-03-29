@@ -5,35 +5,6 @@
         <item>Día para recordar</item>
         <item>Momentos vibrantes</item>
     </string-array>
-    <string-array name="alphabet_table">
-        <item>A</item>
-        <item>B</item>
-        <item>C</item>
-        <item>D</item>
-        <item>E</item>
-        <item>D</item>
-        <item>M</item>
-        <item>D</item>
-        <item>I</item>
-        <item>J</item>
-        <item>M</item>
-        <item>L</item>
-        <item>M</item>
-        <item>N</item>
-        <item>O</item>
-        <item>P</item>
-        <item>M</item>
-        <item>R</item>
-        <item>S</item>
-        <item>T</item>
-        <item>U</item>
-        <item>V</item>
-        <item>M</item>
-        <item>X</item>
-        <item>Y</item>
-        <item>Z</item>
-        <item>\#</item>
-    </string-array>
     <string-array name="annual_foods_title">
         <item>Un año delicioso</item>
         <item>Tres cursos. Cuatro estaciones.</item>
@@ -73,14 +44,6 @@
     <string-array name="forest_title">
         <item>En la naturaleza</item>
         <item>Salvaje y libre</item>
-    </string-array>
-    <string-array name="global_backup_display_title">
-        <item>@string/backup_google_name</item>
-        <item>@string/backup_onedrive_single_name</item>
-    </string-array>
-    <string-array name="global_backup_display_value">
-        <item>1</item>
-        <item>2</item>
     </string-array>
     <string-array name="group_people_title">
         <item>Nuestras reuniones</item>
@@ -223,35 +186,6 @@
     <string-array name="passport_account_user_gender_name">
         <item>Hombre</item>
         <item>Mujer</item>
-    </string-array>
-    <string-array name="passport_alphabet_table">
-        <item>\#</item>
-        <item>A</item>
-        <item>B</item>
-        <item>C</item>
-        <item>D</item>
-        <item>E</item>
-        <item>D</item>
-        <item>M</item>
-        <item>D</item>
-        <item>I</item>
-        <item>J</item>
-        <item>M</item>
-        <item>L</item>
-        <item>M</item>
-        <item>N</item>
-        <item>O</item>
-        <item>P</item>
-        <item>M</item>
-        <item>R</item>
-        <item>S</item>
-        <item>T</item>
-        <item>U</item>
-        <item>V</item>
-        <item>M</item>
-        <item>X</item>
-        <item>Y</item>
-        <item>Z</item>
     </string-array>
     <string-array name="people_travel_title">
         <item>Donde nos lleva el camino</item>
