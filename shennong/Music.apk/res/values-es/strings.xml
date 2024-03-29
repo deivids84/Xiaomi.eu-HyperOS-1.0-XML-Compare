@@ -265,8 +265,6 @@
     <string name="columbus_player_speed_video">Saltar VIDEO</string>
     <string name="columbus_player_unit_sec">seg</string>
     <string name="columbus_skip_ad">Saltar</string>
-    <string name="com.google.firebase.crashlytics.mapping_file_id">583776ea272c4919ae6983769adbc3f4</string>
-    <string name="com.miapm.build_id">23376226ab7b447eb6d96757a8577510</string>
     <string name="common_google_play_services_enable_button">Habilitar</string>
     <string name="common_google_play_services_enable_text">"%1$s no funcionará hasta que no habilites Servicios de Google Play."</string>
     <string name="common_google_play_services_enable_title">Habilita Servicios de Google Play</string>
