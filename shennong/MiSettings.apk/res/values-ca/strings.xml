@@ -239,11 +239,8 @@ no es generen al segon espai"</string>
     <string name="exo_track_unknown">Desconegut</string>
     <string name="expand_button_title">Opcions avançades</string>
     <string name="first_unlock_time">"Primera vegada desbloquejat: "</string>
-    <string name="fmt_date_day">dd</string>
     <string name="fmt_date_long_month_day">MMMM dd</string>
     <string name="fmt_date_long_year_month_day">MMMM dd, yyyy</string>
-    <string name="fmt_date_numeric_day">dd</string>
-    <string name="fmt_date_numeric_month">MM</string>
     <string name="fmt_date_numeric_month_day">MM/dd</string>
     <string name="fmt_date_numeric_year_month">MM/yyyy</string>
     <string name="fmt_date_numeric_year_month_day">MM/dd/yyyy</string>
