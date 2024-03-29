@@ -272,6 +272,22 @@
         <item quantity="other">%1$d fitxers</item>
         <item quantity="one">%1$d fitxer</item>
     </plurals>
+    <plurals name="global_cloud_storage_warn_title_link">
+        <item quantity="other">"No s'ha pogut fer una còpia de seguretat d' %d elements a causa d'un emmagatzematge al núvol insuficient"</item>
+        <item quantity="one">"No s'ha pogut fer una còpia de seguretat de l'element %d a causa d'un emmagatzematge al núvol insuficient"</item>
+    </plurals>
+    <plurals name="global_sync_error_title">
+        <item quantity="other">"No s'ha fet una còpia de seguretat de %d elements"</item>
+        <item quantity="one">"No s'ha fet una còpia de seguretat de %d element"</item>
+    </plurals>
+    <plurals name="global_syncing_gprs_title_link">
+        <item quantity="other">S\'està fent una còpia de seguretat d\' %d elements amb dades mòbils…</item>
+        <item quantity="one">S\'està fent una còpia de seguretat de %d amb dades mòbils…</item>
+    </plurals>
+    <plurals name="global_syncing_title_link">
+        <item quantity="other">S\'està fent una còpia de seguretat de %d elements…</item>
+        <item quantity="one">S\'està fent una còpia de seguretat de l\'element %d…</item>
+    </plurals>
     <plurals name="half_hour_ago">
         <item quantity="one">Fa mitja hora</item>
         <item quantity="other">Fa mitja hora</item>
@@ -352,10 +368,6 @@
         <item quantity="other">Total %1$d elements</item>
         <item quantity="one">Total %1$d element</item>
     </plurals>
-    <plurals name="photo_editor_talkback_crop_scale_value">
-        <item quantity="other">Gireu %d graus</item>
-        <item quantity="one">Gira %d graus</item>
-    </plurals>
     <plurals name="photo_remain_days">
         <item quantity="other">%d dies</item>
         <item quantity="one">%d dia</item>
@@ -393,8 +405,8 @@
         <item quantity="one">Descarregant %d arxiu restant</item>
     </plurals>
     <plurals name="picker_no_network_retry_image_confirm_message">
-        <item quantity="other">"No es poden baixar %1$d fotos, connecteu-vos a la xarxa i proveu-ho de nou"</item>
-        <item quantity="one">"No es pot baixar %1$d foto, connecteu-vos a la xarxa i proveu-ho de nou"</item>
+        <item quantity="other">"No s'han pogut baixar els fitxers %d . Connecta't a la xarxa i torna-ho a provar."</item>
+        <item quantity="one">"No s'ha pogut baixar el fitxer %d . Connecta't a la xarxa i torna-ho a provar."</item>
     </plurals>
     <plurals name="picker_no_network_retry_origin_confirm_message">
         <item quantity="other">"No s'han pogut baixar %1$d fitxers (%2$d MB). Connecta't a la xarxa i intenta-ho de nou."</item>
@@ -405,12 +417,12 @@
         <item quantity="one">"%1$d fitxer (%2$d MB) no s'ha descarregat encara. Vols baixar amb dades mòbils?"</item>
     </plurals>
     <plurals name="picker_retry_image_confirm_message">
-        <item quantity="other">"No es poden baixar %1$d fotos. Voleu provar-ho de nou?"</item>
-        <item quantity="one">"No es pot baixar %1$d foto. Voleu provar-ho de nou?"</item>
+        <item quantity="other">"No s'han pogut baixar els fitxers %d . Torna-ho a provar?"</item>
+        <item quantity="one">"No s'ha pogut baixar el fitxer %d . Torna-ho a provar?"</item>
     </plurals>
     <plurals name="picker_retry_origin_confirm_message">
-        <item quantity="other">"No es poden baixar %1$d fotos (%2$d MB). Voleu provar-ho de nou?"</item>
-        <item quantity="one">"No es poden baixar %1$d foto (%2$d MB). Voleu provar-ho de nou?"</item>
+        <item quantity="other">"No s'han pogut baixar %1$d fitxers (%2$d MB). Torna-ho a provar?"</item>
+        <item quantity="one">"No s'ha pogut baixar el fitxer %1$d (%2$d MB). Torna-ho a provar?"</item>
     </plurals>
     <plurals name="picker_skip_unavailable_images">
         <item quantity="other">"S'han saltat %d fotos que no són al dispositiu."</item>
@@ -727,6 +739,18 @@
     <plurals name="video_count_format">
         <item quantity="other">%1$d fitxers</item>
         <item quantity="one">%1$d fitxer</item>
+    </plurals>
+    <plurals name="video_editor_component_hint_text">
+        <item quantity="other">Seleccioneu %d segments de vídeo</item>
+        <item quantity="one">Seleccioneu %d segment de vídeo</item>
+    </plurals>
+    <plurals name="video_editor_component_imageview_content_description">
+        <item quantity="other">Ranura de vídeo %1$d, esperant per afegir un vídeo de %2$s segons o més</item>
+        <item quantity="one">Ranura de vídeo %1$d, esperant afegir vídeo de %2$s segon o més</item>
+    </plurals>
+    <plurals name="video_editor_component_next_step_disabled_content_description">
+        <item quantity="other">Afegeix %d més vídeos per poder continuar</item>
+        <item quantity="one">Afegeix %d més vídeo per poder continuar</item>
     </plurals>
     <plurals name="videos_count">
         <item quantity="other">%d vídeos</item>
