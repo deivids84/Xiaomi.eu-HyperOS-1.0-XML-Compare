@@ -266,11 +266,6 @@
     <string name="friday">Divendres</string>
     <string name="friday_short">Dv</string>
     <string name="friday_shortest">Dv</string>
-    <string name="gcm_defaultSenderId">540483826007</string>
-    <string name="google_api_key">AIzaSyCvkual-cQri2_m_TUEPAsVuuJ9jLsZImI</string>
-    <string name="google_app_id">1:540483826007:android:1ca97407e7c26416f1ce12</string>
-    <string name="google_crash_reporting_api_key">AIzaSyCvkual-cQri2_m_TUEPAsVuuJ9jLsZImI</string>
-    <string name="google_storage_bucket">hmproject-75623.appspot.com</string>
     <string name="icon_content_description">Icona de diàleg</string>
     <string name="item_view_role_description">Pestanya</string>
     <string name="material_clock_toggle_content_description">Seleccioneu AM o PM</string>
@@ -580,7 +575,6 @@
     <string name="password_toggle_content_description">Mostra la contrasenya</string>
     <string name="pm">PM</string>
     <string name="preference_copied">\"%1$s\" copiat al porta-retalls.</string>
-    <string name="project_id">hmproject-75623</string>
     <string name="saturday">Dissabte</string>
     <string name="saturday_short">Ds</string>
     <string name="saturday_shortest">Ds</string>
