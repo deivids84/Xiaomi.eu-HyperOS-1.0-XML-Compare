@@ -213,6 +213,7 @@
     <string name="cloud_app_restore_title">Pendent</string>
     <string name="color_group">Agrupar icones per color</string>
     <string name="color_group_anim">Animacions en categories de color</string>
+    <string name="com.crashlytics.android.build_id">60a7412eaf234413836e8c9b0a3c0b16</string>
     <string name="common_google_play_services_unknown_issue">%1$s problemes amb els serveis de Google Play. Torneu-ho a provar.</string>
     <string name="common_home_search_delete">Traient la barra de cerca</string>
     <string name="common_home_search_delete_cancle">Cancel·la</string>
