@@ -71,7 +71,6 @@
 Contacta tu agente de ventas para más detalles."</string>
     <string name="default_lock_msg_words">Este dispositivo está asociado con un ID de Cuenta Xiaomi existente. Por razones de seguridad, introduce la contraseña para verificar el dispositivo.</string>
     <string name="default_lock_msg_words_with_phone">¡Hola! Perdí este dispositivo. ¿Podrías contactarme por favor? ¡Gracias!</string>
-    <string name="default_web_client_id">630236635882-e9rqvpt2onbe87uramm8stt7v375of1e.apps.googleusercontent.com</string>
     <string name="device_locked">Este dispositivo está bloqueado</string>
     <string name="device_lost">Este dispositivo se ha perdido</string>
     <string name="disable_find_device_error">"No se pudo desactivar Encontrar dispositivo. %1$s"</string>
@@ -117,11 +116,6 @@ Contacta tu agente de ventas para más detalles."</string>
     <string name="friday">Viernes</string>
     <string name="friday_short">Vie</string>
     <string name="friday_shortest">Vie</string>
-    <string name="gcm_defaultSenderId">630236635882</string>
-    <string name="google_api_key">AIzaSyD0N3c1iN_Y93_Xslg5n_ZSN</string>
-    <string name="google_app_id">1:630236635882:android:29cce928e80a9a6b96ed93</string>
-    <string name="google_crash_reporting_api_key">AIzaSyD0N3c1iN_Y93_Xslg5n_ZSN</string>
-    <string name="google_storage_bucket">micloud-43705.appspot.com</string>
     <string name="i_know">OK</string>
     <string name="lock_msg_phone">Información de contacto: %s</string>
     <string name="login_extra_steps">Verificación del inicio de sesión</string>
@@ -211,7 +205,6 @@ Contacta tu agente de ventas para más detalles."</string>
     <string name="phone_locked_account_email">, correo electrónico asociado: %s</string>
     <string name="phone_locked_account_phone">, número de teléfono asociado: %s</string>
     <string name="pm">PM</string>
-    <string name="project_id">micrófono-43705</string>
     <string name="return_to_call">Volver a la llamada</string>
     <string name="saturday">Sábado</string>
     <string name="saturday_short">Sáb</string>
