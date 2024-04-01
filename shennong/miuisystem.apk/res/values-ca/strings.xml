@@ -61,7 +61,6 @@
     <string name="fireflies">Cuques de llum</string>
     <string name="flute">Flauta</string>
     <string name="fmt_date_long_month_day">MMMM d</string>
-    <string name="fmt_date_long_year_month">MMMM aaaa</string>
     <string name="fmt_date_numeric_month_day">M/d</string>
     <string name="fmt_date_numeric_year_month_day">M/d/yyyy</string>
     <string name="fmt_date_short_month_day">MMM d</string>
