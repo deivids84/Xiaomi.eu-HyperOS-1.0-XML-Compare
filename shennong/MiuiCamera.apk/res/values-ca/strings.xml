@@ -210,6 +210,8 @@
     <string name="accessibility_reference_line_image_on">S\'estan mostrant les línies guia</string>
     <string name="accessibility_reference_line_text">Obriu el tauler amb les opcions de línia de referència</string>
     <string name="accessibility_review_thumbnail">Foto més recent</string>
+    <string name="accessibility_sdsr_tip_off">El zoom ultra està desactivat</string>
+    <string name="accessibility_sdsr_tip_on">El zoom ultra està activat</string>
     <string name="accessibility_select_all">Seleccioneu-ho tot</string>
     <string name="accessibility_select_all_end">Tot seleccionat</string>
     <string name="accessibility_selected">Seleccionat</string>
@@ -1793,6 +1795,8 @@ Desar imatges Ultra RAW %d Una mica de dades amb encara més detall."</string>
 el fons de les fotografies"</string>
     <string name="portrait_bokeh_text">Mode retrat</string>
     <string name="portrait_bokeh_tips">Col·loqueu el subjecte a 1,5 metres</string>
+    <string name="portrait_cvtype_item_title1">Estil de retrat: retrat de Leica</string>
+    <string name="portrait_cvtype_item_title2">Estil de retrat: Retrat mestre</string>
     <string name="portrait_deblur_tips">Retrat HD</string>
     <string name="portrait_india_effect_entry_memory">Memòria</string>
     <string name="portrait_india_effect_entry_mono">Mono</string>
@@ -1805,7 +1809,13 @@ el fons de les fotografies"</string>
     <string name="portrait_india_effect_entry_sweet">Caramel</string>
     <string name="portrait_india_effect_entry_warm">Càlid</string>
     <string name="portrait_india_effect_entry_young">Jove</string>
+    <string name="portrait_mode_confirm_text">Confirmeu</string>
     <string name="portrait_mode_depth_effect_success_hint">Efecte de profunditat</string>
+    <string name="portrait_mode_hint_title">Seleccioneu l\'estil de retrat</string>
+    <string name="portrait_mode_item_item1">Elegant i subtil</string>
+    <string name="portrait_mode_item_item2">Natural i realista</string>
+    <string name="portrait_mode_item_title1">Retrat mestre</string>
+    <string name="portrait_mode_item_title2">Retrat de Leica</string>
     <string name="portrait_mode_lowlight_hint">"Ara és massa fosc"</string>
     <string name="portrait_mode_too_close_hint">Allunyeu-vos del subjecte</string>
     <string name="portrait_mode_too_far_hint">Col·loqueu el subjecte a 2 metres</string>
@@ -2246,6 +2256,9 @@ Manté el subjecte nítid mentre difumina el fons."</string>
     <string name="pref_s_n_r_s_c">Reduïu el soroll dels vídeos en funció de l’escena</string>
     <string name="pref_scan_qrcode_summary">La càmera posterior només pot escanejar codis QR en el mode \"Foto\".</string>
     <string name="pref_scan_qrcode_title">Escaneig de codis QR</string>
+    <string name="pref_sdsr_summary">Permet que la IA millori la claredat de les imatges ampliades</string>
+    <string name="pref_sdsr_title">Ultra zoom</string>
+    <string name="pref_sdsr_title_beta">Ultra zoom (beta)</string>
     <string name="pref_simple_hdr_entry_off">Apagat</string>
     <string name="pref_simple_hdr_entry_on">Activat</string>
     <string name="pref_skin_beautify_color_title">To</string>
@@ -2385,6 +2398,7 @@ Manté el subjecte nítid mentre difumina el fons."</string>
     <string name="scan_install_prompt_message">Instal·leu l\'Escànner i proveu-ho de nou.</string>
     <string name="screen_on_proximity_sensor_hint">Per desactivar aquesta funció, premeu Enrere i el botó de pujar volum simultàniament.</string>
     <string name="screen_on_proximity_sensor_summary">"No tapeu l'àrea dels auriculars"</string>
+    <string name="sdsr_capture_reprocess_toast">S\'està processant Ultra zoom…</string>
     <string name="search_menu_title">Cerca</string>
     <string name="search_settings">Configuració de la càmera;Qualitat;Qualitat d\'imatge;Ubicació de la imatge;Detecció de cares;So de la càmera</string>
     <string name="security_line">Línia de marc</string>
