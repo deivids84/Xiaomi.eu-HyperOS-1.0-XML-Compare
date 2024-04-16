@@ -1089,6 +1089,10 @@ d/M"</string>
     <string name="miui_notification_menu_snooze">Dormitar</string>
     <string name="miui_notification_menu_title_not_allow">Restringir</string>
     <string name="miui_notification_menu_unfocus">Desactivar spotlight de notificaciones</string>
+    <string name="miui_quick_settings_tiles_default_international">vowifi1,vowifi2,googlehome,googlepay,cell,wifi,bt,airplane,mute,flashlight,screenshot,batterysaver,night,rotation,controls,custom(com.miui.screenrecorder/.service.QuickService),custom(com.milink.service/com.milink.ui.service.MiLinkTileService),hotspot,settings,scanner,custom(com.google.android.gms/.nearby.sharing.SharingTileService),quietmode,edit</string>
+    <string name="miui_quick_settings_tiles_default_pad_international">vowifi1,vowifi2,googlehome,googlepay,cell,wifi,bt,airplane,mute,flashlight,screenshot,batterysaver,night,rotation,controles,custom(com.miui.screenrecorder/.service.QuickService),custom(com.milink.service/com.milink.ui.service.MiLinkTileService),hotspot,dtmdtm,settings,wallet,scanner,custom(com.google.android.gms/.nearby.sharing.SharingTileService),quietmode,editar</string>
+    <string name="miui_quick_settings_tiles_stock">vowifi1,vowifi2,googlehome,googlepay,cell,wifi,bt,airplane,autobrightness,mute,screenshot,flashlight,rotation,screenlock,dtmdtm,scanner,papermode,night,quietmode,batterysaver,uwb_shp,aitranslate,aisubtitles,freeformhang,vibrate,hotspot,sinc,nfc,dolbyatomssound,gps,edit,hearingassisttile,controls,wallet,ajustes</string>
+    <string name="miui_quick_settings_tiles_stock_pad">vowifi1,vowifi2,googlehome,googlepay,cell,wifi,rotation,airplane,mute,screenshot,bt,autobrightness,screenlock,dtmdtm,night,papermode,quietmode,batterysaver,gps,flashlight,scanner,freeformhang,vibrate,hotspot,sync,nfc,dolbyatomssound,edit,workmode,wallet,ajustes</string>
     <string name="miui_rhombus_clock_date">dd MMMM</string>
     <string name="miui_screen_rotation_freeze_message">Orientación de la pantalla bloqueada en el modo horizontal</string>
     <string name="miui_smart_frame_clock_date">d/M</string>
