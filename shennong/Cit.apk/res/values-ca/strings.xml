@@ -114,6 +114,7 @@ Agafeu el dispositiu com si estiguéssiu fent una trucada, parleu amb el micròf
     <string name="cit_charger_second_ibat">Corrent de la bateria secundària</string>
     <string name="cit_digital_hall_sensor_cali_summary">Manteniu el dispositiu tancat per al calibratge</string>
     <string name="cit_digital_hall_sensor_cali_title">Prova de calibratge de la sala digital</string>
+    <string name="cit_digital_hall_sensor_check_title">Detecció d\'obertura i tancament</string>
     <string name="cit_display_check_title_N8">Mostra</string>
     <string name="cit_esim_check_summary">A continuació es mostra l\'estat de l\'eSIM i la visualització correcta de l\'estat de l\'eSIM indica que la prova ha passat</string>
     <string name="cit_esim_check_title">targeta eSIM</string>
@@ -128,6 +129,9 @@ Agafeu el dispositiu com si estiguéssiu fent una trucada, parleu amb el micròf
     <string name="cit_flash_timeout_tip">La prova s\'ha esgotat, torneu a introduir la prova flash</string>
     <string name="cit_front_sub_camera_check_title_fold">Càmera frontal de subpantalla</string>
     <string name="cit_front_ultra_camera_check_title">Càmera frontal Ultra</string>
+    <string name="cit_high_accdata_sensor_check_summary">Els valors de les coordenades X, Y, Z, haurien d\'aparèixer a continuació. Si us plau, col·loqueu el telèfon a l\'escriptori abans de realitzar la prova.</string>
+    <string name="cit_high_accdata_sensor_check_title">Acceleròmetre alt</string>
+    <string name="cit_high_accdata_sensor_graph_title">Gràfic d\'acceleròmetre alt</string>
     <string name="cit_horn_motor_test">Prova del motor de la botzina</string>
     <string name="cit_lcdlight_title">Prova de contrallum</string>
     <string name="cit_led_change">Seleccioneu el mode estroboscòpic led</string>
