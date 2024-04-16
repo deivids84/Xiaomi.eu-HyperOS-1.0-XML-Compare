@@ -213,7 +213,6 @@
     <string name="cloud_app_restore_title">Pendent</string>
     <string name="color_group">Agrupar icones per color</string>
     <string name="color_group_anim">Animacions en categories de color</string>
-    <string name="com.crashlytics.android.build_id">c8c99e0508e949faba63901b8f0df016</string>
     <string name="common_google_play_services_unknown_issue">%1$s problemes amb els serveis de Google Play. Torneu-ho a provar.</string>
     <string name="common_home_search_delete">Traient la barra de cerca</string>
     <string name="common_home_search_delete_cancle">Cancel·la</string>
@@ -412,7 +411,6 @@ Seguretat millorada."</string>
     <string name="mi_wallpaper">Temes MIUI</string>
     <string name="midnight">Nit</string>
     <string name="minus_one_screen">Volta d\'aplicacions</string>
-    <string name="mishow_layout_path">disseny_demo_telèfon</string>
     <string name="miui_screen_config_title">Disseny de la pantalla d\'inici</string>
     <string name="miui_setting_config_title">Configuració de la pantalla d\'inici</string>
     <string name="miui_widget_menu_replace_text">Canvia</string>
