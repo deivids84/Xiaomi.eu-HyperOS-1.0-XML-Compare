@@ -184,9 +184,9 @@
     <string name="asm_pay_order_generate">S\'està generant l\'ordre…</string>
     <string name="asm_pay_order_generate_failed">"No s'ha pogut generar la comanda"</string>
     <string name="asm_pay_query_overtime">La sol·licitud d\'estat de pagament s\'ha esgotat</string>
-    <string name="asm_privacy_desc">Política de privadesa de Wansheng</string>
-    <string name="asm_privacy_tips_content">Accepteu la <a href="/link/click">Política de privadesa de Wansheng</a> per poder utilitzar els serveis de música en línia.</string>
-    <string name="asm_privacy_tips_title">Política de privadesa de Wansheng</string>
+    <string name="asm_privacy_desc">Política de privadesa d\'ASM</string>
+    <string name="asm_privacy_tips_content">Accepteu la <a href="/link/click">Política de privadesa d\'ASM</a> per poder utilitzar els serveis de música en línia.</string>
+    <string name="asm_privacy_tips_title">Política de privadesa d\'ASM</string>
     <string name="asm_pro_center">Pertinença</string>
     <string name="asm_search_result_contain_music">Conté: \"%1$s\"</string>
     <string name="asm_song_err_connect">"No s'ha pogut connectar al servidor"</string>
@@ -265,6 +265,8 @@
     <string name="columbus_player_speed_video">Omet VIDEO</string>
     <string name="columbus_player_unit_sec">seg</string>
     <string name="columbus_skip_ad">Omet</string>
+    <string name="com.google.firebase.crashlytics.mapping_file_id">386f5b00a01c4fabb12e632952a68872</string>
+    <string name="com.miapm.build_id">983d1f33ce314fd8af6c3826a5c9087d</string>
     <string name="common_google_play_services_enable_button">Activa</string>
     <string name="common_google_play_services_enable_text">"%1$s no funcionarà si no actives Serveis de Google Play."</string>
     <string name="common_google_play_services_enable_title">Activa Serveis de Google Play</string>
@@ -794,6 +796,21 @@
     <string name="lrc_search_failed">"No s'ha pogut trobar la lletra"</string>
     <string name="lrc_searching">S\'està cercant…</string>
     <string name="ludo_tab_guide">Consulta les nostres noves sales de música</string>
+    <string name="lyric_ai_apply_fail">"No s'ha pogut utilitzar. Torna-ho a provar."</string>
+    <string name="lyric_ai_button_text">lletres d\'AI</string>
+    <string name="lyric_ai_dialog_one">"•Pots tocar per reconèixer les lletres, i t'omplirem les lletres mitjançant la tecnologia de reconeixement de veu d'IA."</string>
+    <string name="lyric_ai_dialog_three">•Pots comprovar el progrés a la barra d\'eines de lletres.</string>
+    <string name="lyric_ai_dialog_two">"•El reconeixement trigarà uns minuts. Un cop s'hagi completat, la lletra s'omplirà automàticament."</string>
+    <string name="lyric_ai_identify_success">S\'ha reconegut la lletra correctament</string>
+    <string name="lyric_ai_song">Cançó actual</string>
+    <string name="lyric_ai_song_list">Cançons</string>
+    <string name="lyric_ai_state_apply">Ús de lletres</string>
+    <string name="lyric_ai_state_default">Cançó no reconeguda</string>
+    <string name="lyric_ai_state_fail">"No s'ha pogut reconèixer la lletra"</string>
+    <string name="lyric_ai_state_identify">Reconèixer</string>
+    <string name="lyric_ai_state_identifying">Només un segon…</string>
+    <string name="lyric_ai_state_use">Ús</string>
+    <string name="lyric_ai_title">Reconeixement de lletres d\'IA</string>
     <string name="lyric_is_empty">Lletra no disponible</string>
     <string name="lyric_label">Lletres</string>
     <string name="lyric_open_other_connect">Baixa les lletres utilitzant les dades mòbils</string>
@@ -1345,7 +1362,7 @@ Si no accepteu utilitzar els serveis esmentats anteriorment, no podreu utilitzar
     <string name="pulluprefreshrecyclerview_loading_finished">S\'ha carregat amb èxit</string>
     <string name="pulluprefreshrecyclerview_loading_running">S\'està carregant…</string>
     <string name="queue_is_empty">La llista de reproducció està buida.</string>
-    <string name="read_and_agree_asm_protocol">&lt;Data&gt;Llegiu i accepteu la &lt;font color=\"#A374F0\"&gt;&lt;/color&gt;&lt;a href=\"%1$s\"&gt;Política de privadesa de Wansheng&lt;/a&gt;&lt;/font&gt; per poder utilitzar els serveis de música en línia.&lt;/Data&gt;</string>
+    <string name="read_and_agree_asm_protocol">&lt;Data&gt;Llegiu i accepteu la &lt;font color=\"#A374F0\"&gt;&lt;/color&gt;&lt;a href=\"%1$s\"&gt;Política de privadesa d\'ASM&lt;/a&gt;&lt;/font&gt; per poder utilitzar els serveis de música en línia.&lt;/Data&gt;</string>
     <string name="read_and_agree_hungama_protocol">"&lt;Data&gt;He llegit i accepto la &lt;font color=\"#A374F0\"&gt;&lt;/color&gt;&lt;a href=\"%1$s\"&gt;Política de privadesa de hungama&lt;/a&gt;&lt;/font&gt;&lt;/Data&gt;"</string>
     <string name="read_and_agree_joox_protocol">"&lt;Data&gt;He llegit i accepto la &lt;font color=\"#A374F0\"&gt;&lt;/color&gt;&lt;a href=\"%1$s\"&gt;Política de privadesa de JOOX&lt;/a&gt;&lt;/font&gt;&lt;/Data&gt;"</string>
     <string name="read_and_agree_mi_protocol">"&lt;Data&gt;He llegit i accepto el Xiaomi &lt;font color=\"#A374F0\"&gt;&lt;/color&gt;&lt;a href=\"%1$s\"&gt;Acord d'usuari&lt;/a&gt;&lt;/font&gt; i &lt;font color=\"#A374F0\"&gt;&lt;/color&gt;&lt;a href=\"%2$s\"&gt;Política de privacitat&lt;/a&gt;&lt;/font&gt;&lt;/Data&gt;"</string>
