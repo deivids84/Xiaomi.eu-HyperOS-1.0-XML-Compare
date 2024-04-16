@@ -127,7 +127,6 @@
     <string name="cancel">Cancel·lar</string>
     <string name="cancel_choose">Desselecciona</string>
     <string name="cancel_subscribe_tips">Deixant de seguir?</string>
-    <string name="card_content_descriptor">targeta</string>
     <string name="cast_ad_label">Anunci</string>
     <string name="cast_casting_to_device">S\'està emetent a %1$s</string>
     <string name="cast_closed_captions">Subtítols</string>
@@ -206,7 +205,6 @@
     <string name="columbus_player_speed_video">Omet VIDEO</string>
     <string name="columbus_player_unit_sec">seg</string>
     <string name="columbus_skip_ad">Omet</string>
-    <string name="com.crashlytics.android.build_id">f86f3758a14f4f8ea0ccd6d86d3de3d4</string>
     <string name="com_permission_desc">"Mi Vídeo no pot accedir als vídeos del teu dispositiu. Permet l'accés a Configuració."</string>
     <string name="com_permission_title">Permisos necessaris</string>
     <string name="comment_model_add_comment">Afegir un comentari</string>
@@ -995,8 +993,6 @@ Només utilitzarem aquest permís per trobar els vídeos que cerqueu i no accedi
     <string name="mnc_live_unsubscribe_toast">S\'ha cancel·lat la subscripció correctament</string>
     <string name="mnc_subscribe_push_context">Toca per veure-ho ara</string>
     <string name="mnc_subscribe_push_title">S\'està iniciant la reproducció</string>
-    <string name="modal_content_descriptor">modal</string>
-    <string name="modal_inner_content_descriptor">modal interior</string>
     <string name="moment_guide_desc">Utilitzeu gestos per apropar i allunyar</string>
     <string name="moment_tab_all">Tot</string>
     <string name="moment_tab_facebook">Facebook</string>
