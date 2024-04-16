@@ -180,68 +180,68 @@ A efectes de prevenció de riscos, estadístiques i processament analític, nece
     <string name="interconnection_communication_introduction">Els serveis de comunicació d\'Internet Xiaomi us permeten descobrir, connectar-vos i comunicar-vos amb altres dispositius.</string>
     <string name="interconnection_service_global_item_title">Interconnectivitat Xiaomi</string>
     <string name="interconnection_service_global_label">"&lt;Data&gt;La interconnectivitat Xiaomi permet que els vostres dispositius interactuïn entre ells sense fils. En activar aquest interruptor, accepteu la política de privadesa &lt;a href=%1$s&gt;de Xiaomi Interconnectivity&lt;/a &gt;.&lt;/Data&gt;"</string>
-    <string name="interconnection_service_summary_china">"Els serveis d'interconnectivitat de Xiaomi permeten als vostres dispositius interactuar entre ells sense fils. Aquests serveis inclouen Mi Smart Play, càsting, lliurament d'aplicacions, pantalla d'inici +, portapapers compartit, captura d'imatges multidispositiu, assistència de xarxa, teclats i ratolins compartits, càmera compartida i Mi Smart Hub.To poder funcionar normalment, els serveis d'interconnectivitat de Xiaomi necessiten connectar-se a Internet i requereixen els permisos següents:
-\u0009\u0009El meu Smart Play i càsting:
-\u0009\u0009Activar o desactivar el Bluetooth
-\u0009\u0009Per descobrir dispositius propers als quals connectar-se mitjançant Bluetooth
-\u0009\u0009Activar o desactivar la Wi-Fi
-\u0009\u0009Per descobrir dispositius propers i transferir elements per Wi-Fi
-\u0009\u0009Transferir ítems a altres dispositius
-\u0009\u0009Per establir una connexió Bluetooth entre dispositius i transferir elements
-\u0009\u0009Accedir a la informació de la ubicació
-\u0009\u0009Per accedir a la informació de dispositius propers
-\u0009\u0009Gravar àudio intern del dispositiu
-\u0009\u0009Per transferir i reproduir àudio entre dispositius durant l'emissió i la rèplica
-\u0009\u0009Accedir a fotos, vídeos i àudio emmagatzemats al dispositiu
-\u0009\u0009Per a l'enviament i recepció de continguts transferits
-\u0009\u0009Dispositiu d'accés Adreça MAC
-\u0009\u0009Per reconèixer els dispositius connectats
-\u0009\u0009Accedir al contingut de la pantalla
-\u0009\u0009Per accedir al contingut de la pantalla durant la gravació o l'emissió, inclosa informació sensible com ara àudio, contrasenyes, contrasenyes de pagament, fotos, missatges, etc.
-\u0009\u0009Lliurament de l'aplicació i pantalla d'inici+:
-\u0009\u0009Activar o desactivar el Bluetooth
-\u0009\u0009Per descobrir dispositius propers mitjançant Bluetooth
-\u0009\u0009Activar o desactivar la Wi-Fi
-\u0009\u0009Per descobrir dispositius propers i transferir elements per Wi-Fi
-\u0009\u0009Dispositiu d'accés Adreça MAC
-\u0009\u0009Per reconèixer els dispositius connectats
-\u0009\u0009Accedir a fotos, vídeos i àudio emmagatzemats al dispositiu
-\u0009\u0009Per a l'enviament i recepció de continguts transferits
-\u0009\u0009Transferir ítems a altres dispositius
-\u0009\u0009Per establir una connexió Bluetooth entre dispositius i transferir elements
-\u0009\u0009Gravar àudio intern del dispositiu
-\u0009\u0009Per transferir i reproduir àudio entre dispositius durant l'emissió i la rèplica
-\u0009\u0009Accedir al contingut de la pantalla
-\u0009\u0009Per accedir al contingut de la pantalla durant la gravació o l'emissió, inclosa informació sensible com ara àudio, contrasenyes, contrasenyes de pagament, fotos, missatges, etc.
-\u0009\u0009Porta-retalls compartit i captura d'imatges multidispositiu:
-\u0009\u0009Activar o desactivar el Bluetooth
-\u0009\u0009Per descobrir dispositius propers mitjançant Bluetooth
-\u0009\u0009Activar o desactivar la Wi-Fi
-\u0009\u0009Per descobrir dispositius propers i transferir elements per Wi-Fi
-\u0009\u0009Accedir a fotos, vídeos i àudio emmagatzemats al dispositiu
-\u0009\u0009Per a l'enviament i recepció de continguts transferits
-\u0009\u0009Accedir al porta-retalls
-\u0009\u0009Per permetre que les aplicacions accedeixin al contingut copiat
-\u0009\u0009Assistència a la xarxa, teclats i ratolins compartits i càmera compartida:
-\u0009\u0009Activar o desactivar el Bluetooth
-\u0009\u0009Per descobrir dispositius propers mitjançant Bluetooth
-\u0009\u0009Activar o desactivar la Wi-Fi
-\u0009\u0009Per descobrir dispositius propers i transferir elements per Wi-Fi
-\u0009\u0009Accedir a fotos, vídeos i àudio emmagatzemats al dispositiu
-\u0009\u0009Per a l'enviament i recepció de continguts transferits
-\u0009\u0009Accés a la càmera
-\u0009\u0009Per fer fotos i gravar vídeo
-\u0009\u0009El meu Smart Hub:
-\u0009\u0009Activar o desactivar el Bluetooth
-\u0009\u0009Per descobrir dispositius propers mitjançant Bluetooth
-\u0009\u0009Activar o desactivar la Wi-Fi
-\u0009\u0009Per descobrir dispositius propers i transferir elements per Wi-Fi
-\u0009\u0009Gravar àudio intern del dispositiu
-\u0009\u0009Per transferir i reproduir àudio entre dispositius durant l'emissió i la rèplica
-\u0009\u0009Accedir a fotos, vídeos i àudio emmagatzemats al dispositiu
-\u0009\u0009Per a l'enviament i recepció de continguts transferits
-Si no accepteu concedir aquests permisos, no podreu utilitzar aquests serveis.
-Els serveis d'interconnectivitat Avavailable poden variar en funció de la versió del sistema i del model del dispositiu. Troba més informació a %s."</string>
+    <string name="interconnection_service_summary_china">Els serveis d\'interconnectivitat de Xiaomi permeten que els vostres dispositius interactuïn entre ells sense fils. %1$s Els serveis d\'interconnectivitat disponibles poden variar segons la versió del vostre sistema i el model de dispositiu. Trobeu més informació a %2$s.</string>
+    <string name="interconnection_service_summary_china_fragment1">Aquests serveis inclouen Mi Smart Play, emissió, lliurament d\'aplicacions, pantalla d\'inici+, porta-retalls compartit, connexió sense fil (inclosa la sincronització de xarxa), controls entre dispositius, càmera entre dispositius i Mi Smart Hub. Per poder funcionar amb normalitat, els serveis d\'interconnectivitat de Xiaomi s\'han de connectar a Internet i requereixen els permisos següents:</string>
+    <string name="interconnection_service_summary_china_fragment10">Per accedir a la informació dels dispositius propers</string>
+    <string name="interconnection_service_summary_china_fragment11">Grava l\'àudio del dispositiu intern</string>
+    <string name="interconnection_service_summary_china_fragment12">Per transferir i reproduir àudio entre dispositius durant l\'emissió i la reproducció</string>
+    <string name="interconnection_service_summary_china_fragment13">Accediu a fotos, vídeos i àudio emmagatzemats al dispositiu</string>
+    <string name="interconnection_service_summary_china_fragment14">Per enviar i rebre contingut transferit</string>
+    <string name="interconnection_service_summary_china_fragment15">Accedeix a l\'adreça MAC del dispositiu</string>
+    <string name="interconnection_service_summary_china_fragment16">Per reconèixer els dispositius connectats</string>
+    <string name="interconnection_service_summary_china_fragment17">Accedir al contingut de la pantalla</string>
+    <string name="interconnection_service_summary_china_fragment18">Per accedir al contingut de la pantalla durant la gravació o l\'emissió, inclosa informació sensible com ara àudio, contrasenyes, contrasenyes de pagament, fotos, missatges, etc.</string>
+    <string name="interconnection_service_summary_china_fragment19">Entrega de l\'aplicació i pantalla d\'inici+:</string>
+    <string name="interconnection_service_summary_china_fragment2">Mi Smart Play i càsting:</string>
+    <string name="interconnection_service_summary_china_fragment20">Activa o desactiva el Bluetooth</string>
+    <string name="interconnection_service_summary_china_fragment21">Per descobrir dispositius propers als quals connectar-se mitjançant Bluetooth</string>
+    <string name="interconnection_service_summary_china_fragment22">Activa o desactiva la Wi-Fi</string>
+    <string name="interconnection_service_summary_china_fragment23">Per descobrir dispositius propers i transferir elements mitjançant Wi-Fi</string>
+    <string name="interconnection_service_summary_china_fragment24">Accedeix a l\'adreça MAC del dispositiu</string>
+    <string name="interconnection_service_summary_china_fragment25">Per reconèixer els dispositius connectats</string>
+    <string name="interconnection_service_summary_china_fragment26">Accediu a fotos, vídeos i àudio emmagatzemats al dispositiu</string>
+    <string name="interconnection_service_summary_china_fragment27">Per enviar i rebre contingut transferit</string>
+    <string name="interconnection_service_summary_china_fragment28">Transferir elements a altres dispositius</string>
+    <string name="interconnection_service_summary_china_fragment29">Per establir una connexió Bluetooth entre dispositius i transferir elements</string>
+    <string name="interconnection_service_summary_china_fragment3">Activa o desactiva el Bluetooth</string>
+    <string name="interconnection_service_summary_china_fragment30">Grava l\'àudio del dispositiu intern</string>
+    <string name="interconnection_service_summary_china_fragment31">Per transferir i reproduir àudio entre dispositius durant l\'emissió i la reproducció</string>
+    <string name="interconnection_service_summary_china_fragment32">Accedir al contingut de la pantalla</string>
+    <string name="interconnection_service_summary_china_fragment33">Per accedir al contingut de la pantalla durant la gravació o l\'emissió, inclosa informació sensible com ara àudio, contrasenyes, contrasenyes de pagament, fotos, missatges, etc.</string>
+    <string name="interconnection_service_summary_china_fragment34">Porta-retalls compartit:</string>
+    <string name="interconnection_service_summary_china_fragment35">Activa o desactiva el Bluetooth</string>
+    <string name="interconnection_service_summary_china_fragment36">Per descobrir dispositius propers als quals connectar-se mitjançant Bluetooth</string>
+    <string name="interconnection_service_summary_china_fragment37">Activa o desactiva la Wi-Fi</string>
+    <string name="interconnection_service_summary_china_fragment38">Per descobrir dispositius propers i transferir elements mitjançant Wi-Fi</string>
+    <string name="interconnection_service_summary_china_fragment39">Accediu a fotos, vídeos i àudio emmagatzemats al dispositiu</string>
+    <string name="interconnection_service_summary_china_fragment4">&gt;Per descobrir dispositius propers als quals connectar-se mitjançant Bluetooth</string>
+    <string name="interconnection_service_summary_china_fragment40">Per enviar i rebre contingut transferit</string>
+    <string name="interconnection_service_summary_china_fragment41">Accedir al porta-retalls</string>
+    <string name="interconnection_service_summary_china_fragment42">Per permetre que les aplicacions accedeixin al contingut copiat</string>
+    <string name="interconnection_service_summary_china_fragment43">Anclatge sense fil (inclosa la sincronització de xarxa), controls entre dispositius i càmera entre dispositius:</string>
+    <string name="interconnection_service_summary_china_fragment44">Activa o desactiva el Bluetooth</string>
+    <string name="interconnection_service_summary_china_fragment45">Per descobrir dispositius propers als quals connectar-se mitjançant Bluetooth</string>
+    <string name="interconnection_service_summary_china_fragment46">Activa o desactiva la Wi-Fi</string>
+    <string name="interconnection_service_summary_china_fragment47">Per descobrir dispositius propers i transferir elements mitjançant Wi-Fi</string>
+    <string name="interconnection_service_summary_china_fragment48">Accediu a fotos, vídeos i àudio emmagatzemats al dispositiu</string>
+    <string name="interconnection_service_summary_china_fragment49">Per enviar i rebre contingut transferit</string>
+    <string name="interconnection_service_summary_china_fragment5">Activa o desactiva la Wi-Fi</string>
+    <string name="interconnection_service_summary_china_fragment50">Càmera d\'accés</string>
+    <string name="interconnection_service_summary_china_fragment51">Per fer fotos i gravar vídeos</string>
+    <string name="interconnection_service_summary_china_fragment52">Mi Smart Hub:</string>
+    <string name="interconnection_service_summary_china_fragment53">Activa o desactiva el Bluetooth</string>
+    <string name="interconnection_service_summary_china_fragment54">Per descobrir dispositius propers als quals connectar-se mitjançant Bluetooth</string>
+    <string name="interconnection_service_summary_china_fragment55">Activa o desactiva la Wi-Fi</string>
+    <string name="interconnection_service_summary_china_fragment56">Per descobrir dispositius propers i transferir elements mitjançant Wi-Fi</string>
+    <string name="interconnection_service_summary_china_fragment57">Grava l\'àudio del dispositiu intern</string>
+    <string name="interconnection_service_summary_china_fragment58">Per transferir i reproduir àudio entre dispositius durant l\'emissió i la reproducció</string>
+    <string name="interconnection_service_summary_china_fragment59">Accediu a fotos, vídeos i àudio emmagatzemats al dispositiu</string>
+    <string name="interconnection_service_summary_china_fragment6">Per descobrir dispositius propers i transferir elements mitjançant Wi-Fi</string>
+    <string name="interconnection_service_summary_china_fragment60">Per enviar i rebre contingut transferit</string>
+    <string name="interconnection_service_summary_china_fragment61">"Si no accepteu concedir aquests permisos, no podreu utilitzar aquests serveis."</string>
+    <string name="interconnection_service_summary_china_fragment7">Transferir elements a altres dispositius</string>
+    <string name="interconnection_service_summary_china_fragment8">Per establir una connexió Bluetooth entre dispositius i transferir elements</string>
+    <string name="interconnection_service_summary_china_fragment9">Accediu a la informació d\'ubicació</string>
     <string name="interconnection_service_summary_global">"Les funcions d'interconnectivitat de Xiaomi poden variar segons el model del dispositiu i la versió del sistema. Visiteu el lloc web oficial del sistema per obtenir més informació."</string>
     <string name="interconnection_service_title">Serveis d\'interconnectivitat Xiaomi</string>
     <string name="item_contents_wwarning">"Si el dispositiu desapareix, no podreu evitar que altres persones l’utilitzin i no accedeixin a les vostres dades tret que establiu un bloqueig de pantalla. Ometre igualment?"</string>
