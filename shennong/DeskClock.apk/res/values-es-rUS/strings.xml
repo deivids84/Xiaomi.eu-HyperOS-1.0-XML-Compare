@@ -157,6 +157,7 @@
     <string name="friday_short">Vie</string>
     <string name="friday_shortest">Vie</string>
     <string name="go_back">Atrás</string>
+    <string name="hide_bottom_view_on_scroll_behavior">miuix.android.miracle.behavior.HideBottomViewOnScrollBehavior</string>
     <string name="holiday_update_fail">"No se pudo actualizar"</string>
     <string name="holiday_update_loading">Actualizando…</string>
     <string name="holiday_update_success">Todos los elementos están actualizados</string>
@@ -175,6 +176,7 @@
     <string name="label_input_hint">Introduzca la etiqueta</string>
     <string name="label_pref_summary">Etiqueta</string>
     <string name="lap">Vuelta</string>
+    <string name="lap_index">%02d</string>
     <string name="last_step">Anterior</string>
     <string name="legal_off_day">Día feriado</string>
     <string name="legal_off_day_message">" (la alarma no sonará durante días laborables)"</string>
@@ -213,6 +215,18 @@
     <string name="material_timepicker_select_time">Seleccionar hora</string>
     <string name="material_timepicker_text_input_mode_description">Cambiar al modo de entrada de texto para la hora de entrada.</string>
     <string name="midnight">Noche</string>
+    <string name="minute_spinner_fifteen">%d</string>
+    <string name="minute_spinner_fifty">%d</string>
+    <string name="minute_spinner_fifty_five">%d</string>
+    <string name="minute_spinner_five" formatted="false">%d%d</string>
+    <string name="minute_spinner_forty">%d</string>
+    <string name="minute_spinner_forty_five">%d</string>
+    <string name="minute_spinner_ten">%d</string>
+    <string name="minute_spinner_thirty">%d</string>
+    <string name="minute_spinner_thirty_five">%d</string>
+    <string name="minute_spinner_twenty">%d</string>
+    <string name="minute_spinner_twenty_five">%d</string>
+    <string name="minute_spinner_zero" formatted="false">%d%d</string>
     <string name="miuix_access_state_desc">Seleccionado</string>
     <string name="miuix_alphabet_indexer_name">Barra de índice</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Deseleccionar todo</string>
@@ -500,6 +514,10 @@
     <string name="time_picker_label_minute">min</string>
     <string name="time_picker_label_second">s</string>
     <string name="time_settings">Ajustes de reloj</string>
+    <string name="time_view" formatted="false">%02d:%02d.%02d</string>
+    <string name="time_view_with_hour" formatted="false">%02d:%02d:%02d.%02d</string>
+    <string name="time_view_with_hour_span" formatted="false">%02d:%02d:%02d%02d</string>
+    <string name="time_view_with_span" formatted="false">%02d:%02d%02d</string>
     <string name="timer_alert_mute_off">La alarma sonará cuando el temporizador se detenga</string>
     <string name="timer_alert_mute_on">"La alarma no sonará cuando el temporizador se detenga"</string>
     <string name="timer_alert_mute_switch">Interruptor para silenciar alarmas del temporizador</string>
@@ -514,6 +532,7 @@
     <string name="timer_desc_use_brush_teeth">Cepillarse los dientes</string>
     <string name="timer_desc_use_facial_mask">Mascarilla</string>
     <string name="timer_desc_use_sleep">Siesta</string>
+    <string name="timer_display" formatted="false">%02d:%02d:%02d</string>
     <string name="timer_end_time">El temporizador se detendrá a las %s</string>
     <string name="timer_end_time_format">HH:mm dd \'de\' MMM.</string>
     <string name="timer_end_time_format_today">HH:mm</string>
