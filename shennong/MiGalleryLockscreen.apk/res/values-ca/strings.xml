@@ -29,6 +29,7 @@
     <string name="abc_toolbar_collapse_description">Replega</string>
     <string name="about_download_fail">"No s'ha pogut baixar"</string>
     <string name="about_downloading">S\'està baixant %s</string>
+    <string name="about_gallery_icp">备案号：京ICP备10046444号-42A &gt;</string>
     <string name="about_item_function">Noves característiques</string>
     <string name="about_net_error">Comproveu la configuració de la xarxa i torneu-ho a provar.</string>
     <string name="about_newest">El Carrusel de fons de pantalla està actualitzat.</string>
@@ -268,6 +269,12 @@
     <string name="later">"No desactivar-ho"</string>
     <string name="launch_bg_permission_exception">Permeteu que el Carrusel de fons de pantalla mostri finestres emergents mentre s’executa en segon pla a Seguretat</string>
     <string name="left_lks_detail_entrance">Veure més</string>
+    <string name="left_lks_download_now">descarregar</string>
+    <string name="left_lks_reverse">Comanda prèvia</string>
+    <string name="left_lks_view">Veure</string>
+    <string name="left_xout_frequently">Es mostra amb massa freqüència</string>
+    <string name="left_xout_low_quality">L\'anunci és de baixa qualitat</string>
+    <string name="left_xout_title">"Expliqueu-nos per què no voleu veure aquest anunci"</string>
     <string name="like">Afegeix a preferits</string>
     <string name="liked">Afegit als preferits</string>
     <string name="lks_cta_dont_mention">"No ho tornis a mostrar"</string>
