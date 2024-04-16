@@ -202,7 +202,12 @@
     <string name="columbus_player_speed_title">Voleu ometre el vídeo?</string>
     <string name="columbus_player_speed_video">Omet el VÍDEO</string>
     <string name="columbus_player_unit_sec">seg</string>
+    <string name="columbus_reward_style_access">Aprèn més</string>
+    <string name="columbus_reward_style_close_cancel">Sortida</string>
+    <string name="columbus_reward_style_close_desc">Acabeu de veure el vídeo per obtenir una recompensa. Continuar mirant?</string>
+    <string name="columbus_reward_style_speed_confirm">Continua</string>
     <string name="columbus_skip_ad">Omet</string>
+    <string name="columbus_skip_ad_time">Omet (%d)</string>
     <string name="common_google_play_services_enable_button">Activa</string>
     <string name="common_google_play_services_enable_text">"%1$s no funcionarà si no actives Serveis de Google Play."</string>
     <string name="common_google_play_services_enable_title">Activa Serveis de Google Play</string>
@@ -899,6 +904,7 @@
     <string name="tt_count_down_view">Omet</string>
     <string name="tt_dislike_header_tv_back">esquena</string>
     <string name="tt_dislike_header_tv_title">Seleccioneu</string>
+    <string name="tt_display_error">Error de visualització</string>
     <string name="tt_error_access_method_pass">Mètode d\'accés il·legal</string>
     <string name="tt_error_ad_able_false_msg">Prohibeu els anuncis de sol·licitud per complir, si us plau, comproveu la configuració de COPPA/CCPA/GDPR</string>
     <string name="tt_error_ad_sec_false_msg">La comprovació de seguretat ha fallat</string>
@@ -989,6 +995,8 @@
     <string name="tt_splash_wriggle_text">Aneu a la pàgina de detalls o a l\'aplicació de tercers</string>
     <string name="tt_splash_wriggle_top_text">Gireu el telèfon</string>
     <string name="tt_splash_wriggle_top_text_style_17">Gireu el telèfon o toqueu la icona</string>
+    <string name="tt_suggestion_commit">Presentar</string>
+    <string name="tt_suggestion_description">Introduïu una descripció de l\'error de visualització i feu clic al botó Envia. El missatge publicitari també es tornarà a enviar a Pangle per ajudar a solucionar el problema.</string>
     <string name="tt_sys_error">Error del sistema</string>
     <string name="tt_template_load_fail">falla la càrrega de la plantilla principal!</string>
     <string name="tt_text_privacy_app_version">Versió：V</string>
