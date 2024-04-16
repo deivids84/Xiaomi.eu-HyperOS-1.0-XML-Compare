@@ -39,7 +39,7 @@
     <string name="account_crop_user_avatar">Crop photo</string>
     <string name="account_empty_user_name">Enter your Xiaomi Account username</string>
     <string name="account_error_all_space_user_name">"Name can't contain only space characters"</string>
-    <string name="account_error_invalid_user_name">"Name can't contain \"&lt;\", \"&gt;\", \"/\", or \"%\""</string>
+    <string name="account_error_invalid_user_name">"Name can't contain \"&lt;\", \">\", \"/\", or \"%\""</string>
     <string name="account_error_user_name">The name you entered is invalid</string>
     <string name="account_global_region">Overseas</string>
     <string name="account_invalid_user_avatar">This photo is invalid. Try a different one.</string>
@@ -193,7 +193,7 @@ You can sign in to your Xiaomi Account using %s now."</string>
     <string name="cloud_service_status_cloud_not_open">Off</string>
     <string name="cloud_service_status_storage_full">Storage is full</string>
     <string name="cloud_service_status_storage_not_enough">Not enough space</string>
-    <string name="com_facebook_device_auth_instructions">Visit &lt;b&gt;facebook.com/device&lt;/b&gt; and enter the code shown above.</string>
+    <string name="com_facebook_device_auth_instructions">Visit &lt;b>facebook.com/device&lt;/b> and enter the code shown above.</string>
     <string name="com_facebook_image_download_unknown_error">Unexpected error while downloading an image.</string>
     <string name="com_facebook_internet_permission_error_message">WebView login requires INTERNET permission</string>
     <string name="com_facebook_internet_permission_error_title">AndroidManifest Error</string>
@@ -245,9 +245,9 @@ You can sign in to your Xiaomi Account using %s now."</string>
     <string name="copy_link">Copy URL</string>
     <string name="copy_to_clipboard_successful">Copied successfully</string>
     <string name="current_account_can_use_pwd_login">Enter your password to sign in</string>
-    <string name="date_picker_label_day"></string>
-    <string name="date_picker_label_month"></string>
-    <string name="date_picker_label_year"></string>
+    <string name="date_picker_label_day" />
+    <string name="date_picker_label_month" />
+    <string name="date_picker_label_year" />
     <string name="date_picker_lunar">Chinese Traditional Calendar</string>
     <string name="date_time_picker_dialog_title">Set date and time</string>
     <string name="default_error_message">Invalid input</string>
@@ -279,7 +279,7 @@ You can sign in to your Xiaomi Account using %s now."</string>
     <string name="earthly_branches_yin">寅</string>
     <string name="earthly_branches_you">酉</string>
     <string name="earthly_branches_zi">子</string>
-    <string name="empty"></string>
+    <string name="empty" />
     <string name="empty_device_list">Nothing here yet</string>
     <string name="enable">Settings</string>
     <string name="ep_unsupported">"Can't sign in to Xiaomi Account on your device"</string>
@@ -310,11 +310,11 @@ You can sign in to your Xiaomi Account using %s now."</string>
     <string name="fido2_err_service_exception">A server error occurred. Wait a minute or two and try again.</string>
     <string name="fido2_err_timeout">The request timed out. Wait a minute or two and try again.</string>
     <string name="fido2_fingerprint_auth">Fingerprint verification</string>
-    <string name="fido2_fingerprint_auth_desc"><Data>Use your fingerprint to sign in to your Xiaomi Account and verify your identity &lt;a href=&gt;Learn more&lt;/a&gt;</Data></string>
+    <string name="fido2_fingerprint_auth_desc"><Data>Use your fingerprint to sign in to your Xiaomi Account and verify your identity &lt;a href=>Learn more&lt;/a></Data></string>
     <string name="fido2_fingerprint_changed_and_afresh_register">Your device fingerprint has changed. Verify your account again to be able to turn on fingerprint verification.</string>
     <string name="fido2_fingerprint_verify">Fingerprint verification</string>
     <string name="fido2_psw_changed_and_afresh_register">Your password has changed. Verify your fingerprint again.</string>
-    <string name="fido2_setting_ps_notify">"You'll need to set an account password to be able to use fingerprint verification. You can do this in Settings &gt; Xiaomi Account &gt; Account security &gt; Password."</string>
+    <string name="fido2_setting_ps_notify">"You'll need to set an account password to be able to use fingerprint verification. You can do this in Settings > Xiaomi Account > Account security > Password."</string>
     <string name="fido2_verify_fingerprint">Verify fingerprint</string>
     <string name="find_device">Find device</string>
     <string name="find_device_access_denied">"Can't get status, access denied"</string>
@@ -567,7 +567,7 @@ You can sign in to your Xiaomi Account using %s now."</string>
     <string name="notify_verify_again_security_phone">Confirm</string>
     <string name="notify_verify_security_phone">Phone</string>
     <string name="oauth_getting_scopes">Verifying account…</string>
-    <string name="oauth_scopes_intro">" &lt;font color=#%1$s&gt;%2$s&lt;/font&gt; will get following permissions:&lt;br&gt; &lt;br&gt; %3$s "</string>
+    <string name="oauth_scopes_intro">" &lt;font color=#%1$s>%2$s&lt;/font> will get following permissions:&lt;br> &lt;br> %3$s "</string>
     <string name="oauth_title">Sign in with Xiaomi Account</string>
     <string name="off">Off</string>
     <string name="ok">OK</string>
@@ -586,7 +586,7 @@ You can sign in to your Xiaomi Account using %s now."</string>
     <string name="passport_account_crop_user_avatar">Crop photo</string>
     <string name="passport_account_empty_user_name">Enter your name</string>
     <string name="passport_account_error_all_space_user_name">"Name can't contain only space characters"</string>
-    <string name="passport_account_error_invalid_user_name">"Name can't contain &lt;, &gt;, or /"</string>
+    <string name="passport_account_error_invalid_user_name">"Name can't contain &lt;, >, or /"</string>
     <string name="passport_account_error_longer_user_name">"Name can't be longer than %d characters"</string>
     <string name="passport_account_error_shorter_user_name">Name must be longer than %d characters</string>
     <string name="passport_account_error_user_name">This nickname is invalid. Try a different one.</string>
@@ -635,7 +635,7 @@ You can sign in to your Xiaomi Account using %s now."</string>
     <string name="passport_click_email_to_valid">"To activate your account, follow the link we've sent to your inbox."</string>
     <string name="passport_confirm_login">Sign in</string>
     <string name="passport_confirm_recycle_account">Yes</string>
-    <string name="passport_confirm_recycle_account_msg">"&lt;font color=Red&gt;Looks like&lt;/font&gt; the number %s has been recycled by your carrier, and there's a Xiaomi Account associated with it. Is this account yours?"</string>
+    <string name="passport_confirm_recycle_account_msg">"&lt;font color=Red>Looks like&lt;/font> the number %s has been recycled by your carrier, and there's a Xiaomi Account associated with it. Is this account yours?"</string>
     <string name="passport_copy_link">Copy URL</string>
     <string name="passport_copy_message_text_success">Copied successfully</string>
     <string name="passport_copy_message_vcode">Copy code</string>
@@ -699,7 +699,7 @@ You can sign in to your Xiaomi Account using %s now."</string>
     <string name="passport_get_back_pwd">Retrieve account password</string>
     <string name="passport_get_innetdate_agree">Check</string>
     <string name="passport_get_innetdate_disagree">No</string>
-    <string name="passport_get_innetdate_msg">&lt;font color=Red&gt;Looks like&lt;/font&gt; the number %s has been recycled by your carrier. Check when the number went online?</string>
+    <string name="passport_get_innetdate_msg">&lt;font color=Red>Looks like&lt;/font> the number %s has been recycled by your carrier. Check when the number went online?</string>
     <string name="passport_get_innetdate_title">Check when the number went online</string>
     <string name="passport_get_login_type_next">Next</string>
     <string name="passport_get_verify_code">Get code</string>
@@ -762,7 +762,7 @@ You can sign in to your Xiaomi Account using %s now."</string>
     <string name="passport_privacy_policy_required">Privacy Policy (mandatory)</string>
     <string name="passport_provision_input_email_register_prompt">Your personal data will be stored in accordance with the laws and regulations of the region you select.</string>
     <string name="passport_provision_password_req_notice"><xliff id="min_pwd_len" refersto="8">%1$d</xliff>-<xliff id="max_pwd_len" refersto="16">%2$d</xliff> characters of at least <xliff id="min_pwd_type" refersto="2">%3$d</xliff> of the following types: letters, digits, special symbols</string>
-    <string name="passport_qq_application_id"></string>
+    <string name="passport_qq_application_id" />
     <string name="passport_qq_login_btn_content_description">Sign in with QQ</string>
     <string name="passport_qq_login_protocol_scheme">com.xiaomi.passport.ui</string>
     <string name="passport_querying_phone_info">Requesting account info…</string>
@@ -793,12 +793,12 @@ You can sign in to your Xiaomi Account using %s now."</string>
     <string name="passport_remove_confirm">Sign out</string>
     <string name="passport_remove_unactivated_account_notice">"Your account hasn't been activated."</string>
     <string name="passport_request_agree">Allow</string>
-    <string name="passport_request_camera_permission_message">"We shall protect your personal information in accordance with the relevant laws and regulations. This app needs the following permissions to work normally:&lt;br&gt;&lt;br&gt;&lt;b&gt;Using camera (for setting your profile photo)&lt;/b&gt;&lt;br&gt;&lt;br&gt;If you don't agree to grant such permissions, you won't be able to use some features of this app; however, its basic functionality will still be available to you. You can always restrict permissions or revoke your authorization in the Settings."</string>
+    <string name="passport_request_camera_permission_message">"We shall protect your personal information in accordance with the relevant laws and regulations. This app needs the following permissions to work normally:&lt;br>&lt;br>&lt;b>Using camera (for setting your profile photo)&lt;/b>&lt;br>&lt;br>If you don't agree to grant such permissions, you won't be able to use some features of this app; however, its basic functionality will still be available to you. You can always restrict permissions or revoke your authorization in the Settings."</string>
     <string name="passport_request_cancel">Cancel</string>
     <string name="passport_request_error_invalid_token">"Couldn't verify"</string>
     <string name="passport_request_error_network">A network error occurred. Check your network settings and try again.</string>
     <string name="passport_request_error_unknown">A system error occurred. Go back and try again.</string>
-    <string name="passport_request_gallery_permission_message">Allow access to Gallery:&lt;br /&gt;For setting profile photos</string>
+    <string name="passport_request_gallery_permission_message">Allow access to Gallery:&lt;br />For setting profile photos</string>
     <string name="passport_resend_active_email">Resend email</string>
     <string name="passport_resend_ticket">Resend code</string>
     <string name="passport_reset_fail_title">"Couldn't reset"</string>
@@ -820,6 +820,41 @@ You can sign in to your Xiaomi Account using %s now."</string>
     <string name="passport_skip_setup_account_title">Xiaomi Account and Xiaomi Cloud</string>
     <string name="passport_sms_send_success">Sent</string>
     <string name="passport_sns_bind_limit">Too many attempts. Try other ways to sign in.</string>
+    <string name="passport_stat_tip_any_page_click_need_help">29.1.0.1.33539</string>
+    <string name="passport_stat_tip_confirm_credential_page_browse">29.138.0.1.33633</string>
+    <string name="passport_stat_tip_confirm_credential_page_click_cancel">29.138.0.1.33631</string>
+    <string name="passport_stat_tip_confirm_credential_page_click_ensure">29.138.0.1.33630</string>
+    <string name="passport_stat_tip_confirm_credential_page_click_forget_password">29.138.0.1.33632</string>
+    <string name="passport_stat_tip_double_sim_login_page_browse">29.137.0.1.33544</string>
+    <string name="passport_stat_tip_double_sim_login_page_click_login_other">29.137.0.1.33546</string>
+    <string name="passport_stat_tip_double_sim_login_page_click_sim_login">29.137.0.1.33545</string>
+    <string name="passport_stat_tip_get_phone_number_network_request">593.0.0.0.34257</string>
+    <string name="passport_stat_tip_input_login_ticket_page_browse">29.133.0.1.33524</string>
+    <string name="passport_stat_tip_input_login_ticket_page_click_un_receive_ticket">29.133.0.1.33526</string>
+    <string name="passport_stat_tip_login_page_login_request_result">29.0.0.0.33538</string>
+    <string name="passport_stat_tip_password_login_page_browse">29.134.0.1.33527</string>
+    <string name="passport_stat_tip_password_login_page_click_forget_password">29.134.0.1.33529</string>
+    <string name="passport_stat_tip_password_login_page_click_login">29.134.0.1.33528</string>
+    <string name="passport_stat_tip_password_login_page_click_phone_ticket_login">29.134.0.1.33628</string>
+    <string name="passport_stat_tip_password_login_page_click_register">29.134.0.1.33629</string>
+    <string name="passport_stat_tip_phone_ticket_login_page_browse">29.132.0.1.33521</string>
+    <string name="passport_stat_tip_phone_ticket_login_page_click_next_step">29.132.0.1.33520</string>
+    <string name="passport_stat_tip_phone_ticket_login_page_click_password_login">29.132.0.1.33522</string>
+    <string name="passport_stat_tip_single_sim_login_page_browse">29.136.0.1.33540</string>
+    <string name="passport_stat_tip_single_sim_login_page_click_login_now">29.136.0.1.33541</string>
+    <string name="passport_stat_tip_single_sim_login_page_click_login_other">29.136.0.1.33542</string>
+    <string name="passport_stat_tip_sns_login_page_click_facebook_login">29.1.0.1.33627</string>
+    <string name="passport_stat_tip_sns_login_page_click_google_login">29.1.0.1.33626</string>
+    <string name="passport_stat_tip_sns_login_page_click_qq_login">29.1.0.1.33623</string>
+    <string name="passport_stat_tip_sns_login_page_click_weibo_login">29.1.0.1.33624</string>
+    <string name="passport_stat_tip_sns_login_page_click_weixin_login">29.1.0.1.33622</string>
+    <string name="passport_stat_tip_user_info_page_browse">29.135.0.1.33531</string>
+    <string name="passport_stat_tip_user_info_page_click_avatar">29.135.0.1.33532</string>
+    <string name="passport_stat_tip_user_info_page_click_change_password">29.135.0.1.33536</string>
+    <string name="passport_stat_tip_user_info_page_click_login_out">29.135.0.1.33537</string>
+    <string name="passport_stat_tip_user_info_page_click_nickname">29.135.0.1.33533</string>
+    <string name="passport_stat_tip_user_info_page_click_safe_email">29.135.0.1.33535</string>
+    <string name="passport_stat_tip_user_info_page_click_safe_phone">29.135.0.1.33534</string>
     <string name="passport_system_error">System is busy. Wait a minute or two and try again.</string>
     <string name="passport_talkback_image_captcha">Image verification code</string>
     <string name="passport_talkback_switch_image_captcha">Switch to image verification code</string>
@@ -847,16 +882,16 @@ You can sign in to your Xiaomi Account using %s now."</string>
     <string name="passport_uplink_suggest_dialog_msg">"Couldn't receive code. Use a paid uplink SMS instead?"</string>
     <string name="passport_uplink_suggest_dialog_title">Attention</string>
     <string name="passport_user_agreement">User Agreement</string>
-    <string name="passport_user_agreement_hint_3rd_app"><Data>"I've read and agreed to &lt;a href=%1$s&gt;User Agreement&lt;/a&gt; and &lt;a href=%2$s&gt;Privacy Policy&lt;/a&gt; and Xiaomi Account's &lt;a href=%3$s&gt;User Agreement&lt;/a&gt; and &lt;a href=%4$s&gt;Privacy Policy&lt;/a&gt;."</Data></string>
-    <string name="passport_user_agreement_hint_3rd_app_mobile"><Data>"I've read and agreed to &lt;a href=%1$s&gt;User Agreement&lt;/a&gt; and &lt;a href=%2$s&gt;Privacy Policy&lt;/a&gt;, Xiaomi Account's &lt;a href=%3$s&gt;User Agreement&lt;/a&gt; and &lt;a href=%4$s&gt;Privacy Policy&lt;/a&gt;, as well as &lt;a href=%5$s&gt;Terms and conditions of China Mobile verification services&lt;/a&gt;."</Data></string>
-    <string name="passport_user_agreement_hint_3rd_app_with_telecom"><Data>"I've read and agreed to &lt;a href=%1$s&gt;User Agreement&lt;/a&gt; and &lt;a href=%2$s&gt;Privacy Policy&lt;/a&gt;, Xiaomi Account's &lt;a href=%3$s&gt;User Agreement&lt;/a&gt; and &lt;a href=%4$s&gt;Privacy Policy&lt;/a&gt;, as well as &lt;a href=%5$s&gt;Terms and conditions of eSurfing account verification services&lt;/a&gt;."</Data></string>
-    <string name="passport_user_agreement_hint_3rd_app_with_unicom"><Data>"I've read and agreed to &lt;a href=%1$s&gt;User Agreement&lt;/a&gt; and &lt;a href=%2$s&gt;Privacy Policy&lt;/a&gt;, Xiaomi Account's &lt;a href=%3$s&gt;User Agreement&lt;/a&gt; and &lt;a href=%4$s&gt;Privacy Policy&lt;/a&gt;, as well as &lt;a href=%5$s&gt;Terms and conditions of China Unicom verification services&lt;/a&gt;."</Data></string>
-    <string name="passport_user_agreement_hint_default"><Data>"I've read and agreed to Xiaomi Account's &lt;a href=%1$s&gt;User Agreement&lt;/a&gt; and &lt;a href=%2$s&gt;Privacy Policy&lt;/a&gt;."</Data></string>
+    <string name="passport_user_agreement_hint_3rd_app"><Data>"I've read and agreed to &lt;a href=%1$s>User Agreement&lt;/a> and &lt;a href=%2$s>Privacy Policy&lt;/a> and Xiaomi Account's &lt;a href=%3$s>User Agreement&lt;/a> and &lt;a href=%4$s>Privacy Policy&lt;/a>."</Data></string>
+    <string name="passport_user_agreement_hint_3rd_app_mobile"><Data>"I've read and agreed to &lt;a href=%1$s>User Agreement&lt;/a> and &lt;a href=%2$s>Privacy Policy&lt;/a>, Xiaomi Account's &lt;a href=%3$s>User Agreement&lt;/a> and &lt;a href=%4$s>Privacy Policy&lt;/a>, as well as &lt;a href=%5$s>Terms and conditions of China Mobile verification services&lt;/a>."</Data></string>
+    <string name="passport_user_agreement_hint_3rd_app_with_telecom"><Data>"I've read and agreed to &lt;a href=%1$s>User Agreement&lt;/a> and &lt;a href=%2$s>Privacy Policy&lt;/a>, Xiaomi Account's &lt;a href=%3$s>User Agreement&lt;/a> and &lt;a href=%4$s>Privacy Policy&lt;/a>, as well as &lt;a href=%5$s>Terms and conditions of eSurfing account verification services&lt;/a>."</Data></string>
+    <string name="passport_user_agreement_hint_3rd_app_with_unicom"><Data>"I've read and agreed to &lt;a href=%1$s>User Agreement&lt;/a> and &lt;a href=%2$s>Privacy Policy&lt;/a>, Xiaomi Account's &lt;a href=%3$s>User Agreement&lt;/a> and &lt;a href=%4$s>Privacy Policy&lt;/a>, as well as &lt;a href=%5$s>Terms and conditions of China Unicom verification services&lt;/a>."</Data></string>
+    <string name="passport_user_agreement_hint_default"><Data>"I've read and agreed to Xiaomi Account's &lt;a href=%1$s>User Agreement&lt;/a> and &lt;a href=%2$s>Privacy Policy&lt;/a>."</Data></string>
     <string name="passport_user_agreement_hint_first_login">"We'll create an account automatically if you're using your phone number for the first time."</string>
-    <string name="passport_user_agreement_hint_with_mobile"><Data>"I've read and agreed to Xiaomi Account's &lt;a href=%1$s&gt;User Agreement&lt;/a&gt; and &lt;a href=%2$s&gt;Privacy Policy&lt;/a&gt;, as well as &lt;a href=%3$s&gt;Terms and conditions of China Mobile verification services&lt;/a&gt;."</Data></string>
-    <string name="passport_user_agreement_hint_with_telecom"><Data>"I've read and agreed to Xiaomi Account's &lt;a href=%1$s&gt;User Agreement&lt;/a&gt; and &lt;a href=%2$s&gt;Privacy Policy&lt;/a&gt;, as well as &lt;a href=%3$s&gt;Terms and conditions of eSurfing account verification services&lt;/a&gt;."</Data></string>
-    <string name="passport_user_agreement_hint_with_unicom"><Data>"I've read and agreed to Xiaomi Account's &lt;a href=%1$s&gt;User Agreement&lt;/a&gt; and &lt;a href=%2$s&gt;Privacy Policy&lt;/a&gt;, as well as &lt;a href=%3$s&gt;Terms and conditions of China Unicom verification services&lt;/a&gt;."</Data></string>
-    <string name="passport_user_agreement_link"><Data>"I've read and agreed to Xiaomi's &lt;a href=%1$s&gt;User Agreement&lt;/a&gt; and &lt;a href=%2$s&gt;Privacy Policy&lt;/a&gt;."</Data></string>
+    <string name="passport_user_agreement_hint_with_mobile"><Data>"I've read and agreed to Xiaomi Account's &lt;a href=%1$s>User Agreement&lt;/a> and &lt;a href=%2$s>Privacy Policy&lt;/a>, as well as &lt;a href=%3$s>Terms and conditions of China Mobile verification services&lt;/a>."</Data></string>
+    <string name="passport_user_agreement_hint_with_telecom"><Data>"I've read and agreed to Xiaomi Account's &lt;a href=%1$s>User Agreement&lt;/a> and &lt;a href=%2$s>Privacy Policy&lt;/a>, as well as &lt;a href=%3$s>Terms and conditions of eSurfing account verification services&lt;/a>."</Data></string>
+    <string name="passport_user_agreement_hint_with_unicom"><Data>"I've read and agreed to Xiaomi Account's &lt;a href=%1$s>User Agreement&lt;/a> and &lt;a href=%2$s>Privacy Policy&lt;/a>, as well as &lt;a href=%3$s>Terms and conditions of China Unicom verification services&lt;/a>."</Data></string>
+    <string name="passport_user_agreement_link"><Data>"I've read and agreed to Xiaomi's &lt;a href=%1$s>User Agreement&lt;/a> and &lt;a href=%2$s>Privacy Policy&lt;/a>."</Data></string>
     <string name="passport_user_agreement_required">User Agreement (mandatory)</string>
     <string name="passport_user_avatar_update_title">Change profile photo</string>
     <string name="passport_user_avatar_uploading">Just a sec…</string>
@@ -864,20 +899,20 @@ You can sign in to your Xiaomi Account using %s now."</string>
     <string name="passport_user_name_phone_number">Phone number</string>
     <string name="passport_user_password_hint">Password</string>
     <string name="passport_user_reg_region">Country/Region</string>
-    <string name="passport_vcode_email_send_prompt"><Data>Your verification code was sent to &lt;a href=&gt;&lt;xliff:g id=email_address&gt;%s&lt;/xliff:g&gt;&lt;/a&gt;</Data></string>
+    <string name="passport_vcode_email_send_prompt"><Data>Your verification code was sent to &lt;a href=>&lt;xliff:g id=email_address>%s&lt;/xliff:g>&lt;/a></Data></string>
     <string name="passport_vcode_notification_title">Your sign-in verification is incomplete</string>
     <string name="passport_vcode_prompt_long">Enter verification code</string>
     <string name="passport_vcode_sms_send_prompt">Send verification code to %s</string>
-    <string name="passport_vcode_what_app_send_prompt">Your WhatsApp verification code will be delivered to your recovery phone &lt;font color=#1F93FF&gt;%s&lt;/font&gt;</string>
+    <string name="passport_vcode_what_app_send_prompt">Your WhatsApp verification code will be delivered to your recovery phone &lt;font color=#1F93FF>%s&lt;/font></string>
     <string name="passport_verification_failed">"Couldn't verify account"</string>
     <string name="passport_verify">Verify</string>
     <string name="passport_wechat_application_id">wxbf03a31f4135dd16</string>
     <string name="passport_wechat_not_install">Install WeChat first</string>
     <string name="passport_wechat_scope">snsapi_userinfo</string>
     <string name="passport_wechat_state">passport_weixin_sns_auth_state</string>
-    <string name="passport_weibo_application_id"></string>
+    <string name="passport_weibo_application_id" />
     <string name="passport_weibo_login_btn_content_description">Sign in with Weibo</string>
-    <string name="passport_weibo_redirect_uri"></string>
+    <string name="passport_weibo_redirect_uri" />
     <string name="passport_weixin_login_btn_content_description">Sign in with WeChat</string>
     <string name="passport_wrong_captcha">The code you entered is incorrect</string>
     <string name="passport_wrong_phone_number_format">The format of the phone number you entered is invalid</string>
@@ -897,9 +932,9 @@ You can sign in to your Xiaomi Account using %s now."</string>
     <string name="photoPickerNotFoundText">No photos available.</string>
     <string name="pm">PM</string>
     <string name="preference_copied">\"%1$s\" copied to clipboard.</string>
-    <string name="privacy_policy_reject_confirm_msg">"You won't be able to keep using Xiaomi Account unless you agree to the new version of its Privacy Policy. Agree to the updated Xiaomi Account &lt;a href=%1$s&gt;Privacy Policy&lt;/a&gt; now?"</string>
+    <string name="privacy_policy_reject_confirm_msg">"You won't be able to keep using Xiaomi Account unless you agree to the new version of its Privacy Policy. Agree to the updated Xiaomi Account &lt;a href=%1$s>Privacy Policy&lt;/a> now?"</string>
     <string name="privacy_policy_reject_confirm_title">"Can't use Xiaomi Account"</string>
-    <string name="privacy_policy_update_msg">Xiaomi Account Privacy Policy was updated:&lt;br/&gt;%1$s&lt;br/&gt;Read and agree to the new version of &lt;a href=%2$s&gt;&lt;u&gt;Privacy Policy&lt;/u&gt;&lt;/a&gt; before you continue.</string>
+    <string name="privacy_policy_update_msg">Xiaomi Account Privacy Policy was updated:&lt;br/>%1$s&lt;br/>Read and agree to the new version of &lt;a href=%2$s>&lt;u>Privacy Policy&lt;/u>&lt;/a> before you continue.</string>
     <string name="privacy_policy_update_title">Updated Privacy Policy</string>
     <string name="project_id">micloud-43705</string>
     <string name="provision_back">Back</string>
@@ -910,9 +945,9 @@ You can sign in to your Xiaomi Account using %s now."</string>
     <string name="push_notify_dialog_message">"An unknown device is used to sign in to your Xiaomi Account. Enter this verification code on the device. If that wasn't you, change your Xiaomi Account password right away. Don't disclose the verification code to other people."</string>
     <string name="push_notify_dialog_title">Account verification</string>
     <string name="pwd_width_phone_number_or_mail_num">"Password can't contain your phone number, email, or Xiaomi Account ID"</string>
-    <string name="qrcode_login_entry_text"><Data>Signed in on a different device? Use &lt;a href=&gt;quick sign-in&lt;/a&gt;</Data></string>
-    <string name="qrcode_login_load_refresh"><Data>This QR code expired. Tap to &lt;a href=&gt;refresh&lt;/a&gt;.</Data></string>
-    <string name="qrcode_login_load_retry"><Data>"Couldn't load. &lt;a href=&gt;Try again&lt;/a&gt;."</Data></string>
+    <string name="qrcode_login_entry_text"><Data>Signed in on a different device? Use &lt;a href=>quick sign-in&lt;/a></Data></string>
+    <string name="qrcode_login_load_refresh"><Data>This QR code expired. Tap to &lt;a href=>refresh&lt;/a>.</Data></string>
+    <string name="qrcode_login_load_retry"><Data>"Couldn't load. &lt;a href=>Try again&lt;/a>."</Data></string>
     <string name="qrcode_login_message">Scan with Mi AI Scanner or another Xiaomi app to sign in to your Xiaomi Account</string>
     <string name="qrcode_login_title">Scan to sign in</string>
     <string name="range_end">Range end</string>
@@ -1085,23 +1120,23 @@ You can sign in to your Xiaomi Account using %s now."</string>
     <string name="user_agreement_wlan_permission_title_china">Turn Wi-Fi on and off</string>
     <string name="user_avatar_update_title">Change profile photo</string>
     <string name="user_avatar_uploading">Just a sec…</string>
-    <string name="user_license_with_3rd_app"><Data>"By signing in with my Xiaomi Account, I confirm I've read and agreed to &lt;a href=%1$s&gt;User Agreement&lt;/a&gt; and &lt;a href=%2$s&gt;Privacy Policy&lt;/a&gt; and Xiaomi Account's &lt;a href=%3$s&gt;User Agreement&lt;/a&gt; and &lt;a href=%4$s&gt;Privacy Policy&lt;/a&gt;."</Data></string>
-    <string name="user_license_with_3rd_app_mobile"><Data>"I've read and agreed to this app's &lt;a href=%1$s&gt;User Agreement&lt;/a&gt; and &lt;a href=%2$s&gt;Privacy Policy&lt;/a&gt;, the Xiaomi Account &lt;a href=%3$s&gt;User Agreement&lt;/a&gt; and &lt;a href=%4$s&gt;Privacy Policy&lt;/a&gt;, and the &lt;a href=%5$s&gt;China Mobile Authentication Terms of Service&lt;/a&gt;.
+    <string name="user_license_with_3rd_app"><Data>"By signing in with my Xiaomi Account, I confirm I've read and agreed to &lt;a href=%1$s>User Agreement&lt;/a> and &lt;a href=%2$s>Privacy Policy&lt;/a> and Xiaomi Account's &lt;a href=%3$s>User Agreement&lt;/a> and &lt;a href=%4$s>Privacy Policy&lt;/a>."</Data></string>
+    <string name="user_license_with_3rd_app_mobile"><Data>"I've read and agreed to this app's &lt;a href=%1$s>User Agreement&lt;/a> and &lt;a href=%2$s>Privacy Policy&lt;/a>, the Xiaomi Account &lt;a href=%3$s>User Agreement&lt;/a> and &lt;a href=%4$s>Privacy Policy&lt;/a>, and the &lt;a href=%5$s>China Mobile Authentication Terms of Service&lt;/a>.
 "</Data></string>
-    <string name="user_license_with_3rd_app_no_operator"><Data>"I've read and agreed to this app's &lt;a href=%1$s&gt;User Agreement&lt;/a&gt; and &lt;a href=%2$s&gt;Privacy Policy&lt;/a&gt; and the Xiaomi Account &lt;a href=%3$s&gt;User Agreement&lt;/a&gt; and &lt;a href=%4$s&gt;Privacy Policy&lt;/a&gt;.
+    <string name="user_license_with_3rd_app_no_operator"><Data>"I've read and agreed to this app's &lt;a href=%1$s>User Agreement&lt;/a> and &lt;a href=%2$s>Privacy Policy&lt;/a> and the Xiaomi Account &lt;a href=%3$s>User Agreement&lt;/a> and &lt;a href=%4$s>Privacy Policy&lt;/a>.
 "</Data></string>
-    <string name="user_license_with_3rd_app_telcom"><Data>"I've read and agreed to this app's &lt;a href=%1$s&gt;User Agreement&lt;/a&gt; and &lt;a href=%2$s&gt;Privacy Policy&lt;/a&gt;, the Xiaomi Account &lt;a href=%3$s&gt;User Agreement&lt;/a&gt; and &lt;a href=%4$s&gt;Privacy Policy&lt;/a&gt;, and the &lt;a href=%5$s&gt;China Telecom Authentication Terms of Service&lt;/a&gt;.
+    <string name="user_license_with_3rd_app_telcom"><Data>"I've read and agreed to this app's &lt;a href=%1$s>User Agreement&lt;/a> and &lt;a href=%2$s>Privacy Policy&lt;/a>, the Xiaomi Account &lt;a href=%3$s>User Agreement&lt;/a> and &lt;a href=%4$s>Privacy Policy&lt;/a>, and the &lt;a href=%5$s>China Telecom Authentication Terms of Service&lt;/a>.
 "</Data></string>
-    <string name="user_license_with_3rd_app_unicom"><Data>"I've read and agreed to this app's &lt;a href=%1$s&gt;User Agreement&lt;/a&gt; and &lt;a href=%2$s&gt;Privacy Policy&lt;/a&gt;, the Xiaomi Account &lt;a href=%3$s&gt;User Agreement&lt;/a&gt; and &lt;a href=%4$s&gt;Privacy Policy&lt;/a&gt;, and the &lt;a href=%5$s&gt;China Unicom Authentication Terms of Service&lt;/a&gt;.
+    <string name="user_license_with_3rd_app_unicom"><Data>"I've read and agreed to this app's &lt;a href=%1$s>User Agreement&lt;/a> and &lt;a href=%2$s>Privacy Policy&lt;/a>, the Xiaomi Account &lt;a href=%3$s>User Agreement&lt;/a> and &lt;a href=%4$s>Privacy Policy&lt;/a>, and the &lt;a href=%5$s>China Unicom Authentication Terms of Service&lt;/a>.
 "</Data></string>
-    <string name="user_license_with_out_3rd_app_no_operator"><Data>"I've read and agreed to the Xiaomi Account &lt;a href=%1$s&gt;User Agreement&lt;/a&gt; and &lt;a href=%2$s&gt;Privacy Policy&lt;/a&gt;.
+    <string name="user_license_with_out_3rd_app_no_operator"><Data>"I've read and agreed to the Xiaomi Account &lt;a href=%1$s>User Agreement&lt;/a> and &lt;a href=%2$s>Privacy Policy&lt;/a>.
 "</Data></string>
-    <string name="user_license_without_3rd_app"><Data>"I've read and agreed to Xiaomi Account's &lt;a href=%1$s&gt;User Agreement&lt;/a&gt; and &lt;a href=%2$s&gt;Privacy Policy&lt;/a&gt;."</Data></string>
-    <string name="user_license_without_3rd_mobile"><Data>"I've read and agreed to the Xiaomi Account &lt;a href=%1$s&gt;User Agreement&lt;/a&gt; and &lt;a href=%2$s&gt;Privacy Policy&lt;/a&gt; and the &lt;a href=%3$s&gt;China Mobile Authentication Terms of Service&lt;/a&gt;.
+    <string name="user_license_without_3rd_app"><Data>"I've read and agreed to Xiaomi Account's &lt;a href=%1$s>User Agreement&lt;/a> and &lt;a href=%2$s>Privacy Policy&lt;/a>."</Data></string>
+    <string name="user_license_without_3rd_mobile"><Data>"I've read and agreed to the Xiaomi Account &lt;a href=%1$s>User Agreement&lt;/a> and &lt;a href=%2$s>Privacy Policy&lt;/a> and the &lt;a href=%3$s>China Mobile Authentication Terms of Service&lt;/a>.
 "</Data></string>
-    <string name="user_license_without_3rd_telcom"><Data>"I've read and agreed to the Xiaomi Account &lt;a href=%1$s&gt;User Agreement&lt;/a&gt; and &lt;a href=%2$s&gt;Privacy Policy&lt;/a&gt; and the &lt;a href=%3$s&gt;China Telecom Authentication Terms of Service&lt;/a&gt;.
+    <string name="user_license_without_3rd_telcom"><Data>"I've read and agreed to the Xiaomi Account &lt;a href=%1$s>User Agreement&lt;/a> and &lt;a href=%2$s>Privacy Policy&lt;/a> and the &lt;a href=%3$s>China Telecom Authentication Terms of Service&lt;/a>.
 "</Data></string>
-    <string name="user_license_without_3rd_unicom"><Data>"I've read and agreed to the Xiaomi Account &lt;a href=%1$s&gt;User Agreement&lt;/a&gt; and &lt;a href=%2$s&gt;Privacy Policy&lt;/a&gt; and the &lt;a href=%3$s&gt;China Unicom Authentication Terms of Service&lt;/a&gt;.
+    <string name="user_license_without_3rd_unicom"><Data>"I've read and agreed to the Xiaomi Account &lt;a href=%1$s>User Agreement&lt;/a> and &lt;a href=%2$s>Privacy Policy&lt;/a> and the &lt;a href=%3$s>China Unicom Authentication Terms of Service&lt;/a>.
 "</Data></string>
     <string name="v7_preference_off">OFF</string>
     <string name="v7_preference_on">ON</string>
