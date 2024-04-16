@@ -29,7 +29,6 @@
     <string name="abc_toolbar_collapse_description">Contraer</string>
     <string name="about_download_fail">"No se pudo descargar"</string>
     <string name="about_downloading">Descargando %s</string>
-    <string name="about_gallery_icp">备案号：京ICP备10046444号-42A &gt;</string>
     <string name="about_item_function">Nuevas características</string>
     <string name="about_net_error">Comprueba la configuración de tu red y vuelve a intentarlo.</string>
     <string name="about_newest">Carrusel de Fondos está actualizado.</string>
