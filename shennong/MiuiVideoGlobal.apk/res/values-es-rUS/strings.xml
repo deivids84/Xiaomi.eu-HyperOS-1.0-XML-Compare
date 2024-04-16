@@ -127,7 +127,6 @@
     <string name="cancel">Cancelar</string>
     <string name="cancel_choose">Deseleccionar</string>
     <string name="cancel_subscribe_tips">¿Dejar de seguir?</string>
-    <string name="card_content_descriptor">tarjeta</string>
     <string name="cast_ad_label">Anuncio</string>
     <string name="cast_casting_to_device">Transmitiendo a %1$s</string>
     <string name="cast_closed_captions">Subtítulos opcionales</string>
@@ -206,7 +205,6 @@
     <string name="columbus_player_speed_video">Saltar VIDEO</string>
     <string name="columbus_player_unit_sec">seg</string>
     <string name="columbus_skip_ad">Saltar</string>
-    <string name="com.crashlytics.android.build_id">f86f3758a14f4f8ea0ccd6d86d3de3d4</string>
     <string name="com_permission_desc">"Mi Video no puede acceder a los videos en su dispositivo. Permita el acceso en Configuración."</string>
     <string name="com_permission_title">Se necesitan permisos</string>
     <string name="comment_model_add_comment">Agregar comentario</string>
@@ -994,8 +992,6 @@ Solo usaremos este permiso para encontrar los videos que buscas y no accederemos
     <string name="mnc_live_unsubscribe_toast">Suscripción cancelada correctamente</string>
     <string name="mnc_subscribe_push_context">Toca para ver ahora</string>
     <string name="mnc_subscribe_push_title">La transmisión está comenzando</string>
-    <string name="modal_content_descriptor">modal</string>
-    <string name="modal_inner_content_descriptor">interior modal</string>
     <string name="moment_guide_desc">Usar gestos para ampliar y alejar</string>
     <string name="moment_tab_all">Todo</string>
     <string name="moment_tab_facebook">Facebook</string>
