@@ -560,6 +560,7 @@ Toqueu per desactivar-lo."</string>
     <string name="local_photos">Fotos locals</string>
     <string name="local_resouce_creator_name">Desenvolupador: %1$s</string>
     <string name="lock_screen_apply">Estableix com a pantalla de bloqueig</string>
+    <string name="lock_screen_card_title">Pantalla de bloqueig artístic</string>
     <string name="lock_screen_keyguard_guide_popup">Fes una ullada a les funcions i el disseny personalitzats i nous de la pantalla de bloqueig</string>
     <string name="lock_screen_keyguard_tip_title">Nova pantalla de bloqueig personalitzada</string>
     <string name="lockscreen_apply_failured">"No es pot aplicar el fons de la pantalla de bloqueig"</string>
