@@ -123,9 +123,9 @@ Note that infringement of other people's privacy rights is illegal. You may not 
     <string name="custom_define_perference_title">Permissions details</string>
     <string name="custom_define_permission_desc_android.permission_group.MICROPHONE">For recording calls and audio</string>
     <string name="custom_define_permission_desc_android.permission_group.STORAGE">For saving recordings</string>
-    <string name="date_picker_label_day"></string>
-    <string name="date_picker_label_month"></string>
-    <string name="date_picker_label_year"></string>
+    <string name="date_picker_label_day" />
+    <string name="date_picker_label_month" />
+    <string name="date_picker_label_year" />
     <string name="date_picker_lunar">Chinese Traditional Calendar</string>
     <string name="date_time_picker_dialog_title">Set date and time</string>
     <string name="distributed_hardware_info">"[{\"dhOwner\":\"com.xiaomi.distaudio\",\"dhType\":\"4\",\"attr\":{\"version\":1,\"defaults\":{\"params\":[{\"channels\":2,\"bitDepth\":16,\"sampleRate\":8000}]}}},
@@ -143,7 +143,7 @@ Note that infringement of other people's privacy rights is illegal. You may not 
     <string name="earthly_branches_yin">寅</string>
     <string name="earthly_branches_you">酉</string>
     <string name="earthly_branches_zi">子</string>
-    <string name="empty"></string>
+    <string name="empty" />
     <string name="eras_ad">CE</string>
     <string name="eras_bc">BCE</string>
     <string name="evening">Afternoon</string>
@@ -378,7 +378,10 @@ Note that infringement of other people's privacy rights is illegal. You may not 
     <string name="thursday">Thursday</string>
     <string name="thursday_short">Thu</string>
     <string name="thursday_shortest">Thu</string>
+    <string name="tim">TIM</string>
     <string name="time_picker_dialog_title">Set time</string>
+    <string name="time_picker_label_hour">H</string>
+    <string name="time_picker_label_minute">M</string>
     <string name="today">Today</string>
     <string name="tomorrow">Tomorrow</string>
     <string name="tuesday">Tuesday</string>
