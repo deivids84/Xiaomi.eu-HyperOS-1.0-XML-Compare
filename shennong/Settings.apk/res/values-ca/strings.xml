@@ -4080,10 +4080,10 @@ L'àrea on pots confirmar el bloqueig de la pantalla es mourà cap a la dreta."<
     <string name="gxzw_anim_title">Animació d\'empremtes digitals</string>
     <string name="gxzw_aod_show_summary">Aixequeu el dispositiu o toqueu la pantalla per fer que aparegui la icona d\'empremta digital. Aquesta funció augmenta el consum d\'energia del sistema, però us permet desbloquejar el dispositiu més ràpidament.</string>
     <string name="gxzw_aod_show_tittle">Mostreu la icona de l\'empremta digital quan la pantalla està apagada</string>
-    <string name="gxzw_dialog_message">"Els protectors de pantalla poden interferir amb el reconeixement de l'empremta de la pantalla. Us recomanem que utilitzeu un protector oficial de Xiaomi si necessiteu protecció de pantalla."</string>
+    <string name="gxzw_dialog_message">Els protectors de pantalla poden interferir amb el reconeixement d\'empremtes digitals de la pantalla. Us recomanem que utilitzeu una pel·lícula oficial de Xiaomi si necessiteu protecció de pantalla.</string>
     <string name="gxzw_dialog_not_show_again">"No ho tornis a mostrar"</string>
     <string name="gxzw_dialog_ok">Entesos</string>
-    <string name="gxzw_dialog_title">Consell de protector de pantalla</string>
+    <string name="gxzw_dialog_title">Punta protectora de pantalla</string>
     <string name="gxzw_enroll_again">Aixequeu el dit i torneu a prémer l\'escàner d\'empremtes digitals</string>
     <string name="gxzw_lowlight_open_summary">Baixeu la brillantor de la icona d’empremta digital en condicions de poca llum. És possible que el dispositiu es desbloquegi més lentament quan aquesta funció estigui activada.</string>
     <string name="gxzw_lowlight_open_title">Desbloqueig amb empremta amb poca llum</string>
@@ -5175,9 +5175,13 @@ Si aquest permís es rebutja, el sistema limitarà el temps que pot dedicar l'ap
     <string name="low_label">Baixa</string>
     <string name="low_storage_summary">Queda poc espai: %1$s utilitzat; %2$s lliures</string>
     <string name="lyra_account_ap_summary">Permeteu que les tauletes i els ordinadors propers que hagin iniciat la sessió al vostre compte Xiaomi activin el punt d\'accés Wi-Fi en aquest dispositiu i s\'hi connectin</string>
+    <string name="lyra_account_ap_summary_v2">"Permet que les tauletes i els ordinadors propers que tinguin la sessió iniciada al teu compte Xiaomi utilitzin les dades mòbils d'aquest dispositiu i activen el punt d'accés d'aquest dispositiu i s'hi connectin"</string>
     <string name="lyra_account_ap_title">Assistència en xarxa</string>
+    <string name="lyra_account_ap_title_v2">Connectivitat compartida</string>
     <string name="lyra_auto_connect_summary">"Activeu el punt d'accés Wi-Fi automàticament i connecteu-hi els dispositius propers que hagin iniciat la sessió al vostre compte Xiaomi si no estan connectats a la xarxa"</string>
+    <string name="lyra_auto_connect_summary_v2">"Enceneu el punt d'accés automàticament i connecteu-hi els dispositius propers amb la sessió iniciada al vostre compte Xiaomi si no estan connectats a la xarxa i permeteu-los utilitzar les dades mòbils d'aquest dispositiu."</string>
     <string name="lyra_auto_connect_title">Activar el punt d\'accés Wi-Fi automàticament</string>
+    <string name="lyra_auto_connect_title_v2">Comparteix automàticament</string>
     <string name="macaddr_label">Adreça MAC:</string>
     <string name="magic_list_empty_text_pad">No s\'ha trobat cap aplicació compatible amb les finestres paral·leles</string>
     <string name="magic_window_name_pad">Finestres paral·leles</string>
