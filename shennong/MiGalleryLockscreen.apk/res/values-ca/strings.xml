@@ -29,7 +29,6 @@
     <string name="abc_toolbar_collapse_description">Replega</string>
     <string name="about_download_fail">"No s'ha pogut baixar"</string>
     <string name="about_downloading">S\'està baixant %s</string>
-    <string name="about_gallery_icp">备案号：京ICP备10046444号-42A &gt;</string>
     <string name="about_item_function">Noves característiques</string>
     <string name="about_net_error">Comproveu la configuració de la xarxa i torneu-ho a provar.</string>
     <string name="about_newest">El Carrusel de fons de pantalla està actualitzat.</string>
