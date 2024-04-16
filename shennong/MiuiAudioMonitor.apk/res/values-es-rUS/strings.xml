@@ -166,10 +166,7 @@ Nota que la violación de los derechos de privacidad de otras personas es ilegal
     <string name="thursday">Jueves</string>
     <string name="thursday_short">Thu</string>
     <string name="thursday_shortest">Thu</string>
-    <string name="tim">TIM</string>
     <string name="time_picker_dialog_title">Fijar hora</string>
-    <string name="time_picker_label_hour">D</string>
-    <string name="time_picker_label_minute">M</string>
     <string name="today">Hoy</string>
     <string name="tomorrow">Mañana</string>
     <string name="tuesday">Martes</string>
