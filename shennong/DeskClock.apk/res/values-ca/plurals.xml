@@ -120,6 +120,14 @@
         <item quantity="other">Cada %1$s min</item>
         <item quantity="one">Cada %1$s min</item>
     </plurals>
+    <plurals name="snooze_duration_minute">
+        <item quantity="other">Cada %1$d minuts</item>
+        <item quantity="one">Cada %1$d min</item>
+    </plurals>
+    <plurals name="snooze_duration_time">
+        <item quantity="other">Apagueu %1$d vegades</item>
+        <item quantity="one">Apagueu %1$d hora</item>
+    </plurals>
     <plurals name="snooze_message">
         <item quantity="other">Postposar %d mins</item>
         <item quantity="one">Postposar %d min</item>
