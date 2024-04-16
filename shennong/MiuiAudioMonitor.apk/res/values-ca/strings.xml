@@ -166,10 +166,7 @@ Tingueu en compte que la infracció dels drets de privadesa d'altres persones é
     <string name="thursday">dijous</string>
     <string name="thursday_short">Dj</string>
     <string name="thursday_shortest">Dj</string>
-    <string name="tim">TIM</string>
     <string name="time_picker_dialog_title">Estableix l\'hora</string>
-    <string name="time_picker_label_hour">H</string>
-    <string name="time_picker_label_minute">M</string>
     <string name="today">Avui</string>
     <string name="tomorrow">Demà</string>
     <string name="tuesday">dimarts</string>
