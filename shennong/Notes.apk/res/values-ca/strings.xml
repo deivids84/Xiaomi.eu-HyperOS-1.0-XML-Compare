@@ -756,7 +756,9 @@
     <string name="toast_message_add_image_fail">"No es pot afegir la imatge"</string>
     <string name="toast_notes_delete_success">S\'ha suprimit amb èxit</string>
     <string name="toast_notes_hidden_edit">S\'ha ocultat la nota correctament. Llisqueu cap avall per veure les notes ocultes.</string>
+    <string name="toast_notes_hidden_edit_new">Nota oculta. Tireu cap avall per veure les notes amagades.</string>
     <string name="toast_notes_hidden_home">S\'ha ocultat la nota correctament. Llisqueu cap avall per veure les notes ocultes.</string>
+    <string name="toast_notes_hidden_home_new">Nota oculta. Tireu cap avall per veure les notes amagades.</string>
     <string name="toast_notes_hidden_pad">Aquesta nota està amagada ara. Tireu cap avall el tauler lateral per veure les notes amagades.</string>
     <string name="toast_notes_unhidden">S\'ha mostrat amb èxit</string>
     <string name="toast_pic_is_not_really">S\'està desant la imatge…</string>
