@@ -29,6 +29,7 @@
     <string name="abc_toolbar_collapse_description">Contraer</string>
     <string name="about_download_fail">"No se pudo descargar"</string>
     <string name="about_downloading">Descargando %s</string>
+    <string name="about_gallery_icp">备案号：京ICP备10046444号-42A &gt;</string>
     <string name="about_item_function">Nuevas características</string>
     <string name="about_net_error">Comprueba los ajustes de red e inténtalo otra vez.</string>
     <string name="about_newest">Carrusel de Fondos está actualizado.</string>
@@ -268,6 +269,12 @@
     <string name="later">"No apague"</string>
     <string name="launch_bg_permission_exception">Permitir que Wallpaper Carousel muestre ventanas emergentes mientras se ejecuta en segundo plano en Seguridad</string>
     <string name="left_lks_detail_entrance">Ver más</string>
+    <string name="left_lks_download_now">Descargar</string>
+    <string name="left_lks_reverse">Pre-pedido</string>
+    <string name="left_lks_view">Ver</string>
+    <string name="left_xout_frequently">Muestra con demasiada frecuencia</string>
+    <string name="left_xout_low_quality">El anuncio es de baja calidad</string>
+    <string name="left_xout_title">"Dinos por qué no quieres ver este anuncio"</string>
     <string name="like">Agregar a los favoritos</string>
     <string name="liked">Añadido a favoritos</string>
     <string name="lks_cta_dont_mention">"No volver a mostrar"</string>
