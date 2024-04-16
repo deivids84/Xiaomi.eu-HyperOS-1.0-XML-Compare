@@ -164,6 +164,7 @@
     <string name="kilobyteShort">KB</string>
     <string name="load_finish_hint">Puedes continuar viendo mañana</string>
     <string name="loading">Solo un segmento…</string>
+    <string name="marketSdkVersion">3.2.27</string>
     <string name="megabyteShort">Mb</string>
     <string name="menu_des_vip">Membresía Xunlei</string>
     <string name="menu_title_fileexplore">Gestor de archivos</string>
