@@ -265,8 +265,6 @@
     <string name="columbus_player_speed_video">Omet VIDEO</string>
     <string name="columbus_player_unit_sec">seg</string>
     <string name="columbus_skip_ad">Omet</string>
-    <string name="com.google.firebase.crashlytics.mapping_file_id">386f5b00a01c4fabb12e632952a68872</string>
-    <string name="com.miapm.build_id">983d1f33ce314fd8af6c3826a5c9087d</string>
     <string name="common_google_play_services_enable_button">Activa</string>
     <string name="common_google_play_services_enable_text">"%1$s no funcionarà si no actives Serveis de Google Play."</string>
     <string name="common_google_play_services_enable_title">Activa Serveis de Google Play</string>
