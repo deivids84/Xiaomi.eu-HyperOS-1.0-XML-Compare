@@ -356,7 +356,7 @@
     <string name="nps_close_mock_location">Desactivar la ubicació falsa</string>
     <string name="nps_description">notificació d\'estat gps</string>
     <string name="nps_location_service_unavailable">Servei de localització no disponible</string>
-    <string name="nps_mock_description">Utilitzar la ubicació falsa ara</string>
+    <string name="nps_mock_description">s\'està utilitzant la ubicació virtual, cal reiniciar la restauració</string>
     <string name="nps_monitor_name">Ubicació GPS</string>
     <string name="nps_noise_description">当前环境GPS信号受到干扰,</string>
     <string name="nubia">Nubia</string>
@@ -479,7 +479,7 @@
     <string name="security_permission_open_wifi_settings">Obre la configuració Wi-Fi</string>
     <string name="security_permission_validate_warning">Gràcies per ajudar-nos a fer MIUI millor!</string>
     <string name="security_permission_wifi_and_data_opened_text">Wi-Fi i dades mòbils enceses</string>
-    <string name="security_permission_xiaomi_account_missed_text">Introduïu l\'identificador del vostre compte Xiaomi</string>
+    <string name="security_permission_xiaomi_account_missed_text">Introduïu l\'ID del Compte Mi</string>
     <string name="security_share_text">Protecció de privadesa</string>
     <string name="select">Seleccionar</string>
     <string name="select_all">Seleccioneu-ho tot</string>
@@ -531,7 +531,7 @@
     <string name="standard_description">Silencia els tons de trucada per a trucades i notificacions entrants</string>
     <string name="standard_title">Silenci</string>
     <string name="start_dump_log">Inicia l\'obtenció de registres relacionats amb problemes</string>
-    <string name="start_security_permission_verify_text">Verifiqueu els permisos amb el vostre compte Xiaomi</string>
+    <string name="start_security_permission_verify_text">Comproveu els permisos amb el vostre Compte Mi</string>
     <string name="status_bar_toggle_auto_brightness">Lluentor</string>
     <string name="status_bar_toggle_battery_saver">Estalvi de bateria</string>
     <string name="status_bar_toggle_bluetooth">Bluetooth</string>
