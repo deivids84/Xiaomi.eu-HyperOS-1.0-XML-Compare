@@ -529,7 +529,7 @@ Asegúrate de estar utilizando la cuenta Xiaomi asociada como tu cuenta del sist
     <string name="unlock_password_dialog_msg">Se usará la contraseña de protección de privacidad. Funciona para fotos, notas y archivos.</string>
     <string name="unlock_password_dialog_title">Contraseña de protección de privacidad</string>
     <string name="update_dialog_button_cancel">Ahora no</string>
-    <string name="update_dialog_button_ok">Actualizar</string>
+    <string name="update_dialog_button_ok">Instalar</string>
     <string name="update_dialog_content">"Nueva versión: %1$s
 %2$s"</string>
     <string name="update_dialog_title">Hay una actualización disponible</string>
