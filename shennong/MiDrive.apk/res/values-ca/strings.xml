@@ -529,7 +529,7 @@ Assegureu-vos que utilitzeu el compte Xiaomi associat com a compte del sistema."
     <string name="unlock_password_dialog_msg">S\'utilitzarà una contrasenya de protecció de privadesa. Funciona per a fotos, notes i fitxers.</string>
     <string name="unlock_password_dialog_title">Contrasenya de protecció de privadesa</string>
     <string name="update_dialog_button_cancel">Ara no</string>
-    <string name="update_dialog_button_ok">Actualitza ara</string>
+    <string name="update_dialog_button_ok">Instal·lar</string>
     <string name="update_dialog_content">"Nova versió: %1$s
 %2$s"</string>
     <string name="update_dialog_title">Hi ha una actualització disponible</string>
