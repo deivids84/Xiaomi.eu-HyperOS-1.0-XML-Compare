@@ -154,7 +154,6 @@ Envieu aquest codi al supervisor."</string>
     <string name="friday_short">Dv.</string>
     <string name="friday_shortest">dv.</string>
     <string name="get_phone_verifycode_exceed_limit">S\'han enviat massa codis de verificació a aquest número. Espereu 24 hores i torneu-ho a provar.</string>
-    <string name="getverifycode_seconde">s</string>
     <string name="google_login_btn_content_description">Iniciar la sessió amb Google</string>
     <string name="head_set_tip_dialog_msg">Desconnecteu els auriculars per poder gravar so amb presets específics (p. ex., música, veu).</string>
     <string name="head_set_tip_dialog_ok">D\'acord</string>
@@ -491,7 +490,6 @@ Toqueu \"%1$s\", i després seleccioneu \"%2$s\"."</string>
     <string name="protocal_dialog_confirm">Acordar</string>
     <string name="protocal_dialog_title">Atenció</string>
     <string name="qq_login_btn_content_description">Inicieu sessió amb QQ</string>
-    <string name="qq_login_protocol_scheme">com.xiaomi.passport.ui</string>
     <string name="recognition_button_add_to_queue">Afegeix a la cua</string>
     <string name="recognition_button_cancel">Ara no</string>
     <string name="recognition_button_start">Transcriu</string>
