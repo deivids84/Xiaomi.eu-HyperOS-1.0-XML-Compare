@@ -105,7 +105,6 @@
     <string name="app_disable_description_content">Mi Music és una aplicació del sistema. Si la desactives, això pot afectar l\'ús que facis d\'altres aplicacions. Desactiva de totes maneres?</string>
     <string name="app_disable_description_title">Desactiveu l\'aplicació del sistema?</string>
     <string name="app_label">Baixades</string>
-    <string name="app_name">FFmpegAndroid</string>
     <string name="app_notify_dialog_btn_desc">Configuració</string>
     <string name="app_notify_dialog_check_desc">"Activa el widget Ombre de notificacions, però no permetis les notificacions permanents"</string>
     <string name="app_notify_dialog_path">Configuració &gt; Notificacions &amp; Barra d\'estat &gt; Notificacions d\'aplicacions &gt; Música</string>
@@ -186,7 +185,6 @@
     <string name="asm_pay_order_generate_failed">"No s'ha pogut generar la comanda"</string>
     <string name="asm_pay_query_overtime">La sol·licitud d\'estat de pagament s\'ha esgotat</string>
     <string name="asm_privacy_desc">Política de privadesa d\'ASM</string>
-    <string name="asm_privacy_policy_url">https://fra-mi-h5.allsaints.tv/#/privacy-policy.html</string>
     <string name="asm_privacy_tips_content">Accepteu la <a href="/link/click">Política de privadesa d\'ASM</a> per poder utilitzar els serveis de música en línia.</string>
     <string name="asm_privacy_tips_title">Política de privadesa d\'ASM</string>
     <string name="asm_pro_center">Pertinença</string>
@@ -223,7 +221,6 @@
     <string name="back_confirm">Torna a tocar per sortir</string>
     <string name="best_experience">La millor experiència</string>
     <string name="bluetooth_device">Dispositiu d\'àudio per Bluetooth</string>
-    <string name="boldFont">sans-serif-mitjana</string>
     <string name="bottomsheet_action_expand_halfway">Expandeix a la meitat</string>
     <string name="btn_text_edit">Edita</string>
     <string name="btn_text_view_all">Mostra-ho tot</string>
@@ -268,8 +265,6 @@
     <string name="columbus_player_speed_video">Omet VIDEO</string>
     <string name="columbus_player_unit_sec">seg</string>
     <string name="columbus_skip_ad">Omet</string>
-    <string name="com.google.firebase.crashlytics.mapping_file_id">8a1b87921fa449ae9a06a0b191f54260</string>
-    <string name="com.miapm.build_id">038e6202ece14a57b2f3a134434f308d</string>
     <string name="common_google_play_services_enable_button">Activa</string>
     <string name="common_google_play_services_enable_text">"%1$s no funcionarà si no actives Serveis de Google Play."</string>
     <string name="common_google_play_services_enable_title">Activa Serveis de Google Play</string>
@@ -773,7 +768,6 @@
     <string name="loading_reached_the_bottom">"Això és tot per ara."</string>
     <string name="loading_text">Un moment…</string>
     <string name="local_ad_title">Promoció</string>
-    <string name="local_count_and_path">%1$d %2$s</string>
     <string name="local_download_download">Descarregar</string>
     <string name="local_download_hint">Activar la Wi-Fi abans de baixar-la</string>
     <string name="local_download_item">Descàrrega gratuïta</string>
@@ -791,10 +785,6 @@
     <string name="local_page_artist_more">Més cançons de %s</string>
     <string name="local_page_playlist">Llistes de reproducció</string>
     <string name="local_page_song_download_history">Baixades</string>
-    <string name="lock_screen_music_settings">音乐锁屏设置</string>
-    <string name="lock_screen_settings">锁屏设置</string>
-    <string name="lock_screen_slide_up">上划解锁</string>
-    <string name="lock_screen_switch">使用音乐锁屏</string>
     <string name="login_instantly">Iniciar sessió</string>
     <string name="login_mi_account_and_gain_more_rights">Inicieu la sessió amb el vostre compte Xiaomi per accedir a més funcions.</string>
     <string name="login_out_tip">"No es pot tancar la sessió de moment. Podeu esborrar totes les dades de l'aplicació."</string>
@@ -820,15 +810,6 @@
     <string name="lyric_ai_state_identifying">Només un segon…</string>
     <string name="lyric_ai_state_use">Ús</string>
     <string name="lyric_ai_title">Reconeixement de lletres d\'IA</string>
-    <string name="lyric_feedback_inaccurate_timing">歌词时间不准</string>
-    <string name="lyric_feedback_lyrics_error">整首歌词错误</string>
-    <string name="lyric_feedback_misspelling">有错别字</string>
-    <string name="lyric_feedback_other">其他</string>
-    <string name="lyric_feedback_pure_music">纯音乐无需歌词</string>
-    <string name="lyric_feedback_report_optimization">歌词不准？上报优化</string>
-    <string name="lyric_feedback_submit">提交</string>
-    <string name="lyric_feedback_submit_success">提交成功</string>
-    <string name="lyric_feedback_title">当前歌词不准确，上报错误原因</string>
     <string name="lyric_is_empty">Lletra no disponible</string>
     <string name="lyric_label">Lletres</string>
     <string name="lyric_open_other_connect">Baixa les lletres utilitzant les dades mòbils</string>
@@ -1050,7 +1031,6 @@
     <string name="no_song_title">Mi Música</string>
     <string name="no_system_cropper_find">"El sistema no té un programa per retallar la imatge"</string>
     <string name="noon">Migdia</string>
-    <string name="normalFont">sans-serif</string>
     <string name="normal_quality">Bona</string>
     <string name="not_login">No has iniciat la sessió</string>
     <string name="not_now">Ara no</string>
@@ -1118,7 +1098,6 @@
     <string name="online_switch_message">La desactivació dels serveis en línia afectarà els serveis VIP i les recomanacions. Voleu desactivar-ho de totes maneres?</string>
     <string name="online_switch_setting">Configuració del contingut en línia</string>
     <string name="only_pro_can_choose_hd_sound_quality">L\'àudio HD només està disponible per als membres Gold</string>
-    <string name="open_alarm_clock_recommend_switch">开启早起闹钟推荐歌曲</string>
     <string name="open_online_service">Cal activar els serveis en línia per utilitzar aquesta funció. Voleu activar-los?</string>
     <string name="open_service">Activa</string>
     <string name="operation_done_close">Tanca</string>
@@ -1673,7 +1652,6 @@ Sigues Feliç"</string>
     <string name="today">Avui</string>
     <string name="today_hot_playlist">"La millor llista de reproducció d'avui"</string>
     <string name="tomorrow">Demà</string>
-    <string name="tools_settings">工具设置</string>
     <string name="top_chart_title">Gràfics</string>
     <string name="track_play_history_after_login">Inicia sessió per a veure l\'historial de reproducció</string>
     <string name="tt_ad">Anunci</string>
