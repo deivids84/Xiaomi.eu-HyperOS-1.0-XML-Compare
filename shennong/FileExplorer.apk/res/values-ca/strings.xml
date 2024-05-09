@@ -245,7 +245,7 @@ Prova de moure fitxers del dispositiu a Mi Drive."</string>
     <string name="encrypt_prefix">PRIVAT</string>
     <string name="encrypt_setting">Xifratge</string>
     <string name="encrypt_success">Els elements seleccionats ara són privats</string>
-    <string name="encrypt_success_first_five">"Aquest element ara és privat. Podeu veure els fitxers privats lliscant cap avall la Pàgina d'inici del Gestor de fitxers."</string>
+    <string name="encrypt_success_first_five">"Aquest element ara és privat. Tireu cap avall a la pàgina d'inici del Gestor de fitxers per veure-la."</string>
     <string name="encrypting">S\'està xifrant…</string>
     <string name="enter">Obriu el Gestor de fitxers</string>
     <string name="entry_phone_storage_internal">Emmagatzematge intern</string>
@@ -670,6 +670,14 @@ Prova de moure fitxers del dispositiu a Mi Drive."</string>
     <string name="partial_encrypt_success">"No s'han pogut fer privats alguns fitxers. Proveu-ho de nou."</string>
     <string name="password_toggle_content_description">Mostra la contrasenya</string>
     <string name="path_name_email">Correu</string>
+    <string name="pattern_hour_minute_12">hh:mm a</string>
+    <string name="pattern_hour_minute_24">HH: mm</string>
+    <string name="pattern_month_day">MM/dd</string>
+    <string name="pattern_month_day_hh_mm_12">MM/dd hh:mm a</string>
+    <string name="pattern_month_day_hh_mm_24">MM/dd HH:mm</string>
+    <string name="pattern_year_month_day">MM/dd/aaaa</string>
+    <string name="pattern_year_month_day_hh_mm_12">MM/dd/aaaa hh:mm a</string>
+    <string name="pattern_year_month_day_hh_mm_24">MM/dd/aaaa HH:mm</string>
     <string name="perm_manage_external_storage">Accediu a tots els fitxers</string>
     <string name="permission_account_desc">Per accedir a la informació del compte emmagatzemada al dispositiu</string>
     <string name="permission_account_desc_pad">Per accedir a la informació del compte emmagatzemada al dispositiu</string>
