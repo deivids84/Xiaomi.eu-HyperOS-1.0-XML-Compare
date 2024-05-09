@@ -454,7 +454,6 @@ Comproveu la targeta SIM."</string>
     <string name="mms_block_hint">"Aquest remitent no es troba als vostres contactes.
 Pot ser que aquest missatge no sigui sol·licitat."</string>
     <string name="mms_block_hint_highlight">Bloqueja els MMS</string>
-    <string name="mms_icp">ICP备案号：京ICP备10046444号-33A</string>
     <string name="mms_main_purpose_new">Aquesta aplicació s\'ha de connectar a Internet per proporcionar-vos serveis bàsics. Us recomanem que activeu Missatge Mi i serveis de missatgeria intel·ligent.</string>
     <string name="mms_mi_message_main_purpose">Us donem la benvinguda a Mi Message! Cal un missatge SMS de sortida per activar Mi Message. El vostre operador us cobrarà per aquest missatge.</string>
     <string name="mms_mi_message_request_notice">Volem que trèieu el màxim profit de Mi Message.</string>
