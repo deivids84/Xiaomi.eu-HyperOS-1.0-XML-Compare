@@ -172,8 +172,11 @@
     <string name="ppt_video_extracting_video_file">Extracció del fitxer de vídeo…</string>
     <string name="ppt_video_install_videoplayer_tip">Instal·leu un reproductor de vídeo</string>
     <string name="ppt_volume_is_too_low_tip">Poseu-vos els auriculars o augmenteu el volum</string>
+    <string name="print_error_open_wps_exception">服务异常，请稍后重试。</string>
+    <string name="print_error_wps_print_activity_not_found">请更新至WPS Office新版本后使用打印功能</string>
     <string name="projection_fail">"No s'ha pogut emetre. Comproveu el monitor extern i torneu-ho a provar."</string>
     <string name="public_2pic">Exportar a la imatge</string>
+    <string name="public_about_us">Sobre</string>
     <string name="public_amazon_autosave_finished">El document s\'ha desat automàticament</string>
     <string name="public_bad_doc_to_process">"Document no vàlid, no es pot completar l'operació"</string>
     <string name="public_bookmark">Marcador</string>
@@ -193,6 +196,7 @@
     <string name="public_crash_dialog_title">Envieu un informe d\'errors</string>
     <string name="public_cut">Tallar</string>
     <string name="public_decryptDocument">Desxifra</string>
+    <string name="public_dialog_update">更新</string>
     <string name="public_displayPasswd">Ensenya la contrasenya</string>
     <string name="public_display_privacy_policy">Veure Política de privacitat</string>
     <string name="public_doc_end_preview_tip">Desenvolupat per WPS Office</string>
@@ -209,6 +213,7 @@
     <string name="public_hypelink_filenotfound">"No es pot trobar el fitxer especificat"</string>
     <string name="public_hyperlink">Hiperenllaç</string>
     <string name="public_hyperlink_linkto">Enllaç a:</string>
+    <string name="public_icp_code">京ICP备14035597号-9A</string>
     <string name="public_inputEditPasswdText">Introduïu la contrasenya per modificar o obriu només de lectura.</string>
     <string name="public_inputEditPasswdTextReadOnly">L\'autor ha establert la contrasenya de modificació del document. Introduïu la contrasenya per continuar.</string>
     <string name="public_inputPasswd">Introduïu la contrasenya per obrir el fitxer</string>
@@ -234,6 +239,7 @@
     <string name="public_mi_other_app_open_title">Obre amb</string>
     <string name="public_mi_privacy_desc">Per visualitzar i gestionar documents en aquest dispositiu</string>
     <string name="public_mi_privacy_purpose">Benvingut a Mi Doc Viewer (impulsat per WPS)! Aquesta és una versió personalitzada de l\'aplicació creada per Kingsoft per a Xiaomi. Podeu utilitzar aquesta aplicació per veure documents al vostre dispositiu.</string>
+    <string name="public_more_wps">Hi ha més funcions disponibles a WPS</string>
     <string name="public_no_format">Sense format</string>
     <string name="public_not_support_in_multiwindow">"Aquesta funció no s'admet quan utilitzeu pantalla dividida"</string>
     <string name="public_ok">D\'acord</string>
@@ -343,6 +349,7 @@
     <string name="reader_writer_table_edit_add_row">afegir fila</string>
     <string name="search_menu_title">Cerca</string>
     <string name="ss_card_mode_filter_title_text">Seleccioneu els elements que es mostraran</string>
+    <string name="wps_lite_app_version">3.7.0</string>
     <string name="wps_lite_xiaomi_app_packageName">Visor de documents Mi (amb tecnologia WPS)</string>
     <string name="writer_characters">Personatges (sense espais)</string>
     <string name="writer_characters_with_spaces">Personatges (amb espais)</string>
