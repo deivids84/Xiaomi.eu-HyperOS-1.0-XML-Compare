@@ -88,6 +88,10 @@
         <item quantity="other">Connexió limitada per les aplicacions %s</item>
         <item quantity="one">Connexió limitada per l\'aplicació %s</item>
     </plurals>
+    <plurals name="fivega_info">
+        <item quantity="other">Els canvis s\'aplicaran en %d segons</item>
+        <item quantity="one">Els canvis s\'aplicaran en %d segons</item>
+    </plurals>
     <plurals name="free_wifi_connected_count">
         <item quantity="other">%1$d usuaris connectats</item>
         <item quantity="one">%1$d usuari connectat</item>
