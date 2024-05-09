@@ -139,7 +139,6 @@ Visiteu https://appleid.apple.com/#!&amp;page=signin per desactivar-ho"</string>
     <string name="collect_content">Contingut recollit</string>
     <string name="collect_situation">Estat de recollida</string>
     <string name="collected">Recollit</string>
-    <string name="com.google.firebase.crashlytics.mapping_file_id">78f6bc0335674949beca2c766c9e90f7</string>
     <string name="connect_icloud_fail">"No s'ha pogut connectar amb iCloud"</string>
     <string name="connect_icloud_fail_tips">Assegureu-vos que el vostre compte iCloud ha estat activat. Si no, aneu a icloud.com i seguiu les instruccions per activar el vostre compte.</string>
     <string name="connect_wifi">Connecteu-vos a la Wi-Fi</string>
@@ -590,7 +589,6 @@ Obriu WeChat i aneu a Meu &gt; Configuració &gt; General &gt; Fes una còpia de
     <string name="permission_wifi_title">Activació i desactivació de la Wi-Fi</string>
     <string name="pm">PM</string>
     <string name="preference_copied">\"%1$s\" s\'ha copiat al porta-retalls</string>
-    <string name="privacy_icp_identity">ICP备案号： 京ICP备10046444号-32A</string>
     <string name="privacy_policy">Política de privadesa</string>
     <string name="prompt_before_transmission_message1_summary">Si trieu transferir-les des del vostre dispositiu antic, se sobreescriviaran les dades de l’aplicació (inclòs l’historial de xat).</string>
     <string name="prompt_before_transmission_message1_title">Aquestes aplicacions ja han generat dades d\'aplicacions al vostre nou dispositiu</string>
