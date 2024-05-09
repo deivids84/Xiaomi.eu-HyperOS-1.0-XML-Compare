@@ -48,10 +48,6 @@
         <item quantity="other">%d anuncis bloquejats fins ara</item>
         <item quantity="one">%d anunci bloquejat fins ara</item>
     </plurals>
-    <plurals name="antivirus_desc_not_scanned_virus_in_days">
-        <item quantity="other">"No s'ha escanejat per %d Dies"</item>
-        <item quantity="one">"No s'ha escanejat per %d dia"</item>
-    </plurals>
     <plurals name="articles_updated_amount">
         <item quantity="other">Comprova %1$d articles nous</item>
         <item quantity="one">Comprova %1$d article nou</item>
@@ -59,18 +55,6 @@
     <plurals name="auto_play_next_tips">
         <item quantity="other">Reproduint el següent vídeo en %d segons</item>
         <item quantity="one">Reproduint el següent vídeo en %d segon</item>
-    </plurals>
-    <plurals name="back_dialog_antivirus_content_des">
-        <item quantity="other">"No has escanejat el dispositiu a %d Dies. Escaneja ara?"</item>
-        <item quantity="one">"No has escanejat el dispositiu a %d dia. Escaneja ara?"</item>
-    </plurals>
-    <plurals name="back_dialog_day">
-        <item quantity="other">Dies</item>
-        <item quantity="one">dia</item>
-    </plurals>
-    <plurals name="back_dialog_health_check_content_des">
-        <item quantity="other">"No heu optimitzat el dispositiu a %d Dies. Optimitzar ara?"</item>
-        <item quantity="one">"No heu optimitzat el dispositiu a %d dia. Optimitzar ara?"</item>
     </plurals>
     <plurals name="count_likes">
         <item quantity="other">%s Li agrada</item>
@@ -116,10 +100,6 @@
         <item quantity="other">%d seguidors</item>
         <item quantity="one">%d seguidor</item>
     </plurals>
-    <plurals name="hour">
-        <item quantity="other">%d Hores</item>
-        <item quantity="one">%d H</item>
-    </plurals>
     <plurals name="hours_ago">
         <item quantity="other">%1$d fa unes hores</item>
         <item quantity="one">%1$d fa una hora</item>
@@ -163,10 +143,6 @@
     <plurals name="mins_ago">
         <item quantity="other">%1$d fa uns minuts</item>
         <item quantity="one">%1$d fa un minut</item>
-    </plurals>
-    <plurals name="minute">
-        <item quantity="other">%d Minuts</item>
-        <item quantity="one">%d min</item>
     </plurals>
     <plurals name="miuix_appcompat_items_selected">
         <item quantity="other">%d elements sel·leccionats</item>
