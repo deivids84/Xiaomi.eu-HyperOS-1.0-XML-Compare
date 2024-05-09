@@ -80,7 +80,6 @@
     <string name="abnormal_consume_type_wakelock">"El sistema no pot anar a dormir"</string>
     <string name="about_autostart">Quant a l\'inici automàtic</string>
     <string name="about_autostart_gloabl">Sobre l\'inici automàtic en segon pla</string>
-    <string name="about_securitycenter_icp">ICP备案号：京ICP备10046444号-61A,京ICP备10046444号-62A,京ICP备10046444号-63A,京ICP备10046444号-69A,京ICP备10046444号-97A &gt;</string>
     <string name="about_securitycenter_phne">Línia directa d\'atenció al client: 400–100–5678</string>
     <string name="about_securitycenter_title">Quant a la seguretat</string>
     <string name="ac_enter_applock">Entra al bloquejador d\'aplicacions</string>
@@ -335,14 +334,6 @@
     <string name="app_install_intercept">Bloqueja l\'instal·lació</string>
     <string name="app_install_tips_go_to">Obre</string>
     <string name="app_install_tips_install_success">%1$s s\'ha instal·lat amb èxit</string>
-    <string name="app_manage_frequency">使用频率</string>
-    <string name="app_manage_install_time">安装时间</string>
-    <string name="app_manage_installed">已安装</string>
-    <string name="app_manage_list">应用排行</string>
-    <string name="app_manage_name">应用名称</string>
-    <string name="app_manage_search">搜索框</string>
-    <string name="app_manage_store">存储占用</string>
-    <string name="app_manage_uninstall">未安装</string>
     <string name="app_management_empty_desc">"Aquesta aplicació no admet aquesta funció"</string>
     <string name="app_management_for_chain_start">Bloquejar l\'obertura d\'altres aplicacions</string>
     <string name="app_management_for_chain_start_desc">Impedir que aquesta aplicació es connecti o obri altres aplicacions</string>
@@ -1180,10 +1171,6 @@ Tanmateix, algunes de les vostres transaccions encara no s'han completat. Per po
     <string name="clear_instant_app_data">Esborra l\'aplicació</string>
     <string name="clear_text_end_icon_content_description">Esborra el text</string>
     <string name="clearable_edittext_clear_description">Neteja</string>
-    <string name="click_tab_behavior_record">应用行为记录</string>
-    <string name="click_tab_permission">权限</string>
-    <string name="click_tab_uninstall_app">应用卸载</string>
-    <string name="click_tab_update_app">应用升级</string>
     <string name="click_to_charge_bill">Recàrrega</string>
     <string name="click_to_set_carrier">Toqueu per definir</string>
     <string name="click_to_set_personalized_reminder">Estableix els avisos</string>
@@ -1406,8 +1393,6 @@ Es podrien esborrar totes les dades del dispositiu i restablir la contrasenya de
     <string name="dialog_msg_install_manager_content_pad">Instal·leu Seguretat de nou?</string>
     <string name="dialog_msg_stop_virus_scan">"Voleu aturar l'escaneig de seguretat abans que acabi?"</string>
     <string name="dialog_no_longer_alert">"No ho tornis a mostrar"</string>
-    <string name="dialog_preference_click_cancel">取消</string>
-    <string name="dialog_preference_click_reset">重置应用</string>
     <string name="dialog_restrict_all_mobile_summary">%s La connexió mòbil passarà a estar restringida per totes les aplicacions.</string>
     <string name="dialog_restrict_all_mobile_title">Restringeix la connexió de dades mobils %s</string>
     <string name="dialog_restrict_all_wlan_summary">Després d\'això, es restringirà la connexió Wi-Fi per a totes les aplicacions.</string>
@@ -1638,7 +1623,6 @@ targeta mèdica"</string>
     <string name="ew_emergency_title">Tarja sanitària</string>
     <string name="ew_first_start_network_title">Termes i condicions</string>
     <string name="ew_get_location">Ubica</string>
-    <string name="ew_global_service_scope_external_link">https://embed.sec.miui.com/earthquake-early-warning/support-city</string>
     <string name="ew_global_signature">"Informació proporcionada per EEWS BMKG
 Suport tècnic de Xiaomi i ICL"</string>
     <string name="ew_global_signature_template">"Informació proporcionada per %s
@@ -2654,7 +2638,6 @@ per unir-vos a la nostra caça d'ous"</string>
     <string name="hints_scanning_text">S\'està escanejant…</string>
     <string name="hints_virus_app_list_item_summary">app</string>
     <string name="hints_virus_lib_update_default_summary">Ultima actualització desconeguda</string>
-    <string name="homepage_entry_way">手管首页</string>
     <string name="hot">Popular</string>
     <string name="hot_today">Popular avui</string>
     <string name="i_know">Entesos</string>
@@ -2922,11 +2905,6 @@ El dispositiu és %s més ràpid ara."</string>
     <string name="menu_call">Marcatge</string>
     <string name="menu_charge_bill">Recarrega el saldo</string>
     <string name="menu_charge_traffic">Compra dades</string>
-    <string name="menu_click_defult_setting">默认应用设置</string>
-    <string name="menu_click_hide_system">隐藏系统服务</string>
-    <string name="menu_click_reset_preference">重置应用偏好</string>
-    <string name="menu_click_setting">设置</string>
-    <string name="menu_click_show_system">显示系统服务</string>
     <string name="menu_edit">Edita</string>
     <string name="menu_hide_work_profile_text">Amaga les aplicacions de l\'espai de treball</string>
     <string name="menu_item_about_content">Versió %s</string>
@@ -3900,11 +3878,7 @@ Proveu d'utilitzar un altre cable Ethernet per connectar-lo. Si sospiteu que hi 
     <string name="popular_action_app_lock_title_global">Protegir les aplicacions amb el bloqueig d\'aplicacions</string>
     <string name="popular_action_card_title">Característiques populars</string>
     <string name="popular_action_first_aid_title_global">Per a usuaris nous</string>
-    <string name="popular_action_net_assistant_summary">使用情况</string>
-    <string name="popular_action_net_assistant_title">监控流量</string>
     <string name="popular_action_net_assistant_title_global">Supervisar la velocitat de connexió de xarxa</string>
-    <string name="popular_action_video_clean_summary">释放手机空间</string>
-    <string name="popular_action_video_clean_title">清理视频垃圾</string>
     <string name="popular_action_video_clean_title_global">Esborra la memòria cau del vídeo per alliberar espai</string>
     <string name="power_5g_popups_content">Les xarxes 5G proporcionen una alta velocitat de connexió i una latència més baixa.</string>
     <string name="power_5g_popups_title">Utilitzar xarxes 5G</string>
@@ -4686,10 +4660,6 @@ Voleu retirar el consentiment?"</string>
     <string name="recently_reject_message">Instal·lació de %1$s i %2$d altres aplicacions rebutjades</string>
     <string name="recently_reject_message_one">%1$s sol·licituds d\'instal·lació rebutjades</string>
     <string name="recommend_news">Fonts recomanades</string>
-    <string name="recommend_type_random">系统无理由推荐</string>
-    <string name="recommend_type_recent_used">根据常用功能推荐</string>
-    <string name="recommend_type_server_config">运营配置</string>
-    <string name="recommend_type_user_set">用户设置</string>
     <string name="recommended">Recomanat</string>
     <string name="reject_all">Restringir tot</string>
     <string name="reject_countdown">Denegar (%d)</string>
