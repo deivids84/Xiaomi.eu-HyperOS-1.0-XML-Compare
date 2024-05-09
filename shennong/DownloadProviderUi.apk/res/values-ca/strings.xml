@@ -96,6 +96,7 @@
     <string name="download_error_insufficient_space">No hi ha prou espai d\'emmagatzematge</string>
     <string name="download_filesize_unknown">Desconegut</string>
     <string name="download_from">Font:</string>
+    <string name="download_icp">Número de registre ICP: 粤B2-20050219-23A</string>
     <string name="download_in_process">En curs</string>
     <string name="download_info_start_deleted_tasks">Elimina les baixades</string>
     <string name="download_list_intoAuthAlert">Només un segon…</string>
