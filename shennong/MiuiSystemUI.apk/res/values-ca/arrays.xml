@@ -23,6 +23,22 @@
         <item>Recordatori</item>
         <item>FloatAndKeyguard</item>
     </string-array>
+    <string-array name="data_type_name_default_value">
+        <item></item>
+        <item>G</item>
+        <item>E</item>
+        <item>3G</item>
+        <item>H</item>
+        <item>H+</item>
+        <item>4G</item>
+        <item>4G+</item>
+        <item></item>
+        <item>LTE</item>
+        <item>5G</item>
+        <item>5G</item>
+        <item>5G+</item>
+        <item>5GA</item>
+    </string-array>
     <string-array name="nav_bar_buttons">
         <item>Porta-retalls</item>
         <item>Codi de tecla</item>
