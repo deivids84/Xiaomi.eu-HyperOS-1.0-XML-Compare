@@ -110,6 +110,7 @@
     <string name="get_location">Accedir a la ubicació</string>
     <string name="gradienter_title">Nivell</string>
     <string name="guide_toast">Per calibrar, moveu el vostre dispositiu com es mostra a continuació.</string>
+    <string name="icp_info">ICP备案号：京ICP备10046444号-115A</string>
     <string name="invisible_mode_dialog_message">"No es pot utilitzar la càmera ara. Desactiveu el mode d'incògnit a Configuració per poder utilitzar la càmera."</string>
     <string name="invisible_mode_dialog_negative">Cancel·lar</string>
     <string name="invisible_mode_dialog_positive">Configuració</string>
