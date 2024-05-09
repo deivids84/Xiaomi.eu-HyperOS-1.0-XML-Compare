@@ -383,6 +383,8 @@
     <string name="miuix_indexer_collect">Col·leccions</string>
     <string name="miuix_indexer_selected">Seleccionat %s</string>
     <string name="miuix_item_view_role_description">Pestanya</string>
+    <string name="miuix_navigator_category_group_collapse">Col·lapse</string>
+    <string name="miuix_navigator_category_group_expand">Expandir</string>
     <string name="miuix_navigator_content_switch_description">Mostra la barra lateral</string>
     <string name="miuix_navigator_multiple_choice">Seleccionar</string>
     <string name="miuix_navigator_navigator_switch_description">Ocultar la barra lateral</string>
