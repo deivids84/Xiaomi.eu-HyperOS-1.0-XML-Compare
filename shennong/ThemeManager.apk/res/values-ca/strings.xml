@@ -809,7 +809,6 @@ Consultar i utilitzar els elements que heu comprat o afegits als preferits."</st
     <string name="personalize">Personalització</string>
     <string name="personalize_alarm_ringtone_title">Alarmes</string>
     <string name="personalize_aod_title">AOD</string>
-    <string name="personalize_aod_title_alternative">熄屏</string>
     <string name="personalize_call_ringtone_title">Tons de trucada</string>
     <string name="personalize_charge_style_title">Carregant</string>
     <string name="personalize_default_font">Tipus de lletra per defecte</string>
