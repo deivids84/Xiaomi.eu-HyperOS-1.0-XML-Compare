@@ -55,6 +55,7 @@
     <string name="ai_button_title">Botó AI</string>
     <string name="album_introduction">Podeu utilitzar aquesta aplicació per gestionar, editar i embellir fotos i vídeos.</string>
     <string name="am">AM</string>
+    <string name="app_battery_usage">"Per comprovar l'ús de la bateria de les aplicacions individuals"</string>
     <string name="app_name">Disposició</string>
     <string name="application_extension_service">Serveis d\'extensió d\'aplicacions</string>
     <string name="application_extension_service_introduction">Els serveis d\'extensió d\'aplicacions us proporcionaran funcions d\'inici de sessió i de verificació. Per oferir serveis bàsics, aquesta aplicació necessita els permisos següents:</string>
@@ -521,6 +522,8 @@ Podeu controlar aquesta funció des de Configuració &gt; Contrasenyes &amp; seg
     <string name="permission_write_device_store">Desa els elements a l\'emmagatzematge del dispositiu</string>
     <string name="permission_write_device_store_summary">Per a l’emmagatzematge en memòria cau dels fitxers de configuració d’origen que s’han baixat.</string>
     <string name="permission_xunlei_introduction">Per iniciar la sessió i gestionar els comptes del sistema per tal de proporcionar els serveis de Xunlei</string>
+    <string name="phone_introduction">Podeu utilitzar aquesta aplicació per trobar i neutralitzar virus, bloquejar trucades i missatges, optimitzar el rendiment dels jocs, estalviar bateria, així com gestionar aplicacions, permisos, ús de dades i molt més.</string>
+    <string name="phone_name_security">Seguretat</string>
     <string name="phone_service_introduction">La telefonia és un servei bàsic que permet al dispositiu fer trucades, enviar i rebre missatges i connectar-se a la xarxa.</string>
     <string name="pm">PM</string>
     <string name="poco_agree_terms_other">(Incloent-hi la Política de privadesa del llançador POCO i l\'Acord d\'usuari)</string>
@@ -528,6 +531,8 @@ Podeu controlar aquesta funció des de Configuració &gt; Contrasenyes &amp; seg
     <string name="poco_launcher_user_agreement">Acord d\'usuari del llançador POCO</string>
     <string name="position_header">Compartir informació d’ubicació</string>
     <string name="position_subheading">Informació sobre ubicació</string>
+    <string name="power_and_performance">Bateria i rendiment</string>
+    <string name="power_and_performance_introduction">Aquest servei ofereix una gestió bàsica de la bateria, estadístiques d\'ús, funcions d\'estalvi d\'energia i molt més.</string>
     <string name="pref_title_data_slot">Targeta SIM de dades preferida</string>
     <string name="pref_title_voice_slot">Targeta SIM de veu preferida</string>
     <string name="preference_copied">\"%1$s\" copiat al porta-retalls.</string>
@@ -570,7 +575,7 @@ Podeu controlar aquesta funció des de Configuració &gt; Contrasenyes &amp; seg
     <string name="saturday_shortest">ds.</string>
     <string name="screen_recording_introduction">"Aquesta aplicació us permet enregistrar el que passa a la pantalla."</string>
     <string name="search_menu_title">Cerca</string>
-    <string name="security_introduction">Podeu utilitzar aquesta aplicació per netejar la brossa del dispositiu, trobar i neutralitzar els virus, optimitzar el rendiment per a jocs, estalviar bateria, gestionar les aplicacions, permisos i molt més.</string>
+    <string name="security_introduction">Podeu utilitzar aquesta aplicació per trobar i neutralitzar virus, bloquejar trucades i missatges, optimitzar el rendiment dels jocs, estalviar bateria, així com gestionar aplicacions, permisos, ús de dades i molt més.</string>
     <string name="security_mobile_account_introduction">Per iniciar la sessió i gestionar els comptes del sistema</string>
     <string name="select_font_modele_tips">Sempre podeu seleccionar un tipus de lletra nou a Temes</string>
     <string name="send">Envia</string>
@@ -695,6 +700,7 @@ Podeu controlar aquesta funció des de Configuració &gt; Contrasenyes &amp; seg
     <string name="terms_of_use_label_use_location_and_network_global">Abans d\'utilitzar el sistema, heu de llegir i acceptar el nostre Acord d\'usuari i Política de privadesa. Protegirem la vostra informació personal d\'acord amb les lleis, regulacions i polítiques de privadesa pertinents. Quan el dispositiu estigui activat, els serveis següents es connectaran a la xarxa i accediran a la vostra ubicació:</string>
     <string name="terms_of_use_label_use_network_china">Abans d\'utilitzar el sistema, heu de llegir i acceptar el nostre Acord d\'usuari i Política de privadesa. Protegirem la vostra informació personal d\'acord amb les lleis, regulacions i polítiques de privadesa pertinents. Quan el dispositiu estigui activat, es connectaran a la xarxa els serveis següents:</string>
     <string name="terms_of_use_label_wallpaper">Fons de pantalla</string>
+    <string name="terms_of_use_label_webview">WebView del sistema Android</string>
     <string name="terms_of_use_lable_default_input_method_facemoji">"
 
 Heu d’acceptar la Política de privadesa de Facemoji abans d’utilitzar aquesta funció."</string>
