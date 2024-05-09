@@ -397,7 +397,6 @@
     <string name="contactsList">Contactes</string>
     <string name="contacts_default_notification_channel">Notificacions</string>
     <string name="contacts_hybrid_activity_label">Recupera els contactes</string>
-    <string name="contacts_information_ipc">ICP备案号：京ICP备10046444号-77A</string>
     <string name="contacts_trash_activity_hint">Seleccioneu els contactes per restaurar</string>
     <string name="contacts_trash_activity_title">Contactes suprimits recentment</string>
     <string name="contacts_trash_delete">Elimineu</string>
@@ -1307,7 +1306,6 @@ Trieu una de les següents opcions:"</string>
     <string name="wipe_data">Neteja les dades</string>
     <string name="yellowPageNavigationLabel">Pàgines grogues</string>
     <string name="yellowpage_address_tag">Adreça</string>
-    <string name="yellowpage_information_ipc">ICP备案号：京ICP备10046444号-37A</string>
     <string name="yellowpage_provider_label">El suport tècnic per al reconeixement d\'emissor de trucada o missatge és a càrrec de</string>
     <string name="yellowpage_search_the_yellowpage">Cerca a les pàgines grogues</string>
     <string name="yesterday">Ahir</string>
