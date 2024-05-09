@@ -16,19 +16,19 @@
         <item>Privacitat i interconnectivitat, Privacitat</item>
     </string-array>
     <string-array name="settings_search_connection_service">
-        <item>Serveis d\'interconnectivitat</item>
-        <item>Serveis d\'interconnectivitat/interconnectivitat</item>
-        <item>Serveis d\'interconnectivitat</item>
+        <item>Interconnectivitat Xiaomi</item>
+        <item>Interconnectivitat/Interconnectivitat de Xiaomi</item>
+        <item>Xiaomi Interconnectivity Services, Xiaomi Interconnectivity</item>
     </string-array>
     <string-array name="settings_search_relay_app">
         <item>Lliurament d\'aplicacions</item>
-        <item>Interconnectivitat/Traspàs d\'aplicacions</item>
+        <item>Interconnectivitat/Aplicacions</item>
         <item>Transferir aplicacions, traspàs i transferència</item>
     </string-array>
     <string-array name="settings_search_relay_call">
-        <item>Trucades</item>
-        <item>Interconnectivitat/Trucades</item>
-        <item>Trucades</item>
+        <item>Sincronització de trucades</item>
+        <item>Interconnectivitat/sincronització de trucades</item>
+        <item>Sincronització de trucades, trucades entre dispositius, transferència de trucades, trucades</item>
     </string-array>
     <string-array name="settings_search_relay_network">
         <item>Assistència en xarxa</item>
