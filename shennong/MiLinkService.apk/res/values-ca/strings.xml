@@ -34,7 +34,7 @@
     <string name="answering_tel1">Respondre a la tauleta…</string>
     <string name="answering_tel2">Transferit des del telèfon…</string>
     <string name="app_name">Emet</string>
-    <string name="app_name_vtcamera">MiShareDevice</string>
+    <string name="app_name_vtcamera">Càmera multidispositiu</string>
     <string name="appcirculate_alert_busy_negative">Cancel·lar</string>
     <string name="appcirculate_alert_busy_positive">Interrompre</string>
     <string name="appcirculate_alert_busy_text">Sembla que l\'altre dispositiu està transferint fitxers ara. Interrompre el trasllat per continuar?</string>
@@ -80,11 +80,16 @@ Els teus dispositius?"</string>
     <string name="bottomsheet_drag_handle_clicked">Arrossegar l\'identificador de doble toc</string>
     <string name="bottomsheet_drag_handle_content_description">Mànec d\'arrossegament</string>
     <string name="camera_associate_connecting">Connexió a la càmera</string>
+    <string name="camera_associate_disconnecting">S\'està desconnectant de la càmera del telèfon</string>
     <string name="camera_associate_failed">"No s'ha pogut connectar a la càmera"</string>
     <string name="camera_associate_success">Càmera connectada</string>
+    <string name="camera_choose_device">Seleccioneu el dispositiu</string>
     <string name="camera_connecting">"%s vol utilitzar la càmera d'aquest dispositiu"</string>
+    <string name="camera_connecting_device">S\'està connectant a %s</string>
     <string name="camera_disassociate">Desconnectat de la càmera</string>
+    <string name="camera_disconnecting_device">S\'està desconnectant de %s</string>
     <string name="camera_notify_string">CàmeraNotificació</string>
+    <string name="camera_title">S\'estan cercant els dispositius disponibles…</string>
     <string name="cancel_button">Cancel·lar</string>
     <string name="car_air_con_back_switch_close">Apagar l\'AC del seient posterior</string>
     <string name="car_air_con_back_switch_open">Activar l\'AC del seient posterior</string>
@@ -201,6 +206,7 @@ per reflectir la pantalla d'aquesta tauleta"</string>
     <string name="circulate_cta_app_name">Interconnectivitat Xiaomi</string>
     <string name="circulate_cta_desc_lite_phone">Els serveis d\'interconnectivitat de Xiaomi permeten als vostres dispositius interactuar entre ells sense fils. Per poder funcionar amb normalitat, aquests serveis necessiten connectar-se a Internet i requereixen els permisos següents:</string>
     <string name="circulate_cta_desc_phone">Els serveis d\'interconnectivitat de Xiaomi permeten als vostres dispositius interactuar entre ells sense fils. Per poder funcionar amb normalitat, aquests serveis necessiten connectar-se a Internet i requereixen els permisos següents:</string>
+    <string name="circulate_cta_desc_phone_global">Els serveis d\'interconnectivitat de Xiaomi permeten que els vostres dispositius interactuïn entre ells sense fils.</string>
     <string name="circulate_cta_exit">"No hi estic d'acord"</string>
     <string name="circulate_cta_premission_bluetooth_subtitle">Per connectar dispositius i transferir dades entre ells</string>
     <string name="circulate_cta_premission_get_installed_apps_subtitle">Per accedir a la llista d\'aplicacions instal·lades en un dispositiu mòbil i replicar la pantalla en ordinadors</string>
@@ -214,6 +220,7 @@ per reflectir la pantalla d'aquesta tauleta"</string>
     <string name="circulate_cta_premission_storage_title">Accedir i desar elements a l\'emmagatzematge</string>
     <string name="circulate_cta_premission_transferring_data_subtitle">Per transferir dades entre dispositius connectats</string>
     <string name="circulate_cta_premission_wlan_subtitle_china">Per transferir elements i connectar dispositius mitjançant Wi-Fi</string>
+    <string name="circulate_cta_title_global">Declaració de privacitat</string>
     <string name="circulate_device_type_name_mijia">Dispositius domèstics intel·ligents</string>
     <string name="circulate_device_type_name_pad">Pastilla</string>
     <string name="circulate_device_type_name_pc">Ordinador</string>
@@ -225,8 +232,8 @@ per reflectir la pantalla d'aquesta tauleta"</string>
 2. Manteniu premut el botó de la funda.
 3. Finalitzeu l'aparellament al dispositiu de destinació."</string>
     <string name="circulate_headset_back_to_box_desc_err_308">Per poder transferir la reproducció entre dispositius, primer vinculeu els auriculars al televisor.</string>
-    <string name="circulate_headset_back_to_box_desc_err_310">"1. Premeu el botó d'engegada del comandament del televisor per desconnectar els altaveus.
-2. Proveu de tornar a connectar els auriculars un cop la pantalla s'il·lumini."</string>
+    <string name="circulate_headset_back_to_box_desc_err_310">"%1$d. Premeu el botó d'engegada del comandament del televisor per desconnectar els altaveus.
+%2$d. Intenteu tornar a connectar els auriculars quan la pantalla s'il·lumini."</string>
     <string name="circulate_headset_back_to_box_desc_pad">"1. Poseu els dos auriculars a la caixa.
 2. Manteniu premut el botó de la funda.
 3. Finalitzeu l'aparellament a la configuració de Bluetooth o mitjançant un diàleg emergent en aquest dispositiu."</string>
@@ -344,6 +351,24 @@ Els teus dispositius?"</string>
     <string name="close_invisible_mode_dialog_message">"No puc utilitzar Mi Smart Play ara. Desactiveu el mode d'incògnit a la Configuració per poder utilitzar aquesta funció."</string>
     <string name="close_invisible_mode_dialog_ok">Configuració</string>
     <string name="close_invisible_mode_dialog_title">"Ets d'incògnit"</string>
+    <string name="common_google_play_services_enable_button">Activa</string>
+    <string name="common_google_play_services_enable_text">"%1$s no funcionarà tret que activeu els serveis de Google Play."</string>
+    <string name="common_google_play_services_enable_title">Activa els serveis de Google Play</string>
+    <string name="common_google_play_services_install_button">Instal·lar</string>
+    <string name="common_google_play_services_install_text">"%1$s no funcionarà sense els serveis de Google Play, que falten al dispositiu."</string>
+    <string name="common_google_play_services_install_title">Obteniu els serveis de Google Play</string>
+    <string name="common_google_play_services_notification_channel_name">Disponibilitat dels serveis de Google Play</string>
+    <string name="common_google_play_services_notification_ticker">Error dels serveis de Google Play</string>
+    <string name="common_google_play_services_unknown_issue">%1$s té problemes amb els serveis de Google Play. Siusplau torna-ho a provar.</string>
+    <string name="common_google_play_services_unsupported_text">"%1$s no funcionarà sense els serveis de Google Play, que no són compatibles amb el vostre dispositiu."</string>
+    <string name="common_google_play_services_update_button">Actualització</string>
+    <string name="common_google_play_services_update_text">"%1$s no s'executarà tret que actualitzeu els serveis de Google Play."</string>
+    <string name="common_google_play_services_update_title">Actualitza els serveis de Google Play</string>
+    <string name="common_google_play_services_updating_text">"%1$s no funcionarà sense els serveis de Google Play, que s'estan actualitzant."</string>
+    <string name="common_google_play_services_wear_update_text">Necessita una nova versió dels serveis de Google Play. En breu s\'actualitzarà.</string>
+    <string name="common_open_on_phone">Obre al telèfon</string>
+    <string name="common_signin_button_text">Inicia sessió</string>
+    <string name="common_signin_button_text_long">Inicieu la sessió amb Google</string>
     <string name="config_wifi_label_china">Xiaomi Conference Tapcast WLAN</string>
     <string name="config_wifi_label_global">Conferència Xiaomi Tapcast Wi-Fi</string>
     <string name="connect_device_fail">"No s'ha pogut connectar al dispositiu"</string>
@@ -358,7 +383,7 @@ Els teus dispositius?"</string>
     <string name="connect_settings_connect_privacy">Privacitat</string>
     <string name="connect_settings_connection_service">Interconnectivitat Xiaomi</string>
     <string name="connect_settings_corp_network">Assistència en xarxa</string>
-    <string name="connect_settings_corp_phone">Trucades</string>
+    <string name="connect_settings_corp_phone">Sincronització de trucades</string>
     <string name="connect_settings_hyper_mind">Hiperment</string>
     <string name="connect_settings_nfc_share">Transferir articles mitjançant NFC</string>
     <string name="connect_settings_not_opened">Apagat</string>
@@ -371,6 +396,7 @@ Els teus dispositius?"</string>
     <string name="connect_settings_summary"><Data>Descobriu automàticament els dispositius propers que han iniciat la sessió al vostre compte Xiaomi i connecteu-los entre ells per realitzar diverses tasques en diversos dispositius. &lt;a href=%1$s&gt;Aprèn més&lt;/a&gt;</Data></string>
     <string name="connect_settings_summary_connection_service">Permet que els teus dispositius interactuïn entre ells sense fil</string>
     <string name="connect_settings_summary_corp_phone">Respon trucades des de tauletes o ordinadors propers que hagin iniciat la sessió al teu compte Xiaomi</string>
+    <string name="connect_settings_summary_global"><Data>Descobriu dispositius propers amb la sessió iniciada al vostre compte Xiaomi i afegiu-los a Mi Smart Hub</Data></string>
     <string name="connect_settings_summary_hyper_mind">Aquesta funció aprèn els vostres patrons i els utilitza per controlar els vostres dispositius domèstics intel·ligents. Desenvolupat per Mi AI.</string>
     <string name="connect_settings_summary_relay_app">Continuar les tasques a la mateixa app en un altre dispositiu</string>
     <string name="connect_settings_summary_share_clipboard">Enganxeu text i imatges a altres dispositius dins %d minuts després de copiar-los en aquest dispositiu</string>
@@ -388,6 +414,7 @@ Els teus dispositius?"</string>
     <string name="controller_auth_cancel">Cancel·lar</string>
     <string name="controller_auth_title">Verifiqueu el comandament a distància</string>
     <string name="copy">Copia</string>
+    <string name="copy_toast_msg">S\'ha copiat l\'enllaç al porta-retalls</string>
     <string name="current_wifi_tv">Xarxa actual</string>
     <string name="date_picker_lunar">Calendari tradicional xinès</string>
     <string name="date_time_picker_dialog_title">Configura la data i l\'hora</string>
@@ -415,7 +442,9 @@ Els teus dispositius?"</string>
     <string name="dialog_miplay_permission_positive">Configuració</string>
     <string name="dialog_miplay_permission_title">Permisos requerits</string>
     <string name="dialog_nearbydevice_permission_message">Permet que aquest dispositiu accedeixi als dispositius propers per poder utilitzar les funcions d\'emissió.</string>
+    <string name="dialog_nearbydevice_permission_message_connectivity">"La funció d'interconnectivitat de Xiaomi que utilitzeu necessita permís per connectar-se als dispositius propers. Sense ell, aquesta funció no pot funcionar amb normalitat. Pots concedir aquest permís a Configuració."</string>
     <string name="dialog_nearbydevice_permission_title">Permisos requerits</string>
+    <string name="dialog_nearbydevice_permission_title_connectivity">Es requereixen permisos</string>
     <string name="dialog_nfc_cast_wifi_off">Turn on WLAN to be able to cast using NFC. Turn on now?</string>
     <string name="dialog_ok">D\'acord</string>
     <string name="dialog_only_suport_content">Emet fotos, vídeos o música</string>
@@ -461,6 +490,9 @@ Consulta l'ajuda si tens problemes per a connectar-t'hi."</string>
     <string name="evening">Tarda</string>
     <string name="expand_button_title">Opcions avançades</string>
     <string name="exposed_dropdown_menu_content_description">Mostra el menú desplegable</string>
+    <string name="fallback_menu_item_copy_link">Copia l\'enllaç</string>
+    <string name="fallback_menu_item_open_in_browser">Oberta al navegador</string>
+    <string name="fallback_menu_item_share_link">Compartir Enllaç</string>
     <string name="file_read_des">Per mostrar fotografies i altres fitxers en monitors externs</string>
     <string name="find_device_close">Ho tinc</string>
     <string name="find_device_notification_content_phone">%1$s està buscant aquest dispositiu utilitzant %2$s. Desbloqueja\'l per deixar de reproduir so.</string>
@@ -484,6 +516,10 @@ Consulta l'ajuda si tens problemes per a connectar-t'hi."</string>
     <string name="friday">divendres</string>
     <string name="friday_short">dv.</string>
     <string name="friday_shortest">dv.</string>
+    <string name="global_dialog_cancle">Cancel · lar</string>
+    <string name="global_dialog_miplay_permission_positive">Configuració</string>
+    <string name="global_dialog_nearbydevice_permission_message">Els serveis d\'interconnectivitat de Xiaomi necessiten permís per connectar-se als dispositius propers per descobrir-los. Doneu aquest permís a Configuració per poder utilitzar els serveis d\'interconnectivitat de Xiaomi amb normalitat.</string>
+    <string name="global_dialog_nearbydevice_permission_title">Es requereixen permisos</string>
     <string name="global_privacy">Termes i condicions</string>
     <string name="global_privacy_detail">&lt;Data&gt;Llegiu i accepteu el nostre &lt;a href=%1$s&gt;Acord d\'usuari&lt;/a&gt; i la &lt;a href=%2$s&gt;Política de privadesa&lt;/a&gt; abans d\'utilitzar aquesta aplicació.&lt;br&gt; Si no accepteu utilitzar els serveis esmentats, no podreu utilitzar algunes funcions d\'aquesta aplicació; tanmateix, la seva funcionalitat bàsica encara estarà disponible.&lt;/Data&gt;</string>
     <string name="global_privacy_explain">Benvingut a Emissió! Aquesta aplicació proporciona els serveis següents:</string>
@@ -503,6 +539,10 @@ Consulta l'ajuda si tens problemes per a connectar-t'hi."</string>
     <string name="head_toast_fail">"No s'ha pogut connectar"</string>
     <string name="head_toast_success">Connectat correctament</string>
     <string name="headset_content_description">Auriculars connectats a aquest dispositiu. Feu doble clic per activar-lo. Prem amb dos dits i arrossega per transferir la reproducció.</string>
+    <string name="help_page_question_1st_01_international">"%1$d. Quan el dispositiu al qual esteu emetent és un televisor Xiaomi, activeu-hi Miracast.
+%2$d. Quan el dispositiu al qual esteu emetent no és un televisor que no sigui Xiaomi, assegureu-vos que el televisor sigui compatible amb Miracast i que aquesta funció estigui activada. Aquesta funció pot tenir un nom diferent en alguns models de televisor, com ara la pantalla sense fil, la duplicació de pantalla o diverses pantalles."</string>
+    <string name="help_page_setp_1st_02_international">%1$d. Algunes marques de televisió poden tenir Miracast activat automàticament.</string>
+    <string name="help_page_step_1st_01_international">%1$d. Activa Miracast al teu televisor Xiaomi.</string>
     <string name="help_page_text_01">Ajuda</string>
     <string name="help_page_text_02">Què és emetre?</string>
     <string name="help_page_text_03">"Emetre és projectar els elements de la pantalla del telèfon a un monitor extern més gran. Et permet compartir imatges i vídeos amb els teus amics i familiars sense utilitzar dades mòbils."</string>
@@ -646,6 +686,7 @@ perquè Xiaomi HyperMind pugui aprendre i perfeccionar patrons"</string>
     <string name="keyguard_security_setting_privacy_policy">Política de privadesa</string>
     <string name="km_synergy_error">"Temps d'espera de la connexió. Assegura't que el Bluetooth i la Wi-Fi estiguin activats en tots dos dispositius i que estiguin dins de l'interval de connexió."</string>
     <string name="km_synergy_error_china">"Temps d'espera de la connexió. Assegura't que el Bluetooth i la Wi-Fi estiguin activats en tots dos dispositius i que estiguin dins de l'interval de connexió."</string>
+    <string name="local_camera_device">Aquest dispositiu</string>
     <string name="material_clock_toggle_content_description">Selecciona a. m. o p. m.</string>
     <string name="material_hour_24h_suffix">%1$s Hores</string>
     <string name="material_hour_selection">Seleccioneu l\'hora</string>
@@ -844,7 +885,7 @@ perquè Xiaomi HyperMind pugui aprendre i perfeccionar patrons"</string>
     <string name="onehop_mirror_guide_message_button">Ho tinc</string>
     <string name="onehop_mirror_guide_message_text_1">Emet la pantalla del telèfon a l\'ordinador amb un sol toc.</string>
     <string name="onehop_mirror_guide_message_text_2">Seleccioneu fotos, vídeos i altres fitxers de la Galeria o del Gestor de fitxers per transferir-los a l\'ordinador.</string>
-    <string name="onehop_mirror_guide_message_title">El meu Smart Hub</string>
+    <string name="onehop_mirror_guide_message_title">Interconnectivitat Xiaomi</string>
     <string name="open_game_accelerate">Activa l\'Accelerador de jocs</string>
     <string name="p2p_location_des">Per connectar el dispositiu mòbil a monitors externs</string>
     <string name="paipai_connect_btn_text">Fet</string>
@@ -1000,16 +1041,16 @@ Assegureu-vos que hàgiu activat Game Turbo abans d'emetre jocs."</string>
     <string name="searchview_clear_text_content_description">Text clar</string>
     <string name="searchview_navigation_content_description">Esquena</string>
     <string name="send">Envia</string>
-    <string name="server_activity_task_tips">Compartir el feed de la càmera amb %s</string>
+    <string name="server_activity_task_tips">%sestà utilitzant la càmera</string>
     <string name="server_camera_disconnected">Desconnectat de l\'altre dispositiu a causa d\'un error</string>
     <string name="server_camera_occupied">La càmera està ocupada. Espereu un minut o dos i torneu-ho a provar.</string>
     <string name="server_toast_camera_prepare">Preparació per compartir el feed de la càmera…</string>
     <string name="set_negative_button">Configuració</string>
-    <string name="settings_cross_notify">Notificacions en altres dispositius</string>
+    <string name="settings_cross_notify">Notificacions entre dispositius</string>
     <string name="settings_cross_notify_app">Notificacions d\'aplicacions</string>
     <string name="settings_cross_notify_hidden">Amagar el contingut de les notificacions</string>
     <string name="settings_cross_notify_hidden_tips">Mostra notificacions en altres dispositius amb contingut ocult i toca per mostrar-les</string>
-    <string name="settings_cross_notify_manager">Notificacions en dispositius connectats</string>
+    <string name="settings_cross_notify_manager">Notificacions entre dispositius</string>
     <string name="settings_cross_notify_power">Bateria baixa</string>
     <string name="settings_cross_notify_system">Notificacions del sistema</string>
     <string name="settings_cross_notify_tips">Mostrar notificacions en tauletes o ordinadors propers que s\'utilitzen quan aquest dispositiu està bloquejat</string>
@@ -1147,5 +1188,6 @@ Assegureu-vos que hàgiu activat Game Turbo abans d'emetre jocs."</string>
     <string name="wifi_scan_btn_text">Escaneja de nou</string>
     <string name="wifi_username_et_hint">ID del Compte</string>
     <string name="window_card_ml_find_null">És possible que aquest dispositiu no estigui a prop</string>
+    <string name="window_card_ml_find_null_camera">"No s'ha pogut trobar la càmera ni el dispositiu utilitzable a prop"</string>
     <string name="yesterday">Ahir</string>
 </resources>
