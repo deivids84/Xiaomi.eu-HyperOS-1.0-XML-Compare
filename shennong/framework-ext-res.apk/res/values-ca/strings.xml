@@ -176,7 +176,7 @@
     <string name="freeform_exchange_tip">Allibera per obrir l\'aplicació</string>
     <string name="freeform_exchange_tip2">Arrossega fins a la cantonada per cancel·lar</string>
     <string name="freeform_exchange_tip3">Obre la finestra flotant en mode de pantalla completa</string>
-    <string name="freeform_guide_tip_dock">Desconegut</string>
+    <string name="freeform_guide_tip_dock">Arrossega una aplicació al centre de la pantalla per obrir-la en una finestra flotant</string>
     <string name="freeform_guide_tip_dock_browser">Dispositiu desconegut</string>
     <string name="freeform_guide_tip_dock_email">No es poden obrir més finestres flotants</string>
     <string name="freeform_guide_tip_dock_note">ERROR D\'AUTENTICACIÓ -29-</string>
